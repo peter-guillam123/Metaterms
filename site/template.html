@@ -229,26 +229,25 @@ footer .wrap { padding-block: 20px 32px; font-size: var(--s-1); color: var(--ink
 <template id="about-tpl">
   <article class="prose">
     <h1>About Metaterms</h1>
-    <p>Metaterms tracks changes to 32 of Meta's terms, policies and guidelines. For each page it takes one copy a month from the Internet Archive's Wayback Machine, from November 2024 to November 2026, turns each copy into plain text and compares it with the month before. Every difference in the wording is listed on the Changes page, with the old and new text side by side and links to the archived copies.</p>
-    <p>It is a test. The question was whether this can be done well enough to be worth building a tool that checks the pages every month and flags anything new.</p>
+    <p>Metaterms tracks changes to 32 of Meta's terms, policies and guidelines. For each page it takes one copy a month from the Internet Archive's Wayback Machine, from November 2024 to November 2026, turns each copy into plain text and compares it with the copy before. Every difference in the wording is listed on the Changes page, with the old and new text marked up and links to the archived copies, so you can check any of it yourself.</p>
+    <p>It is a test. The question is whether this works well enough to be worth building a tool that checks the pages every month and flags anything new.</p>
 
     <h2>How it works</h2>
     <ul>
-      <li>A script asks the Wayback Machine which copies of each page it holds, and picks the one nearest the middle of each month.</li>
-      <li>It checks every third month first. Where two checks differ, it fetches the months between to find when the change happened, then fills in the rest.</li>
+      <li>A script asks the Wayback Machine which copies of each page it holds. For each month it tries the largest copy first, since the real document is bigger than the error pages that sometimes get archived instead.</li>
+      <li>It checks the newest copy, the oldest and every third month between. Where two checks differ, it fetches the months between to find when the change happened, then fills in the rest.</li>
       <li>It strips out menus, footers and code, and tidies quote marks, dashes and spacing so they don't count as changes.</li>
-      <li>A comparison finds the paragraphs that were added, removed or reworded, and the words that changed inside them.</li>
-      <li>Claude, an AI model, read each set of changes and wrote the short summary at the top of each card. The redline below each summary is the source; the summary is a guide to it.</li>
-      <li>The fetching runs on GitHub Actions, and the code and data are in the <a href="https://github.com/peter-guillam123/Metaterms">Metaterms repository</a>.</li>
+      <li>The comparison lines up the two versions sentence by sentence, then marks the words that changed. A change's size counts the words added and removed in the running text, so moving text into a list or under a new heading doesn't count.</li>
+      <li>Claude, an AI model, read each set of changes and wrote the short summary on each card. The marked-up wording below each summary is the evidence. Check it before relying on the summary.</li>
+      <li>The fetching runs on GitHub Actions. The code and the data are in the <a href="https://github.com/peter-guillam123/Metaterms">Metaterms repository</a>.</li>
     </ul>
 
     <h2>What it can't tell you</h2>
     <ul>
       <li>The Wayback Machine doesn't copy every page every month. A grey dash on the map means there was no copy that month. A change found after a gap could have happened at any point in the gap.</li>
+      <li>Facebook often shows the archive's crawler a login page, a "browser not supported" page or a page in another language instead of the document. These copies are left out and marked as unusable on the map. For some Facebook pages that leaves only one or two usable copies in two years.</li>
+      <li>The archive's crawlers mostly run from the US, so most copies show what Meta serves there. People in the UK and EU see different versions of some pages, the main Terms of Service among them. Copies in other languages are left out, so European versions only appear when the crawler happened to get one in English.</li>
       <li>A change made and reversed between two copies won't show up.</li>
-      <li>The archive's crawlers mostly run from the US, so the copies show what Meta serves there. On some pages, people in the UK and EU see different terms.</li>
-      <li>Some copies turned out not to be the document at all, such as a login page or an error. These are marked on the map and left out of the comparison.</li>
-      <li>Big rewrites and pages that were reorganised can show as long runs of removed and added text, even where much of the meaning stayed the same.</li>
       <li>The size labels count changed words: minor is under 25, moderate under 250, major 250 or more. A one-word change can matter more than a major one.</li>
     </ul>
 
@@ -269,7 +268,7 @@ const DIARY = [
     date: "6 November 2026",
     milestone: true,
     title: "First look",
-    text: "A colleague in public policy keeps a spreadsheet of Meta's terms and policies, and we wanted to know how often they really change. I asked Claude to pull two years of monthly copies from the Wayback Machine and compare them. The cloud sandbox it works in couldn't reach the archive, so the fetching runs as a GitHub Action instead, which is roughly how a monthly checker would work anyway. The archive's index server is slow and turns you away if you push it, which cost us the first hour and taught us to ask it fewer, politer questions."
+    text: "A colleague in public policy keeps a spreadsheet of the Meta terms and policies that matter to us. Tech companies change these often and rarely announce it, so we wanted to know how often they really change, and how. I asked Claude to collect a copy of each page for every month of the past two years from the Wayback Machine and compare them word by word. It took most of an afternoon. The cloud sandbox Claude works in couldn't reach the archive, so the collecting runs as a GitHub Action instead, which is roughly how a monthly checker would have to work anyway. The archive refused our connections until Claude learned to keep one open instead of opening a new one for each page, and Facebook turned out to show the archive's crawler a login page or a 'browser not supported' page about as often as the terms themselves. Instagram keeps its Terms of Use inside the page's code rather than on the page. All of which is useful to know before building the real thing."
   }
 ];
 
@@ -469,7 +468,7 @@ function viewDoc(slug) {
       <dt>Product</dt><dd>${esc(d.product)}</dd>
       <dt>Address</dt><dd><a href="${esc(d.url)}">${esc(d.url)}</a></dd>
       ${moved.length ? `<dt>Now redirects to</dt><dd>${moved.map(u => `<a href="${esc(u)}">${esc(u)}</a>`).join("<br>")}</dd>` : ""}
-      <dt>Months checked</dt><dd class="data">${d.checked_months} of ${months.length}</dd>
+      <dt>Months checked</dt><dd><span class="data">${d.checked_months} of ${months.length}</span>${d.unusable_months ? ` · ${d.unusable_months} more had only unusable copies (a login page, a "browser not supported" page or another language)` : ""}</dd>
       <dt>Versions found</dt><dd class="data">${d.versions}</dd>
       ${latest && latest.page_dates.length ? `<dt>Page says</dt><dd>Last updated ${esc(latest.page_dates[0])}</dd>` : ""}
       ${latest ? `<dt>Latest copy</dt><dd><a href="${esc(wb(latest.timestamp, latest.original))}">${day(latest.timestamp)}</a></dd>` : ""}
@@ -480,7 +479,7 @@ function viewDoc(slug) {
   <section aria-labelledby="dh">
     <div class="sec-head"><h2 id="dh">${list.length ? `${list.length} change${list.length > 1 ? "s" : ""}, newest first` : "No changes found"}</h2></div>
     <div class="feed">${list.length ? list.map(c => changeCard(c, { open: true, showDoc: false })).join("")
-      : `<p class="empty">${d.checked_months ? `The wording was the same in every copy we checked.` : `The Wayback Machine had no usable copies of this page in the period.`}</p>`}</div>
+      : `<p class="empty">${d.checked_months > 1 ? `The wording was the same in every copy we checked.` : d.checked_months === 1 ? `Only one usable copy, so there is nothing to compare it with.` : `The Wayback Machine had no usable copies of this page in the period.`}</p>`}</div>
   </section>`;
 }
 
