@@ -20,7 +20,7 @@ _last = [0.0]
 # Seconds between requests. The index (CDX) server refuses connections if
 # pushed, so it gets a wider gap than ordinary page fetches.
 GAP_CDX = 5.0
-GAP_PAGE = 2.0
+GAP_PAGE = 5.0
 
 
 def _wait_turn(url):
@@ -55,7 +55,7 @@ def out_of_time():
     return DEADLINE[0] is not None and time.monotonic() > DEADLINE[0]
 
 
-def get(url, follow=True, tries=4, timeout=45):
+def get(url, follow=True, tries=3, timeout=30):
     """Return (status, headers, body bytes, final url)."""
     opener = _follow if follow else _nofollow
     delay = 15
@@ -81,10 +81,10 @@ def get(url, follow=True, tries=4, timeout=45):
                 delay = min(delay * 2, 120)
                 continue
             return e.code, dict(e.headers), b"", url
-        except Exception as e:  # timeouts, resets
+        except Exception as e:  # timeouts, resets: usually the archive
+            # asking us to slow down, so give it a full minute.
             log(f"{time.monotonic() - t0:5.1f}s {type(e).__name__} ({str(e)[:80]}) {url}")
-            time.sleep(delay)
-            delay = min(delay * 2, 120)
+            time.sleep(60)
     return None, {}, b"", url
 
 

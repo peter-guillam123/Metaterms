@@ -21,7 +21,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 200
     steps:
       - uses: actions/checkout@v4
 
@@ -42,12 +42,15 @@ jobs:
             "https://web.archive.org/cdx/search/cdx?url=facebook.com/legal/commercial_terms&limit=1" || true
 
       - name: Fetch
-        # Stops starting new work after BUDGET_MINUTES; partial results are
-        # kept and the next run carries on from them.
-        timeout-minutes: 40
+        # Stops starting new work after BUDGET_MINUTES and pushes progress
+        # every 10 minutes; the next run carries on from what's saved.
+        timeout-minutes: 185
         env:
-          BUDGET_MINUTES: "25"
+          BUDGET_MINUTES: "170"
+          CHECKPOINT: "1"
         run: |
+          git config user.name "metaterms-bot"
+          git config user.email "metaterms-bot@users.noreply.github.com"
           mkdir -p raw
           pip install -q -r fetch/requirements.txt
           python fetch/run.py "$(cat fetch/job.txt)"

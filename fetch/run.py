@@ -32,6 +32,7 @@ TEXT = os.path.join(DATA, "text")
 RAW = os.path.join(ROOT, "raw")
 SAMPLES = os.path.join(ROOT, "samples")
 
+STARTED = [time.monotonic()]
 FIRST_MONTH = (2024, 11)
 LAST_MONTH = (2026, 11)
 
@@ -119,6 +120,14 @@ def pick_month_captures(idx):
     cover = {}
     for u, caps in idx["urls"].items():
         good = [c for c in caps if c["statuscode"] == "200" and "html" in c.get("mimetype", "html")]
+        # Skip copies far smaller than usual: these are mostly "browser not
+        # supported" or login pages served to the archive's crawler.
+        good = [c for c in good if not c.get("length", "-").isdigit() or int(c["length"]) >= 4000]
+        sizes = sorted(int(c["length"]) for c in good if c.get("length", "-").isdigit())
+        typical = sizes[len(sizes) // 2] if sizes else 0
+        for c in good:
+            n = int(c["length"]) if c.get("length", "-").isdigit() else typical
+            c["_small"] = n < 0.25 * typical
         cover[url_key(u)] = len({c["timestamp"][:6] for c in good})
         pool.extend(good)
     rank = {k: i for i, k in enumerate(sorted(cover, key=lambda k: -cover[k]))}
@@ -128,9 +137,10 @@ def pick_month_captures(idx):
         if not cands:
             continue
         mid = int(mon + "15120000")
-        cands.sort(key=lambda c: (rank.get(url_key(c["original"]), 9),
+        cands.sort(key=lambda c: (rank.get(url_key(c["original"]), 9), c.get("_small", False),
                                   abs(int(c["timestamp"]) - mid)))
-        picks[mon] = cands[0]
+        clean = [{k: v for k, v in c.items() if not k.startswith("_")} for c in cands[:3]]
+        picks[mon] = dict(clean[0], alts=clean[1:])
     return picks
 
 
@@ -143,13 +153,16 @@ def raw_path(slug, ts):
 def fetch_raw(slug, cap):
     p = raw_path(slug, cap["timestamp"])
     if os.path.exists(p):
+        from decode import decode_body
         with gzip.open(p, "rb") as f:
-            return f.read()
+            return decode_body(f.read())
     if wayback.out_of_time():
         return None
     status, _, body, final = wayback.get(wayback.snapshot_url(cap["timestamp"], cap["original"]))
     if status != 200 or not body:
         return None
+    from decode import decode_body
+    body = decode_body(body)
     os.makedirs(os.path.dirname(p), exist_ok=True)
     with gzip.open(p, "wb") as f:
         f.write(body)
@@ -180,17 +193,25 @@ def save_caps(caps):
     write_json(os.path.join(CAPS, f"{caps['slug']}.json"), caps)
 
 
-def fetch_month(doc, caps, mon, cap):
-    body = fetch_raw(doc["slug"], cap)
-    entry = {"timestamp": cap["timestamp"], "original": cap["original"], "digest": cap["digest"]}
-    if body is None:
-        if wayback.out_of_time():
+MIN_CHARS = 800  # less than this is a login wall or "browser not supported"
+
+
+def fetch_month(doc, caps, mon, pick):
+    """Fetch the month's best copy; if it isn't the document, try the
+    month's next-best copies. Returns False only if we ran out of time."""
+    entry = None
+    for cap in [pick] + pick.get("alts", []):
+        body = fetch_raw(doc["slug"], cap)
+        if body is None and wayback.out_of_time():
             return False
-        entry["error"] = "fetch failed"
-    else:
+        entry = {"timestamp": cap["timestamp"], "original": cap["original"], "digest": cap["digest"]}
+        if body is None:
+            entry["error"] = "fetch failed"
+            continue
         h, n = to_text(doc["slug"], body)
-        entry["text_hash"] = h
-        entry["chars"] = n
+        entry["text_hash"], entry["chars"] = h, n
+        if n >= MIN_CHARS:
+            break
     caps["months"][mon] = entry
     save_caps(caps)
     return True
@@ -204,7 +225,7 @@ def next_needed(picks, caps):
     done = caps["months"]
 
     def fetched(m):
-        return m in done and done[m].get("timestamp") == picks[m]["timestamp"]
+        return m in done
 
     # Pass 1: first, last, and every third month.
     coarse = avail[::3] + [avail[-1]]
@@ -212,7 +233,7 @@ def next_needed(picks, caps):
         if not fetched(m):
             return m
     # Pass 2: between two fetched months whose text differs, fetch the middle.
-    have = [m for m in avail if fetched(m) and done[m].get("text_hash")]
+    have = [m for m in avail if fetched(m) and done[m].get("chars", 0) >= MIN_CHARS]
     for a, b in zip(have, have[1:]):
         if done[a]["text_hash"] != done[b]["text_hash"]:
             between = [m for m in avail if a < m < b and not fetched(m)]
@@ -234,6 +255,7 @@ def full():
             plan.append((doc, pick_month_captures(idx)))
     # Round-robin across pages so every page gets its coarse pass early.
     progress = True
+    last_push = time.monotonic()
     while progress and not wayback.out_of_time():
         progress = False
         for doc, picks in plan:
@@ -245,6 +267,48 @@ def full():
                 continue
             if fetch_month(doc, caps, m, picks[m]):
                 progress = True
+                save_sample(doc["slug"], picks, m)
+            if time.monotonic() - last_push > 600:
+                write_status(plan)
+                checkpoint("full (in progress)")
+                last_push = time.monotonic()
+    write_status(plan)
+
+
+def save_sample(slug, picks, mon):
+    """Keep the newest copy of each page in the repo, for checking the
+    text extraction by eye."""
+    if mon != max(picks):
+        return
+    src = raw_path(slug, load_caps({"slug": slug, "title": "", "product": "", "url": ""})["months"][mon]["timestamp"])
+    out = os.path.join(SAMPLES, f"{slug}.late.html.gz")
+    if os.path.exists(src):
+        os.makedirs(SAMPLES, exist_ok=True)
+        with open(src, "rb") as a, open(out, "wb") as b:
+            b.write(a.read())
+
+
+def checkpoint(msg):
+    """Commit and push what we have so far, so progress shows on GitHub."""
+    if os.environ.get("CHECKPOINT") != "1":
+        return
+    import subprocess
+    write_log("full", STARTED[0])
+    cmds = [
+        ["git", "add", "data", "samples"],
+        ["git", "commit", "-q", "-m", f"Fetch results: {msg}"],
+        ["git", "pull", "-q", "--rebase", "origin", os.environ.get("GITHUB_REF_NAME", "HEAD")],
+        ["git", "push", "-q", "origin", f"HEAD:{os.environ.get('GITHUB_REF_NAME', 'HEAD')}"],
+    ]
+    for c in cmds:
+        r = subprocess.run(c, cwd=ROOT, capture_output=True, text=True)
+        if r.returncode and c[1] != "commit":
+            wayback.log(f"checkpoint: {' '.join(c[:2])} failed: {r.stderr.strip()[:200]}")
+            return
+    wayback.log("checkpoint pushed")
+
+
+def write_status(plan):
     summary = {}
     for doc, picks in plan:
         caps = load_caps(doc)
@@ -257,7 +321,7 @@ def full():
         }
     write_json(os.path.join(DATA, "status.json"), summary)
     left = [s for s, v in summary.items() if not v["complete"]]
-    wayback.log(f"pages still to finish: {len(left)} {left}")
+    wayback.log(f"pages still to finish: {len(left)}")
 
 
 def reextract():
@@ -305,6 +369,7 @@ if __name__ == "__main__":
     mode = sys.argv[1] if len(sys.argv) > 1 else "probe"
     budget = float(os.environ.get("BUDGET_MINUTES", "20"))
     started = time.monotonic()
+    STARTED[0] = started
     wayback.DEADLINE[0] = started + budget * 60
     try:
         {"probe": probe, "full": full, "reextract": reextract}[mode]()
