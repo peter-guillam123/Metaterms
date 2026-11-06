@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241203004224",
+   "original": "https://help.instagram.com/313829416281232/",
+   "digest": "STHCCWDV5TCMF5EABYYIMW4VT4Z63NWN",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
   "202501": {
    "timestamp": "20250120115552",
    "original": "https://help.instagram.com/313829416281232",
@@ -28,6 +37,15 @@
    "digest": "YWFIYQ6XQIPK5ENGFZPRYZSICZDPXSYS",
    "text_hash": "857509b894f9",
    "chars": 6977,
+   "usable": true,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250429234501",
+   "original": "https://help.instagram.com/313829416281232/",
+   "digest": "RS2NT3KX4466XSFEADGY573NTJ3NLKZ2",
+   "text_hash": "dcfa430c3d5f",
+   "chars": 6792,
    "usable": true,
    "extractor": 3
   },

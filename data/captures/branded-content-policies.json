@@ -67,6 +67,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202510": {
+   "timestamp": "20251027093603",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "BPL4M5HOSDFJWNVKLMK2PITFYI3FLC75",
+   "text_hash": "8b2089fb88f3",
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260205030816",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "3PY3IU4VYXHJOBM7AK6S6FADAB27KBY5",
+   "text_hash": "dc4e53e826fe",
+   "chars": 9326,
+   "usable": false,
+   "extractor": 3
+  },
   "202603": {
    "timestamp": "20260323222945",
    "original": "https://www.facebook.com/business/help/221149188908254",

@@ -58,6 +58,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202605": {
+   "timestamp": "20260528152141",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "PYXWWHALHLZQVGGWACX7YTSTQZN5X7KB",
+   "text_hash": "9017216b4266",
+   "chars": 35811,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260830100453",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "Y4HF55LHBOOBG7BRNBQ5Z6JLDX6DTT4K",
+   "text_hash": "b065af5c5942",
+   "chars": 35586,
+   "usable": true,
+   "extractor": 3
+  },
   "202611": {
    "timestamp": "20261101045258",
    "original": "https://transparency.meta.com/policies/ad-standards/",

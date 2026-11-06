@@ -22,6 +22,15 @@
    "usable": false,
    "extractor": 3
   },
+  "202503": {
+   "timestamp": "20250315185132",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "I6IS2LCKAGUIIRI3EI5WYSIBT2K45MPM",
+   "text_hash": "019b06dd03a7",
+   "chars": 32245,
+   "usable": true,
+   "extractor": 3
+  },
   "202505": {
    "timestamp": "20250525113943",
    "original": "https://www.facebook.com/terms/",
@@ -29,6 +38,15 @@
    "text_hash": "92d451af870b",
    "chars": 49042,
    "usable": false,
+   "extractor": 3
+  },
+  "202506": {
+   "timestamp": "20250619153447",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "NQDQ7ZXJ5OLLGFU353GY3O4WLEPAO4FT",
+   "text_hash": "019b06dd03a7",
+   "chars": 32245,
+   "usable": true,
    "extractor": 3
   },
   "202508": {
@@ -62,6 +80,15 @@
    "timestamp": "20260516000939",
    "original": "https://www.facebook.com/terms/",
    "digest": "U2CLHTCG2ZERJLEP36SSHIGQQYNMX4KH",
+   "text_hash": "646fe27dc1b0",
+   "chars": 39245,
+   "usable": false,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260820040754",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "OC4RWXN5SQAIOKROVWPDC7JP7E26ASHG",
    "text_hash": "646fe27dc1b0",
    "chars": 39245,
    "usable": false,

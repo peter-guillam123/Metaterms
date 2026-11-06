@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241224191822",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "OPVURS5VTQXSDY257ZUHKHE2NKNQCKF5",
+   "text_hash": "7a376abcc5ed",
+   "chars": 13563,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250107042833",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "6WLDWVS2242VSNCRQKNP7XCJ7R6DJAV6",
+   "text_hash": "7a376abcc5ed",
+   "chars": 13563,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250216145228",
    "original": "https://www.facebook.com/legal/ai-terms",
@@ -62,6 +80,15 @@
    "timestamp": "20260718180810",
    "original": "https://www.facebook.com/legal/ai-terms",
    "digest": "FPGG2G2PVSRMKAGRKD3DNPH4GRLAPDPC",
+   "text_hash": "4c11a71ade6f",
+   "chars": 14275,
+   "usable": true,
+   "extractor": 3
+  },
+  "202610": {
+   "timestamp": "20261008021827",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "K2UYAYLHQK37JWELL722SQRM2HK6RGKZ",
    "text_hash": "4c11a71ade6f",
    "chars": 14275,
    "usable": true,

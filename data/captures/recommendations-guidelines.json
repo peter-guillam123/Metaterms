@@ -67,11 +67,38 @@
    "usable": true,
    "extractor": 3
   },
+  "202512": {
+   "timestamp": "20251230223523",
+   "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+   "digest": "UTOG26B6URM3UWZEPF4H4EPW3ENJWRBH",
+   "text_hash": "3445f1e35926",
+   "chars": 2103,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260126175429",
+   "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+   "digest": "HXDXI2ZKBYU3XT24S3VVNLRM3C5IHMEZ",
+   "text_hash": "fabac61151fb",
+   "chars": 2144,
+   "usable": true,
+   "extractor": 3
+  },
   "202602": {
    "timestamp": "20260210035205",
    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
    "digest": "EMTCBLQ6Z5HE5IUZWZGPAORQHWGAXC5Q",
    "text_hash": "46d92c4c5712",
+   "chars": 2058,
+   "usable": true,
+   "extractor": 3
+  },
+  "202606": {
+   "timestamp": "20260612183200",
+   "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+   "digest": "4BRRN5OMKOW2WJAIHBMVQLAYNV64ZMZC",
+   "text_hash": "7c4bce38a4e0",
    "chars": 2058,
    "usable": true,
    "extractor": 3

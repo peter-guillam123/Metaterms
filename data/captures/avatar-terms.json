@@ -22,6 +22,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202503": {
+   "timestamp": "20250309231124",
+   "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+   "digest": "UXZSIBQDPI3BPGMZJNI52SR6FDCOXI56",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
   "202505": {
    "timestamp": "20250513015444",
    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
@@ -35,6 +44,15 @@
    "timestamp": "20250619153631",
    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
    "digest": "AXMJEKITUKYBAUPJTADCPCHYJCZXEJNH",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
+  "202507": {
+   "timestamp": "20250726125817",
+   "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+   "digest": "OK2QHPEAMTGCFQAFW4SPJH2S6JTPM2SH",
    "text_hash": "adc83b19e793",
    "chars": 1,
    "usable": false,

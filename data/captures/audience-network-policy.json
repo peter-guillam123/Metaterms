@@ -94,6 +94,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202607": {
+   "timestamp": "20260710115759",
+   "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",
+   "digest": "2I7XHQXW23LMLQYTLHOYDEPF53ZAV4A3",
+   "text_hash": "592c41015dc4",
+   "chars": 14701,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260915202126",
+   "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",
+   "digest": "KVUCBR6LMVRZPHL2AA3KBOFWMBOTQTE7",
+   "text_hash": "592c41015dc4",
+   "chars": 14701,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261010074347",
    "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",

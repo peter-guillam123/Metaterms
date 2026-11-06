@@ -1,0 +1,263 @@
+Yhteisön maksuehdot
+
+Päivitetty viimeksi: 7. tammikuuta 2026
+
+Jos olet alle 18-vuotias tai alaikäinen siinä osavaltiossa tai maassa, jossa asut, voit käyttää maksuominaisuuksia Meta-tuotteiden kautta ainoastaan yhdessä vanhemman tai huoltajan kanssa. Lue nämä maksuehdot yhdessä vanhempasi tai huoltajasi kanssa, jotta te molemmat ymmärrätte kaikki kummankin osapuolen oikeudet ja velvollisuudet.
+
+Osioiden otsikot on tarkoitettu vain käyttäjäkokemuksen parantamiseksi, mutta oletamme, että luet huolellisesti kaikki yhteisön maksuehdot ("Maksuehdot"), jotta ymmärrät sekä sinua että meitä koskevat oikeudet ja velvollisuudet.
+
+Käytetyillä termeillä, joita ei ole määritelty tässä, on käyttöehdoissamme ("Käyttöehdot") niille annetut merkitykset.
+
+Kun hyväksyt nämä maksuehdot ja toimit yrityksenä, vakuutat ja takaat, että a) sinulla on valtuudet harjoittaa liiketoimintaa maassa tai maissa, joissa toimit, b) Meta-tuotteiden kautta maksupalveluja käyttävät työntekijäsi, toimihenkilösi tai edustajasi ovat saaneet asianmukaiset valtuudet ja voivat sitoa sinut laillisesti näihin maksuehtoihin ja kaikkiin käyttäjätunnuksellasi ja salasanallasi tehtyihin maksutapahtumiin, ja c) Meta-tuotteiden pääsylläsi ja/tai käytölläsi on liiketoiminnallisia tai kaupallisia tarkoituksia, ei henkilökohtaisia tai perheeseen tai kotiin liittyviä tarkoituksia.
+
+Kun suoritat maksuja tai tallennat maksuvälineen Meta-tuotteiden kautta, hyväksyt, että voimme lähettää sinulle sähköisesti kaikki tärkeät maksuja, tapahtumia tai tiliäsi koskevat tiedot.
+
+Taloudellisten tietojesi yksityisyyden suojeleminen on meille tärkeää. Tutustu soveltuvien palvelujen osalta Meta Platforms Inc:n tietosuojakäytäntöön (https://www.facebook.com/about/privacy), Meta Payments Inc:n tietosuojakäytäntöön sekä Facebook Payments International Limitedin tietosuojakäytäntöön saadaksesi lisätietoja siitä, mitä tietoja jaamme, mitä emme jaa ja kuinka pidämme tietosi turvassa.
+
+I. Maksujen maksaminen
+
+- Maksutapahtumat Kun teet maksun tai tallennat maksuvälineen Meta-tuotteiden kautta, hyväksyt, että nämä maksuehdot sitovat sinua ja että tarjoat kelvollisen maksuvälineen. Kun olet lisännyt maksuvälineesi tilillesi (katso lauseke II alla), sallimme sinun aloittaa maksutapahtuman Meta-tuotteiden maksuominaisuuksia käyttäen. Selvennyksenä, maksuvälineitä ovat luottokortti, pankkikortti, pankkitilin numero ja muut maksutavat, jotka sallivat elektroniset rahansiirrot, veloitukset ja luotot, kuten Meta nimenomaisesti on sallinut aika ajoin.
+
+- Hinnoittelu Kiinnitä huomiota maksutapahtuman kokonaishintaan, sillä se voi sisältää veroja, maksuja ja toimituskuluja, jotka sinun pitää maksaa. Olet vastuussa siitä, että annat meille oikeita ja tarkkoja tietoja sinusta ja yrityksestäsi veroja ja lainsäädännön noudattamista varten. Saatamme hankia tietoja sinusta/yrityksestäsi kolmansilta osapuolilta veroja ja lainsäädännön noudattamista varten.
+
+- Lisäehdot Sinulle voidaan esittää lisäehtoja, ennen kuin vahvistat maksutapahtuman (esimerkiksi tavaroiden toimitusehdot). Kun jatkat maksutapahtumaa tai vahvistat sen, hyväksyt sen, että nämä lisäehdot koskevat myös kyseistä maksutapahtumaa.
+
+- Valuutanvaihto Jos maksu edellyttää valuutanvaihtoa, käytämme yhden tai useamman ulkoisen alihankkijan tarjoamia uusimpia valuutanvaihtokursseja. Pyrimme lataamaan järjestelmäämme voimassa olevat vaihtokurssit sisältävät tiedostot alihankkijoiltamme päivittäin. Nämä prosessit saattavat kuitenkin viivästyä tai epäonnistua eri syistä. Jos näin käy, käytössä ovat viimeisen vastaanotetun tiedoston valuutanvaihtokurssit, ne ovat tyypillisesti silloin edellisen päivän vaihtokursseja.
+
+- Tilaukset Jos ostat automaattisesti toistuvan säännöllisen tilauksen meiltä, valtuutat meidät laskuttamaan sen maksuvälineeltäsi välittömästi ja sen jälkeen aina uuden tilausjakson alkaessa sovellettavien tilausehtojen mukaisesti, kunnes peruutat tilauksesi. Peruutukset koskevat seuraavaa laskutusjaksoa. Ellei tilauksesi käyttöehdoissa ole muutoin kerrottu, seuraavat käyttöehdot koskevat Meta-tuotteiden maksupalveluja käyttämällä ostettuja tilauksia:
+
+- Jos tilaukseen liittyy ilmainen kokeilujakso, etkä peruuta tilausta ilmaisen kokeilujakson aikana ja olet antanut lain mahdollisesti vaatimat suostumukset, laskutamme sinua ilmaisen kokeilujakson päätyttyä ja kunkin seuraavan tilausjakson alkaessa. Sinun on tehtävä peruutus ennen kokeilujakson päättymistä, jotta vältyt veloituksilta.
+
+- Jatkamme jokaisen tilausjakson laskuttamista maksutavaltasi, kunnes peruutat. Sinun on peruutettava vähintään 24 tuntia ennen seuraavaa ajastettua maksupäivääsi, jotta voit välttää seuraavan tilausmaksusi veloituksen.
+
+- Jos peruutat tilauksen, voit silti käyttää tilaamaasi sovellusta tai ominaisuutta tilausjakson loppuun asti. Et saa hyvitystä nykyisestä laskutusjaksosta, ellei kyse ole viasta tai muusta soveltuvissa tilausehdoissa määritellystä asiasta.
+
+- Kun ostat tilauksen, sinulta veloitetaan ensin tilauksen hyväksymisen hetkellä voimassa oleva summa. Jos tilauksen hinta kasvaa myöhemmin, ilmoitamme siitä sinulle. Hinnankorotus koskee seuraavaa sinulta veloitettavaa maksua ilmoituksen jälkeen, kunhan sinulle on ilmoitettu muutoksesta etukäteen lain vaatimalla tavalla ja vähintään kymmenen päivää ennen muutoksen tekemistä. Jos aika saamastasi ilmoituksesta on lyhyempi kuin sovellettava ilmoitusjakso, hinnankorotus koskee vasta seuraavan erääntyvän maksun jälkeen veloitettavaa maksua. Jos et halua maksaa tilauksesta korotettua hintaa, voit peruuttaa tilauksen siten kuin on kuvattu sovellettavissa tilausehdoissa tai ohje- ja tukikeskuksessa.
+
+- Tämä osio 5 ei koske Meta-tuotteiden kautta tehtyjä tilauksia kolmansilta osapuolilta. Tällaiset tilausehdot, peruutusehdot, tilausjakso ja muut mukaan lukien, ovat sinun ja sellaisen kolmannen osapuolen välisiä, jolta ostit tilauksen. Jos sinulla on kysyttävää tilauksestasi, ota yhteyttä tähän kolmanteen osapuoleen, ei Metaan. Edellä mainitusta huolimatta, kun käytät Meta-tuotteita ja teet oston käyttäen Meta-tuotteisiin integroitua Applen sovellusostotoimintoa ("Applen sovellusosto"), myönnät täten Metalle oikeuden aloittaa hyvitykset puolestasi Apple, Inc:lle ("Apple") mistä tahansa ostosta ja maksutapahtumasta, mukaan lukien ei-toistuvat tapahtumat, jotka on tehty Applen sovellusoston avulla. Tämä sisältää mutta ei niihin rajoittuen virheistä, kiistoista tai asiakaspalveluongelmista aiheutuvat hyvitykset ja vilpilliset tapahtumat. Hyvitykset aloitetaan Metan tarpeellisiksi katsomissa olosuhteissa. Kaikki Metan puolestasi aloittamat hyvitykset noudattavat Applen hyvityskäytäntöjä sekä sovellettavia lakeja ja säädöksiä. Ymmärrät ja hyväksyt, että Meta ei ole vastuussa mistään menetyksistä tai vahingoista, jotka aiheuttavat meidän puolestasi Applelle aloittamistamme hyvityksistä.
+
+- Mainonta / muut palvelut: Valtuutat meidät käyttämään maksuvälineitä mainosten, markkinointipalveluiden tai muiden palveluiden ostamiseen. Veloitamme automaattisesti maksuvälinettäsi tai maksuvälineitäsi maksuasetustesi mukaisesti eräpäivinä tai silloin, kun maksurajasi saavutetaan.
+
+- Henkilöiden väliset siirrot Varojen siirtoja henkilöiden välillä (näitä kutsutaan P2P-siirroiksi) saatetaan tarjota täysin oman harkintamme perusteella. Jos käytät P2P-siirtoja Messenger-palvelussa, hyväksyt seuraavat ehdot:
+
+- Et voi käyttää P2P-siirtoja jos olet alle 18-vuotias.
+
+- Saatamme vaatia sinua antamaan lisätietoja maksun suorittamiseksi.
+
+- P2P-siirtoja ei ole tarkoitettu yritysten käyttöön, kaupalliseen käyttöön tai myyjien käyttöön. Voimme estää tai lopettaa tällaisen käytön milloin tahansa siitä erikseen ilmoittamatta. Saatamme kumota maksun, asettaa maksun pitoon tai jäädyttää varasi, jos havaitsemme merkkejä yrityskäytöstä, kaupallisesta käytöstä tai myyntikäytöstä.
+
+- Jos saat ja hyväksyt P2P-siirron, olet meille vastuussa siirretystä maksusta ja kolmannen osapuolen maksuista, jotka saattavat aiheutua kyseisen maksun hylkäämisestä. Tämä sisältää muun muassa rajoittamatta peruutetut maksut, vaateen häviämisen tai takaisinveloituksen. Varaamme oikeuden veloittaa varoja maksuvälineeltäsi tai ryhtyä muihin oikeustoimiin summan perimiseksi soveltuvan lain suurimmassa sallimassa laajuudessa.
+
+- P2P-maksuja täytyy käyttää sovellettavan lain mukaisesti. Niitä ei saa käyttää mihinkään laittomaan tai kiellettyyn tarkoitukseen tai niihin liittyen. Tämän lisäksi seuraaviin toimiin ja aihepiireihin liittyvät maksut ovat kiellettyjä, riippumatta siitä, ovatko kyseiset toimet tai aihepiirit laittomia alueellasi: (a) aseet, ammukset ja räjähteet ja (b) uhkapelit, taitoa vaativat pelit, lotot, arpajaiset ja kuvitteellinen urheilu. Jos havaitsemme laittomia, luvattomia tai muutoin kiellettyjä maksuja tai saamme tiedon niistä, varaamme oikeuden ryhtyä mihin tahansa toimenpiteisiin ilmoittamatta asiasta sinulle, mukaan lukien rajoituksetta: maksutapahtumiesi estäminen tai keskeyttäminen, varojesi jäädyttäminen, Meta-tuotteiden kautta käytettyjen maksuominaisuuksien käyttöoikeuden rajoittaminen, tapahtumien ilmoittaminen viranomaisille ja tilisi poistaminen kokonaan käytöstä.
+
+- Käytät P2P-maksuja täysin omalla vastuullasi. Emme ole millään tavalla vastuussa mistään maksutapahtumista tai minkään vastaanottajan tai lähettäjän toimista tai henkilöllisyydestä. Maksuihin liittyvät kiistat ovat täysin sinun ja maksun lähettäjän välisiä. Jos lähettäjä tekee takaisinveloituspyynnön P2P-maksun jälkeen, emme ole vastuussa tällaisten vaatimusten totuudenmukaisuuden varmistamisesta tai maksujärjestelyistä.
+
+- Minnesotan osavaltion asukkaat: Jos et halua käyttää P2P-maksuja, lähetä kirjallinen ilmoituksesi osoitteeseen Meta Payments Inc. (NMLS ID 918740), 1 Meta Way, Menlo Park, CA, 94025, USA. Ota huomioon, että P2P-maksuvaihtoehdon hylkääminen saattaa vaikuttaa siihen, voitko suorittaa muita maksutapahtumia maksuominaisuuksilla Meta-tuotteiden kautta.
+
+- Maksut Yhdysvalloissa sijaitseville kehittäjille Toimimme rajoitetusti Meta-tuotteiden kautta sisältöä tarjoavien kehittäjien maksuja perivänä edustajana ja meillä on valtuutus hyväksyä sinulta näiden kehittäjien puolesta maksuja, joita suoritat heiltä ostetusta sisällöstä. Meille maksamasi täysi, tietyn kehittäjän sisällön hintaa vastaava summa muodostaa tälle kehittäjälle suoritetun maksun ja täyttää ostettua sisältöä koskevan maksuvelvollisuutesi tälle kehittäjälle.
+
+- Maksut Euroopan talousalueella sijaitseville kehittäjille Suorittaaksesi maksun Meta-tuotteiden kautta sisältöä tarjoavalle kehittäjälle, sinun on käyttävä tarjoamaamme tiliä, jota voi käyttää vain digitaalisen sisällön ostamiseen Meta-tuotteiden kautta. Voit lisätä varoja tälle tilille monella eri maksutavalla, kuten luotto- ja pankkikortti tai Facebook-lahjakortti. Kun teet maksun kehittäjälle, joka tarjoaa sisältöä Meta-tuotteiden kautta Euroopan talousalueella, kyseessä ei ole säännöstelty maksupalvelu. Näin ollen hyväksyt, että et hyödy tämän maksupalvelun suhteen asiakassuojauksista, jotka ovat maksupalvelun käyttäjien käytettävissä sovellettavan säännöstelykehyksen nojalla, kun kyseessä on säännöstelty maksupalvelu (esimerkiksi hyvitysoikeudet valtuuttamattomien maksutapahtumien osalta, varojen turvaaminen).
+
+- Lahjoitukset Jos teet lahjoituksen hyväntekeväisyysjärjestölle Meta-tuotteissa, seuraavia käyttöehtoja sovelletaan:
+
+- Lahjoitukset PayPal Giving Fundille ("PPGF"), mukaan lukien Yhdysvalloissa, Kanadassa, Australiassa ja Yhdistyneessä kuningaskunnassa. PPGF on rekisteröity julkinen hyväntekeväisyysjärjestö, mikä tarkoittaa sitä, että lahjoituksesi tehdään PPGF:lle eikä nimeämällesi hyväntekeväisyysjärjestölle suoraan. Lahjoitukset käsittelee PayPal, PPGF:n kolmannen osapuolen palveluntarjoaja, ja liittyvään maahan rekisteröity PPGF-entiteetti saa ne PPGF:n käyttöehtojen ja käytäntöjen mukaisesti. Aina, kun teet lahjoituksen PPGF:lle Meta-tuotteissa, hyväksyt PPGF:n käyttöehdot ja käytännöt. Kun teet lahjoituksen PPGF:lle, suosittelet PPGF:ää antamaan lahjoitustasi vastaavan avustuksen nimetylle hyväntekeväisyysjärjestölle. PPGF antaa lahjoittamasi varat nimeämällesi hyväntekeväisyysjärjestölle käytäntöjensä mukaisesti. PPGF lähettää sinulla sähköpostitse virallisen kuitin lahjoituksesta verotusta varten. Hyväksyt, että emme tee mitään PPGF:ää tai nimeämääsi hyväntekeväisyysjärjestöä koskevia suosituksia tai vakuutuksia emmekä ole vastuussa PPGF:n tai määrittämäsi hyväntekeväisyysjärjestön toimista tai laiminlyönneistä.
+
+- Kun teet lahjoituksen, hyväksyt, että teet sen lahjoituksena hyväntekeväisyyteen niin, että et saa lahjoituksestasi vastineeksi mitään hyödykkeitä tai palveluita. Tiedustele veroasiantuntijalta tämän lahjoituksen verovähennyskelpoisuutta, sillä verolait vaihtelevat osavaltion ja maan mukaan. Emme anna minkäänlaisia vakuutuksia tai takuita liittyen hyväntekeväisyysjärjestön voittoa tavoittelemattoman järjestön statukseen tai kelpoisuuteen minkään lahjoituksen veroihin liittyviin etuihin tai vähennyksiin.
+
+- Varaamme oikeuden kieltäytyä käsittelemästä lahjoitustasi, jos nimetty hyväntekeväisyysjärjestö ei noudata käyttöehtojamme ja käytäntöjämme, mukaan lukien lahjoituksia koskevia käyttöehtojamme. Jos kieltäydymme käsittelemästä lahjoitusta, sinulla voi olla oikeus hyvitykseen PPGF:n käyttöehtojen ja käytäntöjen mukaisesti.
+
+- Käyttäjät ("varainkeruukampanjan luojat") voivat luoda hyväntekeväisyysjärjestöjen etuja ajavia varainkeruukampanjoita. Jos varainkeruukampanjan luoja lupaa lahjoittaa varainkeruukampanjaan tehtyjä lahjoituksia vastaavan summan, emme takaa, että varainkeruukampanjan luoja pitää lupauksensa. Jos lahjoitat hyväntekeväisyysjärjestölle tällaisen varainkeruukampanjan kautta, sitä koskevat PPGF:n käyttöehdot ja käytännöt, mukaan lukien mahdolliset hyvitysoikeudet.
+
+- Jos suostut tekemään toistuvia lahjoituksia PPGF:lle, valtuutat meidät tallentamaan maksuvälineesi ja käsittelemään lahjoituksesi PayPalin, PPGF:n maksunkäsittelijän, kautta. Jos suostut tekemään toistuvia lahjoituksia, valtuutat meidät tallentamaan maksuvälineesi ja laskuttamaan ensimmäisen lahjoituksen välittömästi ja sitten uudelleen jokaisen toistuvan lahjoitusjakson alussa. Jokainen toistuva lahjoitusjakso veloitetaan maksuvälineeltäsi automaattisesti, kunnes peruutat. Voit peruuttaa milloin tahansa Tilin asetukset -sivullasi. Sinun on peruutettava vähintään 24 tuntia ennen seuraavaa lahjoitustasi, jotta voit välttää seuraavan lahjoituksesi veloituksen.
+
+- Hyväksyt, että emme anna mitään hyväntekeväisyysjärjestöä koskevia suosituksia tai vakuutuksia emmekä ole vastuussa niiden toimista tai laiminlyönneistä.
+
+- Saatamme tarjota sinulle mahdollisuuden kattaa tietyt maksut, jotka liittyvät lahjoitukseesi. Jos suostut kattamaan kyseiset maksut, sinulta veloitettava kokonaissumma sisältää sekä lahjoitussumman että kyseiset maksut.
+
+- Pyydä pitoa Kun pyydät tuotteen pitoa Marketplacessa ("Pidon pyytäminen"), hankimme esihyväksynnän valitsemasi maksutavan palveluntarjoajalta tuotteen hintaa vastaavalle summalle ("Varaussumma"). Tämä summa vapautetaan sinulle takaisin, kun myyjä merkitsee tuotteen myydyksi, jos myyjä ei hyväksy pyyntöäsi vuorokauden kuluessa tai jos jommankumman teistä on peruutettava.
+
+- Ei takuita ELLEMME OLE NIMENOMAISESTI KIRJALLISESTI NIIN KERTONEET TIETYN TUOTTEEN TAI PALVELUN YHTEYDESSÄ, EMME MYÖNNÄ MINKÄÄNLAISIA NIMENOMAISIA TAI OLETETTUJA TAKUITA MISTÄÄN META-TUOTTEISSA TAI NIIDEN VÄLITYKSELLÄ TARJOTUISTA TAI OSTETTAVISTA TUOTTEISTA TAI PALVELUISTA, KUN KYSEESSÄ OVAT TÄLLAISET OSTAMASI TUOTTEET JA PALVELUT, JOITA MYY KOLMAS OSAPUOLI.
+
+II. Maksutavat
+
+- Maksutapasi Käyttökokemuksesi helpottamiseksi saatamme sallia sinun maksaa ostoksesi monien eri maksuvälineiden avulla, kuten luotto- ja pankkikortilla sekä Facebook-lahjakorteilla. Voit tallentaa maksuvälineesi ja voit lisätä maksuvälineitä tilillesi, päivittää niitä tililläsi tai poistaa niitä tililtäsi milloin tahansa Instagram- tai Facebook-asetusten Tilauksissa ja maksuissa. Mikä tahansa hyvitys, jonka olemme sinulle velkaa, hyvitetään samalle maksuvälineelle, jota käytit alkuperäisessä maksutapahtumassa. Jos alkuperäistä maksuvälinettäsi ei ole enää saatavilla, pidätämme oikeuden hylätä hyvityksen tai tehdä hyvityksesi tililläsi olevalle toiselle maksuvälineelle tai muulla sopivaksi katsomallamme tavalla. Suostut pitämään tallennetut maksuvälineesi ajan tasalla. Jos osallistumme korttitilin päivityspalveluun, valtuutat meidät ottamaan yhteyttä korttisi myöntäjään tai korttiverkostoon saadaksemme ajan tasalla olevat tiedot maksuvälineestäsi ja päivittääksemme automaattisesti maksuvälineesi, mukaan lukien tilinumerosi tai viimeisen voimassaolopäivämäärän, jos kyseisiä tietoja on saatavilla.
+
+- Valtuutuksesi Kun maksat tapahtumasi tai ilmoitat meille maksuvälineesi, vahvistat, että sinulla on lupa käyttää kyseistä maksuvälinettä tai että olet sallinut jonkun käyttäjän käyttää maksuvälinettä. Kun maksat tai aloitat tapahtuman, valtuutat meidät (ja nimeämämme maksunkäsittelijän) veloittamaan enintään koko summan maksuvälineeltäsi. Kun meidän on käsiteltävä tapahtumasi kolmannen osapuolen kauppiaiden kanssa Meta-tuotteiden kautta, sallit meidän jakaa maksuvälineesi tiedot ja muut tarvittavat tiedot maksusi käsittelyä varten kauppiaan, kauppiaan kaupankäyntipalveluiden alustan ja kauppiaan maksunkäsittelijöiden kanssa. Yllä olevan osion 1 mukaisesti myös valtuutat meidät keräämään ja tallentamaan kyseisen maksuvälineen ja muut ostotapahtumaan liittyvät tiedot.
+
+- Esivaltuutuksen pito Jos maksat ostoksesi luotto- tai pankkikortilla, voimme pyytää kortin myöntäjältä esivaltuutuksen summalle, joka voi olla yhtä suuri kuin maksusi kokonaishinta. Kyseinen esivaltuutus voi näkyä "pitona" luottokortillasi tai pankkikorttiisi liittyvissä varoissa. Korttiasi veloitetaan joko silloin, kun maksu on käynnistetty, tai pian sen jälkeen. Jos peruutat maksutapahtuman ennen sen valmistumista, tämä esivaltuutus voi johtaa siihen, että luotto tai varat eivät ole välittömästi käytettävissäsi, ennen kuin myöntäjäsi vapauttaa pidon.
+
+- Epäonnistuneet maksut Jos tapahtumastasi aiheutuu tilinylitys tai muu maksu kortin myöntäjältäsi tai pankiltasi, koska luottorajasi ylittyy tai tililläsi ei ole riittävästi varoja, korttisi myöntäjä tai pankkisi voi veloittaa sinulta maksun, ja olet yksin vastuussa kyseisestä maksusta.
+
+- Palvelukrediitit Saatamme sallia sinun maksaa etukäteen tietyistä palveluista krediittien ostamisen kautta ("palvelukrediitit" tai "mainostajan saldo"). Tällaiset krediitit edustavat summaa, jonka olet maksanut etukäteen palveluiden käytöstä. Palveluihin saatetaan soveltaa lisäkäyttöehtoja. Palvelukrediittejä voidaan käyttää ainoastaan liiketoiminnallisiin tai kaupallisiin tarkoituksiin.
+
+Palvelukrediitit eivät ole laillinen maksuväline tai valuutta, niitä ei voi lunastaa, hyvittää (ellei laki niin vaadi tai muutoin kerrota käyttöehdoissamme) tai vaihtaa mihinkään rahasummaan tai rahalliseen arvoon, niillä ei ole mitään vastaavaa arvoa fiat-valuutassa eivätkä ne muodosta tai anna sinulle mitään henkilökohtaista omistusoikeutta. Meta ei ole digitaalisen lompakon tai arvojärjestelmän ylläpitäjä, eikä se ole sähköisen rahan liikkeellelaskija. Meta ei ole pankki, eikä se tarjoa pankkipalveluja. Sen vuoksi palvelukrediitit eivät kerrytä korkoa, eivät ole talletuksia, eivätkä kuulu Yhdysvaltain talletussuojaviranomaisen (Federal Deposit Insurance Corporation), Yhdistyneen kuningaskunnan rahoituspalvelujen korvausjärjestelmän (Financial Services Compensation Scheme) tai minkään muun valtionhallinnollisen tai yksityisen entiteetin, vakuutuksen tai talletuksen suojajärjestelmän piiriin.
+
+- Facebook-lahjakorttien saldot Facebook-lahjakortteja voidaan käyttää luomaan lahjakorttien saldoa ("Lahjakorttien saldo") Meta-tuotteiden kautta. Tämän jälkeen voit käyttää tätä lahjakorttien saldoa maksutapana sovellusalustallamme. Lahjakorttien saldoihin sovelletaan seuraavia ehtoja:
+
+- Jos syötät lahjakortin PIN-koodin ja klikkaat Lunasta-painiketta osoitteessa www.facebook.com/giftcards/redeem, hyvitämme lahjakortin arvon lahjakorttien saldoosi. Kun olet kirjoittanut lahjakorttisi PIN-koodin, vastaanottamaasi arvoa ei voi palauttaa alkuperäiselle lahjakortille.
+
+- Kaikki osoitteessa www.facebook.com/giftcards/redeem edellä mainitulla tavalla lunastetut lahjakortit siirretään osaksi lahjakorttien saldoa, jolla voit maksaa ainoastaan kehittäjille sovellusalustassa. Lahjakorttien saldoa käytetään suorittamiisi maksutapahtumiin. Jos lahjakorttien saldo ei riitä maksutapahtuman suorittamiseen, pyydämme sinua maksamaan erotuksen toisella maksutavalla. Tietyissä peleissä lunastetuista lahjakorteista saatavaa arvoa voi kuitenkin olla mahdollista käyttää ainoastaan kyseisessä pelissä tai muissa saman valmistajan peleissä.
+
+- Me emme ei ole pankki, joten lahjakorttien saldot eivät ole talletuksia, eivätkä kerrytä korkoa. Lahjakorttien saldot eivät kuulu Yhdysvaltain talletussuojaviranomaisen (Federal Deposit Insurance Corporation), Yhdistyneen kuningaskunnan rahoituspalvelujen korvausjärjestelmän (Financial Services Compensation Scheme) tai minkään muun julkisen tai yksityisen toimijan tai vakuutusjärjestelyn suojan piiriin.
+
+- Voimme tehdä tarpeellisiksi katsomiamme muutoksia prosessiin, jolla lahjakortteja muunnetaan lahjakorttien saldoksi, sekä lahjakorttien saldon käyttömahdollisuuksiin milloin tahansa ilman etukäteen annettavaa ilmoitusta suurimmassa lainsäädännön sallimassa laajuudessa.
+
+- Joihinkin Facebook-lahjakortteihin liittyy bonustarjouksia. Bonustarjouksia voivat käyttää asiakkaat, jotka lunastavat tarjoukseen osallistuvan Facebook-lahjakortin lahjakorttipakkauksessa ilmoitetun tarjousjakson aikana. Voit hankkia bonustuotteen käymällä osoitteessa www.facebook.com/giftcards/redeem, kirjoittamalla pyydettäessä lahjakortin PIN-koodin ja noudattamalla ohjeita, joiden avulla vastaanotat tuotteen. Emme ilmoita näiden bonustarjousten päättymisestä. Maksuttomat lahjatuotteet vaihtelevat; tuotteiden keskimääräinen jälleenmyyntihinta on noin 1-15 Yhdysvaltain dollaria. Bonustarjouksia ei voi yhdistää muihin tarjouksiin tai alennuksiin, eikä vaihtaa rahaksi tai lunastaa rahana. Facebook-lahjakorttien ja sivuston www.facebook.com käyttöön voidaan soveltaa muita ehtoja. Lisätietoja löytyy sivustolta.
+
+- Sinulla ei ole oikeutta myydä lahjakorttien saldoasi tai sen osaa tai siirtää saldon osaa millekään Meta-tuotteiden ulkopuoliselle taholle tai henkilölle.
+
+- Emme hyvitä lahjakorttien saldoa rahana tai rahallisena arvona, ellei lainsäädäntö velvoita meitä tekemään niin.
+
+- Facebook-lahjakortit ja lahjakorttien saldot eivät vanhene. Lahjakorttien saldoihin sovelletaan kuitenkin hylättyä omaisuutta koskevaa säännöstämme (katso jäljempänä olevan lausekkeen iii osio 6).
+
+- Yhteensopimattomuus Jokin sovellus, toiminto tai ominaisuus ei ehkä tue toivomaasi maksutapaa. Voit kuitenkin valita toisen maksuvälineen (esimerkiksi luotto- tai pankkikortin tai mobiilimaksun).
+
+- Mobiilimaksut Matkapuhelinoperaattorin perimät mobiilimaksut ovat yksi sinulle tarjoamistamme maksutavoista. Käyttämällä mobiilimaksua maksutietona hyväksyt seuraavat mahdolliset riskit ja muut ehdot:
+
+- Valitsemalla mobiilimaksutavan hyväksyt, että me ja matkapuhelinoperaattorisi voimme vaihtaa keskenämme tietoja sinusta maksujen suorittamista tai peruuttamista, riitojen ratkaisemista, asiakastuen tarjoamista tai muita maksuun liittyviä tarkoituksia varten.
+
+- Olet vastuussa kaikista matkapuhelinsopimukseesi tai -laskuusi liittyvistä veloituksista, maksuista ja muutoksista, mobiililaitteesi muutoksista ja kaikista muista mahdollisista mobiilimaksun käytön seurauksista.
+
+- Kun käytät mobiilimaksua, sinua sitovat näiden maksuehtojen lisäksi matkapuhelinoperaattorisi ehdot.
+
+- Jos sinulla on kysyttävää matkapuhelinlaskusi veloituksista tai maksuista, voit ottaa yhteyttä matkapuhelinoperaattorisi asiakaspalveluun.
+
+- Ostosten maksaminen mobiilimaksuilla voi joskus aiheuttaa maksuja ja kuluja, joihin emme voi erilaisten teknisten syiden vuoksi vaikuttaa ja joita ei korvata tai hyvitetä sinulle. Tällaisissa tapauksissa voimme myöntää sinulle lahjana krediittejä, mutta meillä ei ole velvollisuutta tehdä niin.
+
+- Boleto (prepaid) Kun käytät Boletoa maksuvälineenä, hyväksyt seuraavat mahdolliset riskit ja muut ehdot:
+
+- HyvityksetTeknisten rajoitusten vuoksi voimme tarjota hyvityksiä VAIN pankkisiirtoina pankkitilille. Jos teet ostoksen Boleton avulla ja pyydät myöhemmin hyvitystä mistä tahansa syystä, sinulla TÄYTYY olla pankkitili saadaksesi hyvityksen. Hyvitystä pyydettäessä annettujen pankkitilitietojen tulisi olla samat tiedot kuin mainostilillä. Saat lisätietoja hyvitysprosessista klikkaamalla tätä.
+
+- Turvallisuus Saatamme rajoittaa ostoksesi saatavuutta tai tarjota sen saataville viiveellä joko turvallisuussyistä tai siksi, että voimme varmasti hankkia kaikki tarvittavat tiedot maksun käsittelyyn, ja jotta voimme varmasti toimittaa sinulle sen, mistä maksat.
+
+- Tiedot Hyväksyt sen, että tallennamme verotunnuksesi (CNPJ/CPF). Saatamme hankkia verotunnuksesi avulla sellaisia lisätietoja sinusta, joita tarvitaan maksun käsittelyyn. Näitä tietoja voidaan hankkia Brasilian valtion verotietokannasta kolmannen osapuolen tiedonkäsittelijän avulla. Lähetämme myös lopulliset veroasiakirjat Brasilian viranomaisille tarpeen mukaan.
+
+- Jos olet Intiassa toimiva mainostaja (määritelty maakohtaisissa mainosten käyttöehdoissa) ja teet tilauksen (määritelty itsepalvelumainosten käyttöehdoissa), jossa teet maksuja Metalle lisätäksesi palvelukrediittejäsi, ja käytät kyseisissä maksuissa maksuvaihtoehtona kuluttomia kiinteitä kuukausieriä, hyväksyt täten kyseiseen maksuvaihtoehtoon liittyvät erityiset käyttöehdot: Kuluttomien kiinteiden kuukausierien käyttöehdot
+
+- Jos olet Brasiliassa toimiva mainostoimisto, et voi käyttää myöntämäämme luottoa mainostajalle mainostamiseen kolmannen osapuolen puolesta tai sellaisen edun mukaisesti. Mainostoimistoille myönnettyjä luottoja voi käyttää suoraan vain mainostoimisto sen oman edun mukaisesti.
+
+III. Mahdolliset toimenpiteemme
+
+- Suostumukseemme perustuva käyttö (a) Voimme peruuttaa oikeutesi suorittaa maksuja Meta-tuotteiden kautta milloin tahansa yksinomaisen harkintavaltamme nojalla, (b) Australiassa olevien kuluttajien ja pienyritysten osalta voimme peruuttaa kelpoisuutesi suorittaa maksuja Meta-tuotteissa milloin tahansa kohtuuden mukaisesti, kuten silloin, jos (i) olet rikkonut olennaisella tavalla näitä maksuehtoja, (ii) laki tai määräys velvoittaa meitä tekemään niin, tai (iii) jos se on tarpeen suojataksemme oikeutettuja etujamme.
+
+- Tiedustelut Käyttämällä maksuominaisuuksia Meta-tuotteiden kautta ymmärrät ja hyväksyt sen, että voimme tehdä tarpeidemme mukaan suoraan tai kolmansien osapuolten välityksellä henkilöllisyyttäsi ja luottokelpoisuuttasi koskevia tiedusteluja.
+
+- Peruutusoikeutemme Voimme peruuttaa minkä tahansa maksutapahtuman, jos se mielestämme rikkoo näitä maksuehtoja tai käyttöehtoja tai jos uskomme, että voimme välttää tällä tavoin taloudellisia tappioita. Sovellettavan lain sallimissa rajoissa voimme myös peruuttaa mitkä tahansa lahjakorttisaldot tai palvelukrediitit, jotka ovat kertyneet, siirretty, määritetty tai myyty minkä tahansa vilpillisen tai laittoman toiminnan tai sovellettavien käyttöehtojen rikkomisen yhteydessä.
+
+- Maksurajoitukset Jotta voimme estää sinulle tai meille koituvat taloudelliset tappiot, voimme lykätä maksun suorittamista jonkin aikaa tai rajoittaa tapahtumaa varten hyväksyttäviä maksuvälineitä tai mahdollisuuksiasi tehdä maksuja tai poistaa tilisi käytöstä.
+
+- Tietojen jakaminen Jotta voimme estää sinulle tai meille aiheutuvat taloudelliset tappiot, saatamme ottaa yhteyttä maksuvälineesi myöntäjään, viranomaisiin tai kyseessä oleviin kolmansiin osapuoliin (mukaan lukien muut käyttäjät) ja jakaa heidän kanssaan tietoja maksuista, joihin olet ollut osallisena, jos uskomme, että voimme estää tällä tavoin taloudellisia tappioita tai lain ja/tai käytäntöjemme rikkomisen. Kuten soveltuvassa tietosuojakäytännössä on tarkemmin kerrottu, jaamme tietoja myös kolmansien osapuolten, kuten maksupalvelun tarjoajien kanssa, mukaan lukien tietoja, joita tarvitaan tapahtumasi suorittamiseen, kuten tilaus-, maksu- ja toimitustiedot.
+
+- Hylätty omaisuus Jos et käytä lahjakorttisaldoasi lunastamatonta omaisuutta koskevassa soveltuvassa lainsäädännössä määritellyn ajanjakson kuluessa tai jos poistat tilisi etkä rikkonut soveltuvia käyttöehtoja tai käytäntöjä ja jätät lahjakorttisaldon käyttämättä tai jos poistamme tilisi käytöstä muusta syystä kuin siitä, että rikot soveltuvia käyttöehtoja tai käytäntöjä, etkä täytä kuuden (6) kuukauden kuluessa tarvittavia vaatimuksia sen ottamiseksi uudelleen käyttöön, saatamme käsitellä lahjakorttisaldosi oikeudellisten velvollisuuksiemme mukaisesti, mukaan lukien lähettää lahjakorttisaldoosi liittyvät varat asianmukaiselle hallintoelimelle lainsäädännössä edellytetyllä tavalla.
+
+- Palvelukrediittien jäädyttäminen/menettäminen Pidätämme oikeuden jäädyttää tai irtisanoa tilisi, jos rikot sovellettavia käyttöehtoja tai käytäntöjä ja, kun laki niin vaatii, et täytä kaikkia tarvittavia ehtoja tilisi ottamiseksi uudelleen käyttöön kuuden (6) kuukauden kuluessa. Lisäksi saatamme lain sallimissa rajoissa pitää käyttämättömät palvelukrediittisi ja mahdollisen ennakkomaksun, jotka menetetään. Tällainen määrä on reilu ja kohtuullinen arvio, eikä se ole rangaistus.
+
+IV. Kiistat ja muutokset
+
+- Asiakastuki Mitä tulee jäljempänä oleviin osioihin 2, 3, 4 ja 5, tarjoamme tukikeskuksessamme erilaisia työkaluja, joilla voit viestiä kolmansien osapuolten kanssa ja ratkaista maksutapahtumista aiheutuvia kiistoja.
+
+- Ei maksutapahtumaan liittyvää korvausvelvollisuutta Jos joudut kiistaan kolmannelta osapuolelta ostamiesi tavaroiden tai palveluiden tai tekemäsi lahjoituksen vuoksi, emme ole korvausvelvollisia maksutapahtumaan liittyvien tavaroiden tai palveluiden osalta tai siitä, miten kolmas osapuoli käytti lahjoituksesi. Vastuullamme on ainoastaan maksutapahtuman käsitteleminen. Kaikki maksut ovat lopullisia, ellei laki muuta määrää. Voit pyytää maksun hyvittämistä, jos tilaamasi tavaran tai palvelun saatavuus loppuu ennen sen toimittamista sinulle.
+
+- Petosvaroitus Meta Paymentsin käyttäminen petoksellisiin toimiin tai tapahtumiin voi johtaa varojen menettämiseen ilman valitusoikeutta. Katso osavaltiokohtaiset petosilmoitukset jäljempänä olevasta lausekkeesta VI.
+
+- Ilmoitusvelvollisuus (a) Jos uskot, että käyttäjätililläsi on suoritettu luvaton tai muulla tavoin ongelmallinen maksutapahtuma, sinun on ilmoitettava meille asiasta välittömästi, jotta voimme ryhtyä toimenpiteisiin taloudellisten tappioiden estämiseksi. Jos et toimita meille vaadetta 30 päivän kuluessa veloituksen suorittamisesta, luovut lain sallimissa rajoissa kaikista meitä vastaan kohdistuvista vaateista, jotka ovat seurausta maksutapahtumasta tai liittyvät jollakin tavoin siihen. (b) Jos olet Australiassa oleva kuluttaja ja pienyritys ja uskot, että käyttäjätililläsi on suoritettu luvaton tai muulla tavoin ongelmallinen maksutapahtuma, sinun on ilmoitettava meille asiasta välittömästi, jotta voimme ryhtyä toimenpiteisiin taloudellisten tappioiden estämiseksi.
+
+- Väliintulo Voimme puuttua sinun ja kehittäjän tai kauppiaan välisiin maksuja koskeviin kiistoihin, mutta velvollisuutenamme ei ole tehdä niin.
+
+- Tekniset vaikeudet Jos maksusi epäonnistuu teknisen vian tai palvelun keskeytymisen vuoksi, voit pyytää, että maksutapahtumasi suoritetaan loppuun myöhemmin.
+
+V. Näitä maksuehtoja koskevat ilmoitukset ja muutokset
+
+- Sinulle annettavat ilmoitukset Käyttämällä maksuominaisuuksia Meta-tuotteiden kautta hyväksyt, että voimme lähettää sinulle sähköisesti kaikki tärkeät käyttäjätililläsi tehtyjä maksuja koskevat tiedot. Voimme myös antaa sinulle ilmoituksia julkaisemalla ne sivustollamme, lähettämällä ne sinulle sovelluksen sisäisenä ilmoituksena tai lähettämällä ne meille aiemmin ilmoittamaasi sähköpostiosoitteeseen tai postiosoitteeseen. Kaikki ilmoitukset katsotaan vastaanotetuiksi 24 tunnin kuluessa julkaisemisesta tai lähettämisestä. Postitse lähetyt ilmoitukset katsotaan vastaanotetuiksi kolmen (3) työpäivän kuluessa lähettämisestä.
+
+- Meille annettavat ilmoitukset Jollei toisin ole mainittu, sinun on lähetettävä Meta-tuotteiden kautta tehtyihin maksuihin ja näihin maksuehtoihin liittyvät ilmoitukset meille postitse seuraavaan osoitteeseen: Meta, Attn: Legal Department, 1 Meta Way, Menlo Park, California, 94025, USA.
+
+- Muutoksia koskevat ohjeet Voimme päivittää näitä maksuehtoja tarpeidemme mukaan milloin tahansa ilman erikseen annettavaa ilmoitusta lainsäädännössä sallitun enimmäismäärän mukaisesti. Maksutapahtuman vahvistamisen hetkellä voimassa olevat maksuehdot säätelevät kyseistä maksutapahtumaa.
+
+VI. Osavaltioilmoitukset - asiakasvalitukset ja petosilmoitukset
+
+Seuraavat säännökset koskevat ainoastaan Metan käsittelemien maksujen käyttäjiä:
+
+- Vain Alaskassa asuvat käyttäjät: Jos Meta Payments Inc. (1-888-851-6382) ei ole ratkaissut ongelmaasi, lähetä virallinen valitus Alaskan osavaltion pankki- ja arvopaperiviranomaiselle (Division of Banking and Securities). Lataa lomake täältä: http://www.commerce.alaska.gov/web/portals/3/pub/DBSGeneralComplaintFormupdated.pdf/. (NMLS ID 918740)
+
+Lähetä virallinen valituslomake ja siihen liittyvät asiakirjat osoitteeseen
+
+Division of Banking and Securities, PO Box 110807 Juneau, AK 99811-0807.
+
+Jos asut Alaskassa ja sinulla on kysyttävää virallisista valituksista, lähetä meille sähköpostia osoitteeseen dbs.licensing@alaska.gov tai soita numeroon 907 465 2521.
+
+- Arizonassa asuvat käyttäjät: Rahansiirrot voivat aiheuttaa merkittävän petosriskin, ja on erittäin tärkeää olla varovainen, jotta voit suojata itseäsi joutumasta petoksen uhriksi. Vahvista aina vastaanottaja, jotta tiedät, kenelle lähetät rahaa. Vältä rahan lähettämistä tuntemattomille tai vastauksena tarjouksiin, joita et pyytänyt, sillä nämä ovat huijareiden käyttämiä yleisiä taktiikoita. Suhtaudu rahan lähettämiseen kuin käteiseen; kun rahat on lähetetty, niitä ei voi saada takaisin. Jos haluat ilmoittaa petoksesta tai epäillystä petoksesta, ota yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon (NMLS ID 918740) verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382.
+
+- Arkansas'ssa asuvat käyttäjät: Rahansiirrot voivat aiheuttaa merkittävän petosriskin, ja on erittäin tärkeää olla varovainen, jotta voit suojata itseäsi joutumasta petoksen uhriksi. Vahvista aina vastaanottaja, jotta tiedät, kenelle lähetät rahaa. Vältä rahan lähettämistä tuntemattomille tai vastauksena tarjouksiin, joita et pyytänyt, sillä nämä ovat huijareiden käyttämiä yleisiä taktiikoita. Suhtaudu rahan lähettämiseen kuin käteiseen; kun rahat on lähetetty, niitä ei voi saada takaisin. Jos haluat ilmoittaa petoksesta tai epäillystä petoksesta, ota yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon (NMLS ID 918740) verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382. Jos sinulla on kysyttävää tämän sivuston kautta tehtävistä rahansiirroista, voit olla yhteydessä Arkansas'n pankki- ja arvopaperiviranomaiseen (Arkansas State Securities) puhelimitse numerossa (501) 324-9260 tai (800) 981-4429. Voit myös kirjoittaa osoitteeseen 1 Commerce Way, Suite 402, Little Rock, Arkansas 72202 tai ASDInfo@Arkansas.gov. Selvittämättömien ongelmien ilmetessä voit tehdä valituksen verkossa osoitteessa http://www.securities.arkansas.gov.
+
+- Kaliforniassa asuvat käyttäjät: Jos sinulla on valitus, ota yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon (NMLS ID 918740) verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382. Jos haluat esittää valituksen tämän sivuston välityksellä suoritetuista rahansiirroista, voit olla yhteydessä Kalifornian rahoituslaitoksista vastaavaan viranomaiseen (California Department of Financial Protection and Innovation) puhelimitse soittamalla numeroon 1-866-275-2677 (maksuton soitettaessa Yhdysvalloissa) tai lähettämällä postia osoitteeseen Department of Financial Protection and Innovation, Attn: Consumer Services, 2101 Arena Boulevard, Sacramento, CA 95834. Voit lähettää valituksen myös verkossa osoitteessa https://dfpi.ca.gov/file-a-complaint.
+
+- Coloradossa asuvat käyttäjät: Muiden kuin Yhdysvaltain talletussuojaviranomaisen (Federal Deposit Insurance Corporation) suojaamien ja rahansiirtoa, mukaan lukien maksumääräysten myynti, varojen siirto ja muut valuutan tai luoton maksuvälineet, Coloradossa harjoittavien toimijoiden on oltava Coloradon pankkiviranomaisen (Colorado Division of Banking) valtuuttamia Coloradon säädöskokoelman valuutansiirtolain jakson 11 artiklan 110 mukaisesti. Jos sinulla on TAPAHTUMAASI - LÄHETTÄMÄÄSI MAKSUUN liittyvä kysymys tai ongelma, sinun on pyydettävä apua ottamalla yhteyttä maksujen välittäjään, joka käsitteli tapahtumasi. Pankkiviranomainen ei pääse käyttämään näitä tietoja. Jos asut Coloradossa ja sinulla on valitus MAKSUJEN VÄLITTÄJÄSTÄ - YRITYKSESTÄ, JOKA LÄHETTI MAKSUSI, KAIKKI valitukset on lähetettävä kirjallisesti. Täytä Coloradon pankkiviranomaisen sivustossa oleva valituslomake ja palauta se valitusta tukevan mahdollisen dokumentaation kanssa postitse tai sähköpostitse pankkiviranomaiselle seuraavaan osoitteeseen: Colorado Division of Banking 1560 Broadway, Suite 975 Denver, CO 80202, sähköposti: DORA_BankingWebsite@state.co.us, sivusto: https://banking.colorado.gov/industry/money-transmitters.
+
+- Connecticutissa asuvat käyttäjät: Meta Payments Inc. (NMLS ID 918740) on Connecticutin pankkiviranomaisen säätelemä ja lisensoima rahansiirtopalveluntarjoaja.
+
+- Floridassa asuvat käyttäjät: Jos asut Floridan osavaltiossa, etkä ole päässyt ratkaisuun Meta Payments Inc:n rahansiirtoa koskevasta valituksestasi oltuasi ensin yhteydessä Meta Payments Inc:iin (NMLS ID 918740), pyydämme sinua osoittamaan tiedustelusi osoitteeseen Florida Office of Financial Regulation, 200 E. Gaines Street, Tallahassee, FL 32399-0376. Voit myös soittaa numeroon 1-800-848-3792.
+
+- Illinois'ssa asuvat käyttäjät: Jos asut Illinois'n osavaltiossa, etkä ole päässyt ratkaisuun Meta Payments Inc:n rahansiirtoa koskevasta valituksestasi oltuasi ensin yhteydessä Meta Payments Inc:iin (NMLS ID 918740), pyydämme sinua osoittamaan tiedustelusi osoitteeseen Illinois Department of Financial and Professional Regulation, jonka puhelinnumero on 1-888-473-4858.
+
+- Mainessa asuvat käyttäjät: Meta Payments Inc. (NMLS ID 918740) on Mainen rahoituslaitosten viraston (Maine Bureau of Financial Institutions, 800-965-5235) säätelemä ja lisensoima rahansiirtopalveluntarjoaja. Jos sinulla on valitus, ota yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382.
+
+- Marylandissa asuvat käyttäjät: Marylandin osavaltion rahoitusvalvonnasta vastaava viranomainen (Commissioner of Financial Regulation for the State of Maryland) ottaa vastaan Marylandin asukkaiden kysymyksiä ja valituksia Meta Payments Inc:stä (NMLS ID 918740), jonka toimiluvan numero on 918740, osoitteessa 1100 N. Eutaw Street, Suite 611, Baltimore, MD 21201 (puhelinnumero 1-888-784-0136). NMLS Consumer Access -sivusto on https://www.nmlsconsumeraccess.org/.
+
+- Minnesotassa asuvat käyttäjät: Jos sinulla on Meta Payments, Inc:n kautta käytettäviin rahansiirtopalveluihin liittyviä kysymyksiä tai valituksia, voit ottaa yhteyttä Minnesotan kauppaministeriöön (Minnesota Department of Commerce) soittamalla numeroon 651-539-1600. Jos haluat ilmoittaa petoksesta tai epäillystä petoksesta, ota yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon (NMLS ID 918740) verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382.
+
+- Nevadassa asuvat käyttäjät: Nevadassa asuvat asiakkaat voivat ottaa yhteyttä Nevadan rahoituslaitosten osastoon esittääkseen kysymyksiä tai tehdäkseen valituksia koskien luvanhaltijan rahansiirtopalveluita. Voit ottaa yhteyttä Nevadan rahoituslaitosten osastoon soittamalla numeroon (702) 4864120.
+
+- New Yorkissa asuvat käyttäjät: Meta Payments Inc. (NMLS ID 918740) on New Yorkin osavaltion rahoituspalveluiden (New York State Department of Financial Services) säätelemä ja lisensoima rahansiirtopalveluntarjoaja. New Yorkin osavaltiossa asuvat asiakkaat voivat osoittaa ratkaisemattomat valitukset seuraavalle viranomaiselle: Consumer Assistance Unit, NYS Department of Financial Services, One Commerce Plaza, Albany, NY 12257, 1-877-BANK-NYS (1-877-226-5697), www.dfs.ny.gov/consumer/fileacomplaint.htm.
+
+- Etelä-Dakotassa asuvat käyttäjät: Etelä-Dakotassa asuvat asiakkaat voivat ottaa yhteyttä osastoon esittääkseen kysymyksiä tai tehdäkseen valituksia koskien luvanhaltijan rahansiirtopalveluita. South Dakota Division of Banking (605) 773-3421.
+
+- Texasissa asuvat käyttäjät: Jos sinulla on valitus, ota ensin yhteyttä Meta Payments Inc:n kuluttajapalveluosastoon verkossa tukikeskuksessa tai soittamalla automaattiseen ja maksuttomaan asiakastukinumeroon 1-888-851-6382. Jos sinulla on yhä avoinna oleva valitus Meta Payments Inc:n rahansiirrosta tai valuutanvaihdosta, ohjaa valitus osoitteeseen: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705, USA, 1-877-276-5554 (maksuton), www.dob.texas.gov.
+
+- Vermontissa asuvat käyttäjät: Meta Payments Inc. (NMLS ID 918740) on Vermontin rahoituspalveluiden säätelemä ja lisensoima rahansiirtopalveluntarjoaja.
+
+VII. Lisäehdot
+
+- Käyttöehdot ja ehtojen ristiriidatKäyttöehtomme ("Käyttöehdot") koskevat maksuominaisuuksien käyttöäsi Meta-tuotteiden kautta. Jos nämä maksuehdot ovat ristiriidassa käyttöehtojen kanssa, maksuehdot ovat ensisijaiset. Sinua saattavat koskea myös kolmannen osapuolen ehdot, jotka on liitetty tähän tiedoksi. Tällaiset ehdot saattavat sisältää Applen tai Googlen ehtoja Meta-tuotteiden ostoista, jotka on tehty näiden palvelujen kautta. Olet yksin vastuussa tällaisten kolmansien osapuolien ehtojen noudattamisesta.
+
+- Lakien ristiriitaisuus Joissakin maissa voidaan rajoittaa kykyäsi suorittaa maksuja Meta-tuotteiden kautta, tai ne voidaan kieltää kokonaan. Mitään näiden maksuehtojen osaa ei pidä tulkita tällaisten ulkomaisten lakien kumoamiseksi tai kiertämiseksi.
+
+- Epäviralliset käännökset Nämä maksuehdot on laadittu englanniksi (Yhdysvallat). Jos jokin näiden maksuehtojen käännösversio on ristiriidassa englanninkielisen version kanssa, englanninkielistä versiota pidetään virallisena versiona.
+
+- Kauppapakotteet Et saa käyttää maksuominaisuuksia Meta-tuotteiden kautta sellaisten toimien, yksilöiden tai tahojen kanssa, jotka sijaitsevat maassa tai alueella, joka on Yhdysvaltain kauppasaarron kohteena tai jotka muutoin rikkoisivat sovellettavia Yhdysvaltain tai muiden kauppapakotteita.
+
+- "Me" Rajoittamatta edellä osiossa 1 säädettyä, "me" ja sen taivutusmuodot ja sen taivutusmuodot viittaavat seuraaviin tahoihin:
+
+- Siltä osin, kun aloitat Meta-tuotteiden kautta maksun, joka on muu kuin Metan käsittelemä maksu, tai me aloitamme veloituksen maksuvälineeltäsi, nämä maksuehdot ovat voimassa sinun ja (a) Meta Platforms, Inc:n välillä, jos asut tai pääasiallinen toimipaikkasi sijaitsee Yhdysvalloissa, Kanadassa, Yhdistyneessä kuningaskunnassa tai maassa, joka ei ole Euroopan alueella (mukaan lukien Euroopan talousalue ja Euroopan unioni), tai (b) Meta Platforms Ireland Limitedin välillä, jos asut tai pääasiallinen toimipaikkasi sijaitsee Euroopan alueella olevissa maissa, mukaan lukien Euroopan talousalueen ja Euroopan unionin maissa, mutta ei Yhdistyneessä kuningaskunnassa, kuten on esitetty käyttöehdoissa maksun ajankohtana.
+
+- Meta Platforms, Inc:n tietosuojakäytäntö on luettavissa osoitteessa https://www.facebook.com/about/privacy.
+
+- Meta Platforms Ireland Limitedin tietosuojakäytäntö on luettavissa osoitteesta www.facebook.com/payments_terms/EU_privacy.
+
+- Siltä osin, kun käytät Metan käsittelemiä maksuja ja asut tai jos pääasiallinen toimipaikkasi sijaitsee Yhdysvalloissa tai Kanadassa, nämä maksuehdot on tehty sinun ja Floridassa toimivan Meta Payments Inc:n välillä.
+
+- Meta Payments Inc:n tietosuojakäytäntö on luettavissa osoitteessa https://www.facebook.com/payments_terms/privacy.
+
+- Meta Payments Inc. on lisensoitu maksujen välittäjä useilla Yhdysvaltojen oikeustoimialueilla. Meta Payments Inc:n maksujenvälityslisenssi on nähtävissä osoitteessa https://www.facebook.com/payments_terms/licenses.
+
+- Siltä osin, kun käytät Metan käsittelemiä maksuja ja asut tai pääasiallinen toimipaikkasi sijaitsee jossakin muussa maassa kuin Yhdysvalloissa tai Kanadassa, nämä maksuehdot on tehty sinun ja Irlannin tasavallassa toimivan yksityisen osakeyhtiön Facebook Payments International Ltd:n välillä.
+
+- Jos taas asut Brasiliassa tai pääasiallinen toimipaikkasi on Brasiliassa, Facebook Online Serviços do Brasil Ltda saattaa veloittaa maksusi näiden maksuehtojen mukaisesti.
+
+- Facebook Payments International Ltd:n tietosuojakäytäntö on luettavissa osoitteessa www.facebook.com/payments_terms/EU_privacy.
+
+- Maksuvälineesi tallentaminen
+
+- Siltä osin, kun tallennat maksuvälineesi meille Meta-tuotteiden kautta ja asut tai pääasiallinen toimipaikkasi a sijaitsee Euroopan alueella, kuten Euroopan talousalueella ja Euroopan unionissa, Yhdistynyt kuningaskunta pois lukien: Irlannin tasavallassa toimiva yksityinen osakeyhtiö Facebook Payments International Ltd on vastuussa maksuvälineesi tallentamisesta näiden maksuehtojen mukaisesti. Tällöin sovelletaan myös Facebook Payments International Ltd:n tietosuojakäytäntöä.
+
+- Facebook Payments International Ltd:n tietosuojakäytäntö on luettavissa osoitteessa www.facebook.com/payments_terms/EU_privacy.
+
+- Siltä osin, kun tallennat maksuvälineesi meille Meta-tuotteiden kautta ja asut tai pääasiallinen toimipaikkasi sijaitsee Yhdysvalloissa, Kanadassa, Yhdistyneessä kuningaskunnassa tai muussa maassa Euroopan alueen ulkopuolella (mukaan lukien Euroopan talousalue ja Euroopan unioni): Floridassa toimiva osakeyhtiö Meta Payments Inc. on vastuussa maksuvälineesi tallentamisesta näiden maksuehtojen mukaisesti. Tällöin sovelletaan myös Meta Payments Inc:n tietosuojakäytäntöä.
+
+- Meta Payments Inc:n tietosuojakäytäntö on luettavissa osoitteessa https://www.facebook.com/payments_terms/privacy.
+
+- Meta Payments Inc. on lisensoitu maksujen välittäjä useilla Yhdysvaltojen oikeustoimialueilla. Meta Payments Inc:n maksujenvälityslisenssi on nähtävissä osoitteessa https://www.facebook.com/payments_terms/licenses.
+
+- Meta Platforms, Inc. saattaa nimetä muita oikeushenkilöitä keräämään varoja ja tarjoamaan tiettyjä liittyviä palveluita omissa nimissään tietyille käyttäjille Meta Platforms, Inc:n puolesta. Meta Platforms, Inc. voi myös nimetä Meta Platforms Ireland Limitedin tai muita oikeushenkilöitä välittäjäksi / alustan ylläpitäjäksi ALV:hen/GST:hen (ja muihin määritettyihin vastaaviin veroihin) liittyviin tarkoituksiin siinä laajuudessa kuin se on oikeudellisesti sallittavaa sovellettavien verosäädösten nojalla, jotta se voi valtuuttaa veloituksen käyttäjille, laatia laskuja käyttäjille ja kerätä maksun tietyiltä käyttäjiltä tiettyjen tuotteiden/palveluiden toimittamisen yhteydessä. Meta Platforms, Inc. voi myös nimetä Meta Platforms Ireland Limitedin tai muita oikeushenkilöitä veloittamaan, keräämään, raportoimaan ja tilittämään soveltuvan ALV:n/GST:n (ja muut määritetyt vastaavat verot) asianmukaisten lainkäyttöalueiden veroviranomaisille tiettyjen tuotteiden/palveluiden toimituksesta käyttäjille.
+
+- "Metan käsittelemät maksut" Näissä maksuehdoissa käytetty termi "Metan käsittelemät maksut" viittaa maksutapahtumiin, joissa maksut käynnistetään Meta-tuotteiden kautta ja käsitellään Meta Payments Inc:n tai Facebook Payments International Ltd:n toimesta. Metan käsittelemiin maksuihin kuuluvat P2P Yhdysvalloissa ja tietyt kehittäjille digitaalisista tuotteista Meta-tuotteiden kautta suoritetut maksut.

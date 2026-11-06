@@ -58,6 +58,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202507": {
+   "timestamp": "20250715185734",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "E5ZXRT7HPB62FJAR6QMZFINJ7MWQJIWS",
+   "text_hash": "d54b4572688c",
+   "chars": 10128,
+   "usable": true,
+   "extractor": 3
+  },
+  "202509": {
+   "timestamp": "20250928115721",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "V5ZM2RXP3UINJLR6ZQO5EBDUQ2IAAUVE",
+   "text_hash": "a39efa728ed9",
+   "chars": 12390,
+   "usable": true,
+   "extractor": 3
+  },
   "202510": {
    "timestamp": "20251027093134",
    "original": "https://www.facebook.com/legal/self_service_ads_terms",
@@ -65,6 +83,15 @@
    "text_hash": "a39efa728ed9",
    "chars": 12390,
    "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260808150720",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "TZCWFPAFPCQJ2GSYMLL47RRG22JXZPP7",
+   "text_hash": "6b344a67d1f2",
+   "chars": 89,
+   "usable": false,
    "extractor": 3
   },
   "202610": {

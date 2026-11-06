@@ -40,10 +40,37 @@
    "usable": true,
    "extractor": 3
   },
+  "202503": {
+   "timestamp": "20250328101139",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "XCN3ROF4TWPSO5GJISRGAGQU2NRPJYQY",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250407062451",
+   "original": "https://developers.facebook.com/policy/credits/",
+   "digest": "3ETCJSVU5GBOFJB3GA5C4W666WX2JIH7",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
   "202505": {
    "timestamp": "20250529140454",
    "original": "https://developers.facebook.com/policy/credits",
    "digest": "QZLXUV6E6XGLY6DXI774SILK4PIQOPX5",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
+  "202506": {
+   "timestamp": "20250629031215",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "JMZDG5Y5YKYWYCPAKGX64KU4HVHO6ZKY",
    "text_hash": "2ddc04313505",
    "chars": 17577,
    "usable": true,

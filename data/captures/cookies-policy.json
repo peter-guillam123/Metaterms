@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241228162450",
+   "original": "https://privacycenter.instagram.com/policies/cookies/",
+   "digest": "SXJH77VFHQKDQZ5RJNFQ6K5WOWMU4R5T",
+   "text_hash": "36732dbcf7b2",
+   "chars": 3823,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250215030039",
    "original": "https://privacycenter.instagram.com/policies/cookies/",
@@ -62,6 +71,15 @@
    "timestamp": "20260526184952",
    "original": "https://privacycenter.instagram.com/policies/cookies/",
    "digest": "OHLZ5YGZ5DJVVMNNHDM5VTIBYSLWK7NM",
+   "text_hash": "36732dbcf7b2",
+   "chars": 3823,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260802231519",
+   "original": "https://privacycenter.instagram.com/policies/cookies/",
+   "digest": "WQYF7OXSFFL4ZBURPT4KYB7DT5IVBQ3P",
    "text_hash": "36732dbcf7b2",
    "chars": 3823,
    "usable": true,

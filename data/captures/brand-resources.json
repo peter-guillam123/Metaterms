@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241214163210",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "XTI2WFZYNB6MMGT5YH4D65WFE4NXAP7K",
+   "text_hash": "0d52bfd6f16d",
+   "chars": 924,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250217042348",
    "original": "https://about.meta.com/brand/resources/",
@@ -55,6 +64,24 @@
    "digest": "7MYQO6FWCOUOJ3ESIN6IKZEX25G5OCI5",
    "text_hash": "3d725a8c765f",
    "chars": 629,
+   "usable": false,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260515194723",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "YJEGGMXGJ46JYXLD5ON4BWOB6OYUABCD",
+   "text_hash": "1a4e44455554",
+   "chars": 628,
+   "usable": false,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260802154652",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "TBVPBGDVF3XD7HPEX3O67CT6HBBDF763",
+   "text_hash": "1a4e44455554",
+   "chars": 628,
    "usable": false,
    "extractor": 3
   },

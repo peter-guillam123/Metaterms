@@ -67,10 +67,37 @@
    "usable": true,
    "extractor": 3
   },
+  "202510": {
+   "timestamp": "20251027093203",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "3HTLHTKUB3USKL3TJMDX36W3RPAK6S7Z",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260201170557",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "2ESZHT4BBRM5E4MLPL6HL4QDPKBKYQMU",
+   "text_hash": "8341ea3ac840",
+   "chars": 68,
+   "usable": false,
+   "extractor": 3
+  },
   "202605": {
    "timestamp": "20260509011947",
    "original": "https://www.facebook.com/legal/music_guidelines",
    "digest": "6B65MJADP2B4C2DPG2N5P53ATWMVWSAF",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260817234901",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "5NCWUFJMPQMZBQGTEZKSVQYDY632YE7D",
    "text_hash": "31bb8cea6015",
    "chars": 2762,
    "usable": true,

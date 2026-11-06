@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241204133920",
+   "original": "https://www.facebook.com/help/1257205004624246",
+   "digest": "6W65LN4NRNKT7QZPZY5CEUJ7WSIZD2GH",
+   "text_hash": "6ac206d9ac37",
+   "chars": 7849,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250107023111",
+   "original": "https://www.facebook.com/help/1257205004624246",
+   "digest": "PWSGDG5PPB23766KMJBVZBVMECV23ZVU",
+   "text_hash": "d777296d0971",
+   "chars": 7777,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250212031212",
    "original": "https://www.facebook.com/help/1257205004624246",
