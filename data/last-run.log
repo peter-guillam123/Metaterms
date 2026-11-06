@@ -24,3 +24,9 @@
 15:31:05   4.8s 200 https://web.archive.org/web/20260511055332id_/https://www.facebook.com/policies/ads
 15:31:39  30.1s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/web/20261014124551id_/https://www.facebook.com/payments_terms
 15:32:58   4.8s 200 https://web.archive.org/web/20261014124551id_/https://www.facebook.com/payments_terms
+15:33:01 checkpoint pushed
+15:33:01 pages still to finish: 32
+15:33:12  10.2s 200 https://web.archive.org/web/20261015062137id_/https://transparency.meta.com/policies/community-standards/
+15:33:35  23.5s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/web/20260305145754id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
+15:34:52   1.6s 200 https://web.archive.org/web/20260305145754id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
+15:35:13  15.0s 200 https://web.archive.org/web/20261010074346id_/https://developers.facebook.com/policy/credits
