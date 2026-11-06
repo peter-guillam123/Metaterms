@@ -1,16 +1,16 @@
 """Small, polite client for the Wayback Machine.
 
-Only the standard library, so the GitHub Action needs no installs for this
-part. All requests share one rate limiter, and back off on 429 and 5xx.
+Only the standard library. Requests go one at a time over a single kept-open
+connection, spaced out, with back-off on refusals, 429 and 5xx.
 """
 
+import http.client
 import json
 import re
+import ssl
 import threading
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 
 UA = "metaterms-research/0.1 (+https://github.com/peter-guillam123/Metaterms)"
 CDX = "https://web.archive.org/cdx/search/cdx"
@@ -33,15 +33,6 @@ def _wait_turn(url):
         _last[0] = time.monotonic()
 
 
-class NoRedirect(urllib.request.HTTPRedirectHandler):
-    def redirect_request(self, *args, **kwargs):
-        return None
-
-
-_follow = urllib.request.build_opener()
-_nofollow = urllib.request.build_opener(NoRedirect)
-
-
 LOG = []  # (seconds, status, url) for every request, written out by run.py
 DEADLINE = [None]  # monotonic time after which we stop retrying
 
@@ -61,36 +52,72 @@ def out_of_time():
     return DEADLINE[0] is not None and time.monotonic() > DEADLINE[0]
 
 
+# One connection, kept open between requests. The archive refuses new
+# connections opened in quick succession, and reusing one is lighter on
+# its servers anyway.
+HOST = "web.archive.org"
+_conn = [None]
+
+
+def _drop():
+    if _conn[0] is not None:
+        try:
+            _conn[0].close()
+        except Exception:
+            pass
+    _conn[0] = None
+
+
+def _fetch_once(path, timeout):
+    if _conn[0] is None:
+        _conn[0] = http.client.HTTPSConnection(HOST, timeout=timeout, context=ssl.create_default_context())
+    c = _conn[0]
+    c.timeout = timeout
+    if c.sock is not None:
+        c.sock.settimeout(timeout)
+    c.request("GET", path, headers={"User-Agent": UA, "Connection": "keep-alive"})
+    r = c.getresponse()
+    body = r.read()
+    headers = {k: v for k, v in r.getheaders()}
+    if (r.getheader("Connection") or "").lower() == "close":
+        _drop()
+    return r.status, headers, body
+
+
 def get(url, follow=True, tries=3, timeout=30):
     """Return (status, headers, body bytes, final url)."""
-    opener = _follow if follow else _nofollow
     delay = 15
     for attempt in range(tries):
         if out_of_time():
             break
-        _wait_turn(url)
+        current = url
         t0 = time.monotonic()
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
         try:
-            with opener.open(req, timeout=timeout) as r:
-                body = r.read()
-                log(f"{time.monotonic() - t0:5.1f}s {r.status} {url}")
-                return r.status, dict(r.headers), body, r.geturl()
-        except urllib.error.HTTPError as e:
-            log(f"{time.monotonic() - t0:5.1f}s {e.code} {url}")
-            if e.code in (301, 302, 303, 307, 308) and not follow:
-                return e.code, dict(e.headers), b"", url
-            if e.code == 404:
-                return 404, dict(e.headers), b"", url
-            if e.code in (429, 500, 502, 503, 504, 520, 522, 524):
-                time.sleep(delay)
-                delay = min(delay * 2, 120)
-                continue
-            return e.code, dict(e.headers), b"", url
-        except Exception as e:  # timeouts, resets: usually the archive
-            # asking us to slow down, so give it a full minute.
-            log(f"{time.monotonic() - t0:5.1f}s {type(e).__name__} ({str(e)[:80]}) {url}")
+            for hop in range(6):
+                parts = urllib.parse.urlsplit(current)
+                if parts.netloc != HOST:
+                    return 302, {"Location": current}, b"", current
+                path = parts.path + (f"?{parts.query}" if parts.query else "")
+                _wait_turn(current)
+                t0 = time.monotonic()
+                status, headers, body = _fetch_once(path, timeout)
+                log(f"{time.monotonic() - t0:5.1f}s {status} {current}")
+                loc = headers.get("Location") or headers.get("location")
+                if status in (301, 302, 303, 307, 308) and follow and loc:
+                    current = urllib.parse.urljoin(current, loc)
+                    continue
+                break
+        except Exception as e:  # refused, reset, timed out: usually the
+            # archive asking us to slow down, so give it a full minute.
+            _drop()
+            log(f"{time.monotonic() - t0:5.1f}s {type(e).__name__} ({str(e)[:80]}) {current}")
             time.sleep(75)
+            continue
+        if status in (429, 500, 502, 503, 504, 520, 522, 524):
+            time.sleep(delay)
+            delay = min(delay * 2, 120)
+            continue
+        return status, headers, body, current
     return None, {}, b"", url
 
 
