@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241206104240",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "34GBEKBG7INKCQ6OGIE7POZBQK3G4VJP",
+   "text_hash": "1d56daa66a47",
+   "chars": 4160,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250118091002",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "DWFECSUDHOL5U6TZAV43VSDEAKWVJ4N6",
+   "text_hash": "1d56daa66a47",
+   "chars": 4160,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250206173814",
    "original": "https://transparency.meta.com/policies/ad-standards",
@@ -76,6 +94,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202509": {
+   "timestamp": "20250920002503",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "G2Z6AMZHXFBBWL2WUQKDPIMX743ZB2LY",
+   "text_hash": "e9b701f954ed",
+   "chars": 4191,
+   "usable": true,
+   "extractor": 3
+  },
   "202510": {
    "timestamp": "20251010104227",
    "original": "https://transparency.meta.com/policies/ad-standards/",
@@ -89,6 +116,24 @@
    "timestamp": "20251119065901",
    "original": "https://transparency.meta.com/policies/ad-standards/",
    "digest": "4MMLFMFWC3D536Y4DUBJVL2MMBBWG6UV",
+   "text_hash": "efb5981dc603",
+   "chars": 35205,
+   "usable": true,
+   "extractor": 3
+  },
+  "202512": {
+   "timestamp": "20251210171904",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "NASOUKKJ6APSFKTNXCVN4V3KP35MDU65",
+   "text_hash": "efb5981dc603",
+   "chars": 35205,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260128202843",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "IISKGIQ6DKQCTOLA4FKVPEWHEFQTYHJD",
    "text_hash": "efb5981dc603",
    "chars": 35205,
    "usable": true,
@@ -154,6 +199,24 @@
    "digest": "Y4HF55LHBOOBG7BRNBQ5Z6JLDX6DTT4K",
    "text_hash": "b065af5c5942",
    "chars": 35586,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260906101751",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "JOVB4AZO4SIJ2UXTR3TNMV7LLUBH7MDW",
+   "text_hash": "b065af5c5942",
+   "chars": 35586,
+   "usable": true,
+   "extractor": 3
+  },
+  "202610": {
+   "timestamp": "20261020073946",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "DCN2R5QBZGKU5G7BZNCAPXOQNLYK72VC",
+   "text_hash": "be86c1ae492e",
+   "chars": 35610,
    "usable": true,
    "extractor": 3
   },

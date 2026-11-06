@@ -175,6 +175,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202606": {
+   "timestamp": "20260607055508",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "Y7VEK7RWFI4GQ5E3LVO3FEXYUV5VHV2F",
+   "text_hash": "7de8f2fa0dab",
+   "chars": 4453,
+   "usable": true,
+   "extractor": 3
+  },
+  "202607": {
+   "timestamp": "20260730163119",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "ZWRDQHXBG32BSOY52SBJPKQ3HIFVHSZP",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
   "202608": {
    "timestamp": "20260819164059",
    "original": "https://transparency.meta.com/policies/community-standards/",

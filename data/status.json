@@ -1,15 +1,15 @@
 {
  "advertising-policies": {
   "months_archived": 25,
-  "months_fetched": 15,
-  "versions": 7,
-  "complete": false
+  "months_fetched": 25,
+  "versions": 9,
+  "complete": true
  },
  "audience-network-policy": {
   "months_archived": 22,
-  "months_fetched": 19,
+  "months_fetched": 22,
   "versions": 5,
-  "complete": false
+  "complete": true
  },
  "avatar-terms": {
   "months_archived": 13,
@@ -25,9 +25,9 @@
  },
  "commerce-policies": {
   "months_archived": 21,
-  "months_fetched": 18,
+  "months_fetched": 21,
   "versions": 5,
-  "complete": false
+  "complete": true
  },
  "commercial-terms": {
   "months_archived": 15,
@@ -49,9 +49,9 @@
  },
  "community-standards": {
   "months_archived": 24,
-  "months_fetched": 18,
-  "versions": 8,
-  "complete": false
+  "months_fetched": 24,
+  "versions": 9,
+  "complete": true
  },
  "complaints-handling-process": {
   "months_archived": 7,
@@ -61,9 +61,9 @@
  },
  "developer-payment-terms": {
   "months_archived": 22,
-  "months_fetched": 18,
+  "months_fetched": 22,
   "versions": 2,
-  "complete": false
+  "complete": true
  },
  "live-policies": {
   "months_archived": 11,
@@ -73,21 +73,21 @@
  },
  "ai-terms": {
   "months_archived": 23,
-  "months_fetched": 16,
-  "versions": 8,
-  "complete": false
+  "months_fetched": 23,
+  "versions": 11,
+  "complete": true
  },
  "brand-resources": {
   "months_archived": 24,
-  "months_fetched": 15,
+  "months_fetched": 24,
   "versions": 5,
-  "complete": false
+  "complete": true
  },
  "platform-policy": {
   "months_archived": 24,
-  "months_fetched": 17,
+  "months_fetched": 24,
   "versions": 5,
-  "complete": false
+  "complete": true
  },
  "music-guidelines": {
   "months_archived": 13,
@@ -133,33 +133,33 @@
  },
  "terms-of-service": {
   "months_archived": 25,
-  "months_fetched": 16,
-  "versions": 8,
-  "complete": false
+  "months_fetched": 25,
+  "versions": 9,
+  "complete": true
  },
  "cookies-policy": {
   "months_archived": 24,
-  "months_fetched": 16,
+  "months_fetched": 24,
   "versions": 1,
-  "complete": false
+  "complete": true
  },
  "instagram-recommendations-guidelines": {
   "months_archived": 20,
-  "months_fetched": 17,
+  "months_fetched": 20,
   "versions": 6,
-  "complete": false
+  "complete": true
  },
  "instagram-privacy-policy": {
   "months_archived": 24,
-  "months_fetched": 16,
-  "versions": 10,
-  "complete": false
+  "months_fetched": 24,
+  "versions": 14,
+  "complete": true
  },
  "instagram-terms-of-use": {
   "months_archived": 25,
-  "months_fetched": 16,
-  "versions": 5,
-  "complete": false
+  "months_fetched": 25,
+  "versions": 7,
+  "complete": true
  },
  "instagram-purchase-protection-policy": {
   "months_archived": 8,
@@ -181,14 +181,14 @@
  },
  "facebook-recommendations-guidelines": {
   "months_archived": 18,
-  "months_fetched": 15,
-  "versions": 12,
-  "complete": false
+  "months_fetched": 18,
+  "versions": 14,
+  "complete": true
  },
  "partner-monetisation-policies": {
   "months_archived": 17,
-  "months_fetched": 14,
-  "versions": 9,
-  "complete": false
+  "months_fetched": 17,
+  "versions": 11,
+  "complete": true
  }
 }

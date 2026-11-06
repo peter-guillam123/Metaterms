@@ -148,6 +148,24 @@
    "usable": false,
    "extractor": 3
   },
+  "202603": {
+   "timestamp": "20260317184544",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "C5SBYPMXQ7WSJYSHAY2DHAJNT25YW3OW",
+   "text_hash": "3d725a8c765f",
+   "chars": 629,
+   "usable": false,
+   "extractor": 3
+  },
+  "202604": {
+   "timestamp": "20260410143443",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "EDMFNULYCW5EPQEZ6DEWO6QTKZE33VNI",
+   "text_hash": "3d725a8c765f",
+   "chars": 629,
+   "usable": false,
+   "extractor": 3
+  },
   "202605": {
    "timestamp": "20260515194723",
    "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
@@ -157,10 +175,37 @@
    "usable": false,
    "extractor": 3
   },
+  "202606": {
+   "timestamp": "20260622080525",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "7NYWD2UOH2EBIHDVPYKRIM44I2VEK7DV",
+   "text_hash": "1a4e44455554",
+   "chars": 628,
+   "usable": false,
+   "extractor": 3
+  },
+  "202607": {
+   "timestamp": "20260704081054",
+   "original": "https://www.meta.com/brand/resources/?utm_medium=redirect&utm_source=about.meta.com",
+   "digest": "ZSJHLPYMWFWQDUTMLGDQ35NXEGJG3EQA",
+   "text_hash": "1a4e44455554",
+   "chars": 628,
+   "usable": false,
+   "extractor": 3
+  },
   "202608": {
    "timestamp": "20260802154652",
    "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
    "digest": "TBVPBGDVF3XD7HPEX3O67CT6HBBDF763",
+   "text_hash": "1a4e44455554",
+   "chars": 628,
+   "usable": false,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260915202218",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "F2QJZF2FAYMEDRBFVDLIYLS6L5VUV6K4",
    "text_hash": "1a4e44455554",
    "chars": 628,
    "usable": false,
