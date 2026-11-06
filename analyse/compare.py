@@ -24,8 +24,46 @@ DATE_LINE = re.compile(
 )
 
 
+SENTENCE_END = re.compile(r'(?<=[.!?;])\s+(?=["(\[]?[A-Z0-9])')
+
+
+INVISIBLE = dict.fromkeys(map(ord, "\u2060\u200b\u200c\u200d\ufeff\u00ad"), None)
+
+
+def tidy(s):
+    """Undo spacing left by the page's markup: 'Standards .' -> 'Standards.'"""
+    s = s.translate(INVISIBLE)
+    s = re.sub(r"\s+([.,;:!?)\]])", r"\1", s)
+    s = re.sub(r"([(\[])\s+", r"\1", s)
+    s = re.sub(r'"\s+([^"]{1,80}?)\s+"', r'"\1"', s)
+    return s
+
+
 def blocks(text):
-    return [b.strip() for b in text.split("\n\n") if b.strip()]
+    """Split into comparable units: headings and list items whole, other
+    paragraphs into sentences. Comparing sentences, not paragraphs, keeps a
+    change of layout (one long paragraph becoming a list, say) from showing
+    up as a rewrite."""
+    out = []
+    for b in text.split("\n\n"):
+        b = tidy(b.strip())
+        if not b:
+            continue
+        if b.startswith("#"):
+            out.append(b)
+            continue
+        prefix = ""
+        if b.startswith("- "):
+            prefix, b = "- ", b[2:]
+        parts = SENTENCE_END.split(b)
+        out.append(prefix + parts[0])
+        out.extend(parts[1:])
+    return out
+
+
+def key(unit):
+    """What counts as 'the same sentence' (ignores list and heading marks)."""
+    return re.sub(r"^(#+ |- )", "", unit).strip().lower()
 
 
 def words(s):
@@ -102,7 +140,7 @@ def pair_blocks(old, new):
         for i, ob in enumerate(old):
             if i in used:
                 continue
-            r = similar(ob, nb)
+            r = similar(key(ob), key(nb))
             if r > score:
                 best, score = i, r
         if best is not None and score >= 0.5:
@@ -120,7 +158,7 @@ def heading_before(blks, idx):
 
 def diff_versions(a_text, b_text, context=1):
     a, b = blocks(a_text), blocks(b_text)
-    sm = difflib.SequenceMatcher(None, a, b, autojunk=False)
+    sm = difflib.SequenceMatcher(None, [key(x) for x in a], [key(x) for x in b], autojunk=False)
     hunks = []
     added = removed = 0
     for op, i1, i2, j1, j2 in sm.get_opcodes():
@@ -164,6 +202,20 @@ def diff_versions(a_text, b_text, context=1):
             "after": after,
         })
     return hunks, added, removed
+
+
+def word_change(a_text, b_text):
+    """Words added and removed, comparing the running text only, so that
+    headings, lists and paragraph breaks don't count."""
+    wa = WORD.findall(tidy(a_text).lower())
+    wb = WORD.findall(tidy(b_text).lower())
+    sm = difflib.SequenceMatcher(None, wa, wb, autojunk=False)
+    added = removed = 0
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op != "equal":
+            removed += i2 - i1
+            added += j2 - j1
+    return added, removed
 
 
 def page_dates(text):
@@ -217,7 +269,8 @@ def compare_doc(cap):
             continue
         if prev and h != prev["text_hash"]:
             a, b = load_text(slug, prev["text_hash"]), load_text(slug, h)
-            hunks, added, removed = diff_versions(a, b)
+            hunks, _, _ = diff_versions(a, b)
+            added, removed = word_change(a, b)
             if hunks:
                 changes.append({
                     "slug": slug,

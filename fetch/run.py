@@ -14,6 +14,7 @@ Everything is resumable: what's already in data/ is not fetched again.
 """
 
 import csv
+import glob
 import gzip
 import hashlib
 import json
@@ -257,6 +258,7 @@ def next_needed(picks, caps):
 
 def full():
     reextract(only_old=True)
+    links()
     docs = load_terms()
     plan = []
     for doc in docs:
@@ -367,6 +369,23 @@ def reextract(only_old=False):
     wayback.log(f"re-extracted {n} downloaded pages")
 
 
+def links():
+    """List the links in every downloaded copy of the Terms of Service
+    that point at other terms (for finding the EU messaging terms)."""
+    import re
+    from decode import decode_body
+    found = {}
+    for path in sorted(glob.glob(os.path.join(RAW, "terms-of-service", "*.html.gz"))):
+        with gzip.open(path, "rb") as f:
+            html = decode_body(f.read()).decode("utf-8", "replace")
+        for href in re.findall(r'href="([^"]+)"', html):
+            href = href.replace("&amp;", "&")
+            if re.search(r"(legal|terms|messag|eecc|contract|summary)", href, re.I) and "static" not in href:
+                found.setdefault(href, []).append(os.path.basename(path)[:8])
+    write_json(os.path.join(DATA, "terms-links.json"), {k: sorted(set(v)) for k, v in sorted(found.items())})
+    wayback.log(f"found {len(found)} links")
+
+
 def probe():
     os.makedirs(SAMPLES, exist_ok=True)
     for doc in load_terms():
@@ -404,6 +423,6 @@ if __name__ == "__main__":
     wayback.log(f"start: mode={mode} budget={budget} minutes")
     wayback.DEADLINE[0] = started + budget * 60
     try:
-        {"probe": probe, "full": full, "reextract": reextract}[mode]()
+        {"probe": probe, "full": full, "reextract": reextract, "links": links}[mode]()
     finally:
         write_log(mode, started)
