@@ -19,8 +19,8 @@ _lock = threading.Lock()
 _last = [0.0]
 # Seconds between requests. The index (CDX) server refuses connections if
 # pushed, so it gets a wider gap than ordinary page fetches.
-GAP_CDX = 5.0
-GAP_PAGE = 5.0
+GAP_CDX = 8.0
+GAP_PAGE = 8.0
 
 
 def _wait_turn(url):
@@ -90,7 +90,7 @@ def get(url, follow=True, tries=3, timeout=30):
         except Exception as e:  # timeouts, resets: usually the archive
             # asking us to slow down, so give it a full minute.
             log(f"{time.monotonic() - t0:5.1f}s {type(e).__name__} ({str(e)[:80]}) {url}")
-            time.sleep(60)
+            time.sleep(75)
     return None, {}, b"", url
 
 

@@ -228,8 +228,9 @@ def next_needed(picks, caps):
     def fetched(m):
         return m in done
 
-    # Pass 1: first, last, and every third month.
-    coarse = avail[::3] + [avail[-1]]
+    # Pass 1: newest month first (so every page's latest wording arrives
+    # early), then the oldest, then every third month between.
+    coarse = [avail[-1]] + avail[::3]
     for m in coarse:
         if not fetched(m):
             return m
