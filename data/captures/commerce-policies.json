@@ -13,12 +13,30 @@
    "usable": true,
    "extractor": 3
   },
+  "202501": {
+   "timestamp": "20250103223237",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "SZ74QY637QAXDPWFCQWKIK5EPU2A535T",
+   "text_hash": "f97955daae53",
+   "chars": 6545,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250212190829",
    "original": "https://www.facebook.com/policies_center/commerce",
    "digest": "MKI2CHM3PUKBGWN5XSZ6ZXUK45LAJXMZ",
    "text_hash": "14f0eee6067e",
    "chars": 7102,
+   "usable": true,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250405035009",
+   "original": "https://www.facebook.com/policies_center/commerce/",
+   "digest": "E3KV3RDB3FKZ4DSUFQDQPGMJHYEAGJBL",
+   "text_hash": "0e5e20a4dae6",
+   "chars": 7462,
    "usable": true,
    "extractor": 3
   },

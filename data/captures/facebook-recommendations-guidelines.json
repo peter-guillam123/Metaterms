@@ -31,6 +31,33 @@
    "usable": false,
    "extractor": 3
   },
+  "202510": {
+   "timestamp": "20251027093139",
+   "original": "https://www.facebook.com/help/1257205004624246/",
+   "digest": "3E76LJPSTHTBJZRQPL2SAE2PBXIDTGDI",
+   "text_hash": "bce63677029f",
+   "chars": 7800,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260319031746",
+   "original": "https://www.facebook.com/help/1257205004624246/",
+   "digest": "AUXOQ3KKMA42EISJIVZAHFNI3RBQ7UDJ",
+   "text_hash": "59c2728d5e1b",
+   "chars": 7296,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260821162026",
+   "original": "https://www.facebook.com/help/1257205004624246",
+   "digest": "7BECEIOHCVP2XRBMFP3V5QUTVKK357MU",
+   "text_hash": "013f6c3f6bc5",
+   "chars": 8013,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261022170400",
    "original": "https://www.facebook.com/help/1257205004624246",

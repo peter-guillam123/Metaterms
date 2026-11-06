@@ -31,6 +31,33 @@
    "usable": true,
    "extractor": 3
   },
+  "202508": {
+   "timestamp": "20250801170130",
+   "original": "https://transparency.meta.com/policies/ad-standards",
+   "digest": "3CRWU3QBMLKOHHEND2O6SXUUW3QAGD6R",
+   "text_hash": "e9b701f954ed",
+   "chars": 4191,
+   "usable": true,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251119065901",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "4MMLFMFWC3D536Y4DUBJVL2MMBBWG6UV",
+   "text_hash": "efb5981dc603",
+   "chars": 35205,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260220062945",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "NIZ2CNWLP63GQ6J73VCUV6INVNU33YFT",
+   "text_hash": "efb5981dc603",
+   "chars": 35205,
+   "usable": true,
+   "extractor": 3
+  },
   "202611": {
    "timestamp": "20261101045258",
    "original": "https://transparency.meta.com/policies/ad-standards/",

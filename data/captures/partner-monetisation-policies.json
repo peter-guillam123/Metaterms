@@ -22,6 +22,33 @@
    "usable": false,
    "extractor": 3
   },
+  "202507": {
+   "timestamp": "20250705115432",
+   "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+   "digest": "4WGZJ6IJLDCXOWYC2ILAGI7DWGUCV3N4",
+   "text_hash": "4529365622f6",
+   "chars": 154,
+   "usable": false,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251121122820",
+   "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+   "digest": "43KTI6GDUFXA52YMJUNGLTD2LYOWTOT3",
+   "text_hash": "5ed387d42fbc",
+   "chars": 37,
+   "usable": false,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260322072057",
+   "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+   "digest": "6LZ74EOEEQDSKTVEFGQQC7274AZMTMTX",
+   "text_hash": "5410b915f7da",
+   "chars": 476,
+   "usable": false,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261014124420",
    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",

@@ -40,6 +40,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202510": {
+   "timestamp": "20251029135812",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/",
+   "digest": "H6DSQKQRVWRANBZNSD64F3B45BAINNE6",
+   "text_hash": "e59463d4c717",
+   "chars": 14903,
+   "usable": true,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251112084945",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "QH7QFDLAT2TJ6PAEIEVGCTFIBBBHJFVK",
+   "text_hash": "e59463d4c717",
+   "chars": 14903,
+   "usable": true,
+   "extractor": 3
+  },
   "202512": {
    "timestamp": "20251209222128",
    "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/",
@@ -53,6 +71,15 @@
    "timestamp": "20260311185459",
    "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
    "digest": "KXWOJ53KBT6KKBDB4RARQSMFAX6ACLFO",
+   "text_hash": "e59463d4c717",
+   "chars": 14903,
+   "usable": true,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260527173339",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "OEIFIRPPH5USA7I5IRB3F3GQUG7DL6HP",
    "text_hash": "e59463d4c717",
    "chars": 14903,
    "usable": true,

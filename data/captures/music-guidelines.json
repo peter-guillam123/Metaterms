@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241225150706",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "GVJK2NWA3T4S5ZBFYPCU3IG7OCHZKLES",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
+  },
   "202501": {
    "timestamp": "20250123103552",
    "original": "https://www.facebook.com/legal/music_guidelines",
@@ -29,6 +38,15 @@
    "text_hash": "a76619eec56b",
    "chars": 2777,
    "usable": true,
+   "extractor": 3
+  },
+  "202503": {
+   "timestamp": "20250326145809",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "ZIVJ2EHO66EJ2APXCHKWHHSCYUIFSKQ7",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
    "extractor": 3
   },
   "202507": {

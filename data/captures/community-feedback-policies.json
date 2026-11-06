@@ -67,6 +67,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202608": {
+   "timestamp": "20260808150502",
+   "original": "https://www.facebook.com/policies_center/community_feedback",
+   "digest": "UXTBOEMNYN7KXZXD6RES6AEBCMRW3ETH",
+   "text_hash": "9c21ec3650cc",
+   "chars": 2432,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260902223645",
+   "original": "https://www.facebook.com/policies_center/community_feedback/",
+   "digest": "ZG4NUWHHQGGPOTE3YOLDMZKQVOQXGMCB",
+   "text_hash": "71a9c1d37abf",
+   "chars": 2306,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261008023711",
    "original": "https://www.facebook.com/policies_center/community_feedback/",

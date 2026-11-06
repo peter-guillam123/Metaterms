@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202501": {
+   "timestamp": "20250104003024",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "X6TCRUYA2JQ5TZRDQ4OOO44FJCNBDGD6",
+   "text_hash": "64559396fa31",
+   "chars": 8844,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250215035517",
    "original": "https://transparency.meta.com/policies/community-standards/",
@@ -62,6 +71,15 @@
    "timestamp": "20260515104911",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "CZQFGHMGJUVH6LQUGK7M2X7J5Y5HBR2O",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260819164059",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "XG6A3CZI2A2JVKVIEYONGM7GAIT7322O",
    "text_hash": "88f222016e3a",
    "chars": 4507,
    "usable": true,

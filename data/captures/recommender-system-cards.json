@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202502": {
+   "timestamp": "20250215130003",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "7OYLNMWDM3UYMK4WZDSZ2GJCBFPZETIC",
+   "text_hash": "6e2ebc147924",
+   "chars": 1846,
+   "usable": true,
+   "extractor": 3
+  },
+  "202503": {
+   "timestamp": "20250306210151",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "G7FQT4MZUZROGOGFKXTJUXJGLCVBW5GZ",
+   "text_hash": "6e2ebc147924",
+   "chars": 1846,
+   "usable": true,
+   "extractor": 3
+  },
   "202504": {
    "timestamp": "20250423044727",
    "original": "https://ai.meta.com/tools/system-cards/",

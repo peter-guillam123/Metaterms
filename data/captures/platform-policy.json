@@ -58,6 +58,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202605": {
+   "timestamp": "20260516130039",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "UO7WXSWMKBZL7UL7JM2HI5IKZVDOHGZN",
+   "text_hash": "b4439423d9f9",
+   "chars": 44543,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260818112501",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "IKOSODVIV2FURN6NQ5FNFUX334PDYRJU",
+   "text_hash": "b4439423d9f9",
+   "chars": 44543,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261015000740",
    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",

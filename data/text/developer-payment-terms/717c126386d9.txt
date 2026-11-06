@@ -1,0 +1,141 @@
+## Zahlungsbedingungen
+
+Der Dienst "Facebook Payments" ("Facebook Payments") unterstützt Entwickler, die Premium-Inhalte in Spielen anbieten möchten, bei der Ertragsgenerierung, damit sie sich auf das Entwickeln von Apps, Spielen und Funktionen (zusammengefasst "Apps") konzentrieren können, anstatt auf die Entwicklung von Zahlungssystemen
+
+Die Plattform-Richtlinie von Facebook wurden aktualisiert und ist nun Teil der Plattform-Nutzungsbedingungen und Entwickler-Richtlinien von Facebook, die am 31. August 2020 in Kraft treten. Mehr dazu
+
+Datum der letzten Überarbeitung: 4. November 2022
+
+Um Qualität, Nutzerfreundlichkeit und Sicherheit des Nutzererlebnisses auf Facebook zu steigern, gelten diese Facebook-Zahlungsbedingungen für Entwickler (die "Bedingungen") für alle Entwickler von Apps, die Facebook Payments nutzen. Zur Vereinfachung haben wir die Abschnitte mit Überschriften versehen, aber du solltest dir diese Bedingungen sorgfältig durchlesen, damit du deine sowie unsere Rechte und Pflichten verstehst.
+
+Diese Vereinbarung wurde auf Englisch (USA) verfasst. Sofern zwischen irgendeiner Übersetzung dieser Vereinbarung und der englischen Version ein Widerspruch besteht, ist die englische Version maßgeblich.
+
+### Transaktionen
+
+- Berechtigung . Wir können deinen Antrag auf Integration von Facebook Payments nach unserem alleinigen Ermessen genehmigen oder ablehnen. Du musst mindestens achtzehn (18) Jahre alt sein, um Facebook Payments in deine App zu integrieren; außerdem darfst du nicht als Administrator für eine App aufgeführt sein, bei der Facebook Payments aktiviert ist, wenn du noch keine sechzehn (16) Jahre alt bist. Weiterhin können wir deine Berechtigung zur weiteren Nutzung von Facebook Payments jederzeit nach unserem alleinigen Ermessen widerrufen.
+
+- Rollen der Parteien
+
+- Du übernimmst die Verantwortung dafür, dass jede Transaktion gemäß den von dir angebotenen Nutzungsbedingungen durchgeführt wird. Facebook ist an keiner zugrundeliegenden Transaktion zwischen bzw. unter Entwicklern und Nutzern beteiligt, sofern in Abschnitt 3.9 dieser Bedingungen nichts anderes angegeben wird.
+
+- Du ernennst Meta Payments Inc. ("MPY") zu deiner beschränkten Zahl- und Inkassostelle ausschließlich für den Zweck, in deinem Namen Zahlungen von Nutzern für von dir auf Facebook angebotene Inhalte (sowie je nach Region, für anfallende Steuern und Gebühren) anzunehmen.
+
+Du stimmst Folgendem zu:
+
+- Eine Zahlung, die ein Nutzer an MPY leistet, gilt als direkt an dich geleistete Zahlung und erfüllt die Zahlungsverpflichtung des Nutzers dir gegenüber vollständig, und du musst deine Verpflichtungen gegenüber dem Nutzer so erfüllen, als wenn du die Zahlung direkt von dem Nutzer erhalten hast;
+
+- MPY ist dafür verantwortlich, jegliche Zahlungen, die es von Nutzern in deinem Namen erhalten hat, abzüglich etwaiger an MPY oder eines seiner verbundenen Unternehmen zu zahlender Beträge gemäß diesen Bedingungen an dich zu überweisen; und
+
+- wenn MPY nicht jegliche Beträge an dich überweist, die es in deinem Namen von Nutzern erhalten hat und die dir gegenüber im Einklang mit diesen Bedingungen fällig sind, hast du nur gegenüber MPY einen Regressanspruch.
+
+- Preisgestaltung . Für die Preisfestsetzung in Apps gelten folgende Regelungen:
+
+- Du kannst die Preise für die zum Verkauf angebotenen Artikel in deiner eigenen lokalen Währung festsetzen, wenn eine solche Preisgestaltung unterstützt wird.
+
+- Du darfst den Preis für einen Artikel nicht je nach dem elektronischen Guthaben eines Nutzers unterschiedlich festlegen.
+
+- Du kannst Nutzern gestatten, deine virtuelle In-Game-Währung oder Artikel von deiner Website bzw. einer anderen Plattform, mit der der Nutzer verbunden ist, zu importieren, musst dabei jedoch Folgendes einhalten:
+
+- Du musst denselben Preis auf Facebook anbieten, den du angemeldeten Facebook-Nutzern auf deiner eigenen Website oder sonstigen Plattform-App anbietest; und
+
+- Du darfst angemeldete Facebook-Nutzer nicht dazu bewegen, einen Kauf auf deiner Website oder in einer App auf einer anderen Plattform zu tätigen, indem du ihnen beispielsweise kostenlose oder reduzierte Waren oder Dienstleistungen anbietest, die für Käufer auf Facebook nicht verfügbar sind.
+
+- Verbote . Die folgenden Transaktionsarten sind bei Facebook Payments nicht gestattet:
+
+- Du darfst keine Transaktion durchführen, deren Förderung oder Durchführung auf Facebook untersagt ist.
+
+- Du darfst Facebook Payments nicht nutzen, um virtuelle Währung oder sonstige Artikel mit gespeichertem Wert zu verkaufen, die außerhalb der App, in der die Transaktion abgeschlossen wurde, verwendet werden können. Außerdem darfst du Nutzern nicht gestatten, etwas durch Nutzung von Facebook Payments Gekauftes in bar auszuzahlen, einzulösen bzw. gegen etwas von Wert einzutauschen. Weiterhin darfst du ohne unsere vorherige Genehmigung nicht den elektronischen Wert von einem Nutzer in einer App annehmen und dann den gekauften Artikel an den Nutzer in einer anderen App übergeben bzw. übertragen. So ist beispielsweise eine App, die lediglich zur Durchführung von Transaktionen entwickelt wurde, nicht zulässig.
+
+- Außer als Kaufmethode innerhalb deiner App gemäß diesen Bedingungen bzw. mit unserer vorherigen schriftlichen Genehmigung darfst du elektronische Werte (u. a. Guthaben auf Geschenkgutscheinen) nicht an irgendwelche Dritte verkaufen, mit ihnen handeln oder sie tauschen, und du darfst dies auch nicht anderen ermöglichen bzw. erlauben.
+
+- Außer mit unserer vorherigen Genehmigung darfst du keine Zahlungen für materielle Güter akzeptieren. Dies gilt auch für die Bezahlung für irgendetwas, das später zum Erwerb materieller Güter verwendet werden könnte, wobei materielle Güter als jegliche Güter definiert sind, die physisch an einen Nutzer geliefert werden.
+
+- Ohne unsere vorherige Genehmigung darfst du Facebook Payments nicht dazu verwenden, Gelder für wohltätige Zwecke zu erbitten, zu sammeln oder zu überweisen.
+
+- Alle von dir auf oder über Facebook angebotenen Artikel, virtuellen Währungen bzw. Dienstleistungen gelten gemäß der Erklärung der Rechte und Pflichten als von dir auf Facebook gepostete Inhalte bzw. Apps
+
+. Du darfst auf oder über Facebook keine Artikel, virtuellen Währungen oder Dienstleistungen anbieten, welche die Einwilligung oder andere Rechte von irgendeinem Dritten erfordern, es sei denn, du hast alle diese Rechte eingeholt. Darüber hinaus darfst du keine Artikel, virtuellen Währungen oder Dienstleistungen anbieten, die uns zur Zahlung einer Gebühr oder sonstigen Abgabe an Dritte verpflichten würden. Du stimmst zu, uns von allen Forderungen, die aus einem Verstoß deinerseits gegen die Bestimmungen dieses Abschnitts resultieren oder damit im Zusammenhang stehen, freizustellen und schadlos zu halten.
+
+- Ohne unsere vorherige Genehmigung darfst du keine Promotion auf Facebook organisieren, in deren Rahmen der Kauf von In-Game-Artikeln bzw. virtueller Währung seitens eines Nutzers zu einer Berechtigung zum Gewinnen eines Preises von Wert beiträgt oder führt. Um eine Genehmigung zu beantragenkontaktiere uns bitte, und füge ein von deinem Rechtsanwalt ausgestelltes Gutachten bei, aus dem hervorgeht, warum dein Spiel in allen Rechtsordnungen, in denen die Promotion Nutzern zur Verfügung steht, kein Glücksspiel sondern vielmehr eine rechtmäßige Aktivität darstellt.
+
+- Geheimhaltung . Du wirst die von uns erhaltenen Zahlungsinformationen irgendeines Nutzers zu keinem anderen Zweck als zur Durchführung derjenigen Transaktion, für welche du die Informationen erhalten hast, verwenden oder offenlegen.
+
+- Sonstige geltende Bedingungen . Du kannst im Zusammenhang mit deinen Verkäufen ergänzende Nutzungsbedingungen anbieten. Diese müssen allerdings im Einklang mit den Nutzungsbedingungen bzw. Richtlinien von Facebook stehen. Du musst die Richtlinien für Markenressourcen von Facebook einhalten.
+
+### Guthabenkontrolle
+
+- Entwickler-Guthaben . Entwickler, die Facebook Payments nutzen, erhalten ein Entwickler-Guthaben bei Facebook. Immer wenn du einen Verkauf auf unserer Plattform abschließt, schreibt Facebook die Erlöse aus diesem Verkauf abzüglich unserer Bearbeitungsgebühr deinem Entwickler-Guthaben gut. Facebook erhält im Zusammenhang mit jeder auf unserer Plattform über Facebook Payments durchgeführten Transaktion eine Bearbeitungsgebühr in Höhe von 30 % zuzüglich jeglicher geltenden Umsatz- bzw. Mehrwertsteuer.
+
+- Art des Dienstes . Facebook ist keine Bank und bietet auch keine Bankdienstleistungen an. Du bekommst keine Zinsen auf dein Entwickler-Guthaben. Entwickler-Guthaben sind keine Einlagenverpflichtungen und sind nicht durch die gesetzliche Einlagensicherung (Federal Deposit Insurance Corporation bzw. Financial Services Compensation Scheme) oder irgendeine andere Stelle - gleichgültig ob staatlich oder privat - abgesichert. Alle Entwickler-Guthaben werden in US-Dollar gehalten und ausgedrückt. Falls deine Transaktion in einer anderen Währung erfolgt ist, werden die Erlöse aus dem Verkauf zum Zeitpunkt der Transaktion gemäß dem an dem Tag veröffentlichten Wechselkurs umgerechnet, bevor sie deinem Entwickler-Guthaben gutgeschrieben werden.
+
+- Auszahlung . Wir lösen dein Entwickler-Guthaben gemäß den folgenden Regelungen ein:
+
+- Wir können dein Entwickler-Guthaben nur einlösen, wenn uns deine aktuellen Bankinformationen sowie jegliche sonstige für die Zahlung benötigten Informationen vorliegen. Dazu gehören erforderlichenfalls Unterlagen zur Identifizierung, zur Steuer sowie zur Unternehmensgründung. Eine Liste unserer aktuellen Auszahlungsmethoden findest du auf unserer Website .
+
+- Wir führen Zahlungen zur Einlösung von Entwickler-Guthaben nur auf das Konto durch, welches der Entwickler im "Auszahlungsinformationen"-Feld in den Unternehmenseinstellungen des Entwicklers eingegeben hat.
+
+- Facebook löst dein Entwickler-Guthaben etwa 21 Tage nach dem Ende des zweiwöchigen Zeitraums ein (entweder vom 1. bis 15. des Monats oder vom 16. bis zum letzten Tag des Monats), in dem die Transaktion stattgefunden hat, sofern in diesen Bedingungen nichts anderes festgelegt ist.
+
+- Entwickler-Guthaben werden nur in US-Dollar eingelöst.
+
+- Wenn der zur Einlösung eines Entwickler-Guthabens zu zahlende Betrag für einen bestimmten Zahlungszeitraum unter einhundert US-Dollar (100,00 $) liegt, verschieben wir die Zahlung auf den nächsten Monat, es sei denn, dein Konto wird deaktiviert oder gelöscht oder seit deiner letzten Zahlung zur Einlösung bzw. deiner ersten Nutzung von Facebook Payments oder ‐Gutschriften ist ein Jahr vergangen.
+
+- Wir können die Auszahlung im Zusammenhang mit jeder von uns durchgeführten Untersuchung verschieben, jedoch in keinem Fall länger als 180 Tage nach der Transaktion.
+
+- Wir können die Einlösung von Entwickler-Guthaben bzw. Teilen davon zurückhalten, wenn diese/s infolge eines Verstoßes deinerseits gegen irgendwelche Nutzungsbedingungen oder Richtlinien von Facebook verdient oder im Rahmen betrügerischer oder illegaler Transaktionen übertragen bzw. laut Aussage eines Nutzers ohne seine Einwilligung übertragen wurde/n oder aber weil es/sie dazu geführt hat/haben, dass Waren, Dienstleistungen oder Transaktionen zurückgesendet, nicht geliefert oder zurückgewiesen wurden bzw. sich als fehlerhaft herausstellten.
+
+- Wir können von der Auszahlung jegliche Beträge abziehen, in Bezug auf die du im Zusammenhang mit einem beliebigen Facebook-Programm Facebook gegenüber säumig bist.
+
+- Wenn du Facebook einen über dein Entwickler-Guthaben hinausgehenden Betrag schuldest, können wir ein Zahlungsinstrument belasten, das du zusammen mit deinem Konto registriert hast, um den geschuldeten Betrag abzudecken. Dein Versäumnis, nach Aufforderung jegliche Facebook gegenüber geschuldeten Beträge vollständig zu bezahlen, stellt einen Verstoß gegen diese Bedingungen dar, und du bist nicht nur für den vereinnahmten Betrag, sondern auch für die mit dem Inkasso verbundenen Ausgaben von Facebook haftbar. Dazu zählen u. a. auch Rechtsanwaltshonorare, Gerichtskosten, Gebühren des Inkassobüros sowie jegliche anfallenden Zinsen.
+
+- Wie näher in Abschnitt 3.9 dieser Bedingungen beschrieben, liegt es in deiner Verantwortung, sämtliche Abgaben, Steuern (u. a. Mehrwert- und Umsatzsteuer) und sonstigen Gebühren abzuführen, die auf deine Transaktionen (einschließlich der Einlösung jeglicher Entwickler-Guthaben) zutreffen. Facebook erfüllt die Meldepflichten in Bezug auf Steuer- und Rechtsinformationen in verschiedenen Rechtsordnungen.
+
+- Abweichungen . Wenn Facebook irrtümlich eine Zahlung für eine Einlösung an dich tätigt, bist du für den vollen Betrag dieser Auszahlung haftbar. Du verpflichtest dich, die mit dieser Einlösung verbundene Zahlung zurückzugeben bzw. Facebook zu gestatten, die Zahlung rückgängig zu machen. Du musst innerhalb von 30 Tagen nach Erhalt der zugehörigen Zahlung eine schriftliche Benachrichtigung für jedwede strittige Auszahlung einreichen. Dein Versäumnis dies zu tun, stellt deinen Verzicht auf jeglichen Anspruch bezüglich der Auszahlung dar.
+
+- Verwirktes Eigentum . Wenn wir nicht in der Lage sind, dich zu bezahlen, weil du keine gültigen Zahlungsinformationen bzw. - falls erforderlich - gültigen Identifizierungsinformationen zur Verfügung gestellt hast, können wir deine Befähigung zum Führen deines Entwickler-Guthabens im rechtlich zulässigen Umfang beenden und jedes verbleibende Entwickler-Guthaben gemäß geltendem Recht verarbeiten.
+
+### Deine Pflichten und Risiken
+
+- Anfechtbarkeit . Du erkennst an, dass Transaktionen mit Minderjährigen möglicherweise von Rechts wegen anfechtbar sind, und du stimmst zu, dass du unter Umständen zur Rückerstattung von gezahlten Beträgen verpflichtet bist.
+
+- Beilegung von Streitfällen . Du allein bist für die Beilegung von Streitfällen zwischen dir und Nutzern verantwortlich. Dazu zählen u. a. Streitfälle, die wir an dich über von uns möglicherweise bereitgestellte Tools oder Systeme weiterleiten bzw. von denen wir dich auf diese Weise in Kenntnis setzen. Wir sind berechtigt, jedoch nicht verpflichtet, dir bei der Beilegung derartiger Streitfälle behilflich zu sein.
+
+- Zusammenarbeit . Du verpflichtest dich, uns sämtliche Unterlagen zur Verfügung zu stellen, die wir im Zusammenhang mit einem Streitfall zwischen dir und einem Nutzer anfordern. Du verpflichtest dich, uns rechtzeitig davon in Kenntnis zu setzen, wenn du irgendeine Behördenanfrage zu Facebook Payments erhältst.
+
+- Betrug . Du verpflichtest dich mit uns zusammenzuarbeiten, um betrügerische bzw. illegale Transaktionen zu verhindern. Im Rahmen unserer Bemühungen, Betrug und verdächtige Transaktionen zu verhindern, können wir die Anzahl an Transaktionen bzw. das Zahlungsvolumen, die/das du innerhalb eines bestimmten Zeitraums annehmen kannst, einschränken. Wir können außerdem jederzeit jegliche von dir angebotenen Produkte oder Dienstleistungen ohne vorherige Ankündigung aussetzen, entfernen oder den Zugriff darauf sperren. Dabei sind wir nicht haftbar für das Entfernen solcher Produkte oder Dienstleistungen bzw. die Sperrung des Zugriffs auf diese.
+
+- Keine Haftung . Wir sind dir gegenüber nicht für Entschädigungen, Rückerstattungen oder Schadenersatz aufgrund entgangener Gewinne, eines Ausfalls erwarteter Umsätze oder eines Verlusts des Firmenwerts oder aufgrund von Ausgaben, Investitionen oder Verpflichtungen im Zusammenhang mit deiner Nutzung von Facebook Payments oder für jegliche Beendigung bzw. Aussetzung der Dienste von Facebook Payments haftbar.
+
+- Abonnements . Wenn du Abonnements für deine App oder für ein Feature innerhalb deiner App anbietest, musst du die App bzw. das Feature abonnierten Nutzern weiterhin bis zum Ende eines jeden aktiven Abonnementzeitraums zur Verfügung stellen bzw. alle verbleibenden Abonnements anteilig zurückzahlen.
+
+- Rückbuchungen . Du bist haftbar für alle Rückbuchungen in Bezug auf Transaktionen, die innerhalb von 90 Tagen nach der Transaktion aufgedeckt werden. Unter "Rückbuchungen" verstehen wir alle Rückbuchungen von Zahlungen, die von einem Dritt-Zahlungsanbieter veranlasst werden. Wir übernehmen die Verantwortung für Rückbuchungen, die nach dem 90. Tag aufgedeckt werden, es sei denn, (a) wir stellen fest, dass du die Transaktion im Zusammenhang mit einem Verstoß gegen die Regeln oder Richtlinien von Facebook durchgeführt hast, oder (b) die Quote deiner Rückbuchungen in einem der drei vorangegangenen Monate übersteigt fünf Prozent deines Gesamttransaktionsvolumens für diesen Monat.
+
+- Verrechnung . Wenn wir einem Nutzer entweder infolge einer Transaktion des Nutzers mit dir unter Nutzung von Facebook Payments oder jeglicher Forderungen durch Dritte, die sich durch deine Produkte oder Dienstleistungen ergeben, Rückerstattungen oder eine sonstige Entschädigung bereitstellen, so erklärst du dich damit einverstanden, uns für jegliche finanziellen Verluste im Zusammenhang mit einer solchen Bereitstellung zu entschädigen.
+
+- Steuern . Es gelten die nachfolgenden Steuerregelungen:
+
+- Wenn du ein in den USA ansässiger Entwickler bist, erkennst du an, dass Facebook im Steuerjahr 2011 damit begonnen hat, den Bruttobetrag der Zahlungen, die du in jedem Kalenderjahr erhältst, an das US-Finanzamt (Internal Revenue Service) auf Formular IRS 1099K zu melden, wenn du im entsprechenden Kalenderjahr (i) mehr als 20.000 $ bzw. (ii) mehr als 200 Zahlungen erhältst. Wenn Abgaben, Steuern oder Gebühren für die Einlösung eines Entwickler-Guthabens anfallen, können wir die Bearbeitungsgebühr so anpassen, dass der von uns erhaltene Nettobetrag bei 30 % bleibt. Du stimmst zu, uns von allen Forderungen, die aus einem Verstoß deinerseits gegen die Bestimmungen dieses Abschnitts resultieren oder damit im Zusammenhang stehen, freizustellen und schadlos zu halten.
+
+- Wir behalten auf deine Verkäufe an in den EU-Mitgliedsländern ansässige Nutzer die geltende EU-Mehrwertsteuer deiner Auszahlung ein und führen sie auf der Grundlage der Standorte der Nutzer an die zuständigen Steuerbehörden ab. Du erkennst außerdem die Selbstfakturierungsvereinbarung von Facebook an und akzeptierst diese, wenn sie gemäß lokaler Mehrwertsteuerverordnung akzeptiert wird. Mit Wirkung ab dem 1. Januar 2017 behalten wir von deiner Auszahlung die geltende MwSt. bzw. GST ein und führen sie in folgenden Ländern auf der Grundlage der Standorte der Nutzer an die zuständigen Steuerbehörden ab: Neuseeland, Russland und Südkorea. Mit Wirkung zum 1. Juli 2017 verfahren wir für Australien ebenso. Mit Wirkung zum 1. Mai 2018 verfahren wir für das Königreich Saudi-Arabien, Weißrussland, die Türkei und die Vereinigten Arabischen Emirate ebenso. Weiterhin erkennst du an, dass die Beachtung dieser Gesetzesänderung in diesen Ländern seitens Facebook nicht die Beziehung, Rechte und Pflichten zwischen dir und dem Nutzer bzw. zwischen dir und Facebook ändert. Du stimmst zu, uns von allen Forderungen, die aus einem Verstoß deinerseits gegen die Bestimmungen dieses Abschnitts resultieren oder damit im Zusammenhang stehen, freizustellen und schadlos zu halten.
+
+### Zusätzliche Bestimmungen
+
+- Widersprüchliche Bestimmungen . Im Falle irgendeines Widerspruchs zwischen der Erklärung der Rechte und Pflichten und diesen Bedingungen, sind diese Bedingungen maßgeblich.
+
+- Kollisionsrecht . Möglicherweise schränken einige Länder deine Fähigkeit, Zahlungen über Facebook zu leisten, ein oder verbieten sie. Kein Teil in diesen Bedingungen ist so auszulegen, dass er sich über irgendein solches ausländisches Recht hinwegsetzt bzw. dieses umgeht.
+
+- Gefälligkeitsübersetzungen . Diese Bedingungen wurden auf Englisch (USA) verfasst. Sofern zwischen irgendeiner Übersetzung dieser Bedingungen und der englischen Version ein Widerspruch besteht, ist die englische Version maßgeblich.
+
+- Abtretung . Facebook kann jegliche seiner Pflichten bzw. Rechte, die sich im Rahmen dieser Bedingungen ergeben, ohne Einschränkung abtreten bzw. übertragen.
+
+- Änderungen . Wir können diese Bedingungen jederzeit im rechtlich größtmöglichen Umfang ohne vorherige Ankündigung überarbeiten, wenn wir dies für notwendig erachten. Die zum Zeitpunkt deiner Bestätigung einer Transaktion in Kraft befindlichen Bedingungen regeln eine solche Transaktion.
+
+- Mitteilungen an dich . Wir können dir Mitteilungen zukommen lassen, indem wir diese im Facebook-Entwickler-Blog posten oder sie an eine E-Mail-Adresse bzw. Postanschrift senden, die du uns zuvor mitgeteilt hast. Auf der Website gepostete und per E-Mail versendete Mitteilungen gelten 24 Stunden nach dem Posten bzw. Versenden als an dich zugestellt. Mitteilungen, die per Post versendet werden, gelten drei Geschäftstage nach dem Versand als zugestellt. Wir werden dich 30 Tage im Voraus über Änderungen an unserer Bearbeitungsgebühr informieren.
+
+- Mitteilungen an uns . Sofern nichts anderes angegeben wurde, musst du Mitteilungen an uns in Bezug auf Facebook Payments und diese Bedingungen per Post an folgende Anschrift senden: Facebook, Attn: Legal Department, 1601 Willow Avenue, Menlo Park, California, 94025.
+
+- "Uns" . Nachfolgend sind diejenigen Unternehmen aufgeführt, auf die sich "uns", "wir", "unser/e/em/en/er/es" bzw. "Facebook" bezieht:
+
+- Wenn du in den USA oder Kanada ansässig bist oder dort deinen Hauptgeschäftssitz hast, gehst du diese Bedingungen mit Meta Payments Inc., einem Unternehmen in Florida, ein.
+
+- Wenn du deinen Wohn- oder Hauptgeschäftssitz in einem Land außerhalb der USA oder Kanadas hast, gehst du diese Bedingungen mit Facebook Payments International Ltd., einer Gesellschaft mit beschränkter Haftung in Irland, ein. Alle mit dem elektronischen Guthaben eines Nutzers finanzierten Transaktionen werden jedoch von Meta Payments Inc., einem Unternehmen in Florida, abgewickelt.

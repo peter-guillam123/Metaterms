@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241213220322",
+   "original": "https://developers.facebook.com/policy/credits/",
+   "digest": "IK7RYWVN4I2WW6MVE6BS2MHR3GP5QZC7",
+   "text_hash": "aa774bc6b740",
+   "chars": 17565,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250115043619",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "MTNIOFIHQJRMSZF74EAYE6AJSRZW46ZZ",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250216100731",
    "original": "https://developers.facebook.com/policy/credits",
