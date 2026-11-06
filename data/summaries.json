@@ -1,0 +1,200 @@
+{
+ "audience-network-policy-202607": {
+  "headline": "Adds an \"Updated\" date of 20 April 2026",
+  "summary": "The page now shows \"Updated: Apr 20, 2026\" at the top, and the wording of the policy did not change.",
+  "size": "date only"
+ },
+ "audience-network-policy-202610": {
+  "headline": "Menu or layout change only",
+  "summary": "The policy rules now appear as a bulleted list, with the wording of each rule unchanged.",
+  "size": "formatting"
+ },
+ "avatar-terms-202508": {
+  "headline": "Menu or layout change only",
+  "summary": "The site menus, footer, a marketing sign-up box and Meta Quest and Ray-Ban Meta product notices no longer appear on the page, and the avatar terms' wording did not change.",
+  "size": "formatting"
+ },
+ "avatar-terms-202602": {
+  "headline": "Removes the Avatars Store and its purchase and refund terms",
+  "summary": "Meta removed the Avatars Store section and its rules on purchases, payment data, taxes and refunds, including the line that all acquisitions are final. Users now \"acquire\" licensed avatar items, and the Meta Horizon Digital Items Terms and Meta Credits Terms now also apply. Lines denying refunds for items lost when an account is suspended, deleted or converted to a business account are also gone."
+ },
+ "branded-content-policies-202504": {
+  "headline": "Menu or layout change only",
+  "summary": "A \"Learn more\" link changes from \"Get Approval From Your Business Partners\" to \"Tag a Business Partner in a Branded Content Post\", and the policy wording is unchanged.",
+  "size": "formatting"
+ },
+ "branded-content-policies-202509": {
+  "headline": "Drops note that the branded content tool is limited to some regions",
+  "summary": "Meta removed the line saying the branded content tool \"is only available to certain Pages in certain regions at this time\". It also renamed and trimmed the \"Learn more\" links, dropping those for Brand Collabs Manager and \"Get Discovered by Advertisers\"."
+ },
+ "commerce-policies-202502": {
+  "headline": "Defines commerce content and widens bans to Messenger and piracy tools",
+  "summary": "Meta added a definition of commerce content as any attempt to buy, sell or trade products, \"even for free\", on its commerce services such as Marketplace, Shops and WhatsApp Business Catalog. The anti-discrimination rule now also covers \"commerce Messenger threads\". The ban on unauthorised copies now covers services or devices that help distribute them, and names TV shows, broadcasts, books and images."
+ },
+ "commerce-policies-202504": {
+  "headline": "Limits business selling on Marketplace in the EEA, Philippines and India",
+  "summary": "The policies now say Facebook Marketplace \"is intended for consumer-to-consumer sales\". Businesses, and individuals acting in a business capacity, in the European Economic Area, the Philippines and India may lose access to Marketplace or have their listings removed if they try to sell there."
+ },
+ "commercial-terms-202502": {
+  "headline": "Menu or layout change only",
+  "summary": "The disputes section now appears as a bulleted list, and the arbitration and US courts wording is unchanged.",
+  "size": "formatting"
+ },
+ "commercial-terms-202505": {
+  "headline": "Menu or layout change only",
+  "summary": "The disputes section returns from a bulleted list to running text, and the arbitration and US courts wording is unchanged.",
+  "size": "formatting"
+ },
+ "commercial-terms-202610": {
+  "headline": "Announces updated Commercial Terms taking effect on 20 November 2026",
+  "summary": "Meta added a notice that it is updating the Commercial Terms, with the changes due to take effect on 20 November 2026, and a link to read them. Meta's address in the terms changes from 1601 Willow Rd. to 1 Meta Way, Menlo Park."
+ },
+ "commercial-terms-202611": {
+  "headline": "Puts the planned Commercial Terms update on hold",
+  "summary": "Meta now says the updated Commercial Terms, which had been due to take effect on 20 November 2026, \"are on hold\" and that the existing terms \"remain in effect until further notice\". It describes what it shared earlier as \"a preview\". Meta's address in the terms changes back from 1 Meta Way to 1601 Willow Rd., Menlo Park."
+ },
+ "community-feedback-policies-202608": {
+  "headline": "Shows Russian-language footer links, probably an archiving artefact",
+  "summary": "The archived page shows three footer links in Russian, for the user agreement, the privacy policy and a notice about the EU-US data transfer framework. This looks like an archiving artefact rather than an edit by Meta, and the policy wording did not change.",
+  "size": "formatting"
+ },
+ "community-feedback-policies-202609": {
+  "headline": "Drops the Russian-language footer links seen in the previous copy",
+  "summary": "The three Russian-language footer links that appeared in the previous archived copy are gone again. They look like an archiving artefact rather than an edit by Meta, and the policy wording did not change.",
+  "size": "formatting"
+ },
+ "community-payment-terms-202412": {
+  "headline": "Moves UK and non-European users to Meta Platforms, Inc. for payments",
+  "summary": "A broad update. Users in the UK and outside the European region now contract with Meta Platforms, Inc. rather than Meta Platforms Ireland Limited for payments other than Meta-Processed Payments, and Meta may get information about users from third parties for tax and compliance purposes. Apple in-app purchasers now let Meta seek refunds from Apple for them, and Meta \"will not be held liable\" for losses from those refunds."
+ },
+ "community-payment-terms-202502": {
+  "headline": "Adds money transmission notices for Arizona, Maine and Minnesota users",
+  "summary": "Meta added a fraud warning for Arizona users, telling them to treat money transmission \"like cash; once sent, it cannot be recovered\". It also said Meta Payments Inc. is licensed by the Maine Bureau of Financial Institutions, and added a Minnesota Department of Commerce contact for questions or complaints."
+ },
+ "community-payment-terms-202507": {
+  "headline": "Adds Service Credits rules, including forfeiture of unused credits for breaches",
+  "summary": "A broad revision. Meta says prepaid \"Service Credits\" are neither currency nor refundable except where the law requires, and it may keep unused credits if it suspends an account for breaches. Donation refunds now follow PayPal Giving Fund's terms, the EU donation terms and Central Bank of Ireland reference are gone, and free trials and price rises now carry any consent or notice the law requires."
+ },
+ "community-payment-terms-202509": {
+  "headline": "Updates Meta's address and adds Arkansas, Connecticut and Vermont notices",
+  "summary": "Meta replaced its old 1601 Willow address in Menlo Park with \"1 Meta Way\", including for legal notices about payments. It added a fraud warning for Arkansas users and statements that Meta Payments Inc. is licensed as a money transmitter by the Connecticut and Vermont regulators. The last updated date stayed at 18 April 2025."
+ },
+ "community-payment-terms-202510": {
+  "headline": "Changes the last updated date to 15 September 2025",
+  "summary": "Only the last updated date changed, from 18 April to 15 September 2025.",
+  "size": "date only"
+ },
+ "community-payment-terms-202602": {
+  "headline": "Adds a Nevada regulator contact for money transmission complaints",
+  "summary": "Meta added a notice telling Nevada users they can contact the Nevada Financial Institutions Division, with a phone number, about questions or complaints on money transmission services. The last updated date moved to 7 January 2026."
+ },
+ "community-payment-terms-202605": {
+  "headline": "Adds Payment Partners and new tax reporting and withholding terms",
+  "summary": "Meta added a section on \"Payment Partners\", such as digital wallets and banks, saying Meta does not process their payments and that using Payment Features means accepting their terms. A tax section makes users responsible for taxes on their transactions unless others collect them, and lets Meta report activity to tax authorities and withhold tax from payouts where the law requires. Meta also added North Dakota and Tennessee regulator contacts."
+ },
+ "community-payment-terms-202609": {
+  "headline": "Rewrites payment terms, with creator payout caps and expiring ad credits",
+  "summary": "A broad rewrite of the terms. Meta may now charge other saved payment instruments when one fails, offset chargebacks, fees and fines against amounts owed to users, and \"impose or adjust caps on payouts of creators' earnings\". Ad credits can expire after three years, or longer if the law requires, currency exchange now covers cryptocurrency, and Meta says it is not liable for third parties' acts, including payment providers."
+ },
+ "complaints-handling-process-202602": {
+  "headline": "Replaces separate Facebook and Instagram rule names with Community Standards",
+  "summary": "The page now says Meta removes content that breaks its terms or policies \"including the Community Standards\", no longer naming the Facebook Community Standards and Instagram Community Guidelines separately. The updated date moves from 3 September 2024 to 21 March 2025, and a \"Transparency Center\" menu no longer appears."
+ },
+ "developer-payment-terms-202501": {
+  "headline": "Rewords the description of what Facebook Payments does for developers",
+  "summary": "The opening line now says Facebook Payments lets developers focus on creating apps rather than \"content delivery and managing payments\", where it used to say \"on building payment systems\". This is a descriptive edit and no obligations changed."
+ },
+ "music-guidelines-202502": {
+  "headline": "Menu or layout change only",
+  "summary": "The guidance on music density, short clips and visual content now appears as separate bullet points rather than one run-on line, and the wording did not change.",
+  "size": "formatting"
+ },
+ "music-guidelines-202507": {
+  "headline": "Menu or layout change only",
+  "summary": "The guidance on music density, short clips and visual content runs together on one line again, reversing an earlier layout change, and the wording did not change.",
+  "size": "formatting"
+ },
+ "partner-monetisation-policies-202610": {
+  "headline": "Menu or layout change only",
+  "summary": "The \"Have a moment?\" heading under \"Learn more\" no longer appears, and the policy wording is unchanged.",
+  "size": "formatting"
+ },
+ "platform-policy-202502": {
+  "headline": "Rewrites developer terms on data use, incident reporting and enforcement",
+  "summary": "A broad rewrite, in force from 3 February 2025. A new rule bars processing Platform Data without valid user consent to build or augment user profiles, and the fixed 24-hour deadline for reporting security incidents becomes \"as soon as practicable\". Meta can now act against apps made to get round its enforcement, and will \"use commercially reasonable efforts\" to give notice of material amendments."
+ },
+ "platform-policy-202508": {
+  "headline": "Adds a supplementary addendum for other international data transfers",
+  "summary": "Meta added a section, \"International Transfer - Other Data Transfers\", that brings a Supplementary Data Transfer Addendum into the terms for certain transfers of Platform Data. For those transfers, developers and Meta Platforms, Inc. are each independent \"controllers\". Meta renumbered the existing EEA and UK transfer sections and moved the last updated date to 22 August 2025."
+ },
+ "platform-policy-202511": {
+  "headline": "Announces updated Platform Terms taking effect on 3 February 2026",
+  "summary": "Meta added a notice saying it is updating the Platform Terms, with the changes in force from 3 February 2026, and a link to \"Read the new terms\". The wording of the terms themselves did not change."
+ },
+ "platform-policy-202602": {
+  "headline": "Adds consent warranty and extends UK transfer rules to developer data",
+  "summary": "From 3 February 2026, developers who give Meta their content must warrant they hold every consent and disclosure the law requires, and must offer deletion to all users of their app. The UK transfer rules now also cover personal data developers send to Meta, and the description of that data contains bracketed options such as \"[TBC]\". The Supplementary Data Transfer Addendum becomes the Global Data Transfer Addendum."
+ },
+ "political-engagement-policies-202602": {
+  "headline": "Drops pledges on independent expenditures and trade group political spending",
+  "summary": "Meta removed its statement that it makes no independent expenditures for or against candidates, and its ban on member groups using Meta's payments for political contributions. State giving now aims at \"electing candidates who support\" certain public policies, not at the policies themselves. Broadly revised lists of member and third-party groups add AI and industry bodies and drop several civil rights and LGBT groups, including GLSEN and The Trevor Project."
+ },
+ "political-engagement-policies-202604": {
+  "headline": "Adds two groups to back state candidates and rewrites AI priorities",
+  "summary": "Meta says it plans to back state candidates \"aligned with Meta's policy priorities\" through two new Section 527 political organisations. Its lobbying priorities now call for laws requiring app stores to verify age and get parental approval before a child downloads an app. The AI section drops its commitment to open source models and instead cites investment of \"hundreds of billions of dollars\"."
+ },
+ "political-engagement-policies-202610": {
+  "headline": "Names four Section 527 groups backing state candidates, up from two",
+  "summary": "Meta now says it \"supports\" state candidates aligned with its policy priorities through four Section 527 political organisations, adding \"Forge the Future Project\" and \"Making our Tomorrow\" to the two it named earlier. The page adds 2026 contribution and lobbying filing entries, lists infrastructure among its lobbying issues and adds more than 30 state business and technology groups to its memberships."
+ },
+ "recommender-system-cards-202502": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta removed a \"Responsibility\" link from the AI site menu, and the system cards text did not change.",
+  "size": "formatting"
+ },
+ "recommender-system-cards-202505": {
+  "headline": "Menu or layout change only",
+  "summary": "The AI site menu drops \"Product experiences\" and adds \"Explore Meta AI\" and \"Get Meta AI\" links, and the system cards text did not change.",
+  "size": "formatting"
+ },
+ "recommender-system-cards-202607": {
+  "headline": "Menu or layout change only",
+  "summary": "The AI site menu replaces \"Explore Meta AI\" and \"Get Meta AI\" with \"Assistant\", \"Media Generation\" and \"Vibes\", and the system cards text did not change.",
+  "size": "formatting"
+ },
+ "recommender-system-cards-202608": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta reorganised the AI site menu, dropping links such as Llama, Infrastructure, AI Studio and Newsletter and adding AI Research, Learning Hub and Open Source sections, and the system cards text did not change.",
+  "size": "formatting"
+ },
+ "recommender-system-cards-202609": {
+  "headline": "Menu or layout change only",
+  "summary": "The AI site menu adds \"Muse\", \"Agent\" and links explaining AI agents and agentic AI, and the system cards text did not change.",
+  "size": "formatting"
+ },
+ "self-serve-ad-terms-202502": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta changed the layout of four list items, adding bullet markers and dropping the \"Contracting party:\" label, without changing the wording of the terms.",
+  "size": "formatting"
+ },
+ "self-serve-ad-terms-202506": {
+  "headline": "Adds OCAS Supplemental Ads Terms for EEA online classified ads services",
+  "summary": "Meta added a line saying the OCAS Supplemental Ads Terms apply to advertisers who operate an online classified ads service in the European Economic Area \"in line with the European Commission's Decision in Case AT.40684\". The effective date moved from 3 January 2023 to 14 February 2025. Other edits restore list labels such as \"Contracting party:\" without changing the wording."
+ },
+ "self-serve-ad-terms-202507": {
+  "headline": "Adds notice that updated terms take effect on 22 August 2025",
+  "summary": "Meta added a notice saying it is updating the Self-Serve Ad Terms, with the changes taking effect on 22 August 2025, and a link to read the new terms. Use of the Self-Serve Ad Interfaces on or after that date will be subject to the updated terms."
+ },
+ "self-serve-ad-terms-202509": {
+  "headline": "Rewrites ad terms and lets Meta crawl advertisers' sites for training",
+  "summary": "Meta broadly rewrote the terms, effective 22 August 2025. Placing an Order now lets Meta \"access, index, cache, analyze or crawl\" advertisers' websites, including for \"research and training\", and advertisers are \"solely responsible\" for ad content, targeting and placements. Failing to comply can now mean forfeiting unused Advertiser Balance, and some Orders may be billed through third parties such as Apple, with Meta able to request refunds for them."
+ },
+ "self-serve-ad-terms-202610": {
+  "headline": "Adds notice that updated terms take effect on 30 October 2026",
+  "summary": "Meta added a notice saying it is updating the Self-Serve Ad Terms, with the changes taking effect on 30 October 2026, and a link to read them. The wording of the current terms did not change."
+ },
+ "self-serve-ad-terms-202611": {
+  "headline": "Puts the planned 30 October 2026 terms update on hold",
+  "summary": "Meta now says the updates to the Self-Serve Ad Terms, which had been due to take effect on 30 October 2026, \"are on hold\". The notice adds that \"The existing Self-Serve Ad Terms remain in effect until further notice\", and the \"Read the updated Terms\" line has gone."
+ }
+}
