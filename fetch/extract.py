@@ -80,6 +80,79 @@ def embedded_html(raw):
     return best
 
 
+# ---- documents shipped as a JSON tree (Instagram and Facebook help centres,
+# some Facebook legal pages): {"type": ..., "props": ..., "children": [...]}
+
+CMS_BLOCK = re.compile(r"(Paragraph|PTag|Heading|H[1-6]Tag|Header|Title|LiTag|ListItem|Galaxy(LI|UL|OL)$|UlTag|OlTag|BoxTag|GalaxyBox|DivTag|TableRow|TrTag|Callout|Answer$)")
+CMS_HEAD = re.compile(r"(Heading|H([1-6])Tag|Header|Title)")
+CMS_LI = re.compile(r"(LiTag|ListItem|GalaxyLI$)")
+CMS_BR = re.compile(r"(BrTagView|GalaxyBR)$")
+
+
+def cms_blocks(node, out, buf):
+    """Flatten a JSON document tree into (kind, text) blocks."""
+    if isinstance(node, str):
+        buf.append(node)
+        return
+    if isinstance(node, list):
+        for n in node:
+            cms_blocks(n, out, buf)
+        return
+    if not isinstance(node, dict):
+        return
+    t = str(node.get("type", ""))
+    kids = node.get("children") or []
+    if CMS_BR.search(t):
+        _flush(buf, out)
+        return
+    if not CMS_BLOCK.search(t):
+        cms_blocks(kids, out, buf)
+        return
+    _flush(buf, out)
+    inner, ibuf = [], []
+    cms_blocks(kids, inner, ibuf)
+    _flush(ibuf, inner)
+    h = CMS_HEAD.search(t)
+    for i, (k, txt) in enumerate(inner):
+        if i == 0 and k == "p" and h:
+            level = int(h.group(2)) if h.group(2) else 2
+            out.append((f"h{min(level, 4)}", txt))
+        elif i == 0 and k == "p" and CMS_LI.search(t):
+            out.append(("li", txt))
+        else:
+            out.append((k, txt))
+
+
+def _flush(buf, out):
+    text = clean_text("".join(buf))
+    buf.clear()
+    if text:
+        out.append(("p", text))
+
+
+def cms_documents(raw):
+    """Find JSON-encoded document trees inside the page's scripts."""
+    import json
+    docs = []
+    for m in re.finditer(r'"json_cms_content":("(?:[^"\\]|\\.)*")', raw):
+        try:
+            docs.append(json.loads(json.loads(m.group(1))))
+        except ValueError:
+            continue
+    return docs
+
+
+def cms_text_blocks(raw):
+    best = []
+    for doc in cms_documents(raw):
+        out, buf = [], []
+        cms_blocks(doc, out, buf)
+        _flush(buf, out)
+        if sum(len(t) for _, t in out) > sum(len(t) for _, t in best):
+            best = out
+    return best
+
+
 def walk(node, out):
     """Collect (kind, text) blocks in document order."""
     buf = []
@@ -147,6 +220,10 @@ def extract(html_bytes):
             root = pick_root(soup)
     blocks = []
     walk(root, blocks)
+    if sum(len(t) for _, t in blocks) < 1500:
+        cms = cms_text_blocks(html)
+        if sum(len(t) for _, t in cms) > sum(len(t) for _, t in blocks):
+            blocks = cms
     # Cut the footer, if it comes in the last third of the page.
     for i, (kind, text) in enumerate(blocks):
         if i > len(blocks) * 0.66 and FOOTER_START.match(text):
@@ -174,3 +251,22 @@ def extract(html_bytes):
         else:
             lines.append(text)
     return "\n\n".join(lines) + "\n"
+
+
+COMMON = {"the", "and", "of", "to", "you", "your", "we", "our", "or", "in",
+          "for", "a", "is", "that", "with", "this", "are", "be", "on", "not",
+          "may", "if", "as", "by", "any", "it", "an", "use", "us"}
+
+
+def is_english(text):
+    """The archive's crawlers sometimes get a page in another language.
+    Compare like with like: only English copies count."""
+    letters = [c for c in text if c.isalpha()]
+    if not letters:
+        return False
+    if sum(1 for c in letters if ord(c) > 127) / len(letters) > 0.15:
+        return False
+    words = re.findall(r"[a-z]+", text.lower())
+    if len(words) < 50:
+        return False
+    return sum(1 for w in words if w in COMMON) / len(words) > 0.12

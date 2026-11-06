@@ -138,7 +138,10 @@ def pick_month_captures(idx):
         if not cands:
             continue
         mid = int(mon + "15120000")
-        cands.sort(key=lambda c: (rank.get(url_key(c["original"]), 9), c.get("_small", False),
+        # Biggest copy first: the real document is bigger than the "browser
+        # not supported" and login pages Facebook often serves the crawler.
+        cands.sort(key=lambda c: (rank.get(url_key(c["original"]), 9),
+                                  -int(c["length"]) if c.get("length", "-").isdigit() else 0,
                                   abs(int(c["timestamp"]) - mid)))
         clean = [{k: v for k, v in c.items() if not k.startswith("_")} for c in cands[:3]]
         picks[mon] = dict(clean[0], alts=clean[1:])
@@ -170,7 +173,11 @@ def fetch_raw(slug, cap):
     return body
 
 
+EXTRACTOR_VERSION = 3
+
+
 def to_text(slug, body):
+    """Extract, save and describe the text: (hash, length, usable)."""
     import extract
     text = extract.extract(body)
     h = hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
@@ -179,7 +186,7 @@ def to_text(slug, body):
         os.makedirs(os.path.dirname(p), exist_ok=True)
         with open(p, "w", encoding="utf-8") as f:
             f.write(text)
-    return h, len(text)
+    return h, len(text), len(text) >= MIN_CHARS and extract.is_english(text)
 
 
 def load_caps(doc):
@@ -209,9 +216,9 @@ def fetch_month(doc, caps, mon, pick):
         if body is None:
             entry["error"] = "fetch failed"
             continue
-        h, n = to_text(doc["slug"], body)
-        entry["text_hash"], entry["chars"] = h, n
-        if n >= MIN_CHARS:
+        h, n, ok = to_text(doc["slug"], body)
+        entry.update(text_hash=h, chars=n, usable=ok, extractor=EXTRACTOR_VERSION)
+        if ok:
             break
     caps["months"][mon] = entry
     save_caps(caps)
@@ -235,7 +242,7 @@ def next_needed(picks, caps):
         if not fetched(m):
             return m
     # Pass 2: between two fetched months whose text differs, fetch the middle.
-    have = [m for m in avail if fetched(m) and done[m].get("chars", 0) >= MIN_CHARS]
+    have = [m for m in avail if fetched(m) and done[m].get("usable")]
     for a, b in zip(have, have[1:]):
         if done[a]["text_hash"] != done[b]["text_hash"]:
             between = [m for m in avail if a < m < b and not fetched(m)]
@@ -249,6 +256,7 @@ def next_needed(picks, caps):
 
 
 def full():
+    reextract(only_old=True)
     docs = load_terms()
     plan = []
     for doc in docs:
@@ -335,16 +343,28 @@ def write_status(plan):
     wayback.log(f"pages still to finish: {len(left)}")
 
 
-def reextract():
+def reextract(only_old=False):
+    """Rebuild text from downloaded pages after the extractor changes.
+    A month whose copy turns out unusable is dropped, so it gets fetched
+    again (trying the month's other copies)."""
+    n = 0
     for doc in load_terms():
         caps = load_caps(doc)
-        for mon, entry in caps["months"].items():
+        for mon, entry in list(caps["months"].items()):
+            if only_old and entry.get("extractor") == EXTRACTOR_VERSION:
+                continue
             p = raw_path(doc["slug"], entry["timestamp"])
-            if os.path.exists(p):
-                with gzip.open(p, "rb") as f:
-                    h, n = to_text(doc["slug"], f.read())
-                entry["text_hash"], entry["chars"] = h, n
+            if not os.path.exists(p):
+                continue
+            with gzip.open(p, "rb") as f:
+                from decode import decode_body
+                h, chars, ok = to_text(doc["slug"], decode_body(f.read()))
+            entry.update(text_hash=h, chars=chars, usable=ok, extractor=EXTRACTOR_VERSION)
+            if not ok:
+                del caps["months"][mon]
+            n += 1
         save_caps(caps)
+    wayback.log(f"re-extracted {n} downloaded pages")
 
 
 def probe():

@@ -36,6 +36,8 @@ def usable_months(caps):
     for mon, m in months.items():
         if not m.get("text_hash"):
             bad[mon] = "fetch failed"
+        elif m.get("usable") is False:
+            bad[mon] = "copy is not the document"
         elif m["chars"] < max(300, 0.4 * typical):
             bad[mon] = "copy is not the document"
         else:
