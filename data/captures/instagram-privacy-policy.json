@@ -9,14 +9,36 @@
    "original": "https://privacycenter.instagram.com/policy",
    "digest": "TZ4LCIPKJOIZLPZYO5CUTMNSBAAPKTLZ",
    "text_hash": "87880cf15447",
-   "chars": 39539
+   "chars": 39539,
+   "usable": true,
+   "extractor": 3
+  },
+  "202502": {
+   "timestamp": "20250225015744",
+   "original": "https://privacycenter.instagram.com/policy",
+   "digest": "REWG62JZHZZRUHEQE22TL77TSYXRAKRS",
+   "text_hash": "da7bd580d537",
+   "chars": 40017,
+   "usable": true,
+   "extractor": 3
+  },
+  "202505": {
+   "timestamp": "20250501111813",
+   "original": "https://privacycenter.instagram.com/policy/",
+   "digest": "BSNI2FBFF2H457TSDPQAUUYJ62XBVNRM",
+   "text_hash": "59bb964da038",
+   "chars": 82637,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261015000319",
    "original": "https://privacycenter.instagram.com/policy/",
    "digest": "UTTZ2O3UFMF7DKDDQNCVO2I7W6QAVSM7",
    "text_hash": "6be82da01b0d",
-   "chars": 48109
+   "chars": 48109,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

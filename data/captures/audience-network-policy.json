@@ -9,28 +9,63 @@
    "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
    "digest": "3EZU22PFOXVIBDXIYVBK3FDMY44TTC76",
    "text_hash": "03391647159d",
-   "chars": 14874
+   "chars": 14874,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250212051805",
    "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
    "digest": "73YFNT7XVSJPJVKVGM5HJ6BO2LYQBXYO",
    "text_hash": "03391647159d",
-   "chars": 14874
+   "chars": 14874,
+   "usable": true,
+   "extractor": 3
   },
   "202505": {
    "timestamp": "20250506042613",
    "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
    "digest": "RB2WZBUJH6AGLVK3UQUUX4BFUCF6DKUY",
    "text_hash": "03391647159d",
-   "chars": 14874
+   "chars": 14874,
+   "usable": true,
+   "extractor": 3
+  },
+  "202509": {
+   "timestamp": "20250925140429",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/",
+   "digest": "FWJ6W5ZRVBXNNV7GOENV734KNQ2YIM5K",
+   "text_hash": "03391647159d",
+   "chars": 14874,
+   "usable": true,
+   "extractor": 3
+  },
+  "202512": {
+   "timestamp": "20251209222128",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy/",
+   "digest": "MG2PQCM6NYKYFOX4NYOXTVZYNMZYKZ4E",
+   "text_hash": "e59463d4c717",
+   "chars": 14903,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260311185459",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "KXWOJ53KBT6KKBDB4RARQSMFAX6ACLFO",
+   "text_hash": "e59463d4c717",
+   "chars": 14903,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261010074347",
    "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",
    "digest": "HLV4QXSKXA6BW4ZMMTC2ZH5YK7CN5MGO",
    "text_hash": "00d0d3c1e58f",
-   "chars": 14972
+   "chars": 14972,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

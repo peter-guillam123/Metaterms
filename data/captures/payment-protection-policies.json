@@ -9,21 +9,45 @@
    "original": "https://www.facebook.com/policies_center/payment_protection",
    "digest": "U634JGJ6HOKOGVG47STPZ34UIVQJ2AGG",
    "text_hash": "dbadd633f6f8",
-   "chars": 4024
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
+  },
+  "202412": {
+   "timestamp": "20241213052139",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "UEYSVW2ZIL7F3VCP4RXQRYDP5KU4ORAR",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250405035017",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "G5TXUIMGARINYCTAZBKYSWHDHMXLQ3Q7",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
   },
   "202507": {
    "timestamp": "20250715155309",
    "original": "https://www.facebook.com/policies_center/payment_protection",
    "digest": "WJXR6ZXLZATIIMFD2UJ6Y2UQA2ECFZH3",
    "text_hash": "dbadd633f6f8",
-   "chars": 4024
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261008023509",
    "original": "https://www.facebook.com/policies_center/payment_protection",
    "digest": "BMXGPYVQ2EWZNWOZ7UUHBWVQ77DDEFT5",
    "text_hash": "dbadd633f6f8",
-   "chars": 4024
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

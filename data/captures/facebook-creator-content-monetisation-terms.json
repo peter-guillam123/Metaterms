@@ -9,14 +9,18 @@
    "original": "https://www.facebook.com/legal/creator_content_monetization_terms/",
    "digest": "6U7QI57BSTXKFMVHRRMVCIMJPO3S46MF",
    "text_hash": "fd4e0a41778c",
-   "chars": 17093
+   "chars": 17093,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261015062124",
    "original": "https://www.facebook.com/legal/creator_content_monetization_terms/",
    "digest": "MWIEOU7IQAFHQSA4UV6RLOY4JN6P6JV2",
    "text_hash": "6c736de12cfc",
-   "chars": 88
+   "chars": 88,
+   "usable": false,
+   "extractor": 3
   }
  }
 }

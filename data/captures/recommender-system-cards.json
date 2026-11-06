@@ -9,21 +9,45 @@
    "original": "https://ai.meta.com/tools/system-cards/",
    "digest": "AEU5S66UIXZM7QTN6YFIGUYF64RXWUNP",
    "text_hash": "1f4f4a5d3bf8",
-   "chars": 1876
+   "chars": 1876,
+   "usable": true,
+   "extractor": 3
   },
   "202504": {
    "timestamp": "20250423044727",
    "original": "https://ai.meta.com/tools/system-cards/",
    "digest": "F2JBNDLM2ZP4V5MVF226ANG24AD46UEV",
    "text_hash": "6e2ebc147924",
-   "chars": 1846
+   "chars": 1846,
+   "usable": true,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251001190841",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "2CX6E2DHCZGO6JE32ZTPFXH5BSZAHUXL",
+   "text_hash": "eb4863e258d3",
+   "chars": 1908,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260221190436",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "CLIUMBY6725QO5EAH3AUTNTZTNRGDDF5",
+   "text_hash": "eb4863e258d3",
+   "chars": 1908,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261014143817",
    "original": "https://ai.meta.com/tools/system-cards/",
    "digest": "SQTAD5AFTC5S6OPWJQWDKISA7NOOGSCR",
    "text_hash": "8237ad5fa45f",
-   "chars": 2091
+   "chars": 2091,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

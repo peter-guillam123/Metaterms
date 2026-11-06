@@ -9,21 +9,45 @@
    "original": "https://www.facebook.com/legal/music_guidelines",
    "digest": "GNOUMOZRMJLN756A4JALYFQFF4MZBERF",
    "text_hash": "31bb8cea6015",
-   "chars": 2762
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250209155734",
    "original": "https://www.facebook.com/legal/music_guidelines",
    "digest": "DB4VJWDXEK2RUJFLR423LHDCBEWZBALQ",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "a76619eec56b",
+   "chars": 2777,
+   "usable": true,
+   "extractor": 3
+  },
+  "202509": {
+   "timestamp": "20250930073247",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "54XBSPS34MTBQTV4FPU2C46QOEP67ANM",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260509011947",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "6B65MJADP2B4C2DPG2N5P53ATWMVWSAF",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261010075902",
    "original": "https://www.facebook.com/legal/music_guidelines",
    "digest": "BFPDGZVXPSQKFZEFVXVTLVIBGH7EU33I",
    "text_hash": "31bb8cea6015",
-   "chars": 2762
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

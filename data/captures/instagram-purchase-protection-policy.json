@@ -8,15 +8,37 @@
    "timestamp": "20241109232842",
    "original": "https://help.instagram.com/300557977301126",
    "digest": "WF5OUSUGXGI62XDWQ527GHRZQFIBTKRL",
+   "text_hash": "fda7108a9737",
+   "chars": 5852,
+   "usable": true,
+   "extractor": 3
+  },
+  "202506": {
+   "timestamp": "20250622151917",
+   "original": "https://help.instagram.com/300557977301126/",
+   "digest": "JVBQXAZJJMR6OQ4F4AR245F2JT3WUOKI",
    "text_hash": "adc83b19e793",
-   "chars": 1
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
+  "202512": {
+   "timestamp": "20251207072153",
+   "original": "https://help.instagram.com/300557977301126/",
+   "digest": "WE5IWMELT7TDSVLFCIL5JVKUPMQ7ALOR",
+   "text_hash": "fda7108a9737",
+   "chars": 5852,
+   "usable": true,
+   "extractor": 3
   },
   "202603": {
    "timestamp": "20260314100938",
    "original": "https://help.instagram.com/300557977301126",
    "digest": "RZDWFITNT6N22ICBGCEYV7MLBQ7XXGLV",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "fda7108a9737",
+   "chars": 5852,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

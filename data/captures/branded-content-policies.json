@@ -9,28 +9,54 @@
    "original": "https://www.facebook.com/business/help/221149188908254",
    "digest": "OHUWXJTWN5WCC4MKYFQ4W64KHE352W7H",
    "text_hash": "ef8c402142f9",
-   "chars": 8312
+   "chars": 8312,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
-   "timestamp": "20250203122404",
+   "timestamp": "20250221155812",
    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254",
-   "digest": "PN73OR73CHZJ2FBN6XQB4GEHLCFT2MFD",
-   "text_hash": "4529365622f6",
-   "chars": 154
+   "digest": "DZ6BWGB2B7VGS7G4JHMLSVM7I4JDMHOP",
+   "text_hash": "5ed387d42fbc",
+   "chars": 37,
+   "usable": false,
+   "extractor": 3
   },
   "202509": {
    "timestamp": "20250930073238",
    "original": "https://www.facebook.com/business/help/221149188908254",
    "digest": "OXEXOUEEJVDGX27ASSCRQ46MFIDAAPTA",
    "text_hash": "8b2089fb88f3",
-   "chars": 8223
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260323222945",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "QHFRBATCTXMT6OZMF2LKPBUBR2IBTPIE",
+   "text_hash": "8b2089fb88f3",
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260902223657",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "73FN5UKNONRXI72N5C6MCBZUWH3HW2LE",
+   "text_hash": "8b2089fb88f3",
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261015083643",
    "original": "https://www.facebook.com/business/help/221149188908254",
    "digest": "R3SJ4E3HQBOKRKXSDIUYIN76BRBEY6HF",
    "text_hash": "8b2089fb88f3",
-   "chars": 8223
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

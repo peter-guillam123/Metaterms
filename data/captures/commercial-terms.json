@@ -9,28 +9,63 @@
    "original": "https://www.facebook.com/legal/commercial_terms",
    "digest": "5GWPDW7QVAFDAMJ4O55OKEOTDOWWSQOW",
    "text_hash": "7c1086fa7599",
-   "chars": 16658
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250107042823",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "YTTNI3NRLSYBFWTB2MKATF6QHZ4O22Z3",
+   "text_hash": "7c1086fa7599",
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250209155651",
    "original": "https://www.facebook.com/legal/commercial_terms",
    "digest": "E5RN5OAS74A3R2SUPDX2DODHCM2OPDHI",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "a8c07c4019a7",
+   "chars": 16739,
+   "usable": true,
+   "extractor": 3
   },
   "202505": {
    "timestamp": "20250522073617",
    "original": "https://www.facebook.com/legal/commercial_terms",
    "digest": "N4P6JA4TEAVTL7PFQLFQN32AFTVMYPRO",
    "text_hash": "7c1086fa7599",
-   "chars": 16658
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251027093151",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "46QHURSE3PU3UY4JM4KDCT5FMZSXJL5S",
+   "text_hash": "7c1086fa7599",
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
+  },
+  "202604": {
+   "timestamp": "20260427041939",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "QSSH3HGF42PLND2MGFONGKEKKJOS36NL",
+   "text_hash": "814382e0c206",
+   "chars": 67,
+   "usable": false,
+   "extractor": 3
   },
   "202611": {
    "timestamp": "20261106032453",
    "original": "https://www.facebook.com/legal/commercial_terms",
    "digest": "KORISTCTAJEQDWCTDSR5RWGPFGZ23MP4",
    "text_hash": "a72625015d00",
-   "chars": 16813
+   "chars": 16813,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

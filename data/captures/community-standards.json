@@ -9,28 +9,63 @@
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "GDFCZ5QAV6I54HRHJIQSY4RETRBYWZZS",
    "text_hash": "0ae524a319d6",
-   "chars": 8687
+   "chars": 8687,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250215035517",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "YSEWAWUDDLLWJ24NL5LIRVDIJN7EJ77X",
    "text_hash": "6c7fd34e72a7",
-   "chars": 8643
+   "chars": 8643,
+   "usable": true,
+   "extractor": 3
   },
   "202505": {
    "timestamp": "20250515091513",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "JVHOIFEJURUVSOFBFKYG3DAGSSCD5RJY",
    "text_hash": "9cbdde20e9dd",
-   "chars": 8717
+   "chars": 8717,
+   "usable": true,
+   "extractor": 3
+  },
+  "202508": {
+   "timestamp": "20250805105258",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "5YBXMCGLCIUWEP6CJ4R277WNAOW3WT4S",
+   "text_hash": "f397aacfff39",
+   "chars": 8674,
+   "usable": true,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251124120801",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "X5GLBE4TBAJ6TBCIENKXAGP3ZIIR6CHC",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260224011026",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "WFZVLFAWCLYUI6KEHE4VCJQ2H2WS2XUB",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261015062137",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "7LULBTBKHGF4F3XTY27I2CD5YP6OBUE7",
    "text_hash": "43b6f7b4e802",
-   "chars": 4501
+   "chars": 4501,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

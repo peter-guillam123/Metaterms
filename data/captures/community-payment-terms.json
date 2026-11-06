@@ -9,28 +9,63 @@
    "original": "https://www.facebook.com/payments_terms",
    "digest": "VK43CDPNFXTFL4OE3OFUYQGUDFOH6FNW",
    "text_hash": "65fb2973a396",
-   "chars": 39873
+   "chars": 39873,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250114224409",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "Z3DYXSSUDN3PBIV5TSTI5I7PAS5HS2O2",
+   "text_hash": "94837a97d2b2",
+   "chars": 42578,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250212190829",
    "original": "https://www.facebook.com/payments_terms",
    "digest": "EUL4646Q3VVMXFOINZ4N3VSOOSKHWR4R",
    "text_hash": "2462e3e19790",
-   "chars": 43776
+   "chars": 43776,
+   "usable": true,
+   "extractor": 3
   },
   "202507": {
    "timestamp": "20250715184744",
    "original": "https://www.facebook.com/payments_terms",
    "digest": "PFGUWJYNVVUMNCFGNGP27XZM3VJD4SLV",
    "text_hash": "8c594e67e688",
-   "chars": 44565
+   "chars": 44565,
+   "usable": true,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251027093222",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "ALVP55XKYDTNCYK7FVKWC7TKXUNGFMUI",
+   "text_hash": "11a92e6aa662",
+   "chars": 45505,
+   "usable": true,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260508102804",
+   "original": "https://www.facebook.com/payments_terms/",
+   "digest": "G5VUMDNYZ4OPOL4PXXLPLKD7D3P25X3N",
+   "text_hash": "fb003d61ba65",
+   "chars": 48977,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261014124551",
    "original": "https://www.facebook.com/payments_terms",
    "digest": "TMGW73VYDV2SIXMGUNCAFWTI65IGQEZF",
    "text_hash": "6962dfe3bfca",
-   "chars": 53644
+   "chars": 53644,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

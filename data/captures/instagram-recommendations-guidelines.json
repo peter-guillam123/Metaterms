@@ -8,22 +8,46 @@
    "timestamp": "20241101193723",
    "original": "https://help.instagram.com/313829416281232",
    "digest": "TQD5W3RQQPYSODX2CIGC3WN2PHEJ7SCX",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "7a735832864b",
+   "chars": 6979,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250212015526",
    "original": "https://help.instagram.com/313829416281232",
    "digest": "YWFIYQ6XQIPK5ENGFZPRYZSICZDPXSYS",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "857509b894f9",
+   "chars": 6977,
+   "usable": true,
+   "extractor": 3
+  },
+  "202505": {
+   "timestamp": "20250517114303",
+   "original": "https://help.instagram.com/313829416281232",
+   "digest": "VNTZMJ7S6UUQUVAWIPOHPKVFTJNQ32VX",
+   "text_hash": "dcfa430c3d5f",
+   "chars": 6792,
+   "usable": true,
+   "extractor": 3
+  },
+  "202509": {
+   "timestamp": "20250924235620",
+   "original": "https://help.instagram.com/313829416281232/",
+   "digest": "4OETPUIRJRHXWA5VGBC5XXNP3SBZW3JF",
+   "text_hash": "dcfa430c3d5f",
+   "chars": 6792,
+   "usable": true,
+   "extractor": 3
   },
   "202609": {
    "timestamp": "20260904200109",
    "original": "https://help.instagram.com/313829416281232",
    "digest": "HMLKJGHAF3QB435QCLXDTC24HXAR4TUI",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "102129a352d6",
+   "chars": 7478,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

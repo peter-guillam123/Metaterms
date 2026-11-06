@@ -1,0 +1,3688 @@
+{
+ "slug": "advertising-policies",
+ "url": "https://www.facebook.com/policies/ads/",
+ "redirects": {
+  "https://www.facebook.com/policies/ads/": {
+   "timestamp": "20260917181152",
+   "target": "https://www.facebook.com/policies/ads"
+  }
+ },
+ "urls": {
+  "https://www.facebook.com/policies/ads/": [
+   {
+    "timestamp": "20240506192113",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "779"
+   },
+   {
+    "timestamp": "20240510213202",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "771"
+   },
+   {
+    "timestamp": "20240514153809",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2201"
+   },
+   {
+    "timestamp": "20240515095726",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2454"
+   },
+   {
+    "timestamp": "20240516220626",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "783"
+   },
+   {
+    "timestamp": "20240522195421",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2230"
+   },
+   {
+    "timestamp": "20240526155611",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2427"
+   },
+   {
+    "timestamp": "20240528140747",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "760"
+   },
+   {
+    "timestamp": "20240614030813",
+    "original": "https://facebook.com/policies/ads",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "322"
+   },
+   {
+    "timestamp": "20240717193721",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2487"
+   },
+   {
+    "timestamp": "20240720182651",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2454"
+   },
+   {
+    "timestamp": "20240810135520",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2134"
+   },
+   {
+    "timestamp": "20240813064008",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2108"
+   },
+   {
+    "timestamp": "20240814050022",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2314"
+   },
+   {
+    "timestamp": "20240815193621",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2187"
+   },
+   {
+    "timestamp": "20240822052945",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2138"
+   },
+   {
+    "timestamp": "20240829185246",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2192"
+   },
+   {
+    "timestamp": "20240901165732",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2450"
+   },
+   {
+    "timestamp": "20240903082226",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2393"
+   },
+   {
+    "timestamp": "20240905155735",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2150"
+   },
+   {
+    "timestamp": "20240906135745",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2146"
+   },
+   {
+    "timestamp": "20240907042043",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2143"
+   },
+   {
+    "timestamp": "20240915021517",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "787"
+   },
+   {
+    "timestamp": "20240922120234",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2431"
+   },
+   {
+    "timestamp": "20240927081855",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2149"
+   },
+   {
+    "timestamp": "20240929141751",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2151"
+   },
+   {
+    "timestamp": "20241002050310",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2320"
+   },
+   {
+    "timestamp": "20241005094619",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2297"
+   },
+   {
+    "timestamp": "20241008061941",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2203"
+   },
+   {
+    "timestamp": "20241014190003",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "782"
+   },
+   {
+    "timestamp": "20241030170916",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2181"
+   },
+   {
+    "timestamp": "20241101023054",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2168"
+   },
+   {
+    "timestamp": "20241119003806",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2327"
+   },
+   {
+    "timestamp": "20241120195711",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2150"
+   },
+   {
+    "timestamp": "20241122094320",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2152"
+   },
+   {
+    "timestamp": "20241127000223",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2335"
+   },
+   {
+    "timestamp": "20241203052946",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2388"
+   },
+   {
+    "timestamp": "20241204075946",
+    "original": "https://facebook.com/policies/ads/",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "344"
+   },
+   {
+    "timestamp": "20241206195856",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2147"
+   },
+   {
+    "timestamp": "20241208004020",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "758"
+   },
+   {
+    "timestamp": "20241213085349",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2153"
+   },
+   {
+    "timestamp": "20241215194151",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2323"
+   },
+   {
+    "timestamp": "20241216234419",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2471"
+   },
+   {
+    "timestamp": "20241218120421",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2332"
+   },
+   {
+    "timestamp": "20241221062313",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2151"
+   },
+   {
+    "timestamp": "20241226014233",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2221"
+   },
+   {
+    "timestamp": "20250103125402",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2147"
+   },
+   {
+    "timestamp": "20250105173000",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2152"
+   },
+   {
+    "timestamp": "20250107035455",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2148"
+   },
+   {
+    "timestamp": "20250108053718",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2134"
+   },
+   {
+    "timestamp": "20250115002222",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2339"
+   },
+   {
+    "timestamp": "20250117024431",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2334"
+   },
+   {
+    "timestamp": "20250120210740",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "BKCEQBBPCQR2WZXAT3VP4DJNTH7G5JTX",
+    "mimetype": "text/html",
+    "length": "2543"
+   },
+   {
+    "timestamp": "20250122211630",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "5S6SBHHSH5YACYEINQY2H7MKYIKX4QZN",
+    "mimetype": "text/html",
+    "length": "4170"
+   },
+   {
+    "timestamp": "20250123030959",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "400",
+    "digest": "CEPZDX3B2R2ERKRCL5Q5AKTH7WWHJS56",
+    "mimetype": "text/html",
+    "length": "4193"
+   },
+   {
+    "timestamp": "20250130014450",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "UMBHVJHFWNFPRQYYGKO7OPILUCD2WLET",
+    "mimetype": "text/html",
+    "length": "4359"
+   },
+   {
+    "timestamp": "20250202052445",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2054"
+   },
+   {
+    "timestamp": "20250206115110",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "AYZIHHCJJMF4YE26N6PCRYBOIZACXH5B",
+    "mimetype": "text/html",
+    "length": "4419"
+   },
+   {
+    "timestamp": "20250207005020",
+    "original": "https://facebook.com/policies/ads",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "820"
+   },
+   {
+    "timestamp": "20250208154600",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "400",
+    "digest": "HM4BPRRSDG3ZY5PWAWGUH7TNU5RG5I6U",
+    "mimetype": "text/html",
+    "length": "4454"
+   },
+   {
+    "timestamp": "20250209005631",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2214"
+   },
+   {
+    "timestamp": "20250212233612",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "XGD6TLUYHB7XNAJUHD5X6QU2NROSHBE4",
+    "mimetype": "text/html",
+    "length": "4467"
+   },
+   {
+    "timestamp": "20250213180138",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "400",
+    "digest": "UILAT65TMJH7DB27UCA3T67XYQVGGMWF",
+    "mimetype": "text/html",
+    "length": "4464"
+   },
+   {
+    "timestamp": "20250216035302",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "XJDXP5LHFOBU4RDDAYADKQUE3PS32VOH",
+    "mimetype": "text/html",
+    "length": "4491"
+   },
+   {
+    "timestamp": "20250221083257",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2229"
+   },
+   {
+    "timestamp": "20250228085251",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2392"
+   },
+   {
+    "timestamp": "20250306030458",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "FQJ6GOCD6EXTK4Q3XEPIX6RMKY4BBI33",
+    "mimetype": "text/html",
+    "length": "2416"
+   },
+   {
+    "timestamp": "20250307040328",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "GIRICD7HEOSGENYZJBFG3KMPSN7YDATZ",
+    "mimetype": "text/html",
+    "length": "2539"
+   },
+   {
+    "timestamp": "20250308183649",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2328"
+   },
+   {
+    "timestamp": "20250310044247",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2248"
+   },
+   {
+    "timestamp": "20250406212047",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2542"
+   },
+   {
+    "timestamp": "20250408111145",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2535"
+   },
+   {
+    "timestamp": "20250510084358",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "2JZWWOGZ6QYEJNLEFMMRPGUW67T74HNS",
+    "mimetype": "text/html",
+    "length": "4586"
+   },
+   {
+    "timestamp": "20250527145135",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "SEVTXPILOOJ3LYJXQTEXX6QFG6NF67JX",
+    "mimetype": "text/html",
+    "length": "2423"
+   },
+   {
+    "timestamp": "20250608145127",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "JA3WXODC3BE64BBJU2KHSTBR652M6M35",
+    "mimetype": "text/html",
+    "length": "3375"
+   },
+   {
+    "timestamp": "20250624054403",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "MMEXPCAHW4UJS2JXVYOAK7XVIF25BMED",
+    "mimetype": "text/html",
+    "length": "2410"
+   },
+   {
+    "timestamp": "20250628203432",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "KTIHR47YLATUTT4RBPOJJL74W2GTD7BI",
+    "mimetype": "text/html",
+    "length": "2407"
+   },
+   {
+    "timestamp": "20250709040920",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "7M7THWLAG7OWWZSTTJ74YNQSKSLQFLBD",
+    "mimetype": "text/html",
+    "length": "2450"
+   },
+   {
+    "timestamp": "20250711053640",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "YZ2AAOTQU4Q5VWUQC4HFVDVQRIQLBBLQ",
+    "mimetype": "text/html",
+    "length": "2403"
+   },
+   {
+    "timestamp": "20250714012243",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "DKROS2JTPMLKAYPVYR2D23VWS5LD7YUG",
+    "mimetype": "text/html",
+    "length": "2466"
+   },
+   {
+    "timestamp": "20250802161549",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2365"
+   },
+   {
+    "timestamp": "20250803230254",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2334"
+   },
+   {
+    "timestamp": "20250813192819",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "MVJBGYTPQSMAFDWEA27TVMVIMBAASZGU",
+    "mimetype": "text/html",
+    "length": "26088"
+   },
+   {
+    "timestamp": "20250817065511",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "335VMLM2DQNZYNVYJP56QLSY2WDYKP5Z",
+    "mimetype": "text/html",
+    "length": "15278"
+   },
+   {
+    "timestamp": "20250820164357",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2348"
+   },
+   {
+    "timestamp": "20250908062121",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "R3BGUC6NRJ37NPYZHJYC6O2AYC4SSVYG",
+    "mimetype": "text/html",
+    "length": "2486"
+   },
+   {
+    "timestamp": "20250922152425",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "FIHSSCWFRUZWGREDBS5Q2YMIFWCJ5OTI",
+    "mimetype": "text/html",
+    "length": "15897"
+   },
+   {
+    "timestamp": "20250929182254",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2810"
+   },
+   {
+    "timestamp": "20251015084255",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "6DVTT4H3AX6NUGOXNY4MURVAYZAAX2C4",
+    "mimetype": "text/html",
+    "length": "15489"
+   },
+   {
+    "timestamp": "20251018193436",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2582"
+   },
+   {
+    "timestamp": "20251114081206",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2697"
+   },
+   {
+    "timestamp": "20251210213810",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "400",
+    "digest": "WXWHS3NYJZMZKHRRSCZ36D4YDH2FMMIK",
+    "mimetype": "text/html",
+    "length": "3472"
+   },
+   {
+    "timestamp": "20251220151331",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "7XORO34O3UNFYST4VWRHSCHR373AQ74Z",
+    "mimetype": "text/html",
+    "length": "23512"
+   },
+   {
+    "timestamp": "20251227132953",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "VYTMCBT4ZYKRH6BFD5Q2MO24QWO7ZF5S",
+    "mimetype": "text/html",
+    "length": "2424"
+   },
+   {
+    "timestamp": "20260111234803",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2707"
+   },
+   {
+    "timestamp": "20260115105349",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "QQWASDHAQL7ZEXUVOB2DGKYXO2HUYFIX",
+    "mimetype": "text/html",
+    "length": "2537"
+   },
+   {
+    "timestamp": "20260126180856",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "IGW53T6AT7ZU6ZOBTWHPVEMRMWNZZVJT",
+    "mimetype": "text/html",
+    "length": "1747"
+   },
+   {
+    "timestamp": "20260127141039",
+    "original": "https://facebook.com/policies/ads/",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "772"
+   },
+   {
+    "timestamp": "20260128063444",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "4IMTB3B3BMTCPBG7K2PX4TRFSSYLXRCB",
+    "mimetype": "text/html",
+    "length": "2419"
+   },
+   {
+    "timestamp": "20260129073537",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "EGUMNLTT4PYJEJUHS4YNXPTJLBWOA4L2",
+    "mimetype": "text/html",
+    "length": "2412"
+   },
+   {
+    "timestamp": "20260205030436",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "MDR2EPXBIEOR7O7AQIMBFGONWNMJMU7C",
+    "mimetype": "text/html",
+    "length": "15603"
+   },
+   {
+    "timestamp": "20260206032853",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "O2XPSEPAWVYEEBT7PAIOATOFJ5LT3FXO",
+    "mimetype": "text/html",
+    "length": "15592"
+   },
+   {
+    "timestamp": "20260228181342",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "ONB5SSWNKW7ZGJAUCWFFNM7TZSWTFEAD",
+    "mimetype": "text/html",
+    "length": "1899"
+   },
+   {
+    "timestamp": "20260310184208",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2717"
+   },
+   {
+    "timestamp": "20260311160951",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "OUFBS6VDVKLYFYBCKXCYOEEZIRLKYDAZ",
+    "mimetype": "text/html",
+    "length": "15826"
+   },
+   {
+    "timestamp": "20260319160137",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "6A2LBTXLV75E24JVKI3NZQ44HKW3CHMC",
+    "mimetype": "text/html",
+    "length": "23810"
+   },
+   {
+    "timestamp": "20260415082441",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "4FRSKOQTYFEOYIHISK7YKXEXZQW3AZ2Q",
+    "mimetype": "text/html",
+    "length": "15851"
+   },
+   {
+    "timestamp": "20260504205949",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "BOR666T6GLVUSBJVPSD7JYDMJ4HS4V74",
+    "mimetype": "text/html",
+    "length": "2578"
+   },
+   {
+    "timestamp": "20260505065204",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "L6VYXQXBIQH4BRSTJPXS7BAD6UQZW23X",
+    "mimetype": "text/html",
+    "length": "1746"
+   },
+   {
+    "timestamp": "20260510214317",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "YKANAQATZBGFTP3IWWVAZN5BSUJT6LHH",
+    "mimetype": "text/html",
+    "length": "2575"
+   },
+   {
+    "timestamp": "20260511055332",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "FSQKNHLERYFUSRMLSQBQVTILIA424HU7",
+    "mimetype": "text/html",
+    "length": "15791"
+   },
+   {
+    "timestamp": "20260525172936",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2742"
+   },
+   {
+    "timestamp": "20260526223319",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "CKA65AKOOTBN77DUD3MJ4NBZ6RTLGCES",
+    "mimetype": "text/html",
+    "length": "2515"
+   },
+   {
+    "timestamp": "20260602025624",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "X4AZTMT3AZUGBF7QUBBY3RUOJCNBLRRB",
+    "mimetype": "text/html",
+    "length": "2421"
+   },
+   {
+    "timestamp": "20260606191514",
+    "original": "https://www.facebook.com/policies/ads",
+    "statuscode": "200",
+    "digest": "VZ3QAUZGZEZSHA3WLQBMVO63BBFTGIAL",
+    "mimetype": "text/html",
+    "length": "2428"
+   },
+   {
+    "timestamp": "20260627100450",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "GBD5IPNGEKDBYGGLEXLHXJBYBNDFJWGE",
+    "mimetype": "text/html",
+    "length": "2645"
+   },
+   {
+    "timestamp": "20260725194447",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "22725NPW2N4MAC6MTRYJX22LQYWFNZ7F",
+    "mimetype": "text/html",
+    "length": "2546"
+   },
+   {
+    "timestamp": "20260803011945",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "OKDXVEPH6NWWT3IVNK63H33BVSPBDVDK",
+    "mimetype": "text/html",
+    "length": "2527"
+   },
+   {
+    "timestamp": "20260916124413",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "27E4IIDIFAUJEMO5YDZX7DSO7JQLMFOR",
+    "mimetype": "text/html",
+    "length": "1852"
+   },
+   {
+    "timestamp": "20260917181152",
+    "original": "https://facebook.com/policies/ads",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "794"
+   },
+   {
+    "timestamp": "20260919192547",
+    "original": "https://www.facebook.com/policies/ads/",
+    "statuscode": "200",
+    "digest": "FX5LLDTV5JC5SDDWUZ5562FVZVJDKPJ7",
+    "mimetype": "text/html",
+    "length": "3122"
+   }
+  ],
+  "https://transparency.meta.com/policies/ad-standards/": [
+   {
+    "timestamp": "20240502173314",
+    "original": "http://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "268"
+   },
+   {
+    "timestamp": "20240504002532",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OMWU72XNVF75XYNKCBXB7BAGYUIHCFBN",
+    "mimetype": "text/html",
+    "length": "53497"
+   },
+   {
+    "timestamp": "20240509212822",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DCKVYPVJVTMJCIK3DEKMBWKAM7SYWKBM",
+    "mimetype": "text/html",
+    "length": "53688"
+   },
+   {
+    "timestamp": "20240513141652",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CYMUZWNO2NERVEUOHQV2QEE57PW4XZJ7",
+    "mimetype": "text/html",
+    "length": "56933"
+   },
+   {
+    "timestamp": "20240519222733",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "MQBCKSWHZ7YTYLDSYHQCQBLDA4AF4WXF",
+    "mimetype": "text/html",
+    "length": "53539"
+   },
+   {
+    "timestamp": "20240521145720",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5LCUTKG6XOAGNEPFBPFIE2CMJTUK6NK2",
+    "mimetype": "text/html",
+    "length": "56923"
+   },
+   {
+    "timestamp": "20240522000522",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "K6K6VX7R5PQEWVEYJQM45QZFUSPNWKLT",
+    "mimetype": "text/html",
+    "length": "53690"
+   },
+   {
+    "timestamp": "20240523084451",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "GZ47ROTVZIMYEJI4KNDN4YQK5U6WV5CB",
+    "mimetype": "text/html",
+    "length": "53042"
+   },
+   {
+    "timestamp": "20240524080727",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5YVS3L6GFWKPLLA47D2J3XDA66ABW5LQ",
+    "mimetype": "text/html",
+    "length": "52995"
+   },
+   {
+    "timestamp": "20240527081138",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "QF2OKZJVSU26QE3YAWBYDDBF73BFSFOJ",
+    "mimetype": "text/html",
+    "length": "12671"
+   },
+   {
+    "timestamp": "20240530080304",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "TDDO3AMXMD2CZAYR47LOGKUIVDU4H2DI",
+    "mimetype": "text/html",
+    "length": "52596"
+   },
+   {
+    "timestamp": "20240603221712",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OZUXGAC6DNE2ZOLRWF2LHLUJRQHGAITT",
+    "mimetype": "text/html",
+    "length": "52980"
+   },
+   {
+    "timestamp": "20240604191617",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KGYTUB26DL3ZLJDQMG2ZET2FY37YBCOD",
+    "mimetype": "text/html",
+    "length": "53043"
+   },
+   {
+    "timestamp": "20240605192145",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "RGMRBGEMHHVOXFL6ZM6IDQMV3IPJDWBS",
+    "mimetype": "text/html",
+    "length": "53099"
+   },
+   {
+    "timestamp": "20240606083645",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q4ONREVPTNHDL3T7B7BBAOVLE6CVOUCD",
+    "mimetype": "text/html",
+    "length": "56143"
+   },
+   {
+    "timestamp": "20240607065745",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7CS3I6HQB4RPETGZVSD2B5BWHSHLNQEK",
+    "mimetype": "text/html",
+    "length": "56105"
+   },
+   {
+    "timestamp": "20240608140214",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IVJHVU6J5PGW5XNZHWJ6FN3GKCR3VYSI",
+    "mimetype": "text/html",
+    "length": "55943"
+   },
+   {
+    "timestamp": "20240609081945",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ITFN6RDGLEET5T5XPVZDD23QNYAY6EQA",
+    "mimetype": "text/html",
+    "length": "56021"
+   },
+   {
+    "timestamp": "20240610080043",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PMM7V75WYGZ4RT6C2DSFTRBM3R3IUJAO",
+    "mimetype": "text/html",
+    "length": "56105"
+   },
+   {
+    "timestamp": "20240611104311",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "N256RZLHQZMVI2UIBBN3DGN2BSY2RMSQ",
+    "mimetype": "text/html",
+    "length": "53036"
+   },
+   {
+    "timestamp": "20240612115700",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ONEAKJCGINOHXSWECLGF4N5X3M4CTTUR",
+    "mimetype": "text/html",
+    "length": "53054"
+   },
+   {
+    "timestamp": "20240613132803",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KWWJJQYISDE63I6BZQUST4TYLQUAWWYT",
+    "mimetype": "text/html",
+    "length": "56149"
+   },
+   {
+    "timestamp": "20240614013950",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4IVFXB3YZ6ITZTPEHFB4OIJOBA476HHK",
+    "mimetype": "text/html",
+    "length": "56249"
+   },
+   {
+    "timestamp": "20240615082316",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AJWB5L4H7DCWIBXDLYOHX4PZOMEB4WWG",
+    "mimetype": "text/html",
+    "length": "56097"
+   },
+   {
+    "timestamp": "20240616114129",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "COWYDCI3T7BARP2WNJVYOAZVT4HLBZFJ",
+    "mimetype": "text/html",
+    "length": "53023"
+   },
+   {
+    "timestamp": "20240617152927",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "V4VBTP2QFX5CYP34AL6UOOBRIKA2UIWQ",
+    "mimetype": "text/html",
+    "length": "52931"
+   },
+   {
+    "timestamp": "20240618125100",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JMBGE7MYFL7MY3XEJXTSOFSPK6TDYVBW",
+    "mimetype": "text/html",
+    "length": "55993"
+   },
+   {
+    "timestamp": "20240619124922",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QX54O5ARNZX6HYJVQFIRBQFT55KK7XCR",
+    "mimetype": "text/html",
+    "length": "56101"
+   },
+   {
+    "timestamp": "20240620080455",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "55KGXHCKWF3DJC326POQGZK2QIE62ZES",
+    "mimetype": "text/html",
+    "length": "56097"
+   },
+   {
+    "timestamp": "20240621045652",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HH2MZIUTDJQPQVXAKORNPC4E6LOQV6YF",
+    "mimetype": "text/html",
+    "length": "52904"
+   },
+   {
+    "timestamp": "20240622093000",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SU5MM3Q5EUDF267UNK7NQMQRKK5DSDNQ",
+    "mimetype": "text/html",
+    "length": "52762"
+   },
+   {
+    "timestamp": "20240623125007",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "32FW6NIGFR6TWLKR46UDC7ATFMRBEJVM",
+    "mimetype": "text/html",
+    "length": "55876"
+   },
+   {
+    "timestamp": "20240624104045",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QOFA4HOGXB4HJSVYA2ZSKBMGF63HJJBD",
+    "mimetype": "text/html",
+    "length": "55926"
+   },
+   {
+    "timestamp": "20240625054433",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7SMRQAL4GT3CTI3YBHE7PPKFYVBWEEL6",
+    "mimetype": "text/html",
+    "length": "52910"
+   },
+   {
+    "timestamp": "20240626093639",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "USE3WQURESFQFNVZCREECKKZ5PHDGYZH",
+    "mimetype": "text/html",
+    "length": "52879"
+   },
+   {
+    "timestamp": "20240627004928",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JFX36UF62GDGG2YBWZUC4D5TT6CCVGT2",
+    "mimetype": "text/html",
+    "length": "53839"
+   },
+   {
+    "timestamp": "20240628130934",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SZUTHUKGVSW6GDA77LSGW6XZNVWHFH2D",
+    "mimetype": "text/html",
+    "length": "53773"
+   },
+   {
+    "timestamp": "20240629084735",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "2OM4WSSCGZNX2QNPMEHMJZRUUVUV5EFZ",
+    "mimetype": "text/html",
+    "length": "50762"
+   },
+   {
+    "timestamp": "20240630091515",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QGHI67XOWAUBZXBBW6B6XXJ6ZGL4B64S",
+    "mimetype": "text/html",
+    "length": "53769"
+   },
+   {
+    "timestamp": "20240701094326",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OHU3DDVTUSKC7DOLZHZEJ2NH2Q7MXDYT",
+    "mimetype": "text/html",
+    "length": "53911"
+   },
+   {
+    "timestamp": "20240702091819",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SASFEPA6VBC6CGGHDD7GICTFYID2KM5B",
+    "mimetype": "text/html",
+    "length": "50873"
+   },
+   {
+    "timestamp": "20240703194836",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QLYDDPXBN2TID6T3D3M2MVL4B73UJHTO",
+    "mimetype": "text/html",
+    "length": "53721"
+   },
+   {
+    "timestamp": "20240704154420",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AHA2OQXBUHQYUSB656GEL2M4INGJ7ELD",
+    "mimetype": "text/html",
+    "length": "50705"
+   },
+   {
+    "timestamp": "20240706225508",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "O5NANIC5CNDKX5VLQDG3K4YEPZPAFHKT",
+    "mimetype": "text/html",
+    "length": "53745"
+   },
+   {
+    "timestamp": "20240707194747",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "BOC6ZAYS2ZZNIEUI34YXH5C4ZVM5YJHJ",
+    "mimetype": "text/html",
+    "length": "50749"
+   },
+   {
+    "timestamp": "20240709065449",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "N66DCZIMRLPJOUNNDEOTNUZZQ2NU5KYV",
+    "mimetype": "text/html",
+    "length": "53650"
+   },
+   {
+    "timestamp": "20240710004454",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "6APK2ZBIBXWRKDIYXAS2O7GPTVU2UBIV",
+    "mimetype": "text/html",
+    "length": "50505"
+   },
+   {
+    "timestamp": "20240711113725",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3ZJ5FQS4KZ7QZFWZLY4DRNDDB3IAUQFA",
+    "mimetype": "text/html",
+    "length": "50513"
+   },
+   {
+    "timestamp": "20240712150737",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5LPK535FXPXPHAUNSPUPDVQ4SYVIXWGF",
+    "mimetype": "text/html",
+    "length": "53704"
+   },
+   {
+    "timestamp": "20240713141807",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "2CVQEUW3PNZGHWUUTK3ZQORZF2U7QT33",
+    "mimetype": "text/html",
+    "length": "53471"
+   },
+   {
+    "timestamp": "20240714002707",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "56WIQCIK3UHCGIZJSPL4GAOAKQR7ZI4J",
+    "mimetype": "text/html",
+    "length": "53554"
+   },
+   {
+    "timestamp": "20240715094809",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "2O5S43AXY3NDRUAFWYYHO6I5WITWHAEP",
+    "mimetype": "text/html",
+    "length": "53499"
+   },
+   {
+    "timestamp": "20240716132522",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UUNUZDQQ5XJCZIDA37CPFCWOVWMRHZ4V",
+    "mimetype": "text/html",
+    "length": "53572"
+   },
+   {
+    "timestamp": "20240717131424",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "6C6RIMHEGI7T6RFRZU5NBD273AHV3GV3",
+    "mimetype": "text/html",
+    "length": "53518"
+   },
+   {
+    "timestamp": "20240718090854",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SYBA3WRAI6FIUPEQ4QZXSJWH2AZZST4N",
+    "mimetype": "text/html",
+    "length": "52286"
+   },
+   {
+    "timestamp": "20240719124942",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DNV2MIJ2LOMG7PXNNSSM6STFZOUZXO6S",
+    "mimetype": "text/html",
+    "length": "52894"
+   },
+   {
+    "timestamp": "20240723005128",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "N4QNAN25SGEIKHIGQVYXXILXEMYTSDYV",
+    "mimetype": "text/html",
+    "length": "49439"
+   },
+   {
+    "timestamp": "20240724183246",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WCLCGO26WVBHVNOJ3D3272HJXJBHNVAQ",
+    "mimetype": "text/html",
+    "length": "52740"
+   },
+   {
+    "timestamp": "20240725154643",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KLQ2EF5RPU2NDZ5CAW42OWNMZ6MV3QCP",
+    "mimetype": "text/html",
+    "length": "53278"
+   },
+   {
+    "timestamp": "20240727072634",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7ARDA74UJJABTG4E5JCH7EJUTHGRBWWI",
+    "mimetype": "text/html",
+    "length": "50250"
+   },
+   {
+    "timestamp": "20240728060913",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HLPC2M2SVBRV4TTJIKGN46ADEWRSG4JI",
+    "mimetype": "text/html",
+    "length": "50473"
+   },
+   {
+    "timestamp": "20240729112351",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LMELVYQXQXLQYY7QU2UKCLYXK7HDLFAD",
+    "mimetype": "text/html",
+    "length": "50321"
+   },
+   {
+    "timestamp": "20240730182635",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "G2GAXKCLQAO3EOKQ7T36UALUANIRD3HG",
+    "mimetype": "text/html",
+    "length": "50307"
+   },
+   {
+    "timestamp": "20240801032119",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZVKJRYFE7VIQZE63GP5SDEUG36RXAF2D",
+    "mimetype": "text/html",
+    "length": "53319"
+   },
+   {
+    "timestamp": "20240802032102",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4VCM6KMVNBFVRSP3TAGB4CCQXXQCYA4H",
+    "mimetype": "text/html",
+    "length": "50432"
+   },
+   {
+    "timestamp": "20240803070013",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "W5C5RNTZDZEWRF7K7CXQHGLIJARNNNBV",
+    "mimetype": "text/html",
+    "length": "50257"
+   },
+   {
+    "timestamp": "20240804101216",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YPUCHS4BJTVJL5WMMJMCXS5H2GPSHA63",
+    "mimetype": "text/html",
+    "length": "50382"
+   },
+   {
+    "timestamp": "20240805093122",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HQSUPYKDKRJPB73FTXBXWTRNNMWZCLIS",
+    "mimetype": "text/html",
+    "length": "53373"
+   },
+   {
+    "timestamp": "20240806064057",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SFH5IRFWUVWIKM566GX6A5FKAQ2KCLYJ",
+    "mimetype": "text/html",
+    "length": "53703"
+   },
+   {
+    "timestamp": "20240807105216",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "S2THAIVIBEFZV6KEJMNDRKJ4DZTHHCI7",
+    "mimetype": "text/html",
+    "length": "53720"
+   },
+   {
+    "timestamp": "20240808142427",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "TO4JMEFRVVAI3LTUZIY4GLTPSL3HPHHK",
+    "mimetype": "text/html",
+    "length": "50381"
+   },
+   {
+    "timestamp": "20240809051330",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CDHRBEY3FDTKOSSGM5UTMY3GW4A2BE4I",
+    "mimetype": "text/html",
+    "length": "53446"
+   },
+   {
+    "timestamp": "20240810032028",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XBBGV35QWQN7ONRYPD3KPUCBQHENDBPB",
+    "mimetype": "text/html",
+    "length": "53271"
+   },
+   {
+    "timestamp": "20240811094607",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SCE6U3ZH4HOL3XDULUFRWZSHUXBHRURN",
+    "mimetype": "text/html",
+    "length": "53488"
+   },
+   {
+    "timestamp": "20240812132648",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UMBINTTBOXMO67HOW3NKX3IBJW2C3W3U",
+    "mimetype": "text/html",
+    "length": "50382"
+   },
+   {
+    "timestamp": "20240813070251",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "736LBZMAC5ZW4XR4WPT3IDDXSVD6NTOU",
+    "mimetype": "text/html",
+    "length": "53470"
+   },
+   {
+    "timestamp": "20240814034106",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "GALCUKNFTWYSPJMU6UKHCBNNDYC3W2DM",
+    "mimetype": "text/html",
+    "length": "53572"
+   },
+   {
+    "timestamp": "20240815103852",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "55T7ENVYPOSIJRUWLYZIUNVDOJ5R273N",
+    "mimetype": "text/html",
+    "length": "50675"
+   },
+   {
+    "timestamp": "20240816080437",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4I65FR5ASXO64ESWG2LT6FCSBTNTNIFD",
+    "mimetype": "text/html",
+    "length": "58714"
+   },
+   {
+    "timestamp": "20240817175131",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4N4U4B2XEBJCYIQ2I7XYHPPWOL4IUZN6",
+    "mimetype": "text/html",
+    "length": "61014"
+   },
+   {
+    "timestamp": "20240818101902",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "C7UQ3XRZ53TRMKRAZKASNH2W4PWC3NCA",
+    "mimetype": "text/html",
+    "length": "58561"
+   },
+   {
+    "timestamp": "20240819012949",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HFKEROXKRBS5CMFHQYQFTBOSWLDRTBLT",
+    "mimetype": "text/html",
+    "length": "63839"
+   },
+   {
+    "timestamp": "20240820065418",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XPBABWSG4QJO37LNAOL23TUE5NTWINDF",
+    "mimetype": "text/html",
+    "length": "61266"
+   },
+   {
+    "timestamp": "20240821044654",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "R2SPXP7K24TM2AX7BXSHDIXR2J34TB7S",
+    "mimetype": "text/html",
+    "length": "61082"
+   },
+   {
+    "timestamp": "20240822095504",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YDXJWZBELYAFM54WYQ4HKK2VWXIFNLXY",
+    "mimetype": "text/html",
+    "length": "63770"
+   },
+   {
+    "timestamp": "20240823090531",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OJEEYFIW5MIAVREHAQXYPGM5IXJ7RT3L",
+    "mimetype": "text/html",
+    "length": "61093"
+   },
+   {
+    "timestamp": "20240824000811",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "BLIP6GEJR5EQMJXTEJFT4BTHVTT5NLYO",
+    "mimetype": "text/html",
+    "length": "61171"
+   },
+   {
+    "timestamp": "20240825040343",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q622AHJ2UAWWQFGWFZSOCUPZXEAJEDQI",
+    "mimetype": "text/html",
+    "length": "58848"
+   },
+   {
+    "timestamp": "20240826040155",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ORKZUZQEP43ZOJEARYQ47DKOAOO7ZSWJ",
+    "mimetype": "text/html",
+    "length": "61119"
+   },
+   {
+    "timestamp": "20240827033543",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EJT4D3MDUCQV2YUMULGHRT7NF7CA5GUB",
+    "mimetype": "text/html",
+    "length": "58720"
+   },
+   {
+    "timestamp": "20240828060401",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DXA6GGKFNO7KZZVULJ2A6VMPXJUWDIPZ",
+    "mimetype": "text/html",
+    "length": "58565"
+   },
+   {
+    "timestamp": "20240829001923",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "M3ILX4COENDEFMTGKV6V3L4HHR4RQKX3",
+    "mimetype": "text/html",
+    "length": "58550"
+   },
+   {
+    "timestamp": "20240830151951",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NTHHRETJQHJN5GGDIIAE4KDSOHDLQO3J",
+    "mimetype": "text/html",
+    "length": "61291"
+   },
+   {
+    "timestamp": "20240831065928",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OMINGXK7XX3DXJPSNIIE6NMHGCMVGEEM",
+    "mimetype": "text/html",
+    "length": "58870"
+   },
+   {
+    "timestamp": "20240901071347",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "U7O6F5P2BXUSTBLI65W3NWCYREE4D7E5",
+    "mimetype": "text/html",
+    "length": "61127"
+   },
+   {
+    "timestamp": "20240902051359",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "2SV5UJSG5O6Y2EWPWFD6UYRRUCVIWETY",
+    "mimetype": "text/html",
+    "length": "61039"
+   },
+   {
+    "timestamp": "20240903122504",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WA5OY3OVGX5AZNWVYOOJUPZVHWXBS63L",
+    "mimetype": "text/html",
+    "length": "58895"
+   },
+   {
+    "timestamp": "20240904171904",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XC5TM22CUNMACH5HUJFCDTPOTO344KIS",
+    "mimetype": "text/html",
+    "length": "61209"
+   },
+   {
+    "timestamp": "20240905072851",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "W6EZDL4YUDVFBE563JDOQGEIYE37X2PL",
+    "mimetype": "text/html",
+    "length": "61019"
+   },
+   {
+    "timestamp": "20240906050632",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YWKOGW7V4ZR5525E6OO2LG5VJGCALU2X",
+    "mimetype": "text/html",
+    "length": "58795"
+   },
+   {
+    "timestamp": "20240908173208",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XHXFHONP4IW236EBBS2PHVGFVOIGE2ZN",
+    "mimetype": "text/html",
+    "length": "58858"
+   },
+   {
+    "timestamp": "20240909053740",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IQNBF7R34B4Y6CJMCJ2SBOFMNSXBI4SQ",
+    "mimetype": "text/html",
+    "length": "61266"
+   },
+   {
+    "timestamp": "20240910064735",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DE43Q7IUFDYBYJXWQE5MJLPBBNJNIZ2J",
+    "mimetype": "text/html",
+    "length": "61183"
+   },
+   {
+    "timestamp": "20240911032554",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "RIWEABMR3KW6PDRECLYTRWGZXY7VW2OY",
+    "mimetype": "text/html",
+    "length": "61192"
+   },
+   {
+    "timestamp": "20240912024549",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "O2JGT5BS32V2DHOI22HN3TGBLXQS5IKW",
+    "mimetype": "text/html",
+    "length": "64028"
+   },
+   {
+    "timestamp": "20240913085349",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5RCMTLS2K2PYYYVLA4XFOUGDMNCYNEH4",
+    "mimetype": "text/html",
+    "length": "59146"
+   },
+   {
+    "timestamp": "20240914052201",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "RPJY33C5CJTFCUC6URHMWMM3MQLCGEQA",
+    "mimetype": "text/html",
+    "length": "58887"
+   },
+   {
+    "timestamp": "20240915043657",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XNE7BQO3ATJ2GI2DTFPAZNQMQIC7JKAD",
+    "mimetype": "text/html",
+    "length": "61302"
+   },
+   {
+    "timestamp": "20240916084026",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DYYWRWTC56DTQAUPPAU2IA32LLBWPNIG",
+    "mimetype": "text/html",
+    "length": "64795"
+   },
+   {
+    "timestamp": "20240917053853",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QIDH44D36QA57XGRJH7KKGT2C5PEQTXR",
+    "mimetype": "text/html",
+    "length": "58789"
+   },
+   {
+    "timestamp": "20240918051741",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3AM6FP2JJEIBN756OKRMRDI4TLAUK5SS",
+    "mimetype": "text/html",
+    "length": "61180"
+   },
+   {
+    "timestamp": "20240919082107",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "GCGXSE664K3HPFID2IS3GUST4FANX7ZV",
+    "mimetype": "text/html",
+    "length": "61244"
+   },
+   {
+    "timestamp": "20240920092637",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HXG7BNR7O5Y3YJQUIKEK5ZIJEJDPGEVP",
+    "mimetype": "text/html",
+    "length": "58455"
+   },
+   {
+    "timestamp": "20240921045237",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "G3IC3DUSRKTTWCSJVZ6PKKLJCVI57EAY",
+    "mimetype": "text/html",
+    "length": "60596"
+   },
+   {
+    "timestamp": "20240922074514",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KBHPPTH7T4UVBWOGH76K3U6KOWC3B3Y3",
+    "mimetype": "text/html",
+    "length": "60697"
+   },
+   {
+    "timestamp": "20240923160223",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WSDRGXDDD35N5YTS4PXKQTX7OAHWYMMK",
+    "mimetype": "text/html",
+    "length": "60601"
+   },
+   {
+    "timestamp": "20240925120333",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EENKTWLB5HL354QY5XJSGZOW2X4ONGHX",
+    "mimetype": "text/html",
+    "length": "60971"
+   },
+   {
+    "timestamp": "20240926140037",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QIJVB7RWNQP5IMD2EAFOKSNECTMUOLUT",
+    "mimetype": "text/html",
+    "length": "61361"
+   },
+   {
+    "timestamp": "20240927043735",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZSV6GTZUSV4DJVUSYMUXBTDHZQG56ANS",
+    "mimetype": "text/html",
+    "length": "1341"
+   },
+   {
+    "timestamp": "20241001095937",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "GF4OGPCJGFKA6IJSZVA3AZZROMKUT7BJ",
+    "mimetype": "text/html",
+    "length": "62913"
+   },
+   {
+    "timestamp": "20241002083538",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IZHRTY2COYT2OMHLAYEPLC7TRHOIECMC",
+    "mimetype": "text/html",
+    "length": "60661"
+   },
+   {
+    "timestamp": "20241003100913",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "F4HGWB4NXHYWQKGJOOSAMGHVVWQRDBBL",
+    "mimetype": "text/html",
+    "length": "60480"
+   },
+   {
+    "timestamp": "20241004051514",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "JWEMOSMFA2YIDBMJBUBJZRZR3R2XW7VX",
+    "mimetype": "text/html",
+    "length": "58214"
+   },
+   {
+    "timestamp": "20241005051842",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XKETF7MY5GDD7AP7WJSRMGUJVBYXBLOJ",
+    "mimetype": "text/html",
+    "length": "60450"
+   },
+   {
+    "timestamp": "20241006003053",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NZ3VSXNLBTIJ3XDQQIJQJFKTULZQGSQR",
+    "mimetype": "text/html",
+    "length": "58593"
+   },
+   {
+    "timestamp": "20241007075236",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CGBPOCZV423RTIYXOBPUIVIADUHGMLBG",
+    "mimetype": "text/html",
+    "length": "61002"
+   },
+   {
+    "timestamp": "20241008125820",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JUUICBQTJM6C6TCSAXQV5BVZ3ZUIVVMU",
+    "mimetype": "text/html",
+    "length": "60968"
+   },
+   {
+    "timestamp": "20241009051755",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "U3SUILRPMQIHDX7BAMCH6IUY5JFQ7BUW",
+    "mimetype": "text/html",
+    "length": "58519"
+   },
+   {
+    "timestamp": "20241014011112",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "AMITPWXSCSMNF6Y2EKVJK2BCD3LD7C6H",
+    "mimetype": "text/html",
+    "length": "54773"
+   },
+   {
+    "timestamp": "20241023072518",
+    "original": "http://transparency.meta.com/policies/ad-standards",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "241"
+   },
+   {
+    "timestamp": "20241101020117",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OF6SHT34A2NGVFBOHOESN3XPR72HAA36",
+    "mimetype": "text/html",
+    "length": "60515"
+   },
+   {
+    "timestamp": "20241103022248",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CF54SAI3RO3Z2INMTD3BWM34EGHVS3TR",
+    "mimetype": "text/html",
+    "length": "57993"
+   },
+   {
+    "timestamp": "20241104100505",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NBEE7FCJXFACW7GZ4ZLSSQVOOXGJMPUW",
+    "mimetype": "text/html",
+    "length": "63370"
+   },
+   {
+    "timestamp": "20241106063842",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UAVO5YX5SOJOLFRNJPUJOGB4DHXZUUTS",
+    "mimetype": "text/html",
+    "length": "59958"
+   },
+   {
+    "timestamp": "20241107163129",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HKA6X5WVVCHU5VXMG3IERWMXD4A32JY7",
+    "mimetype": "text/html",
+    "length": "60388"
+   },
+   {
+    "timestamp": "20241108184103",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SC6XCWPCZEMHN2OOBNYGVPCUQB3XGTWY",
+    "mimetype": "text/html",
+    "length": "58195"
+   },
+   {
+    "timestamp": "20241113144218",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IIOKLPZKZLWWMI4QDQY6RBBIQ2A2XDWO",
+    "mimetype": "text/html",
+    "length": "57886"
+   },
+   {
+    "timestamp": "20241114013220",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SWBX6XENH7JGMUFCAFLJ7ESUCSUOUW5P",
+    "mimetype": "text/html",
+    "length": "60120"
+   },
+   {
+    "timestamp": "20241115015708",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "MJEBYVVWKAIJ663AZK2F444HWL66KD47",
+    "mimetype": "text/html",
+    "length": "59950"
+   },
+   {
+    "timestamp": "20241119000646",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "VS6MNY7V73YD6WQS76GRZZ3HGQAJP4IU",
+    "mimetype": "text/html",
+    "length": "62979"
+   },
+   {
+    "timestamp": "20241120223611",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FDRDA2OFWP7BTSTIN2GUCL6QLDZ7TLIW",
+    "mimetype": "text/html",
+    "length": "63388"
+   },
+   {
+    "timestamp": "20241121142604",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EZ5MFJMJOQLPG7SXHJKEGGWYDUPWPS4J",
+    "mimetype": "text/html",
+    "length": "60113"
+   },
+   {
+    "timestamp": "20241128023907",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FICIJ7Y7DCMWEXKN6OOIPEALL577GA7R",
+    "mimetype": "text/html",
+    "length": "58317"
+   },
+   {
+    "timestamp": "20241204172653",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "VIFJMQOTAN3Y5XPAKI6XCUAXUBJSZGZH",
+    "mimetype": "text/html",
+    "length": "57861"
+   },
+   {
+    "timestamp": "20241205044640",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KTOYMSZIPGDA3JHWXHU273HKSHCQC6HB",
+    "mimetype": "text/html",
+    "length": "60237"
+   },
+   {
+    "timestamp": "20241206104240",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "34GBEKBG7INKCQ6OGIE7POZBQK3G4VJP",
+    "mimetype": "text/html",
+    "length": "65513"
+   },
+   {
+    "timestamp": "20241209163722",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "OOQYKNT6OUV6GRUQQ4VKBDPWEIWZXWTV",
+    "mimetype": "text/html",
+    "length": "63056"
+   },
+   {
+    "timestamp": "20241210072652",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YOHUDHMHYVR5HI3GMWQPSTJ6CQNRFMQQ",
+    "mimetype": "text/html",
+    "length": "58380"
+   },
+   {
+    "timestamp": "20241212030815",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "RMT2KOIWKDGBGYXFDE2KOQ3YSKPDJSDG",
+    "mimetype": "text/html",
+    "length": "60565"
+   },
+   {
+    "timestamp": "20241213124624",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CBZL6YB5JBRNPBRAJASGCBCV5UTVB4VA",
+    "mimetype": "text/html",
+    "length": "57664"
+   },
+   {
+    "timestamp": "20241214000414",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5LPARZM7N2YNQS7W3VYP36DD4VDHV4HZ",
+    "mimetype": "text/html",
+    "length": "60277"
+   },
+   {
+    "timestamp": "20241219050109",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OLKLTWCTSK2GKIRP7VZXPHTKSAWWTU2U",
+    "mimetype": "text/html",
+    "length": "60188"
+   },
+   {
+    "timestamp": "20241220173447",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "2PMTTDCOB47RZ34ZV2TF7TU7YQQQFEYG",
+    "mimetype": "text/html",
+    "length": "62795"
+   },
+   {
+    "timestamp": "20241226034329",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "D2YCBA27RV35KHVLCXQ3WOFGET4PLE3H",
+    "mimetype": "text/html",
+    "length": "57747"
+   },
+   {
+    "timestamp": "20250107144442",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7XIBFVZB7EIDGTM6EWUEHFGYXPA5HPSC",
+    "mimetype": "text/html",
+    "length": "58069"
+   },
+   {
+    "timestamp": "20250108030135",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q7EJH3WEDAQHCW67DQ72ES5OLMU7OUTL",
+    "mimetype": "text/html",
+    "length": "63704"
+   },
+   {
+    "timestamp": "20250109081857",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "6CNMEZITRYFEWU4EVNZVSF2CDCJJ6TKY",
+    "mimetype": "text/html",
+    "length": "60614"
+   },
+   {
+    "timestamp": "20250113123028",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "BFRJNFTX2YUROWU773SJF7MVQVTQZOXO",
+    "mimetype": "text/html",
+    "length": "63893"
+   },
+   {
+    "timestamp": "20250115002312",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OKUPZGYWKB35Z4O25KRNGUQMCQPPATSD",
+    "mimetype": "text/html",
+    "length": "63293"
+   },
+   {
+    "timestamp": "20250116033824",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LMYS5XWWZ3KFDNVXLGVFWJESRHEKE6RR",
+    "mimetype": "text/html",
+    "length": "60539"
+   },
+   {
+    "timestamp": "20250118091002",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DWFECSUDHOL5U6TZAV43VSDEAKWVJ4N6",
+    "mimetype": "text/html",
+    "length": "65770"
+   },
+   {
+    "timestamp": "20250123161922",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4BY6SJRAMLDTVQHDCODSPPGRDY7RFF4Y",
+    "mimetype": "text/html",
+    "length": "63033"
+   },
+   {
+    "timestamp": "20250127164609",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZK3NPCZN2NTREKR4YQXSPQD3TZW5UN73",
+    "mimetype": "text/html",
+    "length": "64082"
+   },
+   {
+    "timestamp": "20250128042044",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3T2E4WZNNDC4JJ3EFJHUMOGRDKEEPT4E",
+    "mimetype": "text/html",
+    "length": "60422"
+   },
+   {
+    "timestamp": "20250130084708",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XUVP2U5JRGOBXTD5MHMAST5IRLDCSKFK",
+    "mimetype": "text/html",
+    "length": "60923"
+   },
+   {
+    "timestamp": "20250203105029",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UBF6Q57CRZK266RPEBBKE7NLBYESPTM6",
+    "mimetype": "text/html",
+    "length": "61166"
+   },
+   {
+    "timestamp": "20250204045351",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4YXM54COR4CJF37GMRHSL3HNSCM6ANEH",
+    "mimetype": "text/html",
+    "length": "62509"
+   },
+   {
+    "timestamp": "20250206173814",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "RYYNXN6UVFMFUQLERBASRVD35UUTL5CO",
+    "mimetype": "text/html",
+    "length": "64326"
+   },
+   {
+    "timestamp": "20250209005635",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q7IMHN3THIAS3LPBYXLJIIUJONSC4TOI",
+    "mimetype": "text/html",
+    "length": "61650"
+   },
+   {
+    "timestamp": "20250212023451",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LVCVGIPEQDMTI7Y2Z2BIB7UVMFFTQWFY",
+    "mimetype": "text/html",
+    "length": "56614"
+   },
+   {
+    "timestamp": "20250214203844",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "726SBLRNTM3Z3BM3QJ4XTCUHPC7H4AND",
+    "mimetype": "text/html",
+    "length": "57146"
+   },
+   {
+    "timestamp": "20250222132714",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PLESOXBDQBI6OPNTW5EJAMQDAEFSOBYB",
+    "mimetype": "text/html",
+    "length": "56882"
+   },
+   {
+    "timestamp": "20250225015747",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WBLKYD2WS4UGCFRJVP4LVSC727752VXI",
+    "mimetype": "text/html",
+    "length": "62324"
+   },
+   {
+    "timestamp": "20250305005109",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "JDB5HN2I5AZLUYJKHDFBAY56ZY5Q6B5W",
+    "mimetype": "text/html",
+    "length": "64809"
+   },
+   {
+    "timestamp": "20250317215854",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "PULNLZ7H6ZAMKATS6DW4D3I73KZBBPBY",
+    "mimetype": "text/html",
+    "length": "64184"
+   },
+   {
+    "timestamp": "20250318063431",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SLRDNEPFMJBXVN5SIDWLRZKVAFT43SSI",
+    "mimetype": "text/html",
+    "length": "59471"
+   },
+   {
+    "timestamp": "20250404133244",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "JQGLJD6DBWRXXVCSHJRXKSCFDX2XPEAT",
+    "mimetype": "text/html",
+    "length": "61906"
+   },
+   {
+    "timestamp": "20250405035458",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WR4RB43TA72CL6HP4UNMME7DN2XYS6YE",
+    "mimetype": "text/html",
+    "length": "56780"
+   },
+   {
+    "timestamp": "20250408235116",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AAGGPZVIJOWUSAMP4PYFK2OF57J6HXS5",
+    "mimetype": "text/html",
+    "length": "62617"
+   },
+   {
+    "timestamp": "20250415194650",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "IJZWKHXT2EBYSKRLK4MTJK222D77E3SZ",
+    "mimetype": "text/html",
+    "length": "62403"
+   },
+   {
+    "timestamp": "20250423215929",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "HKU2Y265QQDXEVB3OIPBDU3IGS35QE3I",
+    "mimetype": "text/html",
+    "length": "65359"
+   },
+   {
+    "timestamp": "20250425143245",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PZTFU5RWGWI3XV6S7BIADFLRHO4NJIGR",
+    "mimetype": "text/html",
+    "length": "65556"
+   },
+   {
+    "timestamp": "20250426040925",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7752MWJ4R7BY3PI6TPLVWWSDA6TM4VCW",
+    "mimetype": "text/html",
+    "length": "57488"
+   },
+   {
+    "timestamp": "20250429100147",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QV24PFDOO3ACYPDBUGHMZCXU5KLLQ2GF",
+    "mimetype": "text/html",
+    "length": "60596"
+   },
+   {
+    "timestamp": "20250505062156",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XSXR5ENDZCLJNBD26SEL6SX4SXS5AOV3",
+    "mimetype": "text/html",
+    "length": "65667"
+   },
+   {
+    "timestamp": "20250517060000",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "YHD45IHVUBXN3W4ALHO2M4MHXKZGGCDP",
+    "mimetype": "text/html",
+    "length": "57686"
+   },
+   {
+    "timestamp": "20250522025445",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LPU2U2NHFCZZLCDKMOJ2RIHRW4XCTVVP",
+    "mimetype": "text/html",
+    "length": "57996"
+   },
+   {
+    "timestamp": "20250523005507",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "3ORQFZOMGH3LGHYPWY5J6WZCNPOQHNKE",
+    "mimetype": "text/html",
+    "length": "57887"
+   },
+   {
+    "timestamp": "20250528124753",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XWC4DXBOH4NCDDBOANRQP2WYFFNNMQ35",
+    "mimetype": "text/html",
+    "length": "63833"
+   },
+   {
+    "timestamp": "20250529025638",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7HGV4CZS5L7HQGXR2Z6KLD7CIBFK6UXE",
+    "mimetype": "text/html",
+    "length": "55277"
+   },
+   {
+    "timestamp": "20250604033200",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "BLUSOMUSEGX7QMX4DAMBXKRAA2DVYSYX",
+    "mimetype": "text/html",
+    "length": "57645"
+   },
+   {
+    "timestamp": "20250607005829",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "325JNOQH5H372V5DY3IFWQPL3IXP43B4",
+    "mimetype": "text/html",
+    "length": "57846"
+   },
+   {
+    "timestamp": "20250619025731",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZEFL6RCOTCR7DSNYAJIOPIGSZ6P34OE7",
+    "mimetype": "text/html",
+    "length": "60361"
+   },
+   {
+    "timestamp": "20250620095538",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "J5S2QI47RJELKFY7VLQ5NFDP74LFGZR6",
+    "mimetype": "text/html",
+    "length": "57772"
+   },
+   {
+    "timestamp": "20250623112558",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ATGJ54W3VMBABHIQY62H2JBUGDZ77S4J",
+    "mimetype": "text/html",
+    "length": "61121"
+   },
+   {
+    "timestamp": "20250704163025",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IIDTBGHYHNSHCG3A3DZE6ZDWE6FXVJLA",
+    "mimetype": "text/html",
+    "length": "63562"
+   },
+   {
+    "timestamp": "20250705185356",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3OLRUC27WVMSRGPH5BKWS5DXNMYQ4SKJ",
+    "mimetype": "text/html",
+    "length": "65724"
+   },
+   {
+    "timestamp": "20250708202736",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LHCD4JNYZ55RGK47PUWMJECDLEQAYPQ7",
+    "mimetype": "text/html",
+    "length": "58225"
+   },
+   {
+    "timestamp": "20250715155217",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Z3ZSQULKUCMOEVSEJMY5X76KA2TQHITR",
+    "mimetype": "text/html",
+    "length": "63825"
+   },
+   {
+    "timestamp": "20250721180723",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "QJMFWRJLTBUTBFUMXYCQP4B6ZIF6ZMLV",
+    "mimetype": "text/html",
+    "length": "61378"
+   },
+   {
+    "timestamp": "20250801170130",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "3CRWU3QBMLKOHHEND2O6SXUUW3QAGD6R",
+    "mimetype": "text/html",
+    "length": "65772"
+   },
+   {
+    "timestamp": "20250803073124",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3UQCBBLEJ7AN4HNPRA5WLHIAZZS5TOUN",
+    "mimetype": "text/html",
+    "length": "63107"
+   },
+   {
+    "timestamp": "20250806012408",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5G77C7ZWIXKZIKL7UP2AMNY3LO2G4O5E",
+    "mimetype": "text/html",
+    "length": "57737"
+   },
+   {
+    "timestamp": "20250807162750",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5UAUVHSB2ETIZL5DQNTZDEHZJK276MZC",
+    "mimetype": "text/html",
+    "length": "58075"
+   },
+   {
+    "timestamp": "20250815084617",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "J6YV2WR3NTKMX2BTEQ2IM6MLFIRCGXO2",
+    "mimetype": "text/html",
+    "length": "58246"
+   },
+   {
+    "timestamp": "20250827003820",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "J2FYM4PFKAK25D6ACBTKLD3ESMYDGBHY",
+    "mimetype": "text/html",
+    "length": "58590"
+   },
+   {
+    "timestamp": "20250829204500",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WNDJBPK5ZXOUKYYJJCKZSKGPDQSQCUFY",
+    "mimetype": "text/html",
+    "length": "63067"
+   },
+   {
+    "timestamp": "20250905121512",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "67BHDWOGVIUBO7VGCJFXOBT3QZTQZUZW",
+    "mimetype": "text/html",
+    "length": "58517"
+   },
+   {
+    "timestamp": "20250912113121",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3JEFAPVUPPALYREWZTMZBUSE4ODG3WIF",
+    "mimetype": "text/html",
+    "length": "61494"
+   },
+   {
+    "timestamp": "20250913010023",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XLE4W3RMHPWA55N3WCWWYV4FJ4NNXFOS",
+    "mimetype": "text/html",
+    "length": "60719"
+   },
+   {
+    "timestamp": "20250920002503",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "G2Z6AMZHXFBBWL2WUQKDPIMX743ZB2LY",
+    "mimetype": "text/html",
+    "length": "64058"
+   },
+   {
+    "timestamp": "20250924235551",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XF5JWEVALHYMLFKCXAHLE5Z5D5AV43YV",
+    "mimetype": "text/html",
+    "length": "57938"
+   },
+   {
+    "timestamp": "20250925070137",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IBYCVXVBBB6Y6IRIDIDYYMACWSVMMK42",
+    "mimetype": "text/html",
+    "length": "55818"
+   },
+   {
+    "timestamp": "20250928025912",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FONTH7KQUXGJIW5JZ6AIJ4LMHHTEQEF4",
+    "mimetype": "text/html",
+    "length": "61579"
+   },
+   {
+    "timestamp": "20250929010520",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UNJNOKXM2MOMPTKZKMYVH5SW2UQMGV7Y",
+    "mimetype": "text/html",
+    "length": "56024"
+   },
+   {
+    "timestamp": "20251001003730",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "5YSRJIXJ555U2DWPI2EDYQRNEUP5S3EL",
+    "mimetype": "text/html",
+    "length": "63521"
+   },
+   {
+    "timestamp": "20251002203922",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WWKARFZNYLVQPJDVO2FV3T4VDNGYAKWM",
+    "mimetype": "text/html",
+    "length": "63438"
+   },
+   {
+    "timestamp": "20251006102339",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "NDHLTXHIEY434HFBDGVTLMVLM4BEFJ6J",
+    "mimetype": "text/html",
+    "length": "55855"
+   },
+   {
+    "timestamp": "20251010104227",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4NZK5XUFLOXY7LCFNHGG3XSCNPBW7KDC",
+    "mimetype": "text/html",
+    "length": "63867"
+   },
+   {
+    "timestamp": "20251014004539",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NEERRWRP5HQVIS6JCPSWJTYK4AV6EXVS",
+    "mimetype": "text/html",
+    "length": "53443"
+   },
+   {
+    "timestamp": "20251018065823",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "T2GIWHG3Q44MFGKH3W3RNC3GPZNKDQHV",
+    "mimetype": "text/html",
+    "length": "60925"
+   },
+   {
+    "timestamp": "20251027093107",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CMOTMWP2HN2LNDWNXL45VLJCGROFFD3O",
+    "mimetype": "text/html",
+    "length": "60760"
+   },
+   {
+    "timestamp": "20251028141229",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AKVPUJE46J6MSNJE2RVA2X73YDHCBNLG",
+    "mimetype": "text/html",
+    "length": "61335"
+   },
+   {
+    "timestamp": "20251111215728",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WOM2ZWP3OZDEVJYLGTZHIJR6FP4AXYH6",
+    "mimetype": "text/html",
+    "length": "61248"
+   },
+   {
+    "timestamp": "20251114232813",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "KE4M63ELKRLPPSRQKPVSPSRXA7RWJZIX",
+    "mimetype": "text/html",
+    "length": "140037"
+   },
+   {
+    "timestamp": "20251119065901",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4MMLFMFWC3D536Y4DUBJVL2MMBBWG6UV",
+    "mimetype": "text/html",
+    "length": "147282"
+   },
+   {
+    "timestamp": "20251124120819",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LYQSCPUG3W43OJKCM4YPSSMU2GKDUQWT",
+    "mimetype": "text/html",
+    "length": "146422"
+   },
+   {
+    "timestamp": "20251126232604",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OM7WSFRNOWXDYSOS3NPDSLHHOJNNMDHX",
+    "mimetype": "text/html",
+    "length": "143746"
+   },
+   {
+    "timestamp": "20251128191714",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "MR4ABQ2QDQAHRP4WPFMKTGSBO3JOWUES",
+    "mimetype": "text/html",
+    "length": "64269"
+   },
+   {
+    "timestamp": "20251202073947",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Y5HIG3SPJF5X7OEOEEGNR244K6SQAUOG",
+    "mimetype": "text/html",
+    "length": "145390"
+   },
+   {
+    "timestamp": "20251204012747",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UJCNH3LIHTRL5L3KMD6RH27B36S675XT",
+    "mimetype": "text/html",
+    "length": "147024"
+   },
+   {
+    "timestamp": "20251208105541",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EWOLZUKWLUIVWKOCJFHUIS2T2T36YRI6",
+    "mimetype": "text/html",
+    "length": "111204"
+   },
+   {
+    "timestamp": "20251209124409",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7NEMJKPB6ATVYWRMZ4QIG7HUNWLG6DMR",
+    "mimetype": "text/html",
+    "length": "119333"
+   },
+   {
+    "timestamp": "20251210171904",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NASOUKKJ6APSFKTNXCVN4V3KP35MDU65",
+    "mimetype": "text/html",
+    "length": "155053"
+   },
+   {
+    "timestamp": "20251211060703",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "CD3GPVLQ7CPOJRAOVUGVTDEOKCNWC5B5",
+    "mimetype": "text/html",
+    "length": "147232"
+   },
+   {
+    "timestamp": "20251212173540",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FAK2VRPDZQKLBBFPB4UGX7NINFBSKGAF",
+    "mimetype": "text/html",
+    "length": "154787"
+   },
+   {
+    "timestamp": "20251213053027",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HV4PNN7FV5LE7REF2AZ4VMEDCTIPNBSR",
+    "mimetype": "text/html",
+    "length": "145102"
+   },
+   {
+    "timestamp": "20251215144246",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JU4TFFERXPMDIIMUQMG7E6JKYSHIRWA3",
+    "mimetype": "text/html",
+    "length": "147280"
+   },
+   {
+    "timestamp": "20251216144724",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "400",
+    "digest": "IMWBTBGPX5UD2O4G7AN5OLEPYSLFYPNT",
+    "mimetype": "text/html",
+    "length": "62066"
+   },
+   {
+    "timestamp": "20251217060717",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UFQA7ICNL4245DVRIYFJQRNYJVFQO2YV",
+    "mimetype": "text/html",
+    "length": "136496"
+   },
+   {
+    "timestamp": "20251221134249",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "M4VETS5NM56FFKV743HHHTYE6EB5QTTK",
+    "mimetype": "text/html",
+    "length": "136864"
+   },
+   {
+    "timestamp": "20251222213012",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "PVBOTYHKLLAL77USS6QTQDFD3VH7QLHL",
+    "mimetype": "text/html",
+    "length": "138927"
+   },
+   {
+    "timestamp": "20251228140131",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "XOGQTYCDCNICGTLWXLLAFRRGT63L2AX6",
+    "mimetype": "text/html",
+    "length": "62411"
+   },
+   {
+    "timestamp": "20251229212928",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PEPTIQ53CTIDFA6N7LAX5JGTBX3RML3X",
+    "mimetype": "text/html",
+    "length": "112237"
+   },
+   {
+    "timestamp": "20260101054948",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "QQPSXTDLWQYHX2B2UNTWQHZKSLFDCAOT",
+    "mimetype": "text/html",
+    "length": "62243"
+   },
+   {
+    "timestamp": "20260110004856",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XPY426NBHF4KMKBKPVHC5JZNQ7LT4T6N",
+    "mimetype": "text/html",
+    "length": "110082"
+   },
+   {
+    "timestamp": "20260111073933",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "VWKERA2JOQJ74SIREXBW7YG5SRCKO3YH",
+    "mimetype": "text/html",
+    "length": "62103"
+   },
+   {
+    "timestamp": "20260112182147",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XQRTL25QWNSVXMZ6T5O2WO5PQFSI3YOI",
+    "mimetype": "text/html",
+    "length": "133928"
+   },
+   {
+    "timestamp": "20260119034542",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "GHGA3SR5GKHZJHE6MMGMBMFCZFMWMJGS",
+    "mimetype": "text/html",
+    "length": "110690"
+   },
+   {
+    "timestamp": "20260120010500",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PJJG3DSZ5DJ4CYGQNYIDOBLYVIYB2VGG",
+    "mimetype": "text/html",
+    "length": "111317"
+   },
+   {
+    "timestamp": "20260126182659",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "SZS4QSX4XQFOKEPOMXJNYL5NSJVRVACI",
+    "mimetype": "text/html",
+    "length": "133991"
+   },
+   {
+    "timestamp": "20260127040512",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "VHXOZLOMCQMAVMAWUJ7IK3SXAUW3NLXY",
+    "mimetype": "text/html",
+    "length": "110765"
+   },
+   {
+    "timestamp": "20260128202843",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "IISKGIQ6DKQCTOLA4FKVPEWHEFQTYHJD",
+    "mimetype": "text/html",
+    "length": "140802"
+   },
+   {
+    "timestamp": "20260129122326",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "MD56TB2IH2HXZZNU64MT5KGZ6ZE7JI4U",
+    "mimetype": "text/html",
+    "length": "111236"
+   },
+   {
+    "timestamp": "20260201045831",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XOBCQ53F74A7ZNQ5BV3K4WB45ZVEGKIC",
+    "mimetype": "text/html",
+    "length": "136031"
+   },
+   {
+    "timestamp": "20260202234740",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "2VRIVDO3T3XHIHAM7PIJLLLX6XWHTV5X",
+    "mimetype": "text/html",
+    "length": "64659"
+   },
+   {
+    "timestamp": "20260207194736",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3MT46RQU5ROEKIEPYI2ZF4H3LOH67E2Z",
+    "mimetype": "text/html",
+    "length": "109207"
+   },
+   {
+    "timestamp": "20260210045838",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "MY6B4VDA2DJE4YRG5OPU3INTJXIWDLXA",
+    "mimetype": "text/html",
+    "length": "134420"
+   },
+   {
+    "timestamp": "20260217163028",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "TRAEBNETRQBPY73RXQINU4CFRBKU7W7V",
+    "mimetype": "text/html",
+    "length": "63234"
+   },
+   {
+    "timestamp": "20260220062945",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "NIZ2CNWLP63GQ6J73VCUV6INVNU33YFT",
+    "mimetype": "text/html",
+    "length": "136403"
+   },
+   {
+    "timestamp": "20260221104553",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "5XZLAQO6MN4JEQUB2XLISW26FQA527C3",
+    "mimetype": "text/html",
+    "length": "132270"
+   },
+   {
+    "timestamp": "20260315224237",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZQOKCAY4OPE2NO4MH3SWSVYLCVZMK5SF",
+    "mimetype": "text/html",
+    "length": "135424"
+   },
+   {
+    "timestamp": "20260316171934",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "KJFLV4U2H4ZST6XAWEHQKDZIQWU42GFG",
+    "mimetype": "text/html",
+    "length": "64952"
+   },
+   {
+    "timestamp": "20260317144659",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LZ3ZU3CPRIC5GHWU56TONEH26N4OZ5ZT",
+    "mimetype": "text/html",
+    "length": "135068"
+   },
+   {
+    "timestamp": "20260319015709",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JZ42JKBE6ZNE4XG6VL7ISSM2NF2XOJ4I",
+    "mimetype": "text/html",
+    "length": "136054"
+   },
+   {
+    "timestamp": "20260320152303",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "SWE2BP6VMODXBQWUJHWKCUYQ4PWLZS5H",
+    "mimetype": "text/html",
+    "length": "67604"
+   },
+   {
+    "timestamp": "20260322133223",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PESKFQMCFK4OPCQRRPG4RKYQ2CZV5Y3F",
+    "mimetype": "text/html",
+    "length": "146320"
+   },
+   {
+    "timestamp": "20260325213652",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XWCYTIVFBHMNFK5ZLPSP7B5REDT3UHQW",
+    "mimetype": "text/html",
+    "length": "137308"
+   },
+   {
+    "timestamp": "20260409183738",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "J3LPJAE336S27R7SYX2YLRDFMBX4BQEQ",
+    "mimetype": "text/html",
+    "length": "67835"
+   },
+   {
+    "timestamp": "20260410103609",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q65QRUPRWT7ODUDWEN6L2P7OUPIPFHNK",
+    "mimetype": "text/html",
+    "length": "62251"
+   },
+   {
+    "timestamp": "20260411001643",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EJMWBWHMSJZWW5SYJ7LIA7YLOBBSB7PS",
+    "mimetype": "text/html",
+    "length": "64473"
+   },
+   {
+    "timestamp": "20260414134111",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "P7TLEAWKFOQOKPYGGPXYQSLQRBNRUSUH",
+    "mimetype": "text/html",
+    "length": "170607"
+   },
+   {
+    "timestamp": "20260415193950",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WRDMT3OMZBHVWCKO33W4SPMHYVJZ563P",
+    "mimetype": "text/html",
+    "length": "62735"
+   },
+   {
+    "timestamp": "20260416053708",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YQI3MI347TJZL7ZVB3VBMCI5HADFG2CD",
+    "mimetype": "text/html",
+    "length": "168648"
+   },
+   {
+    "timestamp": "20260417051207",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WV6RL76FLVQPZQPHVWS7CED756PFTQO4",
+    "mimetype": "text/html",
+    "length": "171166"
+   },
+   {
+    "timestamp": "20260419012214",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "QHHQKQZPEH5CQNTSDJMFBWLQBUP34ZMF",
+    "mimetype": "text/html",
+    "length": "64725"
+   },
+   {
+    "timestamp": "20260420171836",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "C6NVLXX2DN5UEF6IC2FXXR6YA4WHWR3W",
+    "mimetype": "text/html",
+    "length": "134667"
+   },
+   {
+    "timestamp": "20260421223818",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Z6JLDNNSWVEWHPU5ZT7C6AYBZLDLEHL2",
+    "mimetype": "text/html",
+    "length": "161752"
+   },
+   {
+    "timestamp": "20260422213806",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7PTDLFY7EITRALXHQ2FH665INXDBCHVQ",
+    "mimetype": "text/html",
+    "length": "162033"
+   },
+   {
+    "timestamp": "20260425224153",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "6XPRYWJBVQSIZGXWTIO22U2KIER5FPMG",
+    "mimetype": "text/html",
+    "length": "54732"
+   },
+   {
+    "timestamp": "20260429121112",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JSFRGGHFAP35CJ64PXNEXY3RJ7B7CGDP",
+    "mimetype": "text/html",
+    "length": "128298"
+   },
+   {
+    "timestamp": "20260430074819",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "HSAJ5HK3Z2U5SI32WMSXOY6RXFOUCRM4",
+    "mimetype": "text/html",
+    "length": "55538"
+   },
+   {
+    "timestamp": "20260504035417",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AZLCTLFWE6QAMBS3WDQTDTIL72NNFY3C",
+    "mimetype": "text/html",
+    "length": "54685"
+   },
+   {
+    "timestamp": "20260505055046",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UDZ7Y5L4TFJXRHUJNEIEQ2DEIEMMHLNH",
+    "mimetype": "text/html",
+    "length": "130012"
+   },
+   {
+    "timestamp": "20260509050448",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FDBCOZ64DOJX7WNUCAF7TZQZMUYGKNBL",
+    "mimetype": "text/html",
+    "length": "55450"
+   },
+   {
+    "timestamp": "20260512033652",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LJBJIZICAWQBSYFUHL6MVQRC55YS6G6B",
+    "mimetype": "text/html",
+    "length": "56262"
+   },
+   {
+    "timestamp": "20260513190424",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UQJGMTOIQ3BFEFUFWYSBMMSMWLXKU3XS",
+    "mimetype": "text/html",
+    "length": "141552"
+   },
+   {
+    "timestamp": "20260528152141",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "PYXWWHALHLZQVGGWACX7YTSTQZN5X7KB",
+    "mimetype": "text/html",
+    "length": "154568"
+   },
+   {
+    "timestamp": "20260531193022",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "E5MTDACGGPIGPUERG6XYDK5RPSMKH6QQ",
+    "mimetype": "text/html",
+    "length": "56793"
+   },
+   {
+    "timestamp": "20260602153855",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "OB4BEDLP5LXTIROYFF6652TWUUAHOOIP",
+    "mimetype": "text/html",
+    "length": "57237"
+   },
+   {
+    "timestamp": "20260611180127",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q4SFYMCNSBP7GAHNELKCAWDAQATUJ7Z4",
+    "mimetype": "text/html",
+    "length": "56874"
+   },
+   {
+    "timestamp": "20260701132612",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "FJIRGB2M6BBVVDZSXJUCXTAGT6IGUBHR",
+    "mimetype": "text/html",
+    "length": "63395"
+   },
+   {
+    "timestamp": "20260706143643",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "Y77CIQ5BNUTDDZLNKJ6SCAFL3MAMPEE7",
+    "mimetype": "text/html",
+    "length": "61209"
+   },
+   {
+    "timestamp": "20260708120640",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3RZTVI5FFXUN7RB3R2XNPMZZKN3UIKUA",
+    "mimetype": "text/html",
+    "length": "61204"
+   },
+   {
+    "timestamp": "20260711213303",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AS7SDVJQV5ADQJZHUF5MC3HTO7CTSFP2",
+    "mimetype": "text/html",
+    "length": "60683"
+   },
+   {
+    "timestamp": "20260713031855",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "UC4ANOGSSEPJY3CMBFHRM45BT4JRJPKD",
+    "mimetype": "text/html",
+    "length": "160985"
+   },
+   {
+    "timestamp": "20260720143838",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "CU6OG5PV3NCKWFJVIFYGOB24HNIH37GM",
+    "mimetype": "text/html",
+    "length": "62158"
+   },
+   {
+    "timestamp": "20260724133222",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "57PMGWF5QOV7LF3CBC2FTTCTO2ALQM34",
+    "mimetype": "text/html",
+    "length": "171953"
+   },
+   {
+    "timestamp": "20260806081626",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Q35CQHHMQR2TX45L4TUUCM2OZLMRZTQ3",
+    "mimetype": "text/html",
+    "length": "145012"
+   },
+   {
+    "timestamp": "20260810182637",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "P5S4PITEJ2KKTLDYIOTW3NZI7NCFJYGJ",
+    "mimetype": "text/html",
+    "length": "62458"
+   },
+   {
+    "timestamp": "20260811105117",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DZ6GDATMHAO2JGR3DBUGCOEUQPRFF5S5",
+    "mimetype": "text/html",
+    "length": "62271"
+   },
+   {
+    "timestamp": "20260813164116",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "QA4VMXUX52PCQOLSPMXDDOECAI27QAQP",
+    "mimetype": "text/html",
+    "length": "62694"
+   },
+   {
+    "timestamp": "20260819164010",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "AXHOBHSHM6TWYGULOC32UP3JFIULOL2G",
+    "mimetype": "text/html",
+    "length": "146794"
+   },
+   {
+    "timestamp": "20260823155745",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "5YFI3HSGQHCSEY3WULCGWPKRGOM44IY5",
+    "mimetype": "text/html",
+    "length": "146930"
+   },
+   {
+    "timestamp": "20260827143733",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "BVB5GV7RJVQXSGAAPNOOONDDA6CCQEXL",
+    "mimetype": "text/html",
+    "length": "63656"
+   },
+   {
+    "timestamp": "20260830100453",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "Y4HF55LHBOOBG7BRNBQ5Z6JLDX6DTT4K",
+    "mimetype": "text/html",
+    "length": "149747"
+   },
+   {
+    "timestamp": "20260906101751",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "JOVB4AZO4SIJ2UXTR3TNMV7LLUBH7MDW",
+    "mimetype": "text/html",
+    "length": "144483"
+   },
+   {
+    "timestamp": "20260907080649",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XGNFEI2HP235Z5VG6M5UHD33R5JDEWFO",
+    "mimetype": "text/html",
+    "length": "144178"
+   },
+   {
+    "timestamp": "20260908060816",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "ZHFOMYT337UZVSGGFIFCFFNXIFKJGLAI",
+    "mimetype": "text/html",
+    "length": "142931"
+   },
+   {
+    "timestamp": "20260911140025",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "T7SY3LSUZEYCTKY4XKAIOQKWFYECYNRB",
+    "mimetype": "text/html",
+    "length": "62383"
+   },
+   {
+    "timestamp": "20260914154909",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "RTBGG7SWK4LBQV6YKK25BT7O4ZLBIPSJ",
+    "mimetype": "text/html",
+    "length": "62324"
+   },
+   {
+    "timestamp": "20260915205051",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XG7LH4JBN442FZL2KT4JPNDWYNIFNSRB",
+    "mimetype": "text/html",
+    "length": "134668"
+   },
+   {
+    "timestamp": "20260919064242",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "YXDFOI4GISY2U3G2MCJVQKAF54WZZSPE",
+    "mimetype": "text/html",
+    "length": "142415"
+   },
+   {
+    "timestamp": "20260923090353",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WYCJXMVQKZ5O35MTDXNFXNC7XEF3FIPO",
+    "mimetype": "text/html",
+    "length": "143794"
+   },
+   {
+    "timestamp": "20260925034650",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "L5WCWD5W4H2DQHZECF5M2UWE3FW4EQAP",
+    "mimetype": "text/html",
+    "length": "141830"
+   },
+   {
+    "timestamp": "20260930111701",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XS2U7FVNO7ZZ2RFHFWDGJZGNWRV45WRA",
+    "mimetype": "text/html",
+    "length": "62579"
+   },
+   {
+    "timestamp": "20261002143131",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DMV6DR6M7SLGPHWQSEYPNIODNLY3UGYY",
+    "mimetype": "text/html",
+    "length": "144187"
+   },
+   {
+    "timestamp": "20261005080649",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "O7C2K24IML52XBQKPA44JN6NAM4CZGQL",
+    "mimetype": "text/html",
+    "length": "155905"
+   },
+   {
+    "timestamp": "20261006023847",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "G37HLWXCT6P6ZUOYGBIBJ4QD6VT2QDCW",
+    "mimetype": "text/html",
+    "length": "62611"
+   },
+   {
+    "timestamp": "20261007000917",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "66SGXXUKZAQG6LYPIHTZIMQQWKXM7LL5",
+    "mimetype": "text/html",
+    "length": "63422"
+   },
+   {
+    "timestamp": "20261008023954",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "LZF7XLAB4WEM2STZLIYGLVCI4ZBDER7X",
+    "mimetype": "text/html",
+    "length": "155844"
+   },
+   {
+    "timestamp": "20261010050609",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "3VPZD5PMQRW7N242FFCNDUSJVGCPWI3P",
+    "mimetype": "text/html",
+    "length": "157211"
+   },
+   {
+    "timestamp": "20261012044418",
+    "original": "https://transparency.meta.com/policies/ad-standards",
+    "statuscode": "200",
+    "digest": "N6SXU3TG5WHD3FDNNT736OO6LTYYYHNC",
+    "mimetype": "text/html",
+    "length": "146098"
+   },
+   {
+    "timestamp": "20261014011239",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "QLHVTEP4TCYPCXYCK6OYSMOO5TAELCBW",
+    "mimetype": "text/html",
+    "length": "63100"
+   },
+   {
+    "timestamp": "20261018023317",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "WTCBDDOFCZ3JLG4Q3ARL2FKGOXSCINCM",
+    "mimetype": "text/html",
+    "length": "57398"
+   },
+   {
+    "timestamp": "20261019080644",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "GQHCIWVGCU2BLQRIYBME6GV6APCAET26",
+    "mimetype": "text/html",
+    "length": "159756"
+   },
+   {
+    "timestamp": "20261020073946",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DCN2R5QBZGKU5G7BZNCAPXOQNLYK72VC",
+    "mimetype": "text/html",
+    "length": "163759"
+   },
+   {
+    "timestamp": "20261021071051",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "HGHCF57JCHPXMMLTLFZJQAMJLVJJ6UY3",
+    "mimetype": "text/html",
+    "length": "57823"
+   },
+   {
+    "timestamp": "20261028050646",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "DWW4U7I6JQXH7SKAXSRJPI4TJMFS24L6",
+    "mimetype": "text/html",
+    "length": "154177"
+   },
+   {
+    "timestamp": "20261029044843",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "4MWQ6YJIH5GVFH7BAYL6EUOD35OFPG43",
+    "mimetype": "text/html",
+    "length": "154452"
+   },
+   {
+    "timestamp": "20261030054749",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "2M5ZWL625AGR6O2ST77GGVAVJPRTH4A2",
+    "mimetype": "text/html",
+    "length": "154542"
+   },
+   {
+    "timestamp": "20261031051249",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "U5U3RUEFLGACVV2Y2DNEZMAKL7ILISBC",
+    "mimetype": "text/html",
+    "length": "155405"
+   },
+   {
+    "timestamp": "20261101045258",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "EOU2S7OGS4ZNETUGL4BHKMLLVM5GIZ7V",
+    "mimetype": "text/html",
+    "length": "154162"
+   },
+   {
+    "timestamp": "20261102044956",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "OWYRDGR5O2W7CWXVZQMUJN5MCAQDNI5I",
+    "mimetype": "text/html",
+    "length": "154066"
+   },
+   {
+    "timestamp": "20261103045221",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "7UU2VHQTOBGU3YCQ23GGUDFXTJYEJZGM",
+    "mimetype": "text/html",
+    "length": "147813"
+   },
+   {
+    "timestamp": "20261104045153",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "UF7RQPIG7B7WBHQWALA6IM6ZHS3Y53OL",
+    "mimetype": "text/html",
+    "length": "148473"
+   },
+   {
+    "timestamp": "20261105045950",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "V3AKKMQDJQJROAIOBXVNZOFQXBJF4366",
+    "mimetype": "text/html",
+    "length": "148063"
+   },
+   {
+    "timestamp": "20261106045745",
+    "original": "https://transparency.meta.com/policies/ad-standards/",
+    "statuscode": "200",
+    "digest": "XGHAD5B7FRPU7C2MSA6RUCVE2OBWVEVJ",
+    "mimetype": "text/html",
+    "length": "150853"
+   }
+  ]
+ }
+}

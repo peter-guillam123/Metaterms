@@ -9,28 +9,54 @@
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
    "digest": "7OQ2V46AIBKNSVFSF6VUVIXFFJIWSZTI",
    "text_hash": "840145e5a760",
-   "chars": 4111
+   "chars": 4111,
+   "usable": true,
+   "extractor": 3
+  },
+  "202502": {
+   "timestamp": "20250209155649",
+   "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+   "digest": "I2YX6V6YSGINLBN2IXP6BKXGEJCWR365",
+   "text_hash": "ade5d480270d",
+   "chars": 10761,
+   "usable": true,
+   "extractor": 3
   },
   "202503": {
    "timestamp": "20250324234059",
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
    "digest": "KOBTRFJS7FHP2KKXDZSYVIU4I2H6BVOC",
    "text_hash": "deb1e91981b5",
-   "chars": 4185
+   "chars": 4185,
+   "usable": true,
+   "extractor": 3
   },
   "202507": {
    "timestamp": "20250727204112",
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
    "digest": "CS6AHZJCZA6AKDTO4Z3VWBNKZTVGQRCU",
    "text_hash": "f2595df648f9",
-   "chars": 4142
+   "chars": 4142,
+   "usable": true,
+   "extractor": 3
+  },
+  "202508": {
+   "timestamp": "20250806012408",
+   "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+   "digest": "U2ZQFTABD7XO5VDDJKNV4VP6XUHNJA3B",
+   "text_hash": "f2595df648f9",
+   "chars": 4142,
+   "usable": true,
+   "extractor": 3
   },
   "202603": {
    "timestamp": "20260305145754",
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
    "digest": "BGOLXCLVST3YQTGSFE3Z6UUURWMPH4TG",
    "text_hash": "adc83b19e793",
-   "chars": 1
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
   }
  }
 }

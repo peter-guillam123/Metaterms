@@ -9,21 +9,27 @@
    "original": "https://about.meta.com/brand/resources/",
    "digest": "DIQVI247HYN4IHFASGN323M7GONM6ML7",
    "text_hash": "0d52bfd6f16d",
-   "chars": 924
+   "chars": 924,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
-   "timestamp": "20250218035423",
+   "timestamp": "20250217042348",
    "original": "https://about.meta.com/brand/resources/",
-   "digest": "BL7RFKQAI3SRJGHO456LVZHGXNSZXLMP",
+   "digest": "2X6O2PFQL4FJX4HVD3L63AJ575XYIKAG",
    "text_hash": "f45460d937f8",
-   "chars": 620
+   "chars": 620,
+   "usable": false,
+   "extractor": 3
   },
   "202610": {
-   "timestamp": "20261008023824",
+   "timestamp": "20261013021241",
    "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
-   "digest": "HCTNHMHRPRZHPALBDVT3JHCNBV4C35PR",
+   "digest": "HLGTL24RRPTMXRJPYR4XW27VOWSOZU2D",
    "text_hash": "1a4e44455554",
-   "chars": 628
+   "chars": 628,
+   "usable": false,
+   "extractor": 3
   }
  }
 }

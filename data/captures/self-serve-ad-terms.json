@@ -9,21 +9,45 @@
    "original": "https://www.facebook.com/legal/self_service_ads_terms",
    "digest": "LCSRXHORSTBZDS6BAFZVB5W6TMH7OEWQ",
    "text_hash": "542e5125d426",
-   "chars": 9657
+   "chars": 9657,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250209155727",
    "original": "https://www.facebook.com/legal/self_service_ads_terms",
    "digest": "PVT5LEPQ3CRL6EJQTGYYGZXYNTD2USZG",
-   "text_hash": "adc83b19e793",
-   "chars": 1
+   "text_hash": "a8858b9dc76f",
+   "chars": 9761,
+   "usable": true,
+   "extractor": 3
+  },
+  "202506": {
+   "timestamp": "20250601024959",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "K5KGYRHASBM2L24DZIUD2JW3YZJKDTIW",
+   "text_hash": "4355f60b4ed5",
+   "chars": 9911,
+   "usable": true,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251027093134",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "YQ3APQSYSZ4DUUNGTB3X55NHULYBNOLV",
+   "text_hash": "a39efa728ed9",
+   "chars": 12390,
+   "usable": true,
+   "extractor": 3
   },
   "202611": {
    "timestamp": "20261106032514",
    "original": "https://www.facebook.com/legal/self_service_ads_terms",
    "digest": "UW666IZUODUVAHQPMYAKHSCQYOAAKG5O",
    "text_hash": "ab2d4a2760b2",
-   "chars": 12551
+   "chars": 12551,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

@@ -9,21 +9,36 @@
    "original": "https://www.facebook.com/terms/",
    "digest": "A5ZRPBCQQ643XTI2P6MFUTW7LSP2NTAF",
    "text_hash": "35089f3ba01a",
-   "chars": 30936
+   "chars": 30936,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
-   "timestamp": "20250214034323",
+   "timestamp": "20250212003635",
+   "original": "https://www.facebook.com/terms",
+   "digest": "KWFP34Z2BFCZP4UP4Y57UTD32NG5BNVN",
+   "text_hash": "a90742491f94",
+   "chars": 48291,
+   "usable": false,
+   "extractor": 3
+  },
+  "202505": {
+   "timestamp": "20250525113943",
    "original": "https://www.facebook.com/terms/",
-   "digest": "DZBFWBRWLXGLC7EQN2SFIU7QZ34QRXKG",
-   "text_hash": "aadc343d3b9c",
-   "chars": 39312
+   "digest": "F7DXMW2JZDFRZYUV745RACPKWTH27W2V",
+   "text_hash": "92d451af870b",
+   "chars": 49042,
+   "usable": false,
+   "extractor": 3
   },
   "202611": {
    "timestamp": "20261106140438",
    "original": "https://www.facebook.com/terms/",
    "digest": "6YWPUP3EKX3U6MKTQMJCPXDPQFAZ4F4B",
    "text_hash": "40aec537ab5d",
-   "chars": 32246
+   "chars": 32246,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

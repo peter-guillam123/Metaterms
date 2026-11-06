@@ -9,28 +9,63 @@
    "original": "https://www.facebook.com/policies_center/commerce",
    "digest": "7W5KIGERNQPGEG7RN6RWWD4YD4UVWSYE",
    "text_hash": "f97955daae53",
-   "chars": 6545
+   "chars": 6545,
+   "usable": true,
+   "extractor": 3
   },
   "202502": {
    "timestamp": "20250212190829",
    "original": "https://www.facebook.com/policies_center/commerce",
    "digest": "MKI2CHM3PUKBGWN5XSZ6ZXUK45LAJXMZ",
    "text_hash": "14f0eee6067e",
-   "chars": 7102
+   "chars": 7102,
+   "usable": true,
+   "extractor": 3
   },
   "202507": {
    "timestamp": "20250726140701",
    "original": "https://www.facebook.com/policies_center/commerce/",
    "digest": "TGARO4ABUWJXG6AO7QAFNMZECM4U2HPW",
    "text_hash": "384c509303dd",
-   "chars": 7459
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251027093212",
+   "original": "https://www.facebook.com/policies_center/commerce/",
+   "digest": "WUCY2VQZ7CMDQWZFG2LNIKAQ6SN6GPNT",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260205030430",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "WAM57RBYSLAENX6E5UVM7VJY544WWQDS",
+   "text_hash": "a5120bf8fa45",
+   "chars": 8743,
+   "usable": false,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260509011933",
+   "original": "https://www.facebook.com/policies_center/commerce/",
+   "digest": "GTPBQZXRQ3MKYEOFMAMOULZDEYRW565F",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
   },
   "202610": {
    "timestamp": "20261011031741",
    "original": "https://www.facebook.com/policies_center/commerce/",
    "digest": "4BCZLCMYEPXEQZWBVAZ4KYGFYIPMQCA3",
    "text_hash": "384c509303dd",
-   "chars": 7459
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

@@ -9,28 +9,45 @@
    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
    "digest": "7TPXYWOOZGAX2UK3MWL3V3BTG6YAYEHH",
    "text_hash": "adc83b19e793",
-   "chars": 1
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
   },
   "202505": {
    "timestamp": "20250513015444",
    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
    "digest": "P7LPHMQJRT62O7N5FBB2NENRCQI3Y3TY",
    "text_hash": "adc83b19e793",
-   "chars": 1
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
   },
   "202508": {
    "timestamp": "20250807140708",
    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
    "digest": "MR7C3LGBYVK4FVZ6D24G5ALKGNLWP7K2",
    "text_hash": "8d2bbe39000d",
-   "chars": 39875
+   "chars": 39875,
+   "usable": true,
+   "extractor": 3
+  },
+  "202602": {
+   "timestamp": "20260220163547",
+   "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+   "digest": "TWSKOIDRNNZLFY5VFW5AHXS6UTMHK4NQ",
+   "text_hash": "d05a7124cc10",
+   "chars": 35830,
+   "usable": true,
+   "extractor": 3
   },
   "202605": {
    "timestamp": "20260508140011",
    "original": "https://www.meta.com/ca/legal/avatars/terms-of-service/",
    "digest": "YIUZLE6Q2GB4FR4U44U3HFMOQUXLVLQU",
    "text_hash": "d05a7124cc10",
-   "chars": 35830
+   "chars": 35830,
+   "usable": true,
+   "extractor": 3
   }
  }
 }

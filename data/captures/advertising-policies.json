@@ -4,33 +4,32 @@
  "product": "All Meta",
  "url": "https://www.facebook.com/policies/ads/",
  "months": {
-  "202508": {
-   "timestamp": "20250817065511",
-   "original": "https://www.facebook.com/policies/ads/",
-   "digest": "335VMLM2DQNZYNVYJP56QLSY2WDYKP5Z",
-   "text_hash": "ba196e924f37",
-   "chars": 90
+  "202411": {
+   "timestamp": "20241120223611",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "FDRDA2OFWP7BTSTIN2GUCL6QLDZ7TLIW",
+   "text_hash": "1d56daa66a47",
+   "chars": 4160,
+   "usable": true,
+   "extractor": 3
   },
-  "202512": {
-   "timestamp": "20251220151331",
-   "original": "https://www.facebook.com/policies/ads/",
-   "digest": "7XORO34O3UNFYST4VWRHSCHR373AQ74Z",
-   "text_hash": "8341ea3ac840",
-   "chars": 68
+  "202502": {
+   "timestamp": "20250206173814",
+   "original": "https://transparency.meta.com/policies/ad-standards",
+   "digest": "RYYNXN6UVFMFUQLERBASRVD35UUTL5CO",
+   "text_hash": "1d56daa66a47",
+   "chars": 4160,
+   "usable": true,
+   "extractor": 3
   },
-  "202604": {
-   "timestamp": "20260415082441",
-   "original": "https://www.facebook.com/policies/ads/",
-   "digest": "4FRSKOQTYFEOYIHISK7YKXEXZQW3AZ2Q",
-   "text_hash": "6b344a67d1f2",
-   "chars": 89
-  },
-  "202605": {
-   "timestamp": "20260511055332",
-   "original": "https://www.facebook.com/policies/ads",
-   "digest": "FSQKNHLERYFUSRMLSQBQVTILIA424HU7",
-   "text_hash": "5bdb3d4b4e6e",
-   "chars": 28
+  "202611": {
+   "timestamp": "20261101045258",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "EOU2S7OGS4ZNETUGL4BHKMLLVM5GIZ7V",
+   "text_hash": "1233c0ce47cb",
+   "chars": 35607,
+   "usable": true,
+   "extractor": 3
   }
  }
 }
