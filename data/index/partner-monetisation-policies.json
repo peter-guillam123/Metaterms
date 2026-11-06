@@ -1,0 +1,968 @@
+{
+ "slug": "partner-monetisation-policies",
+ "url": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+ "redirects": {
+  "https://www.facebook.com/business/help/169845596919485?id=2520940424820218": {
+   "timestamp": "20251121122820",
+   "target": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218"
+  }
+ },
+ "urls": {
+  "https://www.facebook.com/business/help/169845596919485?id=2520940424820218": [
+   {
+    "timestamp": "20240510011816",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "ALSLLRSLQG3DXDCYOWHQTPR3RNLSEQIM",
+    "mimetype": "text/html",
+    "length": "99267"
+   },
+   {
+    "timestamp": "20240515032652",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2422"
+   },
+   {
+    "timestamp": "20240530110548",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "ZGT3EV3M4CHDNYW3CLSS3DONZEDRCV5N",
+    "mimetype": "text/html",
+    "length": "220398"
+   },
+   {
+    "timestamp": "20240601115814",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "AIAQRLDW6J2Y6A3HG5DK7PBISMCZK2TO",
+    "mimetype": "text/html",
+    "length": "100045"
+   },
+   {
+    "timestamp": "20240604050535",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "QZUP5AHOOMLPBE45A5372ZZKFNKMHIEH",
+    "mimetype": "text/html",
+    "length": "245438"
+   },
+   {
+    "timestamp": "20240605022119",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "2S2EDR3FYVUHLJTXTH7CWJFT7XTS4TSR",
+    "mimetype": "text/html",
+    "length": "227215"
+   },
+   {
+    "timestamp": "20240606125216",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "G7GBTVQVOVVSSUSQGQOQPDILLNLFLFUG",
+    "mimetype": "text/html",
+    "length": "278133"
+   },
+   {
+    "timestamp": "20240607204721",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "JMQLHDUXGGRZIAJTJYYFYIOLNA445FMF",
+    "mimetype": "text/html",
+    "length": "177797"
+   },
+   {
+    "timestamp": "20240609230322",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "T3OS6GAMT4XXUVPPWMH7FMPCQR5K7BUZ",
+    "mimetype": "text/html",
+    "length": "291380"
+   },
+   {
+    "timestamp": "20240610212440",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "2RHYNEFXR6XVCNHMVSYPTMRM7YQ6YFAM",
+    "mimetype": "text/html",
+    "length": "290890"
+   },
+   {
+    "timestamp": "20240622160855",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "S3QWTYAI6RN2ERSS7KNMC27HWQ7F5R2H",
+    "mimetype": "text/html",
+    "length": "161079"
+   },
+   {
+    "timestamp": "20240630015212",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "LKZMOSYIXD77CVMA5SU5Z4N4ZYF63BB2",
+    "mimetype": "text/html",
+    "length": "157463"
+   },
+   {
+    "timestamp": "20240711182145",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "VESPWKYUZ7LDEWVAFCSYOHM7UI23Z7QS",
+    "mimetype": "text/html",
+    "length": "149476"
+   },
+   {
+    "timestamp": "20240716015549",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "NJ5SW4NJVGWBRDAGK5ANRFS7W4XITG4A",
+    "mimetype": "text/html",
+    "length": "153919"
+   },
+   {
+    "timestamp": "20240717085229",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "OPD4BIPDUF2CXPGSY6HZNB5ACSO34S6T",
+    "mimetype": "text/html",
+    "length": "143095"
+   },
+   {
+    "timestamp": "20240719201350",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "7QZUIK5ZTXVWMSGGYAXP3YRSPDQSBJ4F",
+    "mimetype": "text/html",
+    "length": "154082"
+   },
+   {
+    "timestamp": "20240726000603",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "TWB34NAW7HW7KCC5GIRP7ZSTOSNNFRFA",
+    "mimetype": "text/html",
+    "length": "155833"
+   },
+   {
+    "timestamp": "20240729201037",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "DJXA6WCEFPYNZ5KQBO7467AENA2V5LPD",
+    "mimetype": "text/html",
+    "length": "160494"
+   },
+   {
+    "timestamp": "20240805002310",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "DVIDZPXKJI72FXVHPPQ2ATNHN5HGLJ6F",
+    "mimetype": "text/html",
+    "length": "105757"
+   },
+   {
+    "timestamp": "20240806012027",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "VC4QWJFL2M5XZPNP72NRUZF6URSCVXKS",
+    "mimetype": "text/html",
+    "length": "275704"
+   },
+   {
+    "timestamp": "20240807081028",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "RFBFXIOVH6BE52OKQBAN3IF4DHW3HGKX",
+    "mimetype": "text/html",
+    "length": "321517"
+   },
+   {
+    "timestamp": "20240808234916",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "JK42R6G5RNL76ENTVQBIDL2GA6JEMXWS",
+    "mimetype": "text/html",
+    "length": "74701"
+   },
+   {
+    "timestamp": "20240809184523",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "KUU2WKOWCLQS2JMEGIMQHTS7OGXHTMVC",
+    "mimetype": "text/html",
+    "length": "309964"
+   },
+   {
+    "timestamp": "20240812215756",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "XQVTIV4YM4KY65LECIFJQBZ7MFMRJQEE",
+    "mimetype": "text/html",
+    "length": "309267"
+   },
+   {
+    "timestamp": "20240814084701",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "7P6OT5DRG25AINRGAGXV7Q4LGG5VIVC4",
+    "mimetype": "text/html",
+    "length": "79676"
+   },
+   {
+    "timestamp": "20240815110559",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "UD4PKN7HV7SCTH7QPKD7PK33AD4S4JLV",
+    "mimetype": "text/html",
+    "length": "309056"
+   },
+   {
+    "timestamp": "20240818144301",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "P5XYKKEFXTLWUHDM4VG2DZDYB3IUMAZB",
+    "mimetype": "text/html",
+    "length": "313599"
+   },
+   {
+    "timestamp": "20240819152539",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "NMOMJPLDCGB53FFL75LXKN6YV6XF3OE4",
+    "mimetype": "text/html",
+    "length": "316333"
+   },
+   {
+    "timestamp": "20240822091101",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "OFZQBFPBUJIWBEPUZ7JAHNXQN36WE4GQ",
+    "mimetype": "text/html",
+    "length": "154054"
+   },
+   {
+    "timestamp": "20240829123243",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2089"
+   },
+   {
+    "timestamp": "20240901155202",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "3J6WRNU7QJLKV4PRTMJN63AQCUJWKWGN",
+    "mimetype": "text/html",
+    "length": "73732"
+   },
+   {
+    "timestamp": "20240902180555",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "XYPGIUJUCXLRHRL2LYEXGTYLCBQ5RAGX",
+    "mimetype": "text/html",
+    "length": "287723"
+   },
+   {
+    "timestamp": "20240903175737",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "Z3QTQQM6BRT3CXUR47C7HZTXZX2O7EDI",
+    "mimetype": "text/html",
+    "length": "284449"
+   },
+   {
+    "timestamp": "20240905171605",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "JWA7B5FPNAJEFYUDGMOQISMF7LJCEHYN",
+    "mimetype": "text/html",
+    "length": "294293"
+   },
+   {
+    "timestamp": "20240906025250",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "7XBTYE7LST5TJUFMVGNGF2KV5C5ERJP7",
+    "mimetype": "text/html",
+    "length": "74626"
+   },
+   {
+    "timestamp": "20240909020428",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2206"
+   },
+   {
+    "timestamp": "20240910121018",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2090"
+   },
+   {
+    "timestamp": "20240913051554",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2382"
+   },
+   {
+    "timestamp": "20240914131404",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2089"
+   },
+   {
+    "timestamp": "20240915214731",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2395"
+   },
+   {
+    "timestamp": "20240917142618",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2077"
+   },
+   {
+    "timestamp": "20240918154006",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2075"
+   },
+   {
+    "timestamp": "20240919224641",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2078"
+   },
+   {
+    "timestamp": "20240920155148",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2074"
+   },
+   {
+    "timestamp": "20240921111936",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2131"
+   },
+   {
+    "timestamp": "20240923225027",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "D56P2ZYTCY4WK5OMGASKVV7EZA4PNIRP",
+    "mimetype": "text/html",
+    "length": "79490"
+   },
+   {
+    "timestamp": "20240925193831",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "LH664MAELVFLW7LMT2PBCWRGFLQHJYIZ",
+    "mimetype": "text/html",
+    "length": "79785"
+   },
+   {
+    "timestamp": "20241003173205",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2075"
+   },
+   {
+    "timestamp": "20241004161636",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2071"
+   },
+   {
+    "timestamp": "20241005132751",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2070"
+   },
+   {
+    "timestamp": "20241006234608",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2070"
+   },
+   {
+    "timestamp": "20241007160829",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2074"
+   },
+   {
+    "timestamp": "20241008183332",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2070"
+   },
+   {
+    "timestamp": "20241009112835",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2072"
+   },
+   {
+    "timestamp": "20241122223734",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "XOUUZCV76HLA7DFJ4H5H3PRBSQ6LCOZD",
+    "mimetype": "text/html",
+    "length": "376619"
+   },
+   {
+    "timestamp": "20241212195625",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2297"
+   },
+   {
+    "timestamp": "20241217020825",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2033"
+   },
+   {
+    "timestamp": "20241220130308",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "2168"
+   },
+   {
+    "timestamp": "20250103212019",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2007"
+   },
+   {
+    "timestamp": "20250104003109",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1970"
+   },
+   {
+    "timestamp": "20250116030637",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2454"
+   },
+   {
+    "timestamp": "20250127055624",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2302"
+   },
+   {
+    "timestamp": "20250203023905",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "831"
+   },
+   {
+    "timestamp": "20250209103322",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "831"
+   },
+   {
+    "timestamp": "20250219080508",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2322"
+   },
+   {
+    "timestamp": "20250405035010",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2398"
+   },
+   {
+    "timestamp": "20250622113631",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "L7CDRYFKJZTL56OB3476HSDIYTD4DI4F",
+    "mimetype": "text/html",
+    "length": "84828"
+   },
+   {
+    "timestamp": "20250802042056",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2386"
+   },
+   {
+    "timestamp": "20250913141736",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2387"
+   },
+   {
+    "timestamp": "20250929140351",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "5RXUCUPA6IDEHOJX7UJWNYSICXWVJVTM",
+    "mimetype": "text/html",
+    "length": "121985"
+   },
+   {
+    "timestamp": "20251121122820",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2331"
+   },
+   {
+    "timestamp": "20251216104323",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "VSPFUX66CMQ2OROT4TWT3VGDB764HIDW",
+    "mimetype": "text/html",
+    "length": "69874"
+   },
+   {
+    "timestamp": "20251217072628",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "633FGLOEGEXV3DTBIWDHCTGAGLKQPR2P",
+    "mimetype": "text/html",
+    "length": "72593"
+   },
+   {
+    "timestamp": "20260126182753",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "LSCWDBIE43K2F7QX6MOGGCVLP2VDVE35",
+    "mimetype": "text/html",
+    "length": "78657"
+   },
+   {
+    "timestamp": "20260322072057",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "6LZ74EOEEQDSKTVEFGQQC7274AZMTMTX",
+    "mimetype": "text/html",
+    "length": "62930"
+   },
+   {
+    "timestamp": "20260505055454",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "EDH35DGIEWAEF6IBZJ4E57NTXONWXZZE",
+    "mimetype": "text/html",
+    "length": "67312"
+   },
+   {
+    "timestamp": "20260701112727",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "2JOS5BIVDQ44RNWQ4ASAZYUC5N226JRM",
+    "mimetype": "text/html",
+    "length": "65725"
+   },
+   {
+    "timestamp": "20260902223645",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "PUXIN7YNGYA345Q3EJQSVIVPWS4U7LZV",
+    "mimetype": "text/html",
+    "length": "120802"
+   },
+   {
+    "timestamp": "20260920154900",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "YE56QINNRDJRKBFTDXNHOKOZHHOJ7VPM",
+    "mimetype": "text/html",
+    "length": "76888"
+   },
+   {
+    "timestamp": "20260923034753",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "4EHE6XNPHRHNDUNEA3NKEVGKKAUW64WP",
+    "mimetype": "text/html",
+    "length": "101496"
+   },
+   {
+    "timestamp": "20261004190545",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "PP5TW3Y72RZKBKFBYNM7B73WAYJ37F44",
+    "mimetype": "text/html",
+    "length": "63026"
+   },
+   {
+    "timestamp": "20261008023409",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "RQDKEHC6VUPGMVKWQPPOLGA4SL5HVLEO",
+    "mimetype": "text/html",
+    "length": "66329"
+   },
+   {
+    "timestamp": "20261014124420",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "DFOR4RIJTWJL4HJ3M6AS5HM3ZO7BRNGJ",
+    "mimetype": "text/html",
+    "length": "66500"
+   },
+   {
+    "timestamp": "20261015062053",
+    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+    "statuscode": "200",
+    "digest": "OCX46HHJ37DNY563LQBSSRKK47BTZRO2",
+    "mimetype": "text/html",
+    "length": "94818"
+   }
+  ],
+  "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218": [
+   {
+    "timestamp": "20240812224642",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "WZ3V4PATAW7J5VYDS7SLMTIESYBIVEOS",
+    "mimetype": "text/html",
+    "length": "21781"
+   },
+   {
+    "timestamp": "20240829123244",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "7IMUV34F3QVGSNHNOPWSQXTDPH35T3ZZ",
+    "mimetype": "text/html",
+    "length": "31973"
+   },
+   {
+    "timestamp": "20240909162158",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "EUHLFOAMZD7CG37FVTDIIUHXEACI445L",
+    "mimetype": "text/html",
+    "length": "31527"
+   },
+   {
+    "timestamp": "20240910121019",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "NZRBPTAF3SW7AKBN32LGE7XICZEIPXHG",
+    "mimetype": "text/html",
+    "length": "31518"
+   },
+   {
+    "timestamp": "20240913051554",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "RDZAMH53FGOWA6PVMC2HKGPETEWJAJGV",
+    "mimetype": "text/html",
+    "length": "30932"
+   },
+   {
+    "timestamp": "20240914131405",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "VJDWN56HMN6OBO2LINFQBTS4LSF6ZQ2O",
+    "mimetype": "text/html",
+    "length": "29468"
+   },
+   {
+    "timestamp": "20240915214731",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "DN46LTBKC7B4NLIENCJMICWZ4XVP6ABR",
+    "mimetype": "text/html",
+    "length": "31057"
+   },
+   {
+    "timestamp": "20240917142619",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "ADGDYO5VZLXCESFYFBHF2VJ3NMRGDZUQ",
+    "mimetype": "text/html",
+    "length": "31561"
+   },
+   {
+    "timestamp": "20240918154007",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "CGM7MFMCPVNGZONVXXM3G3FKT2TPTRJW",
+    "mimetype": "text/html",
+    "length": "31351"
+   },
+   {
+    "timestamp": "20240919224642",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "WVMESMLIEOZLVBUSJM6BF5TLUIXKNK27",
+    "mimetype": "text/html",
+    "length": "31555"
+   },
+   {
+    "timestamp": "20240920155149",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "WDF2HB4JCNTENTXSESYR6LKBY67B4WSW",
+    "mimetype": "text/html",
+    "length": "28727"
+   },
+   {
+    "timestamp": "20240921111937",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "MGFWJG5QCQRBDZBIVGBXSDMRWBUN4OVK",
+    "mimetype": "text/html",
+    "length": "31073"
+   },
+   {
+    "timestamp": "20241003173206",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "SLBUJBI35XV2ZKKKPZOFAZLM7CP5XRUS",
+    "mimetype": "text/html",
+    "length": "31087"
+   },
+   {
+    "timestamp": "20241004161637",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "7MTQWSLBTS34F2EY7M7GXJBMVQQSJHSO",
+    "mimetype": "text/html",
+    "length": "28599"
+   },
+   {
+    "timestamp": "20241005132751",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "UYVSUSTLIICMAZJ3HZBWGTNO2IL7BYCL",
+    "mimetype": "text/html",
+    "length": "30993"
+   },
+   {
+    "timestamp": "20241006234610",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "N6DDU6RTDQ2SRSEIB5TAYYXJMIVS7E2O",
+    "mimetype": "text/html",
+    "length": "29205"
+   },
+   {
+    "timestamp": "20241007160830",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "52RJ7PKDLIFAFVIXCO6MHQALUXLRCGWY",
+    "mimetype": "text/html",
+    "length": "32022"
+   },
+   {
+    "timestamp": "20241008183333",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "LI2AZX5MWBGRHG7LPLAOPNY5L7WOBHAL",
+    "mimetype": "text/html",
+    "length": "31381"
+   },
+   {
+    "timestamp": "20241009112836",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "EL4MMP74XKL7VUCUTIMOXKSLNAW6P6EY",
+    "mimetype": "text/html",
+    "length": "29429"
+   },
+   {
+    "timestamp": "20241212195625",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "5NCSTUDZM5Y5I7G4ZPNGFMUFVY4NKEPM",
+    "mimetype": "text/html",
+    "length": "31382"
+   },
+   {
+    "timestamp": "20241217020826",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "IZXGHENVRTAKVJ4I2GKAJGH7DWO2JKEM",
+    "mimetype": "text/html",
+    "length": "42546"
+   },
+   {
+    "timestamp": "20241220130347",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "H2UFDUICQ4BD3CZNFQSPMHZND4VQFWCK",
+    "mimetype": "text/html",
+    "length": "31514"
+   },
+   {
+    "timestamp": "20250103212019",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "NVXOWDYLFSEMKG3WTVBETDQA4VRT45KN",
+    "mimetype": "text/html",
+    "length": "32597"
+   },
+   {
+    "timestamp": "20250104003110",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "6263GZRH6JWPBUTHDI6AHPWFJ5QC27DD",
+    "mimetype": "text/html",
+    "length": "42810"
+   },
+   {
+    "timestamp": "20250116030638",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "Z63CKZUITJXCVI3JXW2EIMAHDWBCJSKV",
+    "mimetype": "text/html",
+    "length": "30440"
+   },
+   {
+    "timestamp": "20250127055624",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "FZTXV57I33M4J7ASHTOO2EHTLNDAXYMT",
+    "mimetype": "text/html",
+    "length": "31187"
+   },
+   {
+    "timestamp": "20250203023905",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "W7JZYHY3DJPUDIGGVD7XRW5MPUPJZYFN",
+    "mimetype": "text/html",
+    "length": "29591"
+   },
+   {
+    "timestamp": "20250209103322",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "400",
+    "digest": "SCYJIE3TW4GJQ23HUD4BFVZGEJKGYE3J",
+    "mimetype": "text/html",
+    "length": "4954"
+   },
+   {
+    "timestamp": "20250219080508",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "J6GI6K2NS76JBQJM73WAWARAFUQGZSS2",
+    "mimetype": "text/html",
+    "length": "31201"
+   },
+   {
+    "timestamp": "20250405035010",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "LR5LXH6WYM5VY2XYOBGPGPRKBNLIGJPK",
+    "mimetype": "text/html",
+    "length": "28557"
+   },
+   {
+    "timestamp": "20250705115432",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "4WGZJ6IJLDCXOWYC2ILAGI7DWGUCV3N4",
+    "mimetype": "text/html",
+    "length": "17288"
+   },
+   {
+    "timestamp": "20250728052117",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "SK2DDEJ3IWJGT6ZPNOREBS7HZRISSZQ6",
+    "mimetype": "text/html",
+    "length": "31230"
+   },
+   {
+    "timestamp": "20250802042057",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "VXI5LUK2X5F6VFLW5NUXBOZKOKELWFZR",
+    "mimetype": "text/html",
+    "length": "32330"
+   },
+   {
+    "timestamp": "20250913141739",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "BHIHUK5VYEZHATMEIZMST4MM5D2NW5TC",
+    "mimetype": "text/html",
+    "length": "31842"
+   },
+   {
+    "timestamp": "20251121122820",
+    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+    "statuscode": "200",
+    "digest": "43KTI6GDUFXA52YMJUNGLTD2LYOWTOT3",
+    "mimetype": "text/html",
+    "length": "33127"
+   }
+  ]
+ }
+}
