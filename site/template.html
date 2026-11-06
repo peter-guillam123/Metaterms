@@ -278,7 +278,7 @@ const DIARY = [
     date: "6 November 2026",
     milestone: true,
     title: "First look",
-    text: "A colleague in public policy keeps a spreadsheet of the Meta terms and policies that matter to us. Tech companies change these often and rarely announce it, so we wanted to know how often they really change, and how. I asked Claude to collect a copy of each page for every month of the past two years from the Wayback Machine and compare them word by word. It took most of an afternoon. The cloud sandbox Claude works in couldn't reach the archive, so the collecting runs as a GitHub Action instead, which is roughly how a monthly checker would have to work anyway. The archive refused our connections until Claude learned to keep one open instead of opening a new one for each page, and Facebook turned out to show the archive's crawler a login page or a 'browser not supported' page about as often as the terms themselves. Instagram keeps its Terms of Use inside the page's code rather than on the page. All of which is useful to know before building the real thing."
+    text: "A colleague in public policy keeps a spreadsheet of the Meta terms and policies that matter to us. Tech companies change these often and rarely announce it, so we wanted to know how often they really change, and how. I asked Claude to collect a copy of each page for every month of the past two years from the Wayback Machine and compare them word by word. It took most of an afternoon. The cloud sandbox Claude works in couldn't reach the archive, so the collecting runs as a GitHub Action instead, which is roughly how a monthly checker would have to work anyway. The archive refused our connections until Claude learned to keep one open instead of opening a new one for each page, and Facebook turned out to show the archive's crawler a login page or a 'browser not supported' page about as often as the terms themselves. Instagram keeps its Terms of Use inside the page's code rather than on the page. The result: 60 changes to the wording across 19 of the 34 pages, and 46 more differences that turned out to be layout, a new date or the archive catching a different version of a page. Claude wrote a summary of each and suggested six for the top. All of which is useful to know before building the real thing."
   }
 ];
 
@@ -311,7 +311,7 @@ function mapTable(rows) {
   let h = `<table class="map"><caption class="sr">Changes found each month, by document. Each coloured square links to the change.</caption><thead><tr class="years"><th class="doc" scope="col"><span class="sr">Document</span></th>`;
   h += years.map(y => `<th colspan="${y.n}" scope="colgroup">${y.y}</th>`).join("") + `<th></th></tr><tr><th class="doc"></th>`;
   h += months.map(m => `<th scope="col"><abbr title="${monthName(m)}">${MON[+m.slice(4, 6) - 1][0]}</abbr></th>`).join("");
-  h += `<th scope="col" class="n"><abbr title="Number of changes">No.</abbr></th></tr></thead>`;
+  h += `<th scope="col" class="n"><abbr title="Number of changes to the wording">No.</abbr></th></tr></thead>`;
   const yStart = new Set(years.map(y => y.i));
   for (const p of PRODUCTS) {
     const group = rows.filter(d => d.product === p);
@@ -330,7 +330,8 @@ function mapTable(rows) {
           h += `<td class="${cls}"><span class="m m-${c.s}" title="${monthName(m)}: ${t}"></span></td>`;
         }
       });
-      h += `<td class="n">${d.changes.length || ""}</td></tr>`;
+      const n = d.changes.filter(id => !["formatting", "date only"].includes(changeBy[id].size)).length;
+      h += `<td class="n">${n || ""}</td></tr>`;
     }
     h += `</tbody>`;
   }
@@ -413,8 +414,8 @@ function haystack(c) {
 const HAY = Object.fromEntries(changes.map(c => [c.id, haystack(c)]));
 
 function viewChanges() {
-  const changed = docs.filter(d => d.changes.length).length;
   const real = changes.filter(c => !["date only", "formatting"].includes(c.size));
+  const changed = new Set(real.map(c => c.slug)).size;
   const newest = changes[0];
   const first = DATA.months[0], lastM = DATA.months[DATA.months.length - 1];
   const prodSaved = store("mt-prod") || "";

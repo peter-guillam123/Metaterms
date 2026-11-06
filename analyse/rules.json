@@ -1,5 +1,5 @@
 {
-  "_about": "Per-page clean-up applied before comparing. start_at: the document starts at the first line matching this (copies without it are not the document). stop_at: cut everything from the first line matching this (sidebars, related links).",
+  "_about": "Per-page clean-up applied before comparing. start_at: the document starts at the first line matching this (copies without it are not the document). stop_at: cut everything from the first line matching this (sidebars, related links). min_chars: a lower bar for short pages (the fetcher counts copies under 800 characters as not the document).",
   "complaints-handling-process": {
     "start_at": "^# Complaints Handling Process"
   },
@@ -8,5 +8,8 @@
   },
   "audience-network-policy": {
     "start_at": "^(# )?Meta Audience Network Policy"
+  },
+  "brand-resources": {
+    "min_chars": 300
   }
 }

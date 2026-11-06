@@ -16,7 +16,7 @@ import statistics
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(ROOT, "fetch"))
+sys.path.insert(0, os.path.join(ROOT, "fetch"))  # run.py, extract.py
 sys.path.insert(0, os.path.join(ROOT, "analyse"))
 
 import compare  # noqa: E402
@@ -70,9 +70,16 @@ def usable_months(slug, caps, texts):
         if not m.get("text_hash"):
             bad[mon] = "fetch failed"
             continue
-        if m.get("usable") is False:
+        min_chars = RULES.get(slug, {}).get("min_chars")
+        if m.get("usable") is False and not min_chars:
             bad[mon] = "copy is not the document"
             continue
+        if min_chars:
+            import extract
+            raw = compare.load_text(slug, m["text_hash"])
+            if m["chars"] < min_chars or not extract.is_english(raw):
+                bad[mon] = "copy is not the document"
+                continue
         text, info = clean(slug, compare.load_text(slug, m["text_hash"]))
         if text is None:
             bad[mon] = info

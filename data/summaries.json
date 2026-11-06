@@ -1,4 +1,20 @@
 {
+ "advertising-policies-202604": {
+  "headline": "Adds verification checks for suspicious advertisers and financial ads",
+  "summary": "Meta may now require extra verification from advertisers that show \"potentially suspicious behavior\" or run ads in categories likely to be targeted by scammers, and says ad accounts \"must be associated with a legitimate business or individual\". Financial services advertisers, who before had to show they were authorised by regulators, now \"may be required to\" verify their identity and show that authorisation."
+ },
+ "advertising-policies-202607": {
+  "headline": "Renames weight loss ad rules and removes body-image wording",
+  "summary": "The \"Weight Loss and Cosmetic Products and Procedures\" category becomes \"Health and Wellbeing\", and the rule that such ads target only people aged 18 or over now also covers weight gain products. Meta removed the sentence barring ads that imply \"negative self-perception\" or a \"perfect body type\", and added that ads must not contain \"certain claims prohibited by our policy\"."
+ },
+ "advertising-policies-202610": {
+  "headline": "Renames scam ad rules and adds a fake documents section",
+  "summary": "The \"Fraud, Scams and Deceptive Practices\" section becomes \"Prohibited Commercial Practices\", pointing to the Community Standard of that name, and loses its sentence on deceptive offers and the April line on extra checks for suspicious advertisers. A new section bars ads promoting trade in fake, forged or stolen documents, manipulated devices or subscriptions, personal information, cheating products, money muling and money laundering."
+ },
+ "advertising-policies-202611": {
+  "headline": "Requires financial services advertisers to verify their identity",
+  "summary": "Advertisers promoting financial products and services now \"are required\" to verify their business or individual identity and show they are authorised by regulators where this is a requirement. Until now the standards said they \"may be required\" to do so, wording Meta added in April 2026."
+ },
  "ai-terms-202412": {
   "headline": "Adds separate AI terms for the UK, Brazil and the EU",
   "summary": "The terms now say users in the United Kingdom, Brazil and the \"European Region\" each have their own Meta AIs Terms of Service for Meta's generative AI products and features. This replaces a note that only pointed UK users to separate UK terms."
@@ -46,6 +62,15 @@
  "avatar-terms-202602": {
   "headline": "Removes the Avatars Store and its purchase and refund terms",
   "summary": "Meta removed the Avatars Store section and its rules on purchases, payment data, taxes and refunds, including the line that all acquisitions are final. Users now \"acquire\" licensed avatar items, and the Meta Horizon Digital Items Terms and Meta Credits Terms now also apply. Lines denying refunds for items lost when an account is suspended, deleted or converted to a business account are also gone."
+ },
+ "brand-resources-202502": {
+  "headline": "Removes the list of uses that need Meta's permission",
+  "summary": "Meta removed the line asking people to \"submit a request for permission\" before using its brand assets, and the list of uses it covered: marketing or advertising on TV or online; books, plays, TV shows and film scripts; print packaging; and partnership activations and branding. The \"Submit your request\" and \"My requests\" links also went. The list did not come back in later copies."
+ },
+ "brand-resources-202512": {
+  "headline": "Menu or layout change only",
+  "summary": "A \"My Requests\" link returned to the page; the wording did not change.",
+  "size": "formatting"
  },
  "branded-content-policies-202504": {
   "headline": "Menu or layout change only",
@@ -149,6 +174,16 @@
   "summary": "The Transparency Center menus are gone from the page and the list of policies is now set out one per line; the Community Standards wording did not change.",
   "size": "formatting"
  },
+ "community-standards-202606": {
+  "headline": "Shows a differently laid-out copy, not a Meta edit",
+  "summary": "The archived copy runs the value headings (AUTHENTICITY, SAFETY, PRIVACY, DIGNITY) into the text and includes an introduction and a list of policy sections that the copies either side lack. The next copy drops them again, so this is probably a different rendering of the page, not an edit by Meta.",
+  "size": "formatting"
+ },
+ "community-standards-202607": {
+  "headline": "Returns to the usual layout after an odd June copy",
+  "summary": "The value headings, the list of policy sections and the line saying the standards apply to \"all types of content, including AI-generated content\" all appeared only in the June copy and are gone again. The wording matches the May copy, so this is a difference in the archived page, not an edit by Meta.",
+  "size": "formatting"
+ },
  "community-standards-202610": {
   "headline": "Lists Prohibited Commercial Practices in place of Fraud, Scams, and Deceptive Practices",
   "summary": "In the list of policies, \"Fraud, Scams, and Deceptive Practices\" now appears as \"Prohibited Commercial Practices\". This page shows only the new name, not any change to the policy's own wording."
@@ -235,6 +270,16 @@
   "summary": "Meta took down the notice at the top of the page saying it updated the policy on 14 November 2024, and its link to the previous policy. The policy wording and effective date did not change.",
   "size": "formatting"
  },
+ "instagram-privacy-policy-202503": {
+  "headline": "Shows a copy without the US regional privacy notice links",
+  "summary": "The archived copy lacks the links to the United States Regional Privacy Notice, which tells US residents how Meta handles their personal information and how to use their privacy rights. The links are back in the next copy, so this is probably a copy of the page served to another region, not an edit by Meta.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202504": {
+  "headline": "Restores the US regional privacy notice links",
+  "summary": "The links to the United States Regional Privacy Notice, missing from the March copy, are back, so their absence was probably an archiving difference rather than an edit by Meta. The policy again points US residents to the notice to learn about \"the consumer privacy rights that may be available to you\".",
+  "size": "formatting"
+ },
  "instagram-privacy-policy-202507": {
   "headline": "Adds sharing with WhatsApp for linked accounts, effective 16 June 2025",
   "summary": "The policy, now effective 16 June 2025, says that if users add a WhatsApp account to an \"Accounts Center\" with other Meta accounts, Meta will link them and \"share your information with WhatsApp\". It points to a WhatsApp help article for what WhatsApp shares with Meta. Ads are now personalised across \"Meta Company Products\" rather than \"Meta Products\", a wider group that includes WhatsApp."
@@ -250,6 +295,16 @@
  "instagram-privacy-policy-202601": {
   "headline": "Removes the banner announcing the December 2025 update",
   "summary": "Meta took down the notice at the top of the page saying it updated the policy on 16 December 2025, and its link to the previous policy. The policy wording and effective date did not change.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202606": {
+  "headline": "Shows another copy without the US regional privacy notice links",
+  "summary": "As in March 2025, the archived copy lacks the links to the United States Regional Privacy Notice, which tells US residents how Meta handles their personal information and how to use their privacy rights. The links are back in the next copy, so this is probably a copy served to another region, not an edit by Meta.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202607": {
+  "headline": "Restores the US regional privacy notice links again",
+  "summary": "The links to the United States Regional Privacy Notice, missing from the June copy, are back, as happened in April 2025. Their absence was probably a copy of the page served to another region rather than an edit by Meta.",
   "size": "formatting"
  },
  "instagram-privacy-policy-202608": {
@@ -289,6 +344,26 @@
  "instagram-terms-of-use-202501": {
   "headline": "Brings in updated terms on scraping, Meta AI and fact-checking",
   "summary": "Meta's updated terms, announced for 1 January 2025, replace the old text. The ban on automated access and data collection without permission now applies \"regardless of whether\" the user is logged in, and a new rule bans getting around technical limits on access. The Meta AI Terms and Avatar Terms now also apply, and Meta says it may add a notice to content rated by fact-checkers."
+ },
+ "instagram-terms-of-use-202601": {
+  "headline": "Shows a non-US copy without the arbitration clause, not a Meta edit",
+  "summary": "The archived copy appears to be the version for users outside the US, not an edit by Meta. It has no arbitration clause or class-action waiver, lets consumers sue in their own country's courts, drops the $100 liability cap and sets the minimum age at 13 \"or the minimum legal age in your country\". The US wording returns the following week.",
+  "size": "formatting"
+ },
+ "instagram-terms-of-use-202602": {
+  "headline": "Restores the US terms, with arbitration, after a non-US copy",
+  "summary": "The US version returns a week after a non-US copy was archived, so this is not an edit by Meta. Binding individual arbitration, the class-action waiver, the $100 liability cap and the user's duty to indemnify Meta are all back, and the minimum age is again simply 13.",
+  "size": "formatting"
+ },
+ "instagram-terms-of-use-202604": {
+  "headline": "Shows a non-US copy with a minimum age of 14",
+  "summary": "The archived copy appears to be a version for users outside the US, not an edit by Meta. It sets the minimum age at 14, shows an effective date of 1 January 2025, has no arbitration clause or $100 liability cap and lets consumers sue in their own country's courts. The US wording returns in the next copy, in May.",
+  "size": "formatting"
+ },
+ "instagram-terms-of-use-202605": {
+  "headline": "Restores US terms, with arbitration and a minimum age of 13",
+  "summary": "The US version returns after a non-US copy archived in April, so this is not an edit by Meta. Binding individual arbitration, the class-action waiver and the $100 liability cap are back, the minimum age returns to 13 and the \"Effective Date: 1 January 2025\" line goes.",
+  "size": "formatting"
  },
  "instagram-terms-of-use-202608": {
   "headline": "Adds Automated Data Collection Terms to the rules on scraping",
@@ -409,5 +484,19 @@
  "self-serve-ad-terms-202611": {
   "headline": "Puts the planned 30 October 2026 terms update on hold",
   "summary": "Meta now says the updates to the Self-Serve Ad Terms, which had been due to take effect on 30 October 2026, \"are on hold\". The notice adds that \"The existing Self-Serve Ad Terms remain in effect until further notice\", and the \"Read the updated Terms\" line has gone."
+ },
+ "terms-of-service-202501": {
+  "headline": "Brings in Meta's new Terms of Service, effective 1 January 2025",
+  "summary": "Meta's new terms replace the July 2022 version and number every section. The bans on automated data collection and on selling Meta data now apply even \"while logged-in to a Facebook account\", and a new rule bans getting round technical limits on access. The terms also bring in the Meta AI Terms and Avatar Terms and add a note on fact-checkers."
+ },
+ "terms-of-service-202511": {
+  "headline": "Shows a non-US version of the terms, probably not an edit",
+  "summary": "The archived copy appears to be a version of the terms for users outside the US, not an edit by Meta: it lets consumers sue in \"any competent court\" in their own country, drops the $100 liability cap and promises 30 days' notice of changes. The US wording returns in the next usable copy, in November 2026.",
+  "size": "formatting"
+ },
+ "terms-of-service-202611": {
+  "headline": "Restores the US dispute and liability wording",
+  "summary": "The US wording returns after a non-US copy archived in November 2025: disputes again go only to courts in the US under California law, and the $100 cap on Meta's liability is back. The only new wording is minor: a comma, and \"that content\" in place of \"this content\" in the licence clause.",
+  "size": "formatting"
  }
 }
