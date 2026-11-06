@@ -1,0 +1,69 @@
+mode=probe requests=68 minutes=25.7
+[advertising-policies] indexing https://www.facebook.com/policies/ads/
+  0.5s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2Fads%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+  0.4s 302 https://web.archive.org/web/20260917181152id_/https://facebook.com/policies/ads
+[advertising-policies]   https://www.facebook.com/policies/ads/: 121 captures, 200s in 18 months
+ 52.8s URLError (<urlopen error timed out>) https://web.archive.org/web/20250120210740id_/https://www.facebook.com/policies/ads/
+ 45.3s URLError (<urlopen error timed out>) https://web.archive.org/web/20250120210740id_/https://www.facebook.com/policies/ads/
+  1.3s 400 https://web.archive.org/web/20250120210740id_/https://www.facebook.com/policies/ads/
+ 45.0s URLError (<urlopen error timed out>) https://web.archive.org/web/20260916124413id_/https://www.facebook.com/policies/ads/
+ 45.1s URLError (<urlopen error timed out>) https://web.archive.org/web/20260916124413id_/https://www.facebook.com/policies/ads/
+ 45.1s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/web/20260916124413id_/https://www.facebook.com/policies/ads/
+  4.4s 200 https://web.archive.org/web/20260916124413id_/https://www.facebook.com/policies/ads/
+[audience-network-policy] indexing https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy
+  1.8s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fdevelopers.facebook.com%2Fdocumentation%2Faudience-network%2Foptimization%2Fbest-practices%2Fan-policy&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[audience-network-policy]   https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy: 11 captures, 200s in 5 months
+  1.2s 200 https://web.archive.org/web/20260618195322id_/https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy
+  1.3s 200 https://web.archive.org/web/20261010074347id_/https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy
+[avatar-terms] indexing https://www.meta.com/legal/avatars/terms-of-service/
+  0.3s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Flegal%2Favatars%2Fterms-of-service%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+  0.5s 302 https://web.archive.org/web/20260526225651id_/https://www.meta.com/legal/avatars/terms-of-service/
+ 90.1s URLError (<urlopen error timed out>) https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Fca%2Flegal%2Favatars%2Fterms-of-service%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+100.4s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Fca%2Flegal%2Favatars%2Fterms-of-service%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+  0.9s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Fca%2Flegal%2Favatars%2Fterms-of-service%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[avatar-terms]   https://www.meta.com/legal/avatars/terms-of-service/: 16 captures, 200s in 11 months
+[avatar-terms]   https://www.meta.com/ca/legal/avatars/terms-of-service/: 4 captures, 200s in 3 months
+  1.3s 200 https://web.archive.org/web/20241219215339id_/https://www.meta.com/legal/avatars/terms-of-service/
+  2.6s 200 https://web.archive.org/web/20260508140011id_/https://www.meta.com/ca/legal/avatars/terms-of-service/
+[branded-content-policies] indexing https://www.facebook.com/business/help/221149188908254
+  0.5s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+ 45.1s URLError (<urlopen error timed out>) https://web.archive.org/web/20250405035011id_/https://www.facebook.com/business/help/221149188908254
+ 45.0s URLError (<urlopen error timed out>) https://web.archive.org/web/20250405035011id_/https://www.facebook.com/business/help/221149188908254
+ 45.1s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/web/20250405035011id_/https://www.facebook.com/business/help/221149188908254
+  1.4s 302 https://web.archive.org/web/20250405035011id_/https://www.facebook.com/business/help/221149188908254
+  1.0s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fbusiness%252Fhelp%252F221149188908254&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[branded-content-policies]   https://www.facebook.com/business/help/221149188908254: 82 captures, 200s in 11 months
+[branded-content-policies]   https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254: 28 captures, 200s in 6 months
+  6.0s 200 https://web.archive.org/web/20241117021318id_/https://www.facebook.com/business/help/221149188908254
+  4.2s 200 https://web.archive.org/web/20261015083643id_/https://www.facebook.com/business/help/221149188908254
+[commerce-policies] indexing https://www.facebook.com/policies_center/commerce/
+  0.8s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpolicies_center%2Fcommerce%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[commerce-policies]   https://www.facebook.com/policies_center/commerce/: 138 captures, 200s in 21 months
+  3.8s 200 https://web.archive.org/web/20241114041728id_/https://www.facebook.com/policies_center/commerce
+ 45.0s URLError (<urlopen error timed out>) https://web.archive.org/web/20261011031741id_/https://www.facebook.com/policies_center/commerce/
+ 45.1s URLError (<urlopen error timed out>) https://web.archive.org/web/20261011031741id_/https://www.facebook.com/policies_center/commerce/
+  2.2s 200 https://web.archive.org/web/20261011031741id_/https://www.facebook.com/policies_center/commerce/
+[commercial-terms] indexing https://www.facebook.com/legal/commercial_terms
+  0.3s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fcommercial_terms&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[commercial-terms]   https://www.facebook.com/legal/commercial_terms: 70 captures, 200s in 18 months
+  4.7s 200 https://web.archive.org/web/20241114041426id_/https://www.facebook.com/legal/commercial_terms
+  1.9s 200 https://web.archive.org/web/20261106032453id_/https://www.facebook.com/legal/commercial_terms
+[community-payment-terms] indexing https://www.facebook.com/payments_terms
+ 72.6s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpayments_terms&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+  0.6s 302 https://web.archive.org/web/20260430091642id_/https://facebook.com/payments_terms
+[community-payment-terms]   https://www.facebook.com/payments_terms: 122 captures, 200s in 15 months
+  4.5s 200 https://web.archive.org/web/20241114041645id_/https://www.facebook.com/payments_terms
+  1.3s 200 https://web.archive.org/web/20261015062041id_/https://www.facebook.com/payments_terms
+[community-feedback-policies] indexing https://www.facebook.com/policies_center/community_feedback/
+  1.8s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fpolicies_center%2Fcommunity_feedback%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[community-feedback-policies]   https://www.facebook.com/policies_center/community_feedback/: 65 captures, 200s in 10 months
+ 45.0s URLError (<urlopen error timed out>) https://web.archive.org/web/20241118080321id_/https://www.facebook.com/policies_center/community_feedback/
+ 45.1s URLError (<urlopen error timed out>) https://web.archive.org/web/20241118080321id_/https://www.facebook.com/policies_center/community_feedback/
+ 45.1s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/web/20241118080321id_/https://www.facebook.com/policies_center/community_feedback/
+  1.5s 200 https://web.archive.org/web/20241118080321id_/https://www.facebook.com/policies_center/community_feedback/
+  1.5s 200 https://web.archive.org/web/20261008023711id_/https://www.facebook.com/policies_center/community_feedback/
+[community-standards] indexing https://transparency.meta.com/policies/community-standards/
+  0.7s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
+[community-standards]   https://transparency.meta.com/policies/community-standards/: 563 captures, 200s in 24 months
+ 45.0s URLError (<urlopen error timed out>) https://web.archive.org/web/20241115015549id_/https://transparency.meta.com/policies/community-standards/
+ 45.1s URLError (<urlopen error timed out>) https://web.archive.org/web/20241115015549id_/https://transparency.meta.com/policies/community-standards/

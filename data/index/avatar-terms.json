@@ -1,0 +1,176 @@
+{
+ "slug": "avatar-terms",
+ "url": "https://www.meta.com/legal/avatars/terms-of-service/",
+ "redirects": {
+  "https://www.meta.com/legal/avatars/terms-of-service/": {
+   "timestamp": "20260526225651",
+   "target": "https://www.meta.com/ca/legal/avatars/terms-of-service/"
+  }
+ },
+ "urls": {
+  "https://www.meta.com/legal/avatars/terms-of-service/": [
+   {
+    "timestamp": "20241219215339",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "7TPXYWOOZGAX2UK3MWL3V3BTG6YAYEHH",
+    "mimetype": "text/html",
+    "length": "66083"
+   },
+   {
+    "timestamp": "20250219181007",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "TWQ7Q26MYJBO6PSSALGVSEIAF6CGMBJJ",
+    "mimetype": "text/html",
+    "length": "137408"
+   },
+   {
+    "timestamp": "20250309231124",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "UXZSIBQDPI3BPGMZJNI52SR6FDCOXI56",
+    "mimetype": "text/html",
+    "length": "62083"
+   },
+   {
+    "timestamp": "20250513015444",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "P7LPHMQJRT62O7N5FBB2NENRCQI3Y3TY",
+    "mimetype": "text/html",
+    "length": "63546"
+   },
+   {
+    "timestamp": "20250619153631",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "AXMJEKITUKYBAUPJTADCPCHYJCZXEJNH",
+    "mimetype": "text/html",
+    "length": "65719"
+   },
+   {
+    "timestamp": "20250726125817",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "OK2QHPEAMTGCFQAFW4SPJH2S6JTPM2SH",
+    "mimetype": "text/html",
+    "length": "69200"
+   },
+   {
+    "timestamp": "20250804165454",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "5W4MFWGBIOMS2VEN7JWYZIGRI2WKGP63",
+    "mimetype": "text/html",
+    "length": "156160"
+   },
+   {
+    "timestamp": "20250807140708",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "MR7C3LGBYVK4FVZ6D24G5ALKGNLWP7K2",
+    "mimetype": "text/html",
+    "length": "166373"
+   },
+   {
+    "timestamp": "20250904183434",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "CCKN2FYMKD5KOXAYXFGCFCXAXQIXDUIO",
+    "mimetype": "text/html",
+    "length": "67157"
+   },
+   {
+    "timestamp": "20251127171920",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "2FPECXYW7FYRUGQKJDXD7PPYFBSIXUS4",
+    "mimetype": "text/html",
+    "length": "71975"
+   },
+   {
+    "timestamp": "20260220163547",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "TWSKOIDRNNZLFY5VFW5AHXS6UTMHK4NQ",
+    "mimetype": "text/html",
+    "length": "100442"
+   },
+   {
+    "timestamp": "20260221221325",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "U77A2EP5BSDC7AE67WW6F2JMGC6OPZP7",
+    "mimetype": "text/html",
+    "length": "75186"
+   },
+   {
+    "timestamp": "20260223164635",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "6ZSDMM7AC2XQRI4LDDEOCAEZ7XNGN4OI",
+    "mimetype": "text/html",
+    "length": "98541"
+   },
+   {
+    "timestamp": "20260317031617",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "YYXPDFWUCJDXXMCDRV4YWN5RH3TAA4IH",
+    "mimetype": "text/html",
+    "length": "120629"
+   },
+   {
+    "timestamp": "20260417173224",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1051"
+   },
+   {
+    "timestamp": "20260526225651",
+    "original": "https://www.meta.com/legal/avatars/terms-of-service/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1058"
+   }
+  ],
+  "https://www.meta.com/ca/legal/avatars/terms-of-service/": [
+   {
+    "timestamp": "20251129180259",
+    "original": "https://www.meta.com/ca/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "NWGMGUTE5EZ4BPUPILVNMVG7ENBAEPSS",
+    "mimetype": "text/html",
+    "length": "71950"
+   },
+   {
+    "timestamp": "20260417173224",
+    "original": "https://www.meta.com/ca/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "GQ5A2554CSDSAJ5J2ISLF3AIBFQAKD3D",
+    "mimetype": "text/html",
+    "length": "82488"
+   },
+   {
+    "timestamp": "20260508140011",
+    "original": "https://www.meta.com/ca/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "YIUZLE6Q2GB4FR4U44U3HFMOQUXLVLQU",
+    "mimetype": "text/html",
+    "length": "108530"
+   },
+   {
+    "timestamp": "20260526225651",
+    "original": "https://www.meta.com/ca/legal/avatars/terms-of-service/",
+    "statuscode": "200",
+    "digest": "3DTMM65ZWHJF34Q3CWHOYSRSWACOF46W",
+    "mimetype": "text/html",
+    "length": "77335"
+   }
+  ]
+ }
+}

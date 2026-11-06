@@ -1,0 +1,4513 @@
+{
+ "slug": "community-standards",
+ "url": "https://transparency.meta.com/policies/community-standards/",
+ "redirects": {},
+ "urls": {
+  "https://transparency.meta.com/policies/community-standards/": [
+   {
+    "timestamp": "20240501144925",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "1150"
+   },
+   {
+    "timestamp": "20240502020225",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ERORRWNZF6RNRRZW2WIADZCUAADQBG5F",
+    "mimetype": "text/html",
+    "length": "29042"
+   },
+   {
+    "timestamp": "20240503005247",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4Z44JRBBYK3KR727WPMUJAHKKVDKJEC6",
+    "mimetype": "text/html",
+    "length": "29000"
+   },
+   {
+    "timestamp": "20240504051836",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V5NLVHHTU5VZ4GUXXPTWTPBXOBDVQUM4",
+    "mimetype": "text/html",
+    "length": "30912"
+   },
+   {
+    "timestamp": "20240505130809",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OG3RCJRVZBOBATL25DHPAGXRVJZYWOIB",
+    "mimetype": "text/html",
+    "length": "29019"
+   },
+   {
+    "timestamp": "20240506172923",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LP5DTFJYBPPUNQOTZDZKU2EJZVQREBDE",
+    "mimetype": "text/html",
+    "length": "29077"
+   },
+   {
+    "timestamp": "20240507185155",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PUIHPYFUCZDWQ5PRHM6HKA3T54Z55264",
+    "mimetype": "text/html",
+    "length": "29337"
+   },
+   {
+    "timestamp": "20240508033159",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "G3DX44KBCZD765QTHLFHRXCOWT4AZ2IJ",
+    "mimetype": "text/html",
+    "length": "31202"
+   },
+   {
+    "timestamp": "20240509073318",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WAZ2GV4BWFYHIMRH2DPHI2IKQ5MCM6FX",
+    "mimetype": "text/html",
+    "length": "29254"
+   },
+   {
+    "timestamp": "20240510191939",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BARQNPPQEDWGN3JUPTEPY7TJQ5OLWPUD",
+    "mimetype": "text/html",
+    "length": "32422"
+   },
+   {
+    "timestamp": "20240511013444",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "32EQIBZIQQMCK4OUJ5PD7MEZKQ3CL5HT",
+    "mimetype": "text/html",
+    "length": "29239"
+   },
+   {
+    "timestamp": "20240512042915",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BWZSH7V4KIZF72WRKJ4Q5KCDCR3NDMXV",
+    "mimetype": "text/html",
+    "length": "29226"
+   },
+   {
+    "timestamp": "20240513114335",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V6IUA4ZW5WBOWZ545WBC57VBZLVKANOC",
+    "mimetype": "text/html",
+    "length": "29220"
+   },
+   {
+    "timestamp": "20240514004151",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "THCRXVV2M6AHH4RUJA2GADHKYLUDP5OX",
+    "mimetype": "text/html",
+    "length": "29265"
+   },
+   {
+    "timestamp": "20240515013704",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KKYKFJTZAWOC2TD7JTIAGSKAZ522HOIX",
+    "mimetype": "text/html",
+    "length": "29135"
+   },
+   {
+    "timestamp": "20240516144533",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6PRWVTESJWZDWBK54N4CQKJ2F3RURA2J",
+    "mimetype": "text/html",
+    "length": "32485"
+   },
+   {
+    "timestamp": "20240517052704",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1052"
+   },
+   {
+    "timestamp": "20240518211451",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MEZKG7ZULSPLTL3ZABERWRAMVWGUDJM6",
+    "mimetype": "text/html",
+    "length": "29107"
+   },
+   {
+    "timestamp": "20240520002623",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IGWN5ID44H4ADCY6RA2V7RQNZIE2JI6N",
+    "mimetype": "text/html",
+    "length": "29112"
+   },
+   {
+    "timestamp": "20240521145609",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IWZ5MAI5UODL733EPMMZ3OWPEWPHNGHD",
+    "mimetype": "text/html",
+    "length": "30996"
+   },
+   {
+    "timestamp": "20240522015801",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FYNVY4IRU76TMJLKJNAN6E2L3R7A2ZZM",
+    "mimetype": "text/html",
+    "length": "29213"
+   },
+   {
+    "timestamp": "20240523085011",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "N5GYNFW2CGMQS7B2A67DRDT5EDFWQ7VP",
+    "mimetype": "text/html",
+    "length": "28713"
+   },
+   {
+    "timestamp": "20240524021525",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DHVOOPW3E7PCVDKLK5CSYFKVQM2AJNUC",
+    "mimetype": "text/html",
+    "length": "30620"
+   },
+   {
+    "timestamp": "20240526035533",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7NSLRUAZWBKE3ZT6LZVOQ6UOYMRTDOMR",
+    "mimetype": "text/html",
+    "length": "12268"
+   },
+   {
+    "timestamp": "20240528154723",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1035"
+   },
+   {
+    "timestamp": "20240530110248",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2BWQVGXHI5FNLRHDMFDYSIXEVJ4ZJ2VP",
+    "mimetype": "text/html",
+    "length": "28448"
+   },
+   {
+    "timestamp": "20240531121544",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HRVSLRN23ZX7JJZI2FFLU5FEDZINORKW",
+    "mimetype": "text/html",
+    "length": "28717"
+   },
+   {
+    "timestamp": "20240603030712",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2KQXYEZZTNZLK5TP7A6J6FBPNOAARHQO",
+    "mimetype": "text/html",
+    "length": "28833"
+   },
+   {
+    "timestamp": "20240604015459",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1045"
+   },
+   {
+    "timestamp": "20240605142509",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BRLWLNKRPX6YC6PAUR4UZHTVWXID4YSV",
+    "mimetype": "text/html",
+    "length": "28739"
+   },
+   {
+    "timestamp": "20240606091252",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GHMEQEZJCVHEK4USJY7OL2OS63U3MO3Q",
+    "mimetype": "text/html",
+    "length": "31792"
+   },
+   {
+    "timestamp": "20240607081551",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7ILXI2TKVRPQUGYQJFDFDRLOZRAYKPFH",
+    "mimetype": "text/html",
+    "length": "31733"
+   },
+   {
+    "timestamp": "20240608161219",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DELTHZVIVKH3WNOK6X6G7DXQTNEAYAUY",
+    "mimetype": "text/html",
+    "length": "31659"
+   },
+   {
+    "timestamp": "20240609001359",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "25EGPNTYWQ5QGNH2SFOVSH3ZFEVPMPJZ",
+    "mimetype": "text/html",
+    "length": "12552"
+   },
+   {
+    "timestamp": "20240610111630",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KQRPWXSPWZJI5NC62Z3FYRT3WPAKF3UR",
+    "mimetype": "text/html",
+    "length": "31806"
+   },
+   {
+    "timestamp": "20240611115245",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BIAKSR24GKBEEBZPZQD3DGGD5KMX63SF",
+    "mimetype": "text/html",
+    "length": "28643"
+   },
+   {
+    "timestamp": "20240612141155",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "46IYC6VZGSK2SOEX7PW7ZEDZV72DWYXE",
+    "mimetype": "text/html",
+    "length": "28637"
+   },
+   {
+    "timestamp": "20240613001057",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LMSKHNCZ25LLQDHPTJQATUUEAUXBFLKT",
+    "mimetype": "text/html",
+    "length": "33870"
+   },
+   {
+    "timestamp": "20240614091008",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3DWRUYOKOQ3OYNONEPGX57MGWVWNFK2C",
+    "mimetype": "text/html",
+    "length": "33784"
+   },
+   {
+    "timestamp": "20240615153359",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WSMPA5OGEVSRZZ6WOMCSZPWWDYWX2FAA",
+    "mimetype": "text/html",
+    "length": "31577"
+   },
+   {
+    "timestamp": "20240616123837",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WLUGHP776M2PD7E2P2K7MNIK5MB7YLXP",
+    "mimetype": "text/html",
+    "length": "28468"
+   },
+   {
+    "timestamp": "20240617161913",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "W2WE5C7XYOXZNWYLMKJ7Y7BFHQYBEUK6",
+    "mimetype": "text/html",
+    "length": "31698"
+   },
+   {
+    "timestamp": "20240618163540",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RU3OGVDOGIOIVGUVR72B5ODDN3PSUCSX",
+    "mimetype": "text/html",
+    "length": "31537"
+   },
+   {
+    "timestamp": "20240619150932",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "34IGQXT733DK5IRKFGHGPOPVI5IJWTWE",
+    "mimetype": "text/html",
+    "length": "31592"
+   },
+   {
+    "timestamp": "20240620134032",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VGAEG64P7D4VM365RWYZXNMALQGATK2D",
+    "mimetype": "text/html",
+    "length": "28436"
+   },
+   {
+    "timestamp": "20240621053639",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BWYA4B4JWYAX4OMBZJUMHAXW4TZPTP5G",
+    "mimetype": "text/html",
+    "length": "28384"
+   },
+   {
+    "timestamp": "20240622110625",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JBRN7STSG3W2QKCGE662ALXMGBDHPLSF",
+    "mimetype": "text/html",
+    "length": "28398"
+   },
+   {
+    "timestamp": "20240623051538",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SQRQCA26YFMO4XTNGFSTGYHRC5N2QK2R",
+    "mimetype": "text/html",
+    "length": "30038"
+   },
+   {
+    "timestamp": "20240624115721",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WHWYZ2GMXLGBRKIK2BEM2HGK3TYNA5NN",
+    "mimetype": "text/html",
+    "length": "31582"
+   },
+   {
+    "timestamp": "20240625084039",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SMZOQVI5EIX7QYUIYYB4R6U2BYY34FAU",
+    "mimetype": "text/html",
+    "length": "28577"
+   },
+   {
+    "timestamp": "20240626112907",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UUKJ4P765UYPXZH63VEX3PQKU4YW6BRH",
+    "mimetype": "text/html",
+    "length": "28480"
+   },
+   {
+    "timestamp": "20240627151339",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "56CZAJDU6FC477K42GMRQXUXZDMDJVDL",
+    "mimetype": "text/html",
+    "length": "28548"
+   },
+   {
+    "timestamp": "20240628034538",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SVRBCGNEZONHEZXNWMAXRCEXB7PUFCMU",
+    "mimetype": "text/html",
+    "length": "34879"
+   },
+   {
+    "timestamp": "20240629092114",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OIFWAQYMD5PCI4KUDA5UC2MBEETZTUEX",
+    "mimetype": "text/html",
+    "length": "28451"
+   },
+   {
+    "timestamp": "20240630102356",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7IPX6IMVEYXGLWED3J2OL3U4ZUCRXZKS",
+    "mimetype": "text/html",
+    "length": "31507"
+   },
+   {
+    "timestamp": "20240701114629",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PXZ6HV325PPZZ3QCAYE373HO5VYUDYJO",
+    "mimetype": "text/html",
+    "length": "31725"
+   },
+   {
+    "timestamp": "20240702015746",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LVJDH7SNI2CHCHJ7FCHIIG56IGYGWY47",
+    "mimetype": "text/html",
+    "length": "35074"
+   },
+   {
+    "timestamp": "20240703184759",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VY5O5V4QXZ4C36V3S3ZAGZEAFNN7HKED",
+    "mimetype": "text/html",
+    "length": "30379"
+   },
+   {
+    "timestamp": "20240704123445",
+    "original": "http://transparency.meta.com/policies/community-standards",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "233"
+   },
+   {
+    "timestamp": "20240705172957",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "X3D2VHL6MMNECDIE5TEYBDR3XHHZBMOB",
+    "mimetype": "text/html",
+    "length": "31694"
+   },
+   {
+    "timestamp": "20240706034103",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2RYWSC5TGDLCWNPKYJPD5FHZPNBVEY4A",
+    "mimetype": "text/html",
+    "length": "33583"
+   },
+   {
+    "timestamp": "20240707195127",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HT7HGNZ44OJLION4MLG7Z4CWURAKGHUK",
+    "mimetype": "text/html",
+    "length": "28499"
+   },
+   {
+    "timestamp": "20240709061245",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OXDPHG3FKRIUDPFZRO7J2SU2NKZVV3LC",
+    "mimetype": "text/html",
+    "length": "34822"
+   },
+   {
+    "timestamp": "20240710051702",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "A7JKXL4LGXCAJFVXNB35TBU2CKRCCO6O",
+    "mimetype": "text/html",
+    "length": "34744"
+   },
+   {
+    "timestamp": "20240711115208",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VFPXOUNH6WHASXWPWCYRVI7YLDUWT6HR",
+    "mimetype": "text/html",
+    "length": "28348"
+   },
+   {
+    "timestamp": "20240712165401",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IVOE3LJEG457WG5QYW3LNIUBML33HZ2Z",
+    "mimetype": "text/html",
+    "length": "31531"
+   },
+   {
+    "timestamp": "20240713000849",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3GXUD7Q46ABQ6QBW5UYFIZJNHO476PCO",
+    "mimetype": "text/html",
+    "length": "31377"
+   },
+   {
+    "timestamp": "20240714020548",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "472GLSDL4OJXYYGSYMHFPKGJVOFS7AX7",
+    "mimetype": "text/html",
+    "length": "28128"
+   },
+   {
+    "timestamp": "20240715021044",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FLJ5OPG3FVTKTVRLPRV6V27Z4T6RCVJQ",
+    "mimetype": "text/html",
+    "length": "31387"
+   },
+   {
+    "timestamp": "20240716084729",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ID7WWAPXJXCTLIXLNCEDZP3A6NVKL24J",
+    "mimetype": "text/html",
+    "length": "28334"
+   },
+   {
+    "timestamp": "20240717054910",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "CFO4W5K6EQYNUN5JFRLXISQZOTCGYTQW",
+    "mimetype": "text/html",
+    "length": "17319"
+   },
+   {
+    "timestamp": "20240718004939",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6HB5WY547YKCUBVXPCHJ66GUUYCBLXML",
+    "mimetype": "text/html",
+    "length": "34616"
+   },
+   {
+    "timestamp": "20240719180535",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KGCDRCHQIG572KBZASHMRUKFNINCP4JY",
+    "mimetype": "text/html",
+    "length": "31312"
+   },
+   {
+    "timestamp": "20240720020007",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "V42SM2H2JQMW4PPHUYAU4VNKDMQQBQTS",
+    "mimetype": "text/html",
+    "length": "21513"
+   },
+   {
+    "timestamp": "20240723045204",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "F54PWJ44RSTSZYUJUEELD63YVBKREFE2",
+    "mimetype": "text/html",
+    "length": "28032"
+   },
+   {
+    "timestamp": "20240724054728",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "NGPDAFLE7B24WKKGHM235UGXAVYZX7IX",
+    "mimetype": "text/html",
+    "length": "32797"
+   },
+   {
+    "timestamp": "20240725164541",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JAXZBURC5PVMSPAT3C6WQJCYWXU726N7",
+    "mimetype": "text/html",
+    "length": "31760"
+   },
+   {
+    "timestamp": "20240726175520",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QLYUBYZKEKFOTHFI43EHMDLWVVM2FVBN",
+    "mimetype": "text/html",
+    "length": "28642"
+   },
+   {
+    "timestamp": "20240727163747",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VOS55SROJ2KCLEV55WGRTWUJIZK5PKM6",
+    "mimetype": "text/html",
+    "length": "28623"
+   },
+   {
+    "timestamp": "20240728154931",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V6BH47OUS3A36MAC3Y7FQLGKXV5ZMPJ6",
+    "mimetype": "text/html",
+    "length": "28845"
+   },
+   {
+    "timestamp": "20240729140911",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YEXMEORZSAH7PDBFQDW7RMU6WML6KXHY",
+    "mimetype": "text/html",
+    "length": "28767"
+   },
+   {
+    "timestamp": "20240730194002",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OIWJPJQ63GJCH4HLZXNUJEPASOLZERGI",
+    "mimetype": "text/html",
+    "length": "28814"
+   },
+   {
+    "timestamp": "20240801100003",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AQBHLLMZZZATUW5D75ECUXEAY53Q7SFG",
+    "mimetype": "text/html",
+    "length": "31934"
+   },
+   {
+    "timestamp": "20240802132432",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MERVNBRRBAZEQI4MPO33CP4TLJDMC462",
+    "mimetype": "text/html",
+    "length": "28767"
+   },
+   {
+    "timestamp": "20240803132254",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NBXIDUETASUMATFQXAUETBJW553UEDTT",
+    "mimetype": "text/html",
+    "length": "28640"
+   },
+   {
+    "timestamp": "20240804103016",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7V74ZPZSU7P7DYXFLYZAH2TNSDSPZO6G",
+    "mimetype": "text/html",
+    "length": "28784"
+   },
+   {
+    "timestamp": "20240805100541",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4VZ235A3JE55LVIEYWBJFFSIYIKXSGUD",
+    "mimetype": "text/html",
+    "length": "31853"
+   },
+   {
+    "timestamp": "20240806080702",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ILEDWZP3QQOJW3CAPSU6OJQ5NODU7YVZ",
+    "mimetype": "text/html",
+    "length": "32209"
+   },
+   {
+    "timestamp": "20240807151552",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "W6Z5KWZ3ARTGA7KINADA5TDRUVAP6X75",
+    "mimetype": "text/html",
+    "length": "32180"
+   },
+   {
+    "timestamp": "20240808143918",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GLYF6KNRAQ5KOHX7OUBPZDGLFPQRNO6N",
+    "mimetype": "text/html",
+    "length": "28882"
+   },
+   {
+    "timestamp": "20240809051707",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "A3VVQJYLIY4R7YHXDNSRHU5DXN3GHA4X",
+    "mimetype": "text/html",
+    "length": "32069"
+   },
+   {
+    "timestamp": "20240810002830",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OH7QBWA3RT56BKZXCXFJEQGGQYC3JHWA",
+    "mimetype": "text/html",
+    "length": "31847"
+   },
+   {
+    "timestamp": "20240812021539",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IWZW25WZ6EYKURXVKTLCEO6OORK5MZ5X",
+    "mimetype": "text/html",
+    "length": "31972"
+   },
+   {
+    "timestamp": "20240813114256",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "WGJ323FKAHCS56PBU5Q4LNIGBLKJXAYS",
+    "mimetype": "text/html",
+    "length": "32198"
+   },
+   {
+    "timestamp": "20240814040655",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5SRHNHW35FWPAAWGVLI2WQPL5FY43BX5",
+    "mimetype": "text/html",
+    "length": "32112"
+   },
+   {
+    "timestamp": "20240815090712",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WWVGT6JBSVBPNPATY5M7SVJMSYS7RPBG",
+    "mimetype": "text/html",
+    "length": "34255"
+   },
+   {
+    "timestamp": "20240816182152",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "X7RJU732VU6XGPYYSDTND7LJXMS6JUK7",
+    "mimetype": "text/html",
+    "length": "37075"
+   },
+   {
+    "timestamp": "20240817224715",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QQEBWHKQZ6OAXPMXMBUTNLR6LXASTP5W",
+    "mimetype": "text/html",
+    "length": "39377"
+   },
+   {
+    "timestamp": "20240818104317",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GUWITHPXEVXNSYGNFKTM7LIKC34LOM6G",
+    "mimetype": "text/html",
+    "length": "36959"
+   },
+   {
+    "timestamp": "20240819094624",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HYIF6AEXHGBZJWWY2ZOQ7FTDAANGWAIQ",
+    "mimetype": "text/html",
+    "length": "39351"
+   },
+   {
+    "timestamp": "20240820195201",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5B3Y4LUAGS24RAD5HL7HTLPKMMLO7RS3",
+    "mimetype": "text/html",
+    "length": "39583"
+   },
+   {
+    "timestamp": "20240821094241",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LP2ERCHTCKHTCIZLYE3QVTAWRM37QV5A",
+    "mimetype": "text/html",
+    "length": "39614"
+   },
+   {
+    "timestamp": "20240822095504",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2ZT7J4AY6ZW6MBK3FO4MTYJ3ALGP7M6U",
+    "mimetype": "text/html",
+    "length": "40593"
+   },
+   {
+    "timestamp": "20240823173037",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "B5CW7CYZMETKD2KMWEOQY22PGS4DGHUX",
+    "mimetype": "text/html",
+    "length": "40598"
+   },
+   {
+    "timestamp": "20240824060341",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NO55L6LOTOV3C4KBZFDTGWDEF4UKY536",
+    "mimetype": "text/html",
+    "length": "37169"
+   },
+   {
+    "timestamp": "20240825035520",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "A7B3H5GEPRRIAMNZOGJK7SYRDNSBNY5S",
+    "mimetype": "text/html",
+    "length": "37183"
+   },
+   {
+    "timestamp": "20240826121945",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V4YBNILYGJLYFBWHKH6MEDCJYP7WC5ZR",
+    "mimetype": "text/html",
+    "length": "37122"
+   },
+   {
+    "timestamp": "20240827034844",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZRHQEUSWDHT6D5XFGMZ7KZ77M5M2PZDC",
+    "mimetype": "text/html",
+    "length": "37083"
+   },
+   {
+    "timestamp": "20240828133832",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "REEWARRAT25LOEHEFB6RYG4PO5V7XPXV",
+    "mimetype": "text/html",
+    "length": "36947"
+   },
+   {
+    "timestamp": "20240829065436",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "O4DKAZPBPEZ7XXXDMAWL6UA67W62A7AT",
+    "mimetype": "text/html",
+    "length": "39534"
+   },
+   {
+    "timestamp": "20240830162204",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2BMEC4ISD7A3HNJJKKH3YELDFN4GC5QX",
+    "mimetype": "text/html",
+    "length": "39689"
+   },
+   {
+    "timestamp": "20240831133355",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RMC5XXLYOHTLW4A3RLWPZC65PTGIDAVF",
+    "mimetype": "text/html",
+    "length": "36410"
+   },
+   {
+    "timestamp": "20240901071914",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FEE5AN6B3IVPGFUU7JZTMHIDZYYAQD3F",
+    "mimetype": "text/html",
+    "length": "39600"
+   },
+   {
+    "timestamp": "20240902152320",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UHANAIE4H4E2AW7RVFBLUJPCRBML2KDQ",
+    "mimetype": "text/html",
+    "length": "37158"
+   },
+   {
+    "timestamp": "20240903141505",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XN7UYLXBU3EPAB2YEOA2WDLLK7Q5PAHE",
+    "mimetype": "text/html",
+    "length": "37357"
+   },
+   {
+    "timestamp": "20240904203339",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "J3T7TKGYVSHOSJA7WN7PCU4ME7YDAKNG",
+    "mimetype": "text/html",
+    "length": "39476"
+   },
+   {
+    "timestamp": "20240905102417",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KQRONZAK6Q5MWKCM53QBFTFDKTVRMWLF",
+    "mimetype": "text/html",
+    "length": "39582"
+   },
+   {
+    "timestamp": "20240906084559",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MNBXBCSKZZZTISCOAPEAZMH677L6B74Y",
+    "mimetype": "text/html",
+    "length": "38583"
+   },
+   {
+    "timestamp": "20240907001636",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "XMFD6JR6JPLCSOEX6PHJXKNVZTNO4NMR",
+    "mimetype": "text/html",
+    "length": "40744"
+   },
+   {
+    "timestamp": "20240908192813",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3BYQKX3COQV24FFYASFSLZCD4BZ44HZE",
+    "mimetype": "text/html",
+    "length": "37259"
+   },
+   {
+    "timestamp": "20240909002626",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "33MWNCFNCMIMDXCXCYEQI6ZWYEX2ZK7M",
+    "mimetype": "text/html",
+    "length": "36542"
+   },
+   {
+    "timestamp": "20240910065942",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QIUFJVCGPTHGF4PETE64XRCMLTQGBYDH",
+    "mimetype": "text/html",
+    "length": "39524"
+   },
+   {
+    "timestamp": "20240911060202",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KBBAZO4643IHKF3RKRRU2GKFJDNGIKNI",
+    "mimetype": "text/html",
+    "length": "39522"
+   },
+   {
+    "timestamp": "20240912054742",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KXM2R4IHZR46LT2GHERNHZXNY6FZUUR2",
+    "mimetype": "text/html",
+    "length": "40647"
+   },
+   {
+    "timestamp": "20240913114651",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TMWRGLNVCDKE2V727IA5W6GA43QYETXS",
+    "mimetype": "text/html",
+    "length": "37271"
+   },
+   {
+    "timestamp": "20240914061030",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XUMWOV23I75DUXLETPEVM2NCX5TPOELI",
+    "mimetype": "text/html",
+    "length": "37109"
+   },
+   {
+    "timestamp": "20240915051822",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PBFCK6H2QPT445TOULUFJBDRVQWQ4AXJ",
+    "mimetype": "text/html",
+    "length": "39640"
+   },
+   {
+    "timestamp": "20240916083317",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "65BF6T63T4GND6BHJERXBRPVQXBIPBRO",
+    "mimetype": "text/html",
+    "length": "41904"
+   },
+   {
+    "timestamp": "20240917075925",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "46WO7ELZQURCGEKL3DCK3JSSLP5XRJN5",
+    "mimetype": "text/html",
+    "length": "39607"
+   },
+   {
+    "timestamp": "20240918064008",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "A44VKJX7OH7WVJINNZEMCKTHTHQZ6QG4",
+    "mimetype": "text/html",
+    "length": "39449"
+   },
+   {
+    "timestamp": "20240919103046",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2EFZ5RODFDYLU2J2KPO6N3MA46RQA53B",
+    "mimetype": "text/html",
+    "length": "39477"
+   },
+   {
+    "timestamp": "20240920111509",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OH4BG5T2MKTUAJLYM36I5327HWHRQIYW",
+    "mimetype": "text/html",
+    "length": "36710"
+   },
+   {
+    "timestamp": "20240921053055",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MGDXE2J6JAB74YQ42NOIKSO4S4SONF7M",
+    "mimetype": "text/html",
+    "length": "38922"
+   },
+   {
+    "timestamp": "20240922215556",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4MT3VU2T4DEGPWZHEBXYHBJZDWGBUHH3",
+    "mimetype": "text/html",
+    "length": "38900"
+   },
+   {
+    "timestamp": "20240923080933",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ADP2PMSIHE3AK5U232DQYLJIUQ6WHZCG",
+    "mimetype": "text/html",
+    "length": "38927"
+   },
+   {
+    "timestamp": "20240925180817",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MLJN42DIVBMSTDQA3WM2UYOQPA2AX6RH",
+    "mimetype": "text/html",
+    "length": "39104"
+   },
+   {
+    "timestamp": "20240926195152",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KWPLCFKXCFPVFJBD7EMZWKTHN4MJJYAM",
+    "mimetype": "text/html",
+    "length": "41199"
+   },
+   {
+    "timestamp": "20240929052359",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ADPU325RJVFLZVGWMZYXZJV5DRGHPBWP",
+    "mimetype": "text/html",
+    "length": "41033"
+   },
+   {
+    "timestamp": "20240930000333",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6NQRMZLGMACGBYSGA3XIBHM5ZWRY6GKJ",
+    "mimetype": "text/html",
+    "length": "38552"
+   },
+   {
+    "timestamp": "20241002125857",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JT5HLKNQPZ4Z55KOLRIZSUGD5YBWLVHE",
+    "mimetype": "text/html",
+    "length": "39037"
+   },
+   {
+    "timestamp": "20241003092035",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SLAB25TF6WUHQ2ZSRRPKEHLHUWDQVSP4",
+    "mimetype": "text/html",
+    "length": "40955"
+   },
+   {
+    "timestamp": "20241004085901",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WKV5Q36ASNVETUYTDGWLIN4GY6J2DMVF",
+    "mimetype": "text/html",
+    "length": "36636"
+   },
+   {
+    "timestamp": "20241005062906",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NKP4UK5MAUZAJ37NAVK7MF5K3BHZXYB6",
+    "mimetype": "text/html",
+    "length": "39089"
+   },
+   {
+    "timestamp": "20241006184442",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "W3ZVWNIWXFAB5U3MKF72JTB6LDROFVPS",
+    "mimetype": "text/html",
+    "length": "36966"
+   },
+   {
+    "timestamp": "20241007080059",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5KG3BXWYIH5GNUOZSA6NCV7XPZTNJ2RO",
+    "mimetype": "text/html",
+    "length": "39491"
+   },
+   {
+    "timestamp": "20241008063201",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JSMAMI2JKKYTNVKCVDRXKOXPMOJ2ZSS2",
+    "mimetype": "text/html",
+    "length": "41342"
+   },
+   {
+    "timestamp": "20241009043102",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "KW6KZ5I54C6BFWNGJV4RN2DUGW6OVMBD",
+    "mimetype": "text/html",
+    "length": "39217"
+   },
+   {
+    "timestamp": "20241012155348",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "B3ZXL3CCAM5PVQLTFA24ACABKJVBY426",
+    "mimetype": "text/html",
+    "length": "36662"
+   },
+   {
+    "timestamp": "20241013223905",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "O7BGG4USLTBCHYY74BDORBCCJIWQKMZC",
+    "mimetype": "text/html",
+    "length": "36554"
+   },
+   {
+    "timestamp": "20241014045056",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AMESGBXTNHL33FYOH6WMYVYCDBO7LXXS",
+    "mimetype": "text/html",
+    "length": "36547"
+   },
+   {
+    "timestamp": "20241017035717",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "N3PAV2WTWYWZDYB7DYWEYHTBUYVDJ6HF",
+    "mimetype": "text/html",
+    "length": "36506"
+   },
+   {
+    "timestamp": "20241020191134",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GRNHFQN55KRSZ64ZI7DWE2M6I2X3DIG7",
+    "mimetype": "text/html",
+    "length": "35929"
+   },
+   {
+    "timestamp": "20241101020043",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IGGMJ6MP56EG7FACLRISSE2ORC2RVAPP",
+    "mimetype": "text/html",
+    "length": "39324"
+   },
+   {
+    "timestamp": "20241102192002",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1039"
+   },
+   {
+    "timestamp": "20241103111534",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WGVWQWJLKF3JTBQXGY5GECD25OUZJOAZ",
+    "mimetype": "text/html",
+    "length": "39593"
+   },
+   {
+    "timestamp": "20241107071134",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "999"
+   },
+   {
+    "timestamp": "20241108184002",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "D2NV54IVAN4DWVLQQEAXDPODSVH4XHM5",
+    "mimetype": "text/html",
+    "length": "37053"
+   },
+   {
+    "timestamp": "20241111000135",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "S7WC2NVNNMES6QNFHMTR6O43YVAUSCLT",
+    "mimetype": "text/html",
+    "length": "39583"
+   },
+   {
+    "timestamp": "20241112163127",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NFBAWAPRMHF2C5WQODKT75PTJ5TQSRU7",
+    "mimetype": "text/html",
+    "length": "40349"
+   },
+   {
+    "timestamp": "20241114024005",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MSWZ3RQIYLIZIGR6QTIG3UHHCY7B2RAA",
+    "mimetype": "text/html",
+    "length": "39093"
+   },
+   {
+    "timestamp": "20241115015549",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GDFCZ5QAV6I54HRHJIQSY4RETRBYWZZS",
+    "mimetype": "text/html",
+    "length": "39031"
+   },
+   {
+    "timestamp": "20241117171022",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1038"
+   },
+   {
+    "timestamp": "20241118052214",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FGDC46BALOQJIS7MYZMT777SO53ESXAV",
+    "mimetype": "text/html",
+    "length": "39315"
+   },
+   {
+    "timestamp": "20241120223056",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "73JOHG3WS5PX756J7TXA7IOCLT7WR43I",
+    "mimetype": "text/html",
+    "length": "41279"
+   },
+   {
+    "timestamp": "20241122121157",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NMLNQEGSV74XQ6XWC6E4CXJY35I6XM6R",
+    "mimetype": "text/html",
+    "length": "39399"
+   },
+   {
+    "timestamp": "20241124014442",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BJ5QV366JUCGOXIVTSXPYCG6LUFWJJAL",
+    "mimetype": "text/html",
+    "length": "40224"
+   },
+   {
+    "timestamp": "20241125151051",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1027"
+   },
+   {
+    "timestamp": "20241126225424",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TLIV6GSROS7H3E6Q4BEZ6CNNBRO5LYHT",
+    "mimetype": "text/html",
+    "length": "40220"
+   },
+   {
+    "timestamp": "20241127230811",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "FLY2ZUTK5FNVETRBAGVEWCKVA2ZCLTAY",
+    "mimetype": "text/html",
+    "length": "40408"
+   },
+   {
+    "timestamp": "20241128023035",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OVEHTW4EEJ6WXWU2CLDNHLGJJLV2OPI7",
+    "mimetype": "text/html",
+    "length": "40385"
+   },
+   {
+    "timestamp": "20241129155547",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BKXNRIZ7ZTT7JSSI5SBKHYEP2XQWD3G5",
+    "mimetype": "text/html",
+    "length": "39410"
+   },
+   {
+    "timestamp": "20241201052653",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1038"
+   },
+   {
+    "timestamp": "20241202154024",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "FXLEKD4YOXEAFCQV6DGG644IYPR62K3W",
+    "mimetype": "text/html",
+    "length": "40983"
+   },
+   {
+    "timestamp": "20241203015219",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FO6OV2GXHIUJWRXQ4X34HMXDA7SZO3D2",
+    "mimetype": "text/html",
+    "length": "36938"
+   },
+   {
+    "timestamp": "20241204123143",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "H3FKKXZM4UJL47RF7YINT77NCS7XJYLR",
+    "mimetype": "text/html",
+    "length": "36865"
+   },
+   {
+    "timestamp": "20241205032117",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LCSOWDTP4SX4KP4RLBHRWMEVMQPTNTKR",
+    "mimetype": "text/html",
+    "length": "36862"
+   },
+   {
+    "timestamp": "20241208051644",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HOVF7VSQNSBOQ7JKQ24XVFZY6HINQKIO",
+    "mimetype": "text/html",
+    "length": "36933"
+   },
+   {
+    "timestamp": "20241209014423",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "C4DY2SCILTMKY5B6G3ORR6JMR7N7MSSH",
+    "mimetype": "text/html",
+    "length": "40248"
+   },
+   {
+    "timestamp": "20241210090038",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1009"
+   },
+   {
+    "timestamp": "20241211175420",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GCXHJYVCMNY4B5RVO3MVBWUJHIAYFOTI",
+    "mimetype": "text/html",
+    "length": "37094"
+   },
+   {
+    "timestamp": "20241212111156",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VY6IHX72XVWD46CXRXZYDDU7HAQUONAK",
+    "mimetype": "text/html",
+    "length": "39480"
+   },
+   {
+    "timestamp": "20241217083805",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ID77ZVJXAKF32TBVNTEAMITD2DRELHSC",
+    "mimetype": "text/html",
+    "length": "36545"
+   },
+   {
+    "timestamp": "20241219081750",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DXFKFJRSLXXJ7OXCXYLG6W4ZSRYNXMEI",
+    "mimetype": "text/html",
+    "length": "39162"
+   },
+   {
+    "timestamp": "20241220072942",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "Q3G2YDUWCX5EACJWR3625QGT3GUED3IW",
+    "mimetype": "text/html",
+    "length": "39078"
+   },
+   {
+    "timestamp": "20241223211651",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UQBRUT6MQKIXLCGI46Z3QK4UGSM3PC5S",
+    "mimetype": "text/html",
+    "length": "40454"
+   },
+   {
+    "timestamp": "20241226011411",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QDEAU3U4TVTYAP6YH4SUGV5OJ7KXIDIE",
+    "mimetype": "text/html",
+    "length": "39942"
+   },
+   {
+    "timestamp": "20241227201103",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "MODWZITAGQ45FI72YWVPUL2BG4M3DZKS",
+    "mimetype": "text/html",
+    "length": "39099"
+   },
+   {
+    "timestamp": "20241228061133",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FPKG3FPWMOAE6HN4IHE42OOKPDTEIMOT",
+    "mimetype": "text/html",
+    "length": "36654"
+   },
+   {
+    "timestamp": "20250103032943",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1034"
+   },
+   {
+    "timestamp": "20250104003024",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "X6TCRUYA2JQ5TZRDQ4OOO44FJCNBDGD6",
+    "mimetype": "text/html",
+    "length": "45555"
+   },
+   {
+    "timestamp": "20250105091724",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ISQYXAJGGF7ME5LUTIK36ZPGPCU5SRBK",
+    "mimetype": "text/html",
+    "length": "41802"
+   },
+   {
+    "timestamp": "20250106030609",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V4R5KM5SZODTHFDS2OBI3TIPDNWGKFGG",
+    "mimetype": "text/html",
+    "length": "40644"
+   },
+   {
+    "timestamp": "20250107130514",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JGHBPQCAKMTGJGEA63YWX2EK4R27C4IK",
+    "mimetype": "text/html",
+    "length": "40069"
+   },
+   {
+    "timestamp": "20250108030111",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HZW4JL7436KB3CWYQQP6ROIFAZDVAWTU",
+    "mimetype": "text/html",
+    "length": "41227"
+   },
+   {
+    "timestamp": "20250109081250",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "754AE7IRTKNEDLWQGLOBVILLK5A5MXJL",
+    "mimetype": "text/html",
+    "length": "39203"
+   },
+   {
+    "timestamp": "20250110202256",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1012"
+   },
+   {
+    "timestamp": "20250111104515",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1053"
+   },
+   {
+    "timestamp": "20250113070801",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1050"
+   },
+   {
+    "timestamp": "20250114022000",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3IBTS2AEVFLKZYHZBTP6I32EX5SMJRR5",
+    "mimetype": "text/html",
+    "length": "39979"
+   },
+   {
+    "timestamp": "20250116033431",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JMBJS5C4WLSLP2RFWHOXIAG4Q6GRPTAY",
+    "mimetype": "text/html",
+    "length": "38968"
+   },
+   {
+    "timestamp": "20250117104953",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "V6K7FIPHV3XQU256ER6DQ4AQIANGU3AC",
+    "mimetype": "text/html",
+    "length": "36902"
+   },
+   {
+    "timestamp": "20250118074047",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GB4NXWIPDKJLTOUDM23T6MPTIODBVHOT",
+    "mimetype": "text/html",
+    "length": "39154"
+   },
+   {
+    "timestamp": "20250119011009",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1052"
+   },
+   {
+    "timestamp": "20250120033414",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HTPUDJSJ4Q7Y7EJHJTF4RVKA5UCUKUI4",
+    "mimetype": "text/html",
+    "length": "42630"
+   },
+   {
+    "timestamp": "20250121072650",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MXSF3HRNHISC2QOYKYJGOLWYEZ5ZBUHC",
+    "mimetype": "text/html",
+    "length": "35790"
+   },
+   {
+    "timestamp": "20250123070735",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SLFH45Y77AM4YFHSU2YLPIGJ2OMTZKLR",
+    "mimetype": "text/html",
+    "length": "41802"
+   },
+   {
+    "timestamp": "20250124040407",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DVWMD3FXBZMM2N3IWZ4NAACB4AUJ7JGI",
+    "mimetype": "text/html",
+    "length": "40585"
+   },
+   {
+    "timestamp": "20250125022217",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KLIVH5GB2RQL3AQSYBJZZ4ARKGY5RCYU",
+    "mimetype": "text/html",
+    "length": "41839"
+   },
+   {
+    "timestamp": "20250126030023",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1044"
+   },
+   {
+    "timestamp": "20250127191016",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HZPCDPQXBOD2EXOR62JGHOZFEEYKBCRI",
+    "mimetype": "text/html",
+    "length": "38266"
+   },
+   {
+    "timestamp": "20250129012113",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7ZOPESM5NZCHDFRNJZ4H6PVUCQMVI73W",
+    "mimetype": "text/html",
+    "length": "41763"
+   },
+   {
+    "timestamp": "20250131054830",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KTVVHLJ6VETFRIOSEQZLZHXP5PNH7WFN",
+    "mimetype": "text/html",
+    "length": "38696"
+   },
+   {
+    "timestamp": "20250201185431",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VSFMYD36BY6NWIQMKZKTWG4U47EOB7XW",
+    "mimetype": "text/html",
+    "length": "36127"
+   },
+   {
+    "timestamp": "20250202073653",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GW5IINNDKAWCYNBAPASA2YQXC53WXHJ4",
+    "mimetype": "text/html",
+    "length": "39298"
+   },
+   {
+    "timestamp": "20250203125937",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IV3ZHEPY4JEIJOIC6SYIJX43CRHKWQGM",
+    "mimetype": "text/html",
+    "length": "38348"
+   },
+   {
+    "timestamp": "20250204122902",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "UYXJSSI33PMUGJBQQGKRRJKS3SI4JQGL",
+    "mimetype": "text/html",
+    "length": "38466"
+   },
+   {
+    "timestamp": "20250207064953",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EQJBWZNWTNYPMZ2IFOS7FHDED4HU3IYK",
+    "mimetype": "text/html",
+    "length": "41794"
+   },
+   {
+    "timestamp": "20250208062605",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MWCWXEI52V2IOYFGFOQRUAZSMBE63I5W",
+    "mimetype": "text/html",
+    "length": "35983"
+   },
+   {
+    "timestamp": "20250209155620",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CLD2OBEQYUQ2NUJLUHAP4GY6RYKPF7LU",
+    "mimetype": "text/html",
+    "length": "44575"
+   },
+   {
+    "timestamp": "20250210153822",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YXREXMNSNJ2ETLUMODPKOTKN6SNAGFYH",
+    "mimetype": "text/html",
+    "length": "39801"
+   },
+   {
+    "timestamp": "20250211002208",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FGXNDUF4X3SUD25B54BKDXUJAT4LBLLG",
+    "mimetype": "text/html",
+    "length": "38005"
+   },
+   {
+    "timestamp": "20250212233124",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7Q52U33GBLRVJ4IQPEN4KKDPVHFFK3N6",
+    "mimetype": "text/html",
+    "length": "35751"
+   },
+   {
+    "timestamp": "20250214184157",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3ODFD7NYHGYJ6DMK27IDTTXAIPIM4KRO",
+    "mimetype": "text/html",
+    "length": "38610"
+   },
+   {
+    "timestamp": "20250215035517",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YSEWAWUDDLLWJ24NL5LIRVDIJN7EJ77X",
+    "mimetype": "text/html",
+    "length": "38630"
+   },
+   {
+    "timestamp": "20250216114100",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZPDYGTSRVVYVFFLSPO2NOZXLIBLVCUBW",
+    "mimetype": "text/html",
+    "length": "40559"
+   },
+   {
+    "timestamp": "20250217202442",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "O34GU5AUINRQ56J4HZS3JWSZYNZWHHMZ",
+    "mimetype": "text/html",
+    "length": "36077"
+   },
+   {
+    "timestamp": "20250218024847",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DCB4FFTMGVXH3YYP4H57O3FZHD3MH2GF",
+    "mimetype": "text/html",
+    "length": "38541"
+   },
+   {
+    "timestamp": "20250219080504",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2HDQYIZWHTPXXVSVH2OIGOSXS3WBISQV",
+    "mimetype": "text/html",
+    "length": "39919"
+   },
+   {
+    "timestamp": "20250221083325",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CFIVIFY5TDHKCWQ7F65VAINHS6L6KBHJ",
+    "mimetype": "text/html",
+    "length": "38324"
+   },
+   {
+    "timestamp": "20250222074152",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VSJ73UKRF72FM6Y4WO2EMTKKXLYP5MLL",
+    "mimetype": "text/html",
+    "length": "39492"
+   },
+   {
+    "timestamp": "20250224094136",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NXS5YFLVNWVUJZ2FGWYOZH4Z3FYGG4CV",
+    "mimetype": "text/html",
+    "length": "36279"
+   },
+   {
+    "timestamp": "20250225190854",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6S4RPTX7T3KG62A25HTCEEF24DE4UYPX",
+    "mimetype": "text/html",
+    "length": "36060"
+   },
+   {
+    "timestamp": "20250226005737",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1056"
+   },
+   {
+    "timestamp": "20250227211859",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HA7NIBYE5VHYPK5ZMH5B2LPDD2HQZBOL",
+    "mimetype": "text/html",
+    "length": "41421"
+   },
+   {
+    "timestamp": "20250228155613",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1055"
+   },
+   {
+    "timestamp": "20250301103321",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "O6DORWSBPUJYFKXJFAU6JHTHILBTRI4V",
+    "mimetype": "text/html",
+    "length": "36654"
+   },
+   {
+    "timestamp": "20250304135424",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2QZBJYNYKJAEU7BJFZE24HSNXYPB5Z3Z",
+    "mimetype": "text/html",
+    "length": "40747"
+   },
+   {
+    "timestamp": "20250307032537",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1049"
+   },
+   {
+    "timestamp": "20250308193617",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TFSTXAD5WF5FGWSTXQA7AWZCMT2NTEMQ",
+    "mimetype": "text/html",
+    "length": "41000"
+   },
+   {
+    "timestamp": "20250315185124",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DEZ2SIRUKDH7XING67DLL6UNTQSPZTWQ",
+    "mimetype": "text/html",
+    "length": "38074"
+   },
+   {
+    "timestamp": "20250316061309",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1042"
+   },
+   {
+    "timestamp": "20250317150100",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AK3ZBCTKPCOIWHLKORXUG52B7JHS2SBE",
+    "mimetype": "text/html",
+    "length": "39546"
+   },
+   {
+    "timestamp": "20250318072635",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ND7P3F5N3OGJDG6DEJX3JGZBEZGVLUYO",
+    "mimetype": "text/html",
+    "length": "38523"
+   },
+   {
+    "timestamp": "20250319073641",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JNLJITHK3JAHQ7O7AU3KW4BNSLVJHMOU",
+    "mimetype": "text/html",
+    "length": "40540"
+   },
+   {
+    "timestamp": "20250320051619",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZBFK24JMELILFBGGE4CWFAVA6G3DUG25",
+    "mimetype": "text/html",
+    "length": "38574"
+   },
+   {
+    "timestamp": "20250321013832",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "R3IY5IWXENI7TFNY5N5Q6OSWYVD4DSTL",
+    "mimetype": "text/html",
+    "length": "39542"
+   },
+   {
+    "timestamp": "20250323171842",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QL7H2E642VXSARJMUJMKPQJNIIN3EMYI",
+    "mimetype": "text/html",
+    "length": "42096"
+   },
+   {
+    "timestamp": "20250324063551",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JC6POSN4BLNDEWOME6DOU3XK2GATEAOU",
+    "mimetype": "text/html",
+    "length": "36458"
+   },
+   {
+    "timestamp": "20250326004400",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MHVRAHLAL6YBTKTQZLZD3276JP2KRMTL",
+    "mimetype": "text/html",
+    "length": "36636"
+   },
+   {
+    "timestamp": "20250327054318",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3LV6KG6HUXQSZ7FF2O53DISXUQQWKXX2",
+    "mimetype": "text/html",
+    "length": "40647"
+   },
+   {
+    "timestamp": "20250401035533",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "KEJWVPDEQ54IX72FZY5RDJSGWEXFPITS",
+    "mimetype": "text/html",
+    "length": "39372"
+   },
+   {
+    "timestamp": "20250404032458",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "R5USAH42XR2I6FQREG2HPYTISXZNKXGU",
+    "mimetype": "text/html",
+    "length": "41924"
+   },
+   {
+    "timestamp": "20250405035446",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EQYMMUHSUMILN7HB57BLIVCVMCJKKKES",
+    "mimetype": "text/html",
+    "length": "36328"
+   },
+   {
+    "timestamp": "20250406190529",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1051"
+   },
+   {
+    "timestamp": "20250408225522",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RR32AKINTBK7UK37QX5RCQO4XB37LSBH",
+    "mimetype": "text/html",
+    "length": "38677"
+   },
+   {
+    "timestamp": "20250409003445",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1085"
+   },
+   {
+    "timestamp": "20250411202614",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QAGIKGKXES6A5QELCTZSKE7EDDQH45KS",
+    "mimetype": "text/html",
+    "length": "42154"
+   },
+   {
+    "timestamp": "20250412211846",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1041"
+   },
+   {
+    "timestamp": "20250416014250",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RHCJFQAV7H4UZHRWZN22Z3UC3JT5HKS7",
+    "mimetype": "text/html",
+    "length": "42323"
+   },
+   {
+    "timestamp": "20250417184710",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TKCOIWFCRHVTLAAHAMOBNO5ZA7MLK2QX",
+    "mimetype": "text/html",
+    "length": "38689"
+   },
+   {
+    "timestamp": "20250418083917",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HNJAN7VRC5SILZRNE53HN6D27KVZTMLL",
+    "mimetype": "text/html",
+    "length": "43122"
+   },
+   {
+    "timestamp": "20250419062157",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PNVE7XNJIQ455DKIDV6INO7DWWKP3YBQ",
+    "mimetype": "text/html",
+    "length": "36652"
+   },
+   {
+    "timestamp": "20250420100931",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "972"
+   },
+   {
+    "timestamp": "20250421105827",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "6QVHZTHNQUZSY2BBSNWY2YE65DWCME36",
+    "mimetype": "text/html",
+    "length": "39649"
+   },
+   {
+    "timestamp": "20250424205021",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WP5DOHWOYSRLJJPMIFS4HE7JRV3KZCWZ",
+    "mimetype": "text/html",
+    "length": "42469"
+   },
+   {
+    "timestamp": "20250426000249",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HTR24IDL22AKUESTFMGK23WTONNRLNMV",
+    "mimetype": "text/html",
+    "length": "42926"
+   },
+   {
+    "timestamp": "20250429134727",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OA7UDWYXXQQV2X4MKZRBJWLROZIONYUB",
+    "mimetype": "text/html",
+    "length": "41024"
+   },
+   {
+    "timestamp": "20250430002911",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PUI7O6JA55GTY6HGATB7XZGYQHN7J6F3",
+    "mimetype": "text/html",
+    "length": "36580"
+   },
+   {
+    "timestamp": "20250503194351",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BB3G25LTDMU2IMIH3RF3AKIKTLIR6L7Y",
+    "mimetype": "text/html",
+    "length": "41068"
+   },
+   {
+    "timestamp": "20250504123515",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LV4MNYWRAQ5XXRS7CDI5XNP67UKC7XGC",
+    "mimetype": "text/html",
+    "length": "36687"
+   },
+   {
+    "timestamp": "20250505234455",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1051"
+   },
+   {
+    "timestamp": "20250506062235",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6N2VM2NZZQFTWMTNHFAWFSLEJYRDIVDG",
+    "mimetype": "text/html",
+    "length": "36710"
+   },
+   {
+    "timestamp": "20250509185923",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "VLW4NYD2XB75OLQAY7FJUCVUTXOA5FJV",
+    "mimetype": "text/html",
+    "length": "41355"
+   },
+   {
+    "timestamp": "20250510104026",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "BMTKFISWK6PGS5JYTXRZKTHGL7JOUH3C",
+    "mimetype": "text/html",
+    "length": "41335"
+   },
+   {
+    "timestamp": "20250512041355",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RO32USZNBV2YK7EICIL3JKXDGV74XBAN",
+    "mimetype": "text/html",
+    "length": "38866"
+   },
+   {
+    "timestamp": "20250513003751",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DRGH3NC7TD5PZIAFWETFVCWEMKY5RKHD",
+    "mimetype": "text/html",
+    "length": "41765"
+   },
+   {
+    "timestamp": "20250515091513",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JVHOIFEJURUVSOFBFKYG3DAGSSCD5RJY",
+    "mimetype": "text/html",
+    "length": "36933"
+   },
+   {
+    "timestamp": "20250517113844",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5HMEU2WCSR6SRW2HMYK4A5VNUFVUOITG",
+    "mimetype": "text/html",
+    "length": "36711"
+   },
+   {
+    "timestamp": "20250519012625",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NSC6UNTKF5DE7UVXI57NQDZ6EGFHS3KO",
+    "mimetype": "text/html",
+    "length": "41130"
+   },
+   {
+    "timestamp": "20250523005746",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KYQTY6UXPCBUUS4XEQBXL3YCBZKCWSFN",
+    "mimetype": "text/html",
+    "length": "36952"
+   },
+   {
+    "timestamp": "20250525020546",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YA6GQRMVRYYOSR7SJZXGTFQJDPIZJPQR",
+    "mimetype": "text/html",
+    "length": "37327"
+   },
+   {
+    "timestamp": "20250528124650",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HZ5UTQRGASXAWHZQEDFNUWBSETFL32RY",
+    "mimetype": "text/html",
+    "length": "41717"
+   },
+   {
+    "timestamp": "20250529025507",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "J772H5OUBWF6KPBPXCE2UMP4GJLKC5CJ",
+    "mimetype": "text/html",
+    "length": "38821"
+   },
+   {
+    "timestamp": "20250601043445",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LOFBHQCY6OWSJSYRORK5E4CJNT5AOOD5",
+    "mimetype": "text/html",
+    "length": "41816"
+   },
+   {
+    "timestamp": "20250603061356",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XQYMODUAALBRTHUY2RWAJR762BA66KMJ",
+    "mimetype": "text/html",
+    "length": "43152"
+   },
+   {
+    "timestamp": "20250607005815",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "DAQ26AUKQX5MKYDKM656N5CBN2UHFBUP",
+    "mimetype": "text/html",
+    "length": "36904"
+   },
+   {
+    "timestamp": "20250610212537",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OELQDMGZID3IYRB5NHXCF3CCOTB3YNAG",
+    "mimetype": "text/html",
+    "length": "37274"
+   },
+   {
+    "timestamp": "20250612161815",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WZEAEKT4KZUIYPCGCY5VY7SCSHGMYOVK",
+    "mimetype": "text/html",
+    "length": "39908"
+   },
+   {
+    "timestamp": "20250617120716",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1053"
+   },
+   {
+    "timestamp": "20250619154151",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UOPMIN236CDULQE7IQA7CY46WQMYGAAR",
+    "mimetype": "text/html",
+    "length": "41525"
+   },
+   {
+    "timestamp": "20250620095658",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "FNCFBGCNDY7V7V7JOECBRZ7PEW5UA3B2",
+    "mimetype": "text/html",
+    "length": "36933"
+   },
+   {
+    "timestamp": "20250621042341",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VWS25TOYORVP5CYCBJCYHJ5E7LPRTIWI",
+    "mimetype": "text/html",
+    "length": "39716"
+   },
+   {
+    "timestamp": "20250623222730",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WFCEFINZEOILNFMIAEHY5EOLZ3M5I3PO",
+    "mimetype": "text/html",
+    "length": "41509"
+   },
+   {
+    "timestamp": "20250702040619",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "Z5TSIKSZAPKUIHMNTDBMIISYEULAKJUI",
+    "mimetype": "text/html",
+    "length": "40329"
+   },
+   {
+    "timestamp": "20250704163536",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WGOD7LCENNPB6QIW7I4UZR3SEDCDM25Q",
+    "mimetype": "text/html",
+    "length": "41559"
+   },
+   {
+    "timestamp": "20250705205409",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7UFTNAPFCXBQZP4SSDQ3ZQHPRUWEDC7C",
+    "mimetype": "text/html",
+    "length": "40699"
+   },
+   {
+    "timestamp": "20250707023317",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7JZ7CBH4HKEUFSLIE7V6LZGVNKZ7TFDG",
+    "mimetype": "text/html",
+    "length": "39335"
+   },
+   {
+    "timestamp": "20250710035022",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "63D2PXFJRIW4MCVOK5DMO33KQOI4XVSK",
+    "mimetype": "text/html",
+    "length": "39225"
+   },
+   {
+    "timestamp": "20250712014845",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VZGWGYSW7QV6KJRROCTZS3GVTBWTCPT3",
+    "mimetype": "text/html",
+    "length": "42917"
+   },
+   {
+    "timestamp": "20250713133215",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "E3VI6CMTWPOZI6FKKOTWOM3NVQCHK5TJ",
+    "mimetype": "text/html",
+    "length": "41676"
+   },
+   {
+    "timestamp": "20250714060304",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1099"
+   },
+   {
+    "timestamp": "20250715170606",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "K7AWPYT6CRR44UY2KJYKXYU6XCLPK7HE",
+    "mimetype": "text/html",
+    "length": "37285"
+   },
+   {
+    "timestamp": "20250717003357",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GBYS663YNMGT74HBABNNDC5IA46DRVSH",
+    "mimetype": "text/html",
+    "length": "37258"
+   },
+   {
+    "timestamp": "20250718101046",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "MBMOTNV7D6HIYEOLOXUHU4QWAO6QPLPQ",
+    "mimetype": "text/html",
+    "length": "37220"
+   },
+   {
+    "timestamp": "20250721154055",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QAJRRL62YGZWQW37IRJQFGEZQ7EGKADB",
+    "mimetype": "text/html",
+    "length": "40549"
+   },
+   {
+    "timestamp": "20250725191957",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RM744LTHDX2OE6DG27MJUJP62YGMKLJF",
+    "mimetype": "text/html",
+    "length": "41505"
+   },
+   {
+    "timestamp": "20250728174646",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "ONCXC47HMOK2PDWWCNUPUEZIURLDQ2RW",
+    "mimetype": "text/html",
+    "length": "42739"
+   },
+   {
+    "timestamp": "20250730082425",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UKHXQCQTW6S6PJQUQDBZFFEDJGFE4WIJ",
+    "mimetype": "text/html",
+    "length": "38912"
+   },
+   {
+    "timestamp": "20250801201905",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GVJVF6JY5ZQI5RVOBPNMPHCJY24V6XOB",
+    "mimetype": "text/html",
+    "length": "36510"
+   },
+   {
+    "timestamp": "20250803140636",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EDYU4TKS6D4KFKNW3T565HLURDXJU4LP",
+    "mimetype": "text/html",
+    "length": "39446"
+   },
+   {
+    "timestamp": "20250805105258",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5YBXMCGLCIUWEP6CJ4R277WNAOW3WT4S",
+    "mimetype": "text/html",
+    "length": "41426"
+   },
+   {
+    "timestamp": "20250806012319",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SYXJE6ZFRHEXQG2KMQTS53KGVMEKLKMY",
+    "mimetype": "text/html",
+    "length": "36440"
+   },
+   {
+    "timestamp": "20250807162744",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SZXSOVLF73NPGNHWVLQI7CPH47LKSD2B",
+    "mimetype": "text/html",
+    "length": "36960"
+   },
+   {
+    "timestamp": "20250809005843",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1058"
+   },
+   {
+    "timestamp": "20250812180815",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XNPJQXG3EQFCKL5GRKWECB2GTMHAYSSM",
+    "mimetype": "text/html",
+    "length": "40211"
+   },
+   {
+    "timestamp": "20250813231331",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TLPMH5BL7EMUA3D5YIEVXNKBBGQB5ACF",
+    "mimetype": "text/html",
+    "length": "39320"
+   },
+   {
+    "timestamp": "20250815120409",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "APO64H7V4INGOUHGAW7SVM6QOH3CL4XS",
+    "mimetype": "text/html",
+    "length": "39621"
+   },
+   {
+    "timestamp": "20250816101649",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "C6GGDPWST2X3YSMLFJRYYACG7XD3WXG6",
+    "mimetype": "text/html",
+    "length": "40539"
+   },
+   {
+    "timestamp": "20250817050820",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BDWS6WF2DVSG2TY5AOJUXLJ7ZDMKJYIF",
+    "mimetype": "text/html",
+    "length": "40597"
+   },
+   {
+    "timestamp": "20250818202034",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1057"
+   },
+   {
+    "timestamp": "20250819010738",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1048"
+   },
+   {
+    "timestamp": "20250821073515",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "400",
+    "digest": "O32X75D34TD2OMXFKNYF6SHFK3JERRQX",
+    "mimetype": "text/html",
+    "length": "3460"
+   },
+   {
+    "timestamp": "20250823211945",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "SCKCMMRSE5QDQ63DKUOADFBJLKA2MJVA",
+    "mimetype": "text/html",
+    "length": "36178"
+   },
+   {
+    "timestamp": "20250825034339",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JHNIB6SVT4OPFVS6ZMDCL3ZGAWQEGLTS",
+    "mimetype": "text/html",
+    "length": "38638"
+   },
+   {
+    "timestamp": "20250828142527",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VEFZS7Q46FM3VWZYS3BEVVFS5RJCVKBT",
+    "mimetype": "text/html",
+    "length": "39771"
+   },
+   {
+    "timestamp": "20250829082425",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UUFA6WHR6G7XFEUSWXVWM5BRTDRDZOXI",
+    "mimetype": "text/html",
+    "length": "38933"
+   },
+   {
+    "timestamp": "20250831224706",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CWKJFJLIEKYM4XGWPSSBRYXSHSD5GT4W",
+    "mimetype": "text/html",
+    "length": "36557"
+   },
+   {
+    "timestamp": "20250901051214",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QGAQUTIQGASSKV2T4BFDAZREKNSZIVXE",
+    "mimetype": "text/html",
+    "length": "41425"
+   },
+   {
+    "timestamp": "20250902041201",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4DEOIWYTGF2ZEQXCDSQHV4ZZCX5M3E6K",
+    "mimetype": "text/html",
+    "length": "36568"
+   },
+   {
+    "timestamp": "20250903141234",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1048"
+   },
+   {
+    "timestamp": "20250907045137",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "52ZDZMJA6VQCNGELQVFT4XU7URAI7I7K",
+    "mimetype": "text/html",
+    "length": "37024"
+   },
+   {
+    "timestamp": "20250911084541",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2IDR6FGBFTKXVO2QSSAX2W742566G7GK",
+    "mimetype": "text/html",
+    "length": "37049"
+   },
+   {
+    "timestamp": "20250912113018",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JD2OLVJDZHFAMLH2R2IAKX6FOGIO77SL",
+    "mimetype": "text/html",
+    "length": "38929"
+   },
+   {
+    "timestamp": "20250913141622",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WLVZDZSHXLPNCK6QUTS5VD24HWYXUE6Y",
+    "mimetype": "text/html",
+    "length": "36871"
+   },
+   {
+    "timestamp": "20250917040310",
+    "original": "http://transparency.meta.com/policies/community-standards/",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "524"
+   },
+   {
+    "timestamp": "20250918234927",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KCCDZ6E6PULCT3UYCNAU7WI5W43OE6UW",
+    "mimetype": "text/html",
+    "length": "40345"
+   },
+   {
+    "timestamp": "20250919015657",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KYBZFAA7FOQJF7MXRXRM5KGVBCSA5XN5",
+    "mimetype": "text/html",
+    "length": "36383"
+   },
+   {
+    "timestamp": "20250920002353",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4OQVJJRUFLV4UNW2EQXSEOBGI5TMIONR",
+    "mimetype": "text/html",
+    "length": "36363"
+   },
+   {
+    "timestamp": "20250924235328",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CVLVAON7V4FKSJLMTGCCQC4ONNEXKMO5",
+    "mimetype": "text/html",
+    "length": "38519"
+   },
+   {
+    "timestamp": "20250925065947",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZZAPZTJEQE5KSCSFQQU5HOI6BY6GWWGC",
+    "mimetype": "text/html",
+    "length": "38472"
+   },
+   {
+    "timestamp": "20250926144222",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1036"
+   },
+   {
+    "timestamp": "20250927181343",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "P3OZF442YJ7HBONIQL2FDFKLVJWSQIES",
+    "mimetype": "text/html",
+    "length": "36865"
+   },
+   {
+    "timestamp": "20250928033636",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RQE5XMSBC2M6ULG7BKPZ2IQNZPD46ERU",
+    "mimetype": "text/html",
+    "length": "38612"
+   },
+   {
+    "timestamp": "20250929010418",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AL3VPQOAUOBWETUTDEIIPNH34R4DIRYP",
+    "mimetype": "text/html",
+    "length": "38515"
+   },
+   {
+    "timestamp": "20250930073240",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YINYQN7YKPWJ554WROJ2FCEMAML67BKZ",
+    "mimetype": "text/html",
+    "length": "41275"
+   },
+   {
+    "timestamp": "20251002062203",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1045"
+   },
+   {
+    "timestamp": "20251004220140",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YC7ML5XECCGBSEHZNBE62Q5THMUVF3T6",
+    "mimetype": "text/html",
+    "length": "37048"
+   },
+   {
+    "timestamp": "20251006202727",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ISLNEBZLEPNE4Y3SA2OHLIPSDVWOH5LS",
+    "mimetype": "text/html",
+    "length": "39266"
+   },
+   {
+    "timestamp": "20251008025648",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZUQMIHGWXMAGPYSLL7B6WHFQS3JUQFLJ",
+    "mimetype": "text/html",
+    "length": "42682"
+   },
+   {
+    "timestamp": "20251009004236",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GHJEZVD2FQUKGNPBT54CI2JWCKWNPM5I",
+    "mimetype": "text/html",
+    "length": "38527"
+   },
+   {
+    "timestamp": "20251010170834",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1053"
+   },
+   {
+    "timestamp": "20251011064104",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "FFAZ5IHU7YGMOI7AM5CG3GIGAH6LBM4N",
+    "mimetype": "text/html",
+    "length": "39021"
+   },
+   {
+    "timestamp": "20251012151137",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PSB33FRLSDOJ4UFR5CKNILI35DKE5CUY",
+    "mimetype": "text/html",
+    "length": "38673"
+   },
+   {
+    "timestamp": "20251013220604",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IQGMLQIUKOVRFBQUZ6VQ2E2SZH42Y33T",
+    "mimetype": "text/html",
+    "length": "39186"
+   },
+   {
+    "timestamp": "20251017003917",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LNU7GODRIMVX4WTGPZ2F3WKPKFPFDONT",
+    "mimetype": "text/html",
+    "length": "42651"
+   },
+   {
+    "timestamp": "20251018070540",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "F25YPW6LNE3UR5S7F7HPX6KCOJ6UBBFT",
+    "mimetype": "text/html",
+    "length": "39388"
+   },
+   {
+    "timestamp": "20251022110944",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CPY7IBOUGXD54L3ASS4YG7YJCPSGCEPQ",
+    "mimetype": "text/html",
+    "length": "64928"
+   },
+   {
+    "timestamp": "20251026170958",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "24LZ6MR4RQTJ5TIAIPB3XPBIUYCF644M",
+    "mimetype": "text/html",
+    "length": "56757"
+   },
+   {
+    "timestamp": "20251027093144",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "S4NNTWSQBZ7ODZR5PJEBS5MEXVDYUVPO",
+    "mimetype": "text/html",
+    "length": "64059"
+   },
+   {
+    "timestamp": "20251029080112",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DHHNG5UFH6R5FQ3RWTRFNC6FGABEEMHO",
+    "mimetype": "text/html",
+    "length": "61500"
+   },
+   {
+    "timestamp": "20251102012210",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HRFEI3M6HLJYXFOW2VBVQBBEZFF7J4RG",
+    "mimetype": "text/html",
+    "length": "59149"
+   },
+   {
+    "timestamp": "20251105124652",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ARQ2Y5HU2MQWR24SPVVYM5LY2CS4WM65",
+    "mimetype": "text/html",
+    "length": "60742"
+   },
+   {
+    "timestamp": "20251108091435",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3UWBZIPXFCPY3ACIHKNMATKNMA2IOC2W",
+    "mimetype": "text/html",
+    "length": "120233"
+   },
+   {
+    "timestamp": "20251112094940",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "400",
+    "digest": "WTXDMAGFDGCHSPGLTQAH7ERNY6JMMKXN",
+    "mimetype": "text/html",
+    "length": "63603"
+   },
+   {
+    "timestamp": "20251116163158",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AMIZFDOKGLH6GQ35FAUHJZIPK2HTJ4A4",
+    "mimetype": "text/html",
+    "length": "125688"
+   },
+   {
+    "timestamp": "20251118225204",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DYSFIMSAV6JCPVYW2WOLDVGWKPQS5T2A",
+    "mimetype": "text/html",
+    "length": "65348"
+   },
+   {
+    "timestamp": "20251124120801",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "X5GLBE4TBAJ6TBCIENKXAGP3ZIIR6CHC",
+    "mimetype": "text/html",
+    "length": "128036"
+   },
+   {
+    "timestamp": "20251125122220",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "NK2YI4ELILVXYSGWLWN3FSK66D7SS63E",
+    "mimetype": "text/html",
+    "length": "62956"
+   },
+   {
+    "timestamp": "20251129161508",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "E42V2NDDPHK4YCYADGPO7BL72KR7GLRP",
+    "mimetype": "text/html",
+    "length": "120239"
+   },
+   {
+    "timestamp": "20251204005437",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZTXTAKCTBAZLNN3QZ2M7N54U6KEUG24L",
+    "mimetype": "text/html",
+    "length": "103055"
+   },
+   {
+    "timestamp": "20251205032904",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5LP77T6V3DNC625KZABMJBU2KQBXLUIJ",
+    "mimetype": "text/html",
+    "length": "118445"
+   },
+   {
+    "timestamp": "20251208105316",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JLFIH7KHH3FD3K7TZAVS44UOJ4MXBB43",
+    "mimetype": "text/html",
+    "length": "99000"
+   },
+   {
+    "timestamp": "20251209124216",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2QM5N4IYKOWWQBP73L32Z42BBYMHBBPP",
+    "mimetype": "text/html",
+    "length": "111976"
+   },
+   {
+    "timestamp": "20251210105828",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "D3IYUZRH5WDUQMU3DCODYMWZNB7BXE37",
+    "mimetype": "text/html",
+    "length": "105952"
+   },
+   {
+    "timestamp": "20251211194122",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "2LXPDWOCNGIOKOG4P3Y6HC7XZO2FHTB4",
+    "mimetype": "text/html",
+    "length": "106575"
+   },
+   {
+    "timestamp": "20251212173703",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LE5ATLRBAO5ZNMSXD3WLK3OUGSKEARDW",
+    "mimetype": "text/html",
+    "length": "111429"
+   },
+   {
+    "timestamp": "20251213053352",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RXVDPHRQHQITUDWPKTKKD7WST3X42FTW",
+    "mimetype": "text/html",
+    "length": "106927"
+   },
+   {
+    "timestamp": "20251214065303",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JFVXMPCOQRHD5SWZXGSC2LUZZVZ6K7ME",
+    "mimetype": "text/html",
+    "length": "109797"
+   },
+   {
+    "timestamp": "20251215144226",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UBGYWMCKR6OJEGJB7SIEOIMPGVD4ZNGE",
+    "mimetype": "text/html",
+    "length": "114925"
+   },
+   {
+    "timestamp": "20251216050619",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TJDEYFRO574KIUG2CW5PIXAZF265KKMH",
+    "mimetype": "text/html",
+    "length": "108875"
+   },
+   {
+    "timestamp": "20251217235925",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OVCKGJ7QC3RINNKOI3IEK35W5JS5CH25",
+    "mimetype": "text/html",
+    "length": "106963"
+   },
+   {
+    "timestamp": "20251218000019",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2JKUUJEI6MWICANAQTVGXTW2D7C3ZS63",
+    "mimetype": "text/html",
+    "length": "106866"
+   },
+   {
+    "timestamp": "20251221134615",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UQWOTN6TS76R6SOSEXHXZGIEEZXQ2PKZ",
+    "mimetype": "text/html",
+    "length": "106947"
+   },
+   {
+    "timestamp": "20251224071100",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YE37OT3WHIVK6CBSZJWKSONLADHJMIBK",
+    "mimetype": "text/html",
+    "length": "63621"
+   },
+   {
+    "timestamp": "20251229084539",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BYETDZQYNW6O6LOMUJMIOIW742WP6KJC",
+    "mimetype": "text/html",
+    "length": "107420"
+   },
+   {
+    "timestamp": "20260101233300",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KBMC57YZW4RSYJMAWKFZRZLGJBH3VMFD",
+    "mimetype": "text/html",
+    "length": "110322"
+   },
+   {
+    "timestamp": "20260102000004",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZSLEQC2RQSJ6YZL7I7KQZFRXXS6WTYO2",
+    "mimetype": "text/html",
+    "length": "115147"
+   },
+   {
+    "timestamp": "20260103035129",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WD5HGYKPO32YTCJZTA7ZLOXMMNBRY3V7",
+    "mimetype": "text/html",
+    "length": "106596"
+   },
+   {
+    "timestamp": "20260106191616",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IOMWII5LOYGGKXVMLAZYCSAW5DBFDAEW",
+    "mimetype": "text/html",
+    "length": "106364"
+   },
+   {
+    "timestamp": "20260107060137",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LZURV3OLRQO5ZNU6X4CVI6X2PVJKI4R6",
+    "mimetype": "text/html",
+    "length": "104243"
+   },
+   {
+    "timestamp": "20260109063821",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "J6SMUUOSXWD7CRJ5CZMCG6Q46EJNFVDY",
+    "mimetype": "text/html",
+    "length": "104117"
+   },
+   {
+    "timestamp": "20260110004527",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CWQ32DXB22C6YWY47BF5QJGAZ6XKFYRM",
+    "mimetype": "text/html",
+    "length": "94558"
+   },
+   {
+    "timestamp": "20260111062132",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "400",
+    "digest": "LPF5L55HFUXJAK6BBOXNVRGVW2GAXTUL",
+    "mimetype": "text/html",
+    "length": "61968"
+   },
+   {
+    "timestamp": "20260113092204",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KWM2VEJJFTZDTPIJIIEVV7JWYII54GOH",
+    "mimetype": "text/html",
+    "length": "104140"
+   },
+   {
+    "timestamp": "20260114184023",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IEFWPEUTDYV7UR6F46665GVK47NQWOVK",
+    "mimetype": "text/html",
+    "length": "63732"
+   },
+   {
+    "timestamp": "20260115175257",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VYFNAQBHEY73BUNZWGF5QAEP5A7KAIBS",
+    "mimetype": "text/html",
+    "length": "95470"
+   },
+   {
+    "timestamp": "20260116011254",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KMJMGGW7SFMSAOZFDBZETW3WAB3SRATE",
+    "mimetype": "text/html",
+    "length": "106247"
+   },
+   {
+    "timestamp": "20260118072450",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4WMHJ5DA5FRE4JQCIRVRHH75E7ZW3746",
+    "mimetype": "text/html",
+    "length": "104340"
+   },
+   {
+    "timestamp": "20260119013748",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "43JLDWSOJETVFVEI7MCXX7LXWQLSABKP",
+    "mimetype": "text/html",
+    "length": "108823"
+   },
+   {
+    "timestamp": "20260120005326",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7QLU4N7YLIIGBLP46CZBICDCCU27LM5E",
+    "mimetype": "text/html",
+    "length": "95160"
+   },
+   {
+    "timestamp": "20260121130230",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "YCYXKZADYPT7CDXASFRI4SDHFB7UNLOZ",
+    "mimetype": "text/html",
+    "length": "104938"
+   },
+   {
+    "timestamp": "20260122030914",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RYP4DMXKMF3MD3C3AUPB7DCY7OO6XOBX",
+    "mimetype": "text/html",
+    "length": "104268"
+   },
+   {
+    "timestamp": "20260124111218",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "B3AEFREFLN4YXHQ2MB2TH7HNADGCDUMH",
+    "mimetype": "text/html",
+    "length": "106960"
+   },
+   {
+    "timestamp": "20260126173115",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AONOYJTO4D6WTR377TIKA4W4AQM7YVWE",
+    "mimetype": "text/html",
+    "length": "105213"
+   },
+   {
+    "timestamp": "20260127040047",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CHINZGY4OV3CWK5ZJE2E6OA7OVV4ZMJA",
+    "mimetype": "text/html",
+    "length": "95335"
+   },
+   {
+    "timestamp": "20260128073457",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "E47QUJO7BCLCGXOV54L6UVVVDNUK6NQL",
+    "mimetype": "text/html",
+    "length": "106760"
+   },
+   {
+    "timestamp": "20260129022516",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PTCJ7PW6EXUHSPBSLYCXIKRWMTXJKWLL",
+    "mimetype": "text/html",
+    "length": "104103"
+   },
+   {
+    "timestamp": "20260130072510",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "ESRUKTUSK43NCJWXHFVAKJB2LTUAVZ5J",
+    "mimetype": "text/html",
+    "length": "95252"
+   },
+   {
+    "timestamp": "20260131214232",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "C7N3MVJENH3VWYSV2DOYKSKOGY3SJABX",
+    "mimetype": "text/html",
+    "length": "106667"
+   },
+   {
+    "timestamp": "20260201075732",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DF3AFPPD3UGEIUT5B27QHGCSWYXRTZSF",
+    "mimetype": "text/html",
+    "length": "104236"
+   },
+   {
+    "timestamp": "20260202212133",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KANUCDP5ZSDH4ZSOT3HZOQSNDZYE5K3N",
+    "mimetype": "text/html",
+    "length": "106522"
+   },
+   {
+    "timestamp": "20260203000654",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HVWJVISWAMF2GI6BC56HNIDX2LHDDCJA",
+    "mimetype": "text/html",
+    "length": "104185"
+   },
+   {
+    "timestamp": "20260204202904",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BP5TZSZ7WYGAGBMVUFBDXSE7FS2V4DXN",
+    "mimetype": "text/html",
+    "length": "104803"
+   },
+   {
+    "timestamp": "20260205001500",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "6QYQK7CQQDJQ4TSDHCN7U4H7A7PEGMV4",
+    "mimetype": "text/html",
+    "length": "105013"
+   },
+   {
+    "timestamp": "20260206040319",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JDEEJZZ4HSXFJNWMLTHGLTBCAHU7I3UD",
+    "mimetype": "text/html",
+    "length": "104326"
+   },
+   {
+    "timestamp": "20260207093939",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "ZVW3KKPSCWCEHS6UD27RMUPOLFGMSWD2",
+    "mimetype": "text/html",
+    "length": "65784"
+   },
+   {
+    "timestamp": "20260210045829",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "6VD5IT6765LHV7GQMLK3KUHM6CIH2P7K",
+    "mimetype": "text/html",
+    "length": "105459"
+   },
+   {
+    "timestamp": "20260211224049",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EJIJSLAQHCDWMH2EGW7NUGDUZHFLWWKZ",
+    "mimetype": "text/html",
+    "length": "108041"
+   },
+   {
+    "timestamp": "20260212042855",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SNVWNOBOY72JP2V2VJEXDXDI5PQ5SRRF",
+    "mimetype": "text/html",
+    "length": "95485"
+   },
+   {
+    "timestamp": "20260213024246",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FS3CBUA5NP4EDX2R4NX5WD3PVFSXQWFE",
+    "mimetype": "text/html",
+    "length": "105491"
+   },
+   {
+    "timestamp": "20260215163833",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RPYSMDJM24Z4VA4KCLDXF22TPU53F6KH",
+    "mimetype": "text/html",
+    "length": "105753"
+   },
+   {
+    "timestamp": "20260216040444",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5H2L6R7LQ7M6LGBDZXS5XUWDIVFRZVNO",
+    "mimetype": "text/html",
+    "length": "105474"
+   },
+   {
+    "timestamp": "20260217014732",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YEPJV36PSJ66KMR34LW42VLDZ5GJSQSL",
+    "mimetype": "text/html",
+    "length": "105877"
+   },
+   {
+    "timestamp": "20260219151049",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SXLRMYA7GRSNT2AGCYG5IRQDO7Y3UY4V",
+    "mimetype": "text/html",
+    "length": "96043"
+   },
+   {
+    "timestamp": "20260222085147",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JJPFFXHV3ILM5YDXMDEB3KTEDQSP7MID",
+    "mimetype": "text/html",
+    "length": "105176"
+   },
+   {
+    "timestamp": "20260223054032",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4BXP5QTBJX5NIS7OLNM3QVNKLF526IXM",
+    "mimetype": "text/html",
+    "length": "107765"
+   },
+   {
+    "timestamp": "20260224011026",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WFZVLFAWCLYUI6KEHE4VCJQ2H2WS2XUB",
+    "mimetype": "text/html",
+    "length": "110050"
+   },
+   {
+    "timestamp": "20260225023403",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "I6TWKMJP77QLGCZMGRUQE5ZVRM4V3E7Y",
+    "mimetype": "text/html",
+    "length": "66607"
+   },
+   {
+    "timestamp": "20260228080915",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CCTYM4WFNCR6Y7DWXFVNMEOYIX7TYBQP",
+    "mimetype": "text/html",
+    "length": "108693"
+   },
+   {
+    "timestamp": "20260302154651",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5OF45DBROEJAFJDHVTMT4NE4VJQ25DST",
+    "mimetype": "text/html",
+    "length": "68799"
+   },
+   {
+    "timestamp": "20260303140931",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XTXZJD3UL5LA3M57ESPUOLWLNK3W2YAN",
+    "mimetype": "text/html",
+    "length": "66414"
+   },
+   {
+    "timestamp": "20260305140241",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5JGODST3L3W3YBEHWAOLCWZPI5UIUY6K",
+    "mimetype": "text/html",
+    "length": "109090"
+   },
+   {
+    "timestamp": "20260306015905",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MB77GUONL57JHJHSW3W6E5BTCF6FFHLY",
+    "mimetype": "text/html",
+    "length": "106223"
+   },
+   {
+    "timestamp": "20260307001857",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EJ2LLX5PYSJ3GVAFSAIWLZ7JNPH2FFJW",
+    "mimetype": "text/html",
+    "length": "112656"
+   },
+   {
+    "timestamp": "20260308215117",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KXYIJCM52BAJLMWRQCSS6EA65OXYDE4H",
+    "mimetype": "text/html",
+    "length": "96697"
+   },
+   {
+    "timestamp": "20260309052753",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2JMS4N7D7VF6VKHB5M3RE5AWTW2TYJHE",
+    "mimetype": "text/html",
+    "length": "105836"
+   },
+   {
+    "timestamp": "20260310211951",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WEWPN2YWYPNMNQCZF6PN2M5TYGNE52HU",
+    "mimetype": "text/html",
+    "length": "106638"
+   },
+   {
+    "timestamp": "20260312142832",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AZHSNQYVOZ426BXJL374Q3KTFF7HFER5",
+    "mimetype": "text/html",
+    "length": "65921"
+   },
+   {
+    "timestamp": "20260315130359",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "429",
+    "digest": "74BQ2EQL5W3LU3KSBLNFSBWIAHTMWYJO",
+    "mimetype": "text/html",
+    "length": "53026"
+   },
+   {
+    "timestamp": "20260317120258",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OXKDGGAOQU4LDUOMMPX7VUK3NQSNNFBN",
+    "mimetype": "text/html",
+    "length": "107302"
+   },
+   {
+    "timestamp": "20260319003255",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BGUXYCFAZIDD5WPJGOKCGNDYRVASZ2OR",
+    "mimetype": "text/html",
+    "length": "97693"
+   },
+   {
+    "timestamp": "20260320071804",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "CDGSQS7NGFY6H24JOJ36FFPQC3ABOAYC",
+    "mimetype": "text/html",
+    "length": "65970"
+   },
+   {
+    "timestamp": "20260321232342",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KKOIJGAK55M4BRJGSLUH3NHDQAAJBW6Y",
+    "mimetype": "text/html",
+    "length": "77920"
+   },
+   {
+    "timestamp": "20260322133209",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "325KQOO4N4WWFWK4WQZXURQ3YVRVLZRN",
+    "mimetype": "text/html",
+    "length": "113754"
+   },
+   {
+    "timestamp": "20260323194425",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "L4BDOUCKQNVNID7L53ZZNH7TQNQGQ35L",
+    "mimetype": "text/html",
+    "length": "109756"
+   },
+   {
+    "timestamp": "20260324043719",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EUMM7Q5X2V2JVFNYIBBMR573XIIZCTSG",
+    "mimetype": "text/html",
+    "length": "66095"
+   },
+   {
+    "timestamp": "20260325102513",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZDEFBNINRAVFKCG4CVQLYGIREHXATAYO",
+    "mimetype": "text/html",
+    "length": "113860"
+   },
+   {
+    "timestamp": "20260327083459",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SHCVMTDLIJIUBURS6UWEHRRUMFLWDBWW",
+    "mimetype": "text/html",
+    "length": "107291"
+   },
+   {
+    "timestamp": "20260328193346",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BRSAPFCDLSWM7S7VC7SEDS33RZLWEIWL",
+    "mimetype": "text/html",
+    "length": "109474"
+   },
+   {
+    "timestamp": "20260402201709",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3RAIUPNI2NZTQ4TUMZ4ZHB5DKYA7PLDT",
+    "mimetype": "text/html",
+    "length": "67051"
+   },
+   {
+    "timestamp": "20260404100136",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "TOQ5Z2GUH7SMZDVFJFACLSLPKKXDLNA2",
+    "mimetype": "text/html",
+    "length": "66350"
+   },
+   {
+    "timestamp": "20260407130938",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "ONDPDE5KZKKLIWTIOVUL7KILCXGSTCLB",
+    "mimetype": "text/html",
+    "length": "107409"
+   },
+   {
+    "timestamp": "20260409053514",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "W4BU3JQ6VTY5H65MW6F77XZXMSZHJAEM",
+    "mimetype": "text/html",
+    "length": "66290"
+   },
+   {
+    "timestamp": "20260410143233",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "65FHXKLD7ESPW6HFXJP2LUZGAWBV7PD2",
+    "mimetype": "text/html",
+    "length": "99943"
+   },
+   {
+    "timestamp": "20260412094219",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IHPYDZCVZ7BFQWI5X2WPLDKFTXI7HWES",
+    "mimetype": "text/html",
+    "length": "106932"
+   },
+   {
+    "timestamp": "20260413163930",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZV6MFNYVXXE3NJVQQQEK3SWENNL7A2RH",
+    "mimetype": "text/html",
+    "length": "98088"
+   },
+   {
+    "timestamp": "20260414194336",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "63VDLJMBN2TKINGLJSAMRMVOILOXDQFC",
+    "mimetype": "text/html",
+    "length": "63801"
+   },
+   {
+    "timestamp": "20260416075203",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RHP6XPNUAZDEB27ZEYB7ZGXIZXWIABFN",
+    "mimetype": "text/html",
+    "length": "107660"
+   },
+   {
+    "timestamp": "20260417214126",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "F6CIMUKYJOWVG37JKJTWCGYE6RRCLWBG",
+    "mimetype": "text/html",
+    "length": "108414"
+   },
+   {
+    "timestamp": "20260420160021",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "3HZSQIMKKT4ZC6WAYIRQC6LJR3T2WAWD",
+    "mimetype": "text/html",
+    "length": "108229"
+   },
+   {
+    "timestamp": "20260421142047",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7FSK6G2GKRLELRXHISV7D75NQKLZ6K4I",
+    "mimetype": "text/html",
+    "length": "98726"
+   },
+   {
+    "timestamp": "20260423210948",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "K3EHCEJTMN2PMAZYKYP4KTV4UJDE7EV7",
+    "mimetype": "text/html",
+    "length": "100063"
+   },
+   {
+    "timestamp": "20260427200552",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NALMPHAJXM2YBUZFWJXGEVIOM5YJNPY3",
+    "mimetype": "text/html",
+    "length": "100963"
+   },
+   {
+    "timestamp": "20260430072527",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZSP562L2MUD3ASAKAFAOULQECQ5ZLOA5",
+    "mimetype": "text/html",
+    "length": "100757"
+   },
+   {
+    "timestamp": "20260501194553",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5VTJKL3I3RTP45MELBA255TXYYPERLWV",
+    "mimetype": "text/html",
+    "length": "100900"
+   },
+   {
+    "timestamp": "20260502030951",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EMQAPAUGHPTYN4UH47T77N24AOHUVMJB",
+    "mimetype": "text/html",
+    "length": "101116"
+   },
+   {
+    "timestamp": "20260505055054",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DZFRJ6AKWLS6HBROE73X7MS7TECWGDU6",
+    "mimetype": "text/html",
+    "length": "100518"
+   },
+   {
+    "timestamp": "20260506094914",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AKOWUO7ADP6U3NCHMU6WM3545QW3NSNQ",
+    "mimetype": "text/html",
+    "length": "100717"
+   },
+   {
+    "timestamp": "20260507014807",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "NOGOVXBUHIAQHKB3JJXC4XTTOJS3756G",
+    "mimetype": "text/html",
+    "length": "105169"
+   },
+   {
+    "timestamp": "20260509133510",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "U7SM7ML22ZLMJQW3QS54UXHHJCEDRKCO",
+    "mimetype": "text/html",
+    "length": "101417"
+   },
+   {
+    "timestamp": "20260511100429",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DYWJ7K3Q2SGTNSE2U73PJTM5B4WL6XKD",
+    "mimetype": "text/html",
+    "length": "102268"
+   },
+   {
+    "timestamp": "20260512131740",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "L3BMGZLNE3UTP62R46QKO4W2JCSEMSJD",
+    "mimetype": "text/html",
+    "length": "57593"
+   },
+   {
+    "timestamp": "20260513011424",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AANX2DGPWXYB2TTJQG5SISKUWPDLWEFG",
+    "mimetype": "text/html",
+    "length": "57056"
+   },
+   {
+    "timestamp": "20260514163351",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "LC4BZU5EXL7FSWJ76ECYYRBGDMDQAIYJ",
+    "mimetype": "text/html",
+    "length": "57806"
+   },
+   {
+    "timestamp": "20260515104911",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CZQFGHMGJUVH6LQUGK7M2X7J5Y5HBR2O",
+    "mimetype": "text/html",
+    "length": "110270"
+   },
+   {
+    "timestamp": "20260519151607",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5WIOSTU3S2RJPAZXV6RNULQCYYI37NSZ",
+    "mimetype": "text/html",
+    "length": "107782"
+   },
+   {
+    "timestamp": "20260520132108",
+    "original": "https://transparency.meta.com/policies/community-standards/?",
+    "statuscode": "200",
+    "digest": "CW24EDRDL45KX2LNZGUX4RVGSGTCE32W",
+    "mimetype": "text/html",
+    "length": "102940"
+   },
+   {
+    "timestamp": "20260526203211",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JF22Q23DBJ2HJOGAXNORTZ4V3OYDJFSJ",
+    "mimetype": "text/html",
+    "length": "103001"
+   },
+   {
+    "timestamp": "20260527151537",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "E74AKDZAI3XWN2MDV5RG7JYUK5NGXPZY",
+    "mimetype": "text/html",
+    "length": "103152"
+   },
+   {
+    "timestamp": "20260529025118",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "2UMT6E3WVSF3NKMIPVDVNKIJJF4RZRLO",
+    "mimetype": "text/html",
+    "length": "93398"
+   },
+   {
+    "timestamp": "20260531200540",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "N5OPLTBR6AURPFT2KG2Z7AKO2JRJMOQG",
+    "mimetype": "text/html",
+    "length": "107366"
+   },
+   {
+    "timestamp": "20260602025704",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5CBBBH2CQF2JVD757NRXYNHQDB7UHCZ6",
+    "mimetype": "text/html",
+    "length": "102043"
+   },
+   {
+    "timestamp": "20260603010644",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QPWQ4JLK7GID5V4XKNQWNM6X3OT7T4U4",
+    "mimetype": "text/html",
+    "length": "57316"
+   },
+   {
+    "timestamp": "20260605224909",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "WZNG563US3PZ4OGL2QIOSTJNS334PDVY",
+    "mimetype": "text/html",
+    "length": "121352"
+   },
+   {
+    "timestamp": "20260607055508",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "Y7VEK7RWFI4GQ5E3LVO3FEXYUV5VHV2F",
+    "mimetype": "text/html",
+    "length": "130804"
+   },
+   {
+    "timestamp": "20260608120119",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CHWJDM6JCXQDYOPULFGTDZ7GWREM5RBW",
+    "mimetype": "text/html",
+    "length": "102787"
+   },
+   {
+    "timestamp": "20260610230712",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "FYHJPYZRFGU54BOH2AOPSN7WGUI2V6ER",
+    "mimetype": "text/html",
+    "length": "57622"
+   },
+   {
+    "timestamp": "20260613145706",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AIOC2P4X37RJUYZOCHIVDK6SPQ3MXI5K",
+    "mimetype": "text/html",
+    "length": "103646"
+   },
+   {
+    "timestamp": "20260614083727",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4BNMCQAPTWMP3UYGROZVWDL4VAQI2GLS",
+    "mimetype": "text/html",
+    "length": "102624"
+   },
+   {
+    "timestamp": "20260615023435",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "Y4HEJ7EPTMTJQ56UV7MC5I54IDFSZCJD",
+    "mimetype": "text/html",
+    "length": "57472"
+   },
+   {
+    "timestamp": "20260616054559",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OJIFKFYY5IJIXJ3VNGZI6XJXSENRPBPH",
+    "mimetype": "text/html",
+    "length": "57722"
+   },
+   {
+    "timestamp": "20260617195940",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "2AKDR7HA6BKYRGYZC6L7I6437XF7TRHG",
+    "mimetype": "text/html",
+    "length": "59032"
+   },
+   {
+    "timestamp": "20260618140026",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AUI6ACJZIUE6ZGY5HHF2MXEDDKNQ4LTT",
+    "mimetype": "text/html",
+    "length": "105815"
+   },
+   {
+    "timestamp": "20260619070251",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "R6XUOWOYLEKYNFTJKBXG4SOQTFVCWV27",
+    "mimetype": "text/html",
+    "length": "104105"
+   },
+   {
+    "timestamp": "20260620224506",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "4T7OX5QJTB45TQ7MXZQRLQIG6LAJX67L",
+    "mimetype": "text/html",
+    "length": "103655"
+   },
+   {
+    "timestamp": "20260623144233",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EEDRLECZHOOCCZM2TEKYS74GNZQ4MI6G",
+    "mimetype": "text/html",
+    "length": "105226"
+   },
+   {
+    "timestamp": "20260703151018",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CL2XFXFYSGMWDS2W2KQU6Q6H7UO3REL2",
+    "mimetype": "text/html",
+    "length": "61752"
+   },
+   {
+    "timestamp": "20260705092634",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BLIRIXIS6BY4722P7MV5WXR3VIK6UA54",
+    "mimetype": "text/html",
+    "length": "113229"
+   },
+   {
+    "timestamp": "20260706141106",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PVFFDRZTNSGISNT7XFNK3DGJELRKIXYJ",
+    "mimetype": "text/html",
+    "length": "113726"
+   },
+   {
+    "timestamp": "20260710072218",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5MURHDPRH4JQ4ZNN5HG66QXEXQLILZ3V",
+    "mimetype": "text/html",
+    "length": "108190"
+   },
+   {
+    "timestamp": "20260711142256",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SG7PMCA2URMFVMMG7JCSHVPMUCZUJDZ4",
+    "mimetype": "text/html",
+    "length": "108334"
+   },
+   {
+    "timestamp": "20260714042020",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PHAXRS4FEXYRXCIJX7JS2I2CEYD2MFIO",
+    "mimetype": "text/html",
+    "length": "107889"
+   },
+   {
+    "timestamp": "20260715010919",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "7CKWQ2ITZVK6FSZOOU3DTI6WNRPQXSU7",
+    "mimetype": "text/html",
+    "length": "113482"
+   },
+   {
+    "timestamp": "20260717113518",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "YEIDJ2GUJK2YHRPLRQXDPIGH4NLJ4GK7",
+    "mimetype": "text/html",
+    "length": "63261"
+   },
+   {
+    "timestamp": "20260719012818",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OJYIYUFNLNAL7PUGCZQUVAHAV4ZLLT6Z",
+    "mimetype": "text/html",
+    "length": "111877"
+   },
+   {
+    "timestamp": "20260722164129",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "MPHMVVDYSSN2X4FKGRW7SAYPULILLPT2",
+    "mimetype": "text/html",
+    "length": "63525"
+   },
+   {
+    "timestamp": "20260723143213",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "24ENAUW4RHEYONNBM5ECGQSVQ43UJ6NW",
+    "mimetype": "text/html",
+    "length": "63130"
+   },
+   {
+    "timestamp": "20260724133301",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "2QMV7WMW6EPUY2FMM7E5JJ5LOXTR5SUO",
+    "mimetype": "text/html",
+    "length": "116178"
+   },
+   {
+    "timestamp": "20260726072233",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "6Q52TQHOUGOCARKS3KHS66RHFOLPOEDT",
+    "mimetype": "text/html",
+    "length": "63469"
+   },
+   {
+    "timestamp": "20260728021443",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "N72SA5MA47PF2RIBLNC43EPT3E5TDKFB",
+    "mimetype": "text/html",
+    "length": "109306"
+   },
+   {
+    "timestamp": "20260729051614",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "22R46VSW4ANUTTOI4GERMTFQIHC3RR5Q",
+    "mimetype": "text/html",
+    "length": "108579"
+   },
+   {
+    "timestamp": "20260730163119",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "ZWRDQHXBG32BSOY52SBJPKQ3HIFVHSZP",
+    "mimetype": "text/html",
+    "length": "114277"
+   },
+   {
+    "timestamp": "20260731024411",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SVQWPKB2U4YYB7JJQYVIGQ7N2CD7CACM",
+    "mimetype": "text/html",
+    "length": "99303"
+   },
+   {
+    "timestamp": "20260801070043",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "E6CPANVFSO7MLBRGIO6YIGNGXSVLGZSJ",
+    "mimetype": "text/html",
+    "length": "105911"
+   },
+   {
+    "timestamp": "20260803164609",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "WYFUFMK4ZFCYZVFVOECF42MLIS477OWK",
+    "mimetype": "text/html",
+    "length": "63327"
+   },
+   {
+    "timestamp": "20260806112645",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UEJ5XBU56NZOYBGHEJ4D43OEE4IZPEQC",
+    "mimetype": "text/html",
+    "length": "106833"
+   },
+   {
+    "timestamp": "20260809220612",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IONYJDQ2YI5MP6V4EPHTM2K2EEQEDWO4",
+    "mimetype": "text/html",
+    "length": "108179"
+   },
+   {
+    "timestamp": "20260810081827",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "23SI7KJJAT2Z7QTRVR623ENTZPZLRDS5",
+    "mimetype": "text/html",
+    "length": "108450"
+   },
+   {
+    "timestamp": "20260812114816",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "L2TFDMR5LQYVF4ZFQDILOKFNG7RQLQYC",
+    "mimetype": "text/html",
+    "length": "98654"
+   },
+   {
+    "timestamp": "20260813024025",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "T2OEHY5F4MJVBYAL7KWQER2YC4GWGNOF",
+    "mimetype": "text/html",
+    "length": "99701"
+   },
+   {
+    "timestamp": "20260816192904",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "SXW7RAAOY4GWKRC2FCA4L7XWP3NJEAT3",
+    "mimetype": "text/html",
+    "length": "113767"
+   },
+   {
+    "timestamp": "20260817234846",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "GYA5PNIYP2MAKSLGMJLUCB75P7JAKJDP",
+    "mimetype": "text/html",
+    "length": "63460"
+   },
+   {
+    "timestamp": "20260818082335",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RKR6XKU7ZQO3ELD7UG4K2A2VKH3YNURA",
+    "mimetype": "text/html",
+    "length": "108974"
+   },
+   {
+    "timestamp": "20260819164059",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XG6A3CZI2A2JVKVIEYONGM7GAIT7322O",
+    "mimetype": "text/html",
+    "length": "115246"
+   },
+   {
+    "timestamp": "20260824073749",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FXCQMNVOEIUFRILRI7TLRS5KAO4L3G6S",
+    "mimetype": "text/html",
+    "length": "114111"
+   },
+   {
+    "timestamp": "20260828112646",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "45LDIIRUSDEYDZOOT2CYEMFGR2PGHKQO",
+    "mimetype": "text/html",
+    "length": "62095"
+   },
+   {
+    "timestamp": "20260830082344",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VV7HULTDTSAO7VQCLIB74UJOZNJ2WGBP",
+    "mimetype": "text/html",
+    "length": "63862"
+   },
+   {
+    "timestamp": "20260831103025",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "HQ2TGZWNPJ3IHTDW4OTQAAWT3AIG2EG5",
+    "mimetype": "text/html",
+    "length": "97296"
+   },
+   {
+    "timestamp": "20260901073530",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "XV3ZIIPWX2JPJKXCXRC3TAEL7ZD4QMXB",
+    "mimetype": "text/html",
+    "length": "101430"
+   },
+   {
+    "timestamp": "20260903084058",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "S5G4ZQWS4XFSMN75KWOXGLODRG2ZOSNJ",
+    "mimetype": "text/html",
+    "length": "64489"
+   },
+   {
+    "timestamp": "20260904043021",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UOK3BU444JFWY5KVJAKXJH5QU7R77ZUW",
+    "mimetype": "text/html",
+    "length": "63006"
+   },
+   {
+    "timestamp": "20260906004131",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5OFT5UO6XQECVSQ534BHU6AXFAQ566UD",
+    "mimetype": "text/html",
+    "length": "62319"
+   },
+   {
+    "timestamp": "20260907074421",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QYSLD5XYASXDRFAPN6BQAI3AM2CUICFU",
+    "mimetype": "text/html",
+    "length": "111266"
+   },
+   {
+    "timestamp": "20260909053706",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "HEUGKXRYHEOLYVDE6ZOYDXELYP26PYTH",
+    "mimetype": "text/html",
+    "length": "63000"
+   },
+   {
+    "timestamp": "20260910054322",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "D3Z7ARRHP24JX5PGUQ746PJBJQGLR3FU",
+    "mimetype": "text/html",
+    "length": "109122"
+   },
+   {
+    "timestamp": "20260914081524",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "UH6EKL2PSHXJAMQB32A2A27A2TNQXHYX",
+    "mimetype": "text/html",
+    "length": "109590"
+   },
+   {
+    "timestamp": "20260915205028",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "RXIDJZVTXZKWTS3VIFQWALBL3IQFP77R",
+    "mimetype": "text/html",
+    "length": "104351"
+   },
+   {
+    "timestamp": "20260917104536",
+    "original": "https://transparency.meta.com/policies/community-standards",
+    "statuscode": "200",
+    "digest": "RSLJCPTDXT6RE6A7MDCNZ4SCYHJYZH7Z",
+    "mimetype": "text/html",
+    "length": "104339"
+   },
+   {
+    "timestamp": "20260918025819",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "IVABTWODHAMD6JLGAB42XTB6TCGPHRYF",
+    "mimetype": "text/html",
+    "length": "94312"
+   },
+   {
+    "timestamp": "20260919193845",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EV32435UUTMFLE525KBD26QDFJT6FRVA",
+    "mimetype": "text/html",
+    "length": "104054"
+   },
+   {
+    "timestamp": "20260923090343",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "JPOUNDFJY4LJC5MMBOEDYIJBMO2AYR67",
+    "mimetype": "text/html",
+    "length": "109799"
+   },
+   {
+    "timestamp": "20260924154601",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7QNKEACZJDY3AVQNBHLG3UM7OGJAOURC",
+    "mimetype": "text/html",
+    "length": "64409"
+   },
+   {
+    "timestamp": "20260925034527",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BKRZZAY4SPXLABBASKJYY3LSWD76CAK7",
+    "mimetype": "text/html",
+    "length": "109389"
+   },
+   {
+    "timestamp": "20260926000120",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "DAPJIWQ2UQ47ST26R52YV6U6AYQMFT4K",
+    "mimetype": "text/html",
+    "length": "108819"
+   },
+   {
+    "timestamp": "20260927175915",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "VBP6FO4KJHTR7SGPX235NOM5HW3KH3AR",
+    "mimetype": "text/html",
+    "length": "102972"
+   },
+   {
+    "timestamp": "20260928060348",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "EDPQXT2BLVBLFSU4UAKCGQ6SKMWG4AV7",
+    "mimetype": "text/html",
+    "length": "109289"
+   },
+   {
+    "timestamp": "20260930134146",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "PME4VT447L54DPBS742IUUA3CU5BXJRI",
+    "mimetype": "text/html",
+    "length": "110136"
+   },
+   {
+    "timestamp": "20261005062906",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "BHKU4HFS7NODDK5FZBUSSBMRT3EYKZMD",
+    "mimetype": "text/html",
+    "length": "103240"
+   },
+   {
+    "timestamp": "20261008010248",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "TJI25CFFOSFBO43OCE7ABDYL5RTHDCGT",
+    "mimetype": "text/html",
+    "length": "109205"
+   },
+   {
+    "timestamp": "20261009102705",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "OHEC4DPF2MAIYOKJLVCNAIAVGHOHQWV7",
+    "mimetype": "text/html",
+    "length": "104874"
+   },
+   {
+    "timestamp": "20261010074418",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "H5TLR4VK6SQKBEVN3OENQ73BZWWFIGV4",
+    "mimetype": "text/html",
+    "length": "110405"
+   },
+   {
+    "timestamp": "20261012081704",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "QUZB3K44AF4FZBGCNS42GAE4RGI2FAXZ",
+    "mimetype": "text/html",
+    "length": "109639"
+   },
+   {
+    "timestamp": "20261013105651",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "KZNDDPZI24IZ5EQP3NKHMIDA6IS237G2",
+    "mimetype": "text/html",
+    "length": "104075"
+   },
+   {
+    "timestamp": "20261014144901",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "FESCAZ3WEFETCOAL4VIQV5EJJVVVXL6E",
+    "mimetype": "text/html",
+    "length": "112605"
+   },
+   {
+    "timestamp": "20261015062137",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "7LULBTBKHGF4F3XTY27I2CD5YP6OBUE7",
+    "mimetype": "text/html",
+    "length": "99371"
+   },
+   {
+    "timestamp": "20261016190945",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "27UVX5LTROU574365FHWZEXKSTBDEXRR",
+    "mimetype": "text/html",
+    "length": "99441"
+   },
+   {
+    "timestamp": "20261017061613",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "5HNKS54RTNSLKZISWIOF6SH52R2IPECJ",
+    "mimetype": "text/html",
+    "length": "58588"
+   },
+   {
+    "timestamp": "20261018095254",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "CLCK5CWKDUMMCVP3R234COZKXVCCE7P4",
+    "mimetype": "text/html",
+    "length": "58433"
+   },
+   {
+    "timestamp": "20261019081627",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "AZM2I4ELYLNPNSKE7D5MANA3IYFVSVQO",
+    "mimetype": "text/html",
+    "length": "103133"
+   },
+   {
+    "timestamp": "20261022153249",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "24SW5BPZV2ETSSHQDTOFDMWP6W36RSXO",
+    "mimetype": "text/html",
+    "length": "94501"
+   },
+   {
+    "timestamp": "20261023105712",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "B7MNZQEYVYSQCENM3TYBPI732WB6Q3UI",
+    "mimetype": "text/html",
+    "length": "108822"
+   },
+   {
+    "timestamp": "20261025214104",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "LLQZBLF7IE4NWCMNFE6XMVNU4WV4QOKB",
+    "mimetype": "text/html",
+    "length": "58427"
+   },
+   {
+    "timestamp": "20261026154053",
+    "original": "https://transparency.meta.com/policies/community-standards/",
+    "statuscode": "200",
+    "digest": "Q7LSXEEMPYQY3KIHHTEWE62ZCXPY3HQE",
+    "mimetype": "text/html",
+    "length": "93891"
+   }
+  ]
+ }
+}
