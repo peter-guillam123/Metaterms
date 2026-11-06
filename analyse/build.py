@@ -8,8 +8,10 @@ template with the data inlined, so the page works as a single file).
 """
 
 import datetime
+import hashlib
 import json
 import os
+import re
 import statistics
 import sys
 
@@ -23,25 +25,78 @@ import run  # noqa: E402  (fetch/run.py: month list, capture picking)
 DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site")
 
+with open(os.path.join(ROOT, "analyse", "rules.json"), encoding="utf-8") as f:
+    RULES = json.load(f)
 
-def usable_months(caps):
-    """Drop copies that are clearly not the document (login walls, error
-    pages): much shorter than the page usually is."""
+# Meta shows a cookie consent banner only to visitors in the UK and EU, so a
+# copy that has one came from one of the archive's European crawlers, and
+# holds the European version of the page.
+BANNER_END = re.compile(r"^(Allow all cookies|Only allow essential cookies|Decline optional cookies|"
+                        r"Allow essential and optional cookies)$", re.I)
+BANNER = re.compile(r"Allow (the use of )?cookies from (Facebook|Instagram|Meta)|Allow all cookies", re.I)
+
+
+def clean(slug, text):
+    """Return (text, region) ready to compare, or (None, reason) if the copy
+    turns out not to be the document."""
+    blocks = text.split("\n\n")
+    region = "eu" if BANNER.search("\n".join(blocks[:15])) else "main"
+    if region == "eu":
+        ends = [i for i, b in enumerate(blocks[:20]) if BANNER_END.match(b.strip())]
+        if ends:
+            blocks = blocks[ends[-1] + 1:]
+    rule = RULES.get(slug, {})
+    if rule.get("start_at"):
+        pat = re.compile(rule["start_at"], re.I)
+        idx = next((i for i, b in enumerate(blocks) if pat.search(b.strip())), None)
+        if idx is None:
+            return None, "copy is not the document"
+        blocks = blocks[idx:]
+    if rule.get("stop_at"):
+        pat = re.compile(rule["stop_at"], re.I)
+        cut = next((i for i, b in enumerate(blocks) if i > len(blocks) * 0.2 and pat.search(b.strip())), None)
+        if cut is not None:
+            blocks = blocks[:cut]
+    return "\n\n".join(blocks).strip() + "\n", region
+
+
+def usable_months(slug, caps, texts):
+    """Sort months into usable copies and the rest, with reasons. Cleaned
+    texts go into `texts` (keyed by their own hash); each good month's
+    text_hash is replaced with the cleaned text's hash."""
     months = caps["months"]
-    lengths = [m["chars"] for m in months.values() if m.get("chars")]
-    if not lengths:
-        return {}, {}
-    typical = statistics.median(lengths)
-    good, bad = {}, {}
+    good, bad, region = {}, {}, {}
     for mon, m in months.items():
         if not m.get("text_hash"):
             bad[mon] = "fetch failed"
-        elif m.get("usable") is False:
+            continue
+        if m.get("usable") is False:
             bad[mon] = "copy is not the document"
-        elif m["chars"] < max(300, 0.4 * typical):
-            bad[mon] = "copy is not the document"
-        else:
-            good[mon] = m
+            continue
+        text, info = clean(slug, compare.load_text(slug, m["text_hash"]))
+        if text is None:
+            bad[mon] = info
+            continue
+        h = hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+        texts[h] = text
+        good[mon] = dict(m, text_hash=h, chars=len(text))
+        region[mon] = info
+    lengths = [m["chars"] for m in good.values()]
+    if lengths:
+        typical = statistics.median(lengths)
+        for mon in list(good):
+            if good[mon]["chars"] < max(300, 0.4 * typical):
+                bad[mon] = "copy is not the document"
+                del good[mon]
+    # Compare like with like: keep the region with the most copies.
+    regions = [region[m] for m in good]
+    if regions:
+        main = max(set(regions), key=regions.count)
+        for mon in list(good):
+            if region[mon] != main:
+                bad[mon] = ("European version of the page" if region[mon] == "eu"
+                            else "US version of the page")
+                del good[mon]
     return good, bad
 
 
@@ -53,10 +108,11 @@ def main():
         idx = run.read_json(os.path.join(DATA, "index", f"{slug}.json"))
         caps = run.read_json(os.path.join(DATA, "captures", f"{slug}.json"))
         picks = run.pick_month_captures(idx) if idx else {}
-        good, bad = usable_months(caps) if caps else ({}, {})
+        texts = {}
+        good, bad = usable_months(slug, caps, texts) if caps else ({}, {})
         months_list = [{"month": mon, **{k: v for k, v in m.items() if k in ("timestamp", "original", "text_hash")}}
                        for mon, m in sorted(good.items())]
-        changes = compare.compare_doc({"slug": slug, "months": months_list}) if months_list else []
+        changes = compare.compare_doc({"slug": slug, "months": months_list}, load=texts.get) if months_list else []
         for c in changes:
             c["id"] = f"{slug}-{c['to']['month']}"
             s = summaries.get(c["id"], {})
@@ -86,10 +142,11 @@ def main():
             "url": doc["url"],
             "archived_months": len(picks),
             "checked_months": len(good),
+            "unusable_months": len(bad),
             "versions": len({m["text_hash"] for m in good.values()}),
             "latest": {"month": latest, "timestamp": good[latest]["timestamp"],
                        "original": good[latest]["original"],
-                       "page_dates": compare.page_dates(compare.load_text(slug, good[latest]["text_hash"]))}
+                       "page_dates": compare.page_dates(texts[good[latest]["text_hash"]])}
             if latest else None,
             "redirects": (idx or {}).get("redirects", {}),
             "cells": cells,

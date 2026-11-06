@@ -70,6 +70,24 @@ def words(s):
     return len(WORD.findall(s))
 
 
+def flat(s):
+    """Words only, lower case, for spotting text that moved."""
+    return " ".join(WORD.findall(re.sub(r"^(#+ |- )", "", s, flags=re.M).lower()))
+
+
+def moved(item, a_flat, b_flat):
+    if item["kind"] == "removed":
+        t = flat(item["segs"][0][1])
+        return bool(t) and t in b_flat
+    if item["kind"] == "added":
+        t = flat(item["segs"][0][1])
+        return bool(t) and t in a_flat
+    # Reworded: moved if only markers changed (old and new words the same).
+    old = flat("".join(x for o, x in item["segs"] if o != "+"))
+    new = flat("".join(x for o, x in item["segs"] if o != "-"))
+    return old == new or (bool(old) and old in b_flat and bool(new) and new in a_flat)
+
+
 def word_diff(a, b):
     """Segments [[op, text], ...] where op is '=', '-' or '+'."""
     ta, tb = TOKEN.findall(a), TOKEN.findall(b)
@@ -158,6 +176,8 @@ def heading_before(blks, idx):
 
 def diff_versions(a_text, b_text, context=1):
     a, b = blocks(a_text), blocks(b_text)
+    a_flat = flat(" ".join(a))
+    b_flat = flat(" ".join(b))
     sm = difflib.SequenceMatcher(None, [key(x) for x in a], [key(x) for x in b], autojunk=False)
     hunks = []
     added = removed = 0
@@ -193,6 +213,11 @@ def diff_versions(a_text, b_text, context=1):
             for nb in new:
                 items.append({"kind": "added", "segs": [["+", nb]]})
                 added += words(nb)
+        # Text that only moved (to a list, under a heading, elsewhere on the
+        # page) is not a change to the wording: leave it out.
+        items = [it for it in items if not moved(it, a_flat, b_flat)]
+        if not items:
+            continue
         before = a[max(0, i1 - context):i1]
         after = a[i2:i2 + context]
         hunks.append({
@@ -258,7 +283,8 @@ def load_text(slug, h):
         return f.read()
 
 
-def compare_doc(cap):
+def compare_doc(cap, load=None):
+    load = load or (lambda h: load_text(cap["slug"], h))
     slug = cap["slug"]
     months = cap["months"]
     changes = []
@@ -268,7 +294,7 @@ def compare_doc(cap):
         if not h:
             continue
         if prev and h != prev["text_hash"]:
-            a, b = load_text(slug, prev["text_hash"]), load_text(slug, h)
+            a, b = load(prev["text_hash"]), load(h)
             hunks, _, _ = diff_versions(a, b)
             added, removed = word_change(a, b)
             if hunks:
