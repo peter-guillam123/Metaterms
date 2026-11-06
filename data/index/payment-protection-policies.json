@@ -1,0 +1,497 @@
+{
+ "slug": "payment-protection-policies",
+ "url": "https://www.facebook.com/policies_center/payment_protection",
+ "redirects": {},
+ "urls": {
+  "https://www.facebook.com/policies_center/payment_protection": [
+   {
+    "timestamp": "20240510011954",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "34SGSQ74EK2Y3WBSZDUR45D4XUIGYLEW",
+    "mimetype": "text/html",
+    "length": "103673"
+   },
+   {
+    "timestamp": "20240515032653",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "4RBSQOSSBGPOQJ6M4NRVZH2GW675MU2L",
+    "mimetype": "text/html",
+    "length": "107895"
+   },
+   {
+    "timestamp": "20240530110633",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "32XVLYZ57YDA6UXF2JRNEFDL3XFXTHN7",
+    "mimetype": "text/html",
+    "length": "103148"
+   },
+   {
+    "timestamp": "20240601115913",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "CMAYBTYDHBZW65TPKXCXSAAEKOBGNDAV",
+    "mimetype": "text/html",
+    "length": "103356"
+   },
+   {
+    "timestamp": "20240604050610",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "SBQHHEYS5G4IAW7CETI3W4734DZLFLIH",
+    "mimetype": "text/html",
+    "length": "103272"
+   },
+   {
+    "timestamp": "20240605022219",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "LUQ54L42H6QUISCPJNGXYJXHHTWDXLD3",
+    "mimetype": "text/html",
+    "length": "103247"
+   },
+   {
+    "timestamp": "20240606125247",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "2FR4NMVEDVENETMPEXLMVICD6CS2BB56",
+    "mimetype": "text/html",
+    "length": "106195"
+   },
+   {
+    "timestamp": "20240607204753",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "HF2ZOMGHOYNH5XKBU6IB2IQ7T4IS35OV",
+    "mimetype": "text/html",
+    "length": "106124"
+   },
+   {
+    "timestamp": "20240609230437",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "FH4CVS7GOPBRDJH65QTMY4PFRQJHEHVY",
+    "mimetype": "text/html",
+    "length": "106225"
+   },
+   {
+    "timestamp": "20240610212623",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "RTL6FORNMS4VKHUWEGQYTXBSOWYNTXKM",
+    "mimetype": "text/html",
+    "length": "106264"
+   },
+   {
+    "timestamp": "20240622161029",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "5YJ7G6CR7LVCRWXC42RTHQWC6BUSJYKM",
+    "mimetype": "text/html",
+    "length": "103101"
+   },
+   {
+    "timestamp": "20240630015243",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "QX5FHCBCYJKNQTY4G3K2AECTJHVJM5AG",
+    "mimetype": "text/html",
+    "length": "103081"
+   },
+   {
+    "timestamp": "20240711182413",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "JN3FP5QO2RGM5765P3NNVPPZX4EVS5IQ",
+    "mimetype": "text/html",
+    "length": "103076"
+   },
+   {
+    "timestamp": "20240716015710",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "EUDO53YCNYAHDYYC73WLKZ6UDT463QXY",
+    "mimetype": "text/html",
+    "length": "105934"
+   },
+   {
+    "timestamp": "20240717085229",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "D3ZTW3X2BIC4W3NOSIRDS3GEGC3PYVC2",
+    "mimetype": "text/html",
+    "length": "107403"
+   },
+   {
+    "timestamp": "20240719201456",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "OENKXM2DGMYU7VVJ4MCB7Y4I6QTCCDR3",
+    "mimetype": "text/html",
+    "length": "105958"
+   },
+   {
+    "timestamp": "20240726000940",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "TRGBOCSJ6NL5PZKYL5J3MJEJIQZLNDS2",
+    "mimetype": "text/html",
+    "length": "106298"
+   },
+   {
+    "timestamp": "20240729201125",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "VY2LKHJW5IZ5K7QJHBXR73PUM3NNIT7C",
+    "mimetype": "text/html",
+    "length": "103530"
+   },
+   {
+    "timestamp": "20240805002409",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "BVUJBZOOCDURYELFHQSI35Y5BGY3D5HD",
+    "mimetype": "text/html",
+    "length": "103506"
+   },
+   {
+    "timestamp": "20240806012943",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "BH2CWWQAA2323MMJEY4XHA64HIS7Z7EU",
+    "mimetype": "text/html",
+    "length": "106599"
+   },
+   {
+    "timestamp": "20240807232156",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "PQHQEMA7MSZKM2SN3VH4RSQJSMW46DHT",
+    "mimetype": "text/html",
+    "length": "106447"
+   },
+   {
+    "timestamp": "20240808235136",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "TAGN2T66GWM5AZASVRPICRKCT3MIFBDZ",
+    "mimetype": "text/html",
+    "length": "103527"
+   },
+   {
+    "timestamp": "20240809184652",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "NRG3TH2MX5DZXOL232ZXGGFVDRPPP3NM",
+    "mimetype": "text/html",
+    "length": "103614"
+   },
+   {
+    "timestamp": "20240812215939",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "SY7LJWGL3WJBJ6KL23WO5FUH4W7AZQLY",
+    "mimetype": "text/html",
+    "length": "104276"
+   },
+   {
+    "timestamp": "20240815110610",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "EN25EUALEP7ND7GC4UEK4UHNZB5CJ2Q4",
+    "mimetype": "text/html",
+    "length": "107329"
+   },
+   {
+    "timestamp": "20240818144351",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "XGG5YDJX4FDJRNS2NGFQ7WLNEZXQKVI4",
+    "mimetype": "text/html",
+    "length": "111737"
+   },
+   {
+    "timestamp": "20240819152631",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "UZ3BFSCRQKWK5UMZSJATWROJ56MNYVB4",
+    "mimetype": "text/html",
+    "length": "114045"
+   },
+   {
+    "timestamp": "20240822091101",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "NOW6VNBIEVNZ4PI5OAAUREUGYLYUAQWI",
+    "mimetype": "text/html",
+    "length": "116970"
+   },
+   {
+    "timestamp": "20240829123318",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "V5BPCTVBOEBNHYWJYDPHRO5RKSH62PVD",
+    "mimetype": "text/html",
+    "length": "114128"
+   },
+   {
+    "timestamp": "20240901155247",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "QQPCFS5RE37F7CTG6HUFK7EOCQCGOOQK",
+    "mimetype": "text/html",
+    "length": "114099"
+   },
+   {
+    "timestamp": "20240902180726",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "GXF4C4BKCWU4CALEGERIUO6QDROASL57",
+    "mimetype": "text/html",
+    "length": "111758"
+   },
+   {
+    "timestamp": "20240903175838",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "2BBR6WRO33QLJARGHOFRGJJRMBATZMFV",
+    "mimetype": "text/html",
+    "length": "111936"
+   },
+   {
+    "timestamp": "20240905171704",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "MSQPYL3WRQEZMZIMWIFPVCPPDTMHWY5X",
+    "mimetype": "text/html",
+    "length": "114055"
+   },
+   {
+    "timestamp": "20240909162211",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "JGZ6P7GU6FKWAQYWHILIKHTQGH7UCTIL",
+    "mimetype": "text/html",
+    "length": "114086"
+   },
+   {
+    "timestamp": "20240910121046",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "CHACVM4G66BJPQYUFWTDWRDAB47EEGCY",
+    "mimetype": "text/html",
+    "length": "114070"
+   },
+   {
+    "timestamp": "20240913153033",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "SGIEMWX4AQCWRZOW2OZ6YHTV2QMMOHOZ",
+    "mimetype": "text/html",
+    "length": "111748"
+   },
+   {
+    "timestamp": "20240914131434",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "FDY33WACIDZTUZNX2ZQ7BZRNW4KY5YUI",
+    "mimetype": "text/html",
+    "length": "111718"
+   },
+   {
+    "timestamp": "20240915214837",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "XWNNGSQRWSEVOEJYJCQDONSDWSJKA6VF",
+    "mimetype": "text/html",
+    "length": "116781"
+   },
+   {
+    "timestamp": "20240917142651",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "VYAIBHOSXRNECAYJQ7CIC5RGJPFCWP4N",
+    "mimetype": "text/html",
+    "length": "114051"
+   },
+   {
+    "timestamp": "20240918154035",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "OTGETAFFKQS7UFI5O5VZKVLGXUL2BFKB",
+    "mimetype": "text/html",
+    "length": "113942"
+   },
+   {
+    "timestamp": "20240919225953",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "OXOTZ6GB6I6X3Q6XNR3FG3AXLAVCIPRJ",
+    "mimetype": "text/html",
+    "length": "113734"
+   },
+   {
+    "timestamp": "20240920155214",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "PVFGWOWEWSFTKAUU5SZFWCP44CJEBMWZ",
+    "mimetype": "text/html",
+    "length": "111441"
+   },
+   {
+    "timestamp": "20240921111951",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "XMIPSRFGDJMM4BID24GZSR7BK5XHJJHH",
+    "mimetype": "text/html",
+    "length": "113691"
+   },
+   {
+    "timestamp": "20240923225159",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "L3IOC3IRJ5WENVD77GPWTTFWEVPWPXGS",
+    "mimetype": "text/html",
+    "length": "113821"
+   },
+   {
+    "timestamp": "20240925194000",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "V2VF7H5HBQJI54NO3TLTQUFJZGFNP2TN",
+    "mimetype": "text/html",
+    "length": "113847"
+   },
+   {
+    "timestamp": "20241003173259",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "XSLUJ6E64FR7OTQRTDNBOXATFUEKIRPT",
+    "mimetype": "text/html",
+    "length": "113707"
+   },
+   {
+    "timestamp": "20241004161722",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "A73PBGYN7XD5LGZANH4PRMH3J4CDVNEQ",
+    "mimetype": "text/html",
+    "length": "111348"
+   },
+   {
+    "timestamp": "20241005132851",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "NNTGBYIOVV2D4GCD6FSR3SGWEO26GYYO",
+    "mimetype": "text/html",
+    "length": "113685"
+   },
+   {
+    "timestamp": "20241006234646",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "UH7U2AMEWUCWMRAEZX53PW77ZJOWPDBN",
+    "mimetype": "text/html",
+    "length": "111859"
+   },
+   {
+    "timestamp": "20241007160930",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "BH4GDN677KBIJQSK44BWPNUPXSNZOM6U",
+    "mimetype": "text/html",
+    "length": "114157"
+   },
+   {
+    "timestamp": "20241008183436",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "PB3DR7TEXRVQDZSJNBWZZE4EEA6I7PNE",
+    "mimetype": "text/html",
+    "length": "114012"
+   },
+   {
+    "timestamp": "20241009112852",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "FQLY3ZYHNDZ5AAKY5EXKYYBWW7YUC3N2",
+    "mimetype": "text/html",
+    "length": "111721"
+   },
+   {
+    "timestamp": "20241125110038",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "U634JGJ6HOKOGVG47STPZ34UIVQJ2AGG",
+    "mimetype": "text/html",
+    "length": "116249"
+   },
+   {
+    "timestamp": "20241213052139",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "UEYSVW2ZIL7F3VCP4RXQRYDP5KU4ORAR",
+    "mimetype": "text/html",
+    "length": "116650"
+   },
+   {
+    "timestamp": "20250405035017",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "G5TXUIMGARINYCTAZBKYSWHDHMXLQ3Q7",
+    "mimetype": "text/html",
+    "length": "110940"
+   },
+   {
+    "timestamp": "20250715155309",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "WJXR6ZXLZATIIMFD2UJ6Y2UQA2ECFZH3",
+    "mimetype": "text/html",
+    "length": "115266"
+   },
+   {
+    "timestamp": "20260505055455",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "7AW7E5NJSLUMBXTCHN5GFUNLQDJDGLKG",
+    "mimetype": "text/html",
+    "length": "105131"
+   },
+   {
+    "timestamp": "20260902223709",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "XXOM7LXADUWOOMF5EESVA7DDKO3HPLDZ",
+    "mimetype": "text/html",
+    "length": "107455"
+   },
+   {
+    "timestamp": "20260915202205",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "J6JZ2W6PLVH52QTHXJK4VKRZJNVD74J5",
+    "mimetype": "text/html",
+    "length": "104169"
+   },
+   {
+    "timestamp": "20260923034837",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "75LP3ZP3T6OGVUETJ6PSGSVDJLSOD6VQ",
+    "mimetype": "text/html",
+    "length": "107274"
+   },
+   {
+    "timestamp": "20261008023509",
+    "original": "https://www.facebook.com/policies_center/payment_protection",
+    "statuscode": "200",
+    "digest": "BMXGPYVQ2EWZNWOZ7UUHBWVQ77DDEFT5",
+    "mimetype": "text/html",
+    "length": "106915"
+   }
+  ]
+ }
+}

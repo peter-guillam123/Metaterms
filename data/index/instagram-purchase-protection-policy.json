@@ -1,0 +1,73 @@
+{
+ "slug": "instagram-purchase-protection-policy",
+ "url": "https://help.instagram.com/300557977301126/",
+ "redirects": {},
+ "urls": {
+  "https://help.instagram.com/300557977301126/": [
+   {
+    "timestamp": "20241109232842",
+    "original": "https://help.instagram.com/300557977301126",
+    "statuscode": "200",
+    "digest": "WF5OUSUGXGI62XDWQ527GHRZQFIBTKRL",
+    "mimetype": "text/html",
+    "length": "176326"
+   },
+   {
+    "timestamp": "20250216185741",
+    "original": "https://help.instagram.com/300557977301126/",
+    "statuscode": "200",
+    "digest": "QQPYRFXCPLI2O364DXU6LCWHEX3SXB5C",
+    "mimetype": "text/html",
+    "length": "184552"
+   },
+   {
+    "timestamp": "20250324070752",
+    "original": "https://help.instagram.com/300557977301126",
+    "statuscode": "200",
+    "digest": "JULVC2FKJ4NX37ZTYNDOTMJHP2LFN2SO",
+    "mimetype": "text/html",
+    "length": "181771"
+   },
+   {
+    "timestamp": "20250622151917",
+    "original": "https://help.instagram.com/300557977301126/",
+    "statuscode": "200",
+    "digest": "JVBQXAZJJMR6OQ4F4AR245F2JT3WUOKI",
+    "mimetype": "text/html",
+    "length": "189833"
+   },
+   {
+    "timestamp": "20250805143142",
+    "original": "https://help.instagram.com/300557977301126",
+    "statuscode": "200",
+    "digest": "B5UJR7ENGAC2L2XCSDFH3R5CIPGLUUFE",
+    "mimetype": "text/html",
+    "length": "200325"
+   },
+   {
+    "timestamp": "20251107222015",
+    "original": "https://help.instagram.com/300557977301126",
+    "statuscode": "200",
+    "digest": "QIIF74FUG3NWU4L5RAUC5V2TL5WNP2PQ",
+    "mimetype": "text/html",
+    "length": "231218"
+   },
+   {
+    "timestamp": "20251207072153",
+    "original": "https://help.instagram.com/300557977301126/",
+    "statuscode": "200",
+    "digest": "WE5IWMELT7TDSVLFCIL5JVKUPMQ7ALOR",
+    "mimetype": "text/html",
+    "length": "235582"
+   },
+   {
+    "timestamp": "20260314100938",
+    "original": "https://help.instagram.com/300557977301126",
+    "statuscode": "200",
+    "digest": "RZDWFITNT6N22ICBGCEYV7MLBQ7XXGLV",
+    "mimetype": "text/html",
+    "length": "226485"
+   }
+  ]
+ }
+}

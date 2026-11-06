@@ -1,0 +1,449 @@
+{
+ "slug": "music-guidelines",
+ "url": "https://www.facebook.com/legal/music_guidelines",
+ "redirects": {},
+ "urls": {
+  "https://www.facebook.com/legal/music_guidelines": [
+   {
+    "timestamp": "20240514011642",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "6EKPFRP6PFTNUPK6O74X5USRL25OKXHN",
+    "mimetype": "text/html",
+    "length": "53917"
+   },
+   {
+    "timestamp": "20240516093230",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "RFE2UPUV25OWKC23SKKPILQKH7D5O372",
+    "mimetype": "text/html",
+    "length": "45660"
+   },
+   {
+    "timestamp": "20240521201710",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "769"
+   },
+   {
+    "timestamp": "20240528211229",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "C3JETS4RDTJJCWQIIF2SOCC3Z4E7ES4G",
+    "mimetype": "text/html",
+    "length": "58167"
+   },
+   {
+    "timestamp": "20240530070758",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "790"
+   },
+   {
+    "timestamp": "20240622012920",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "TQX2RZS6F3SQELR7QPH6IHAQCVYOJY43",
+    "mimetype": "text/html",
+    "length": "57333"
+   },
+   {
+    "timestamp": "20240626004924",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2078"
+   },
+   {
+    "timestamp": "20240713133909",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "GHSJKARHJPQB5HJTP7BA7EHPU5GZ4NPL",
+    "mimetype": "text/html",
+    "length": "57827"
+   },
+   {
+    "timestamp": "20240717090119",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "KWA5AMJEN7HA73PGWAWDB2WSID2OWI7Z",
+    "mimetype": "text/html",
+    "length": "46432"
+   },
+   {
+    "timestamp": "20240721052155",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "X2F42YAAOYGEXZCTDV53ZRZMFHW2Z337",
+    "mimetype": "text/html",
+    "length": "57698"
+   },
+   {
+    "timestamp": "20240813025727",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "DWKS4JOMVWPXEVHHYLLWYM7GWY6KJ3FC",
+    "mimetype": "text/html",
+    "length": "54781"
+   },
+   {
+    "timestamp": "20240814043252",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2053"
+   },
+   {
+    "timestamp": "20240815165133",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2078"
+   },
+   {
+    "timestamp": "20240822010348",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2079"
+   },
+   {
+    "timestamp": "20240825205523",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "SU3PFROOIRZ6J2M4O3TUNGUIK3XJE2L5",
+    "mimetype": "text/html",
+    "length": "63289"
+   },
+   {
+    "timestamp": "20240827152444",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2039"
+   },
+   {
+    "timestamp": "20240829150042",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "YYBOQ2ML33VC7KUYZFNBCRHZQK63OGEC",
+    "mimetype": "text/html",
+    "length": "66267"
+   },
+   {
+    "timestamp": "20240905194019",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "ODDXNCLY3Q7UCX66GWKTKVYGKWFEFI25",
+    "mimetype": "text/html",
+    "length": "63918"
+   },
+   {
+    "timestamp": "20240911171957",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "2064"
+   },
+   {
+    "timestamp": "20240917132054",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "DTSJEV3XCFTTI5TOYAEGV6HTCZQAOXKU",
+    "mimetype": "text/html",
+    "length": "55240"
+   },
+   {
+    "timestamp": "20240924112648",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "5QXWJJVCKL5WQIEIURAZXAJHXJPDHDE4",
+    "mimetype": "text/html",
+    "length": "65841"
+   },
+   {
+    "timestamp": "20240927080902",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "PLUNRDF3TK3R4W4QPDANNT6TLRG4TQ7J",
+    "mimetype": "text/html",
+    "length": "65104"
+   },
+   {
+    "timestamp": "20241007182222",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "RNF7XU6BL4QR7MMKSYKENXT4E4EP4M67",
+    "mimetype": "text/html",
+    "length": "66563"
+   },
+   {
+    "timestamp": "20241101031239",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "JWQNI3INXNH2MDLMDZH7C7XPX7FGCKNH",
+    "mimetype": "text/html",
+    "length": "65617"
+   },
+   {
+    "timestamp": "20241108213322",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "B4QE6Q26LH56QIRRN3QSRQNQU7PZGOUE",
+    "mimetype": "text/html",
+    "length": "63321"
+   },
+   {
+    "timestamp": "20241114041502",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "GNOUMOZRMJLN756A4JALYFQFF4MZBERF",
+    "mimetype": "text/html",
+    "length": "65925"
+   },
+   {
+    "timestamp": "20241128002623",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "AL7RJ4FV2VOO4DN4U7IGSEEUJHENMKQG",
+    "mimetype": "text/html",
+    "length": "53904"
+   },
+   {
+    "timestamp": "20241203163714",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "BFKUD6WKUMC6TDUIEASL7Q3T3GYU4CX6",
+    "mimetype": "text/html",
+    "length": "46862"
+   },
+   {
+    "timestamp": "20241219005036",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "VUISEU2WFA4YD363CF3MT5V672RFBYZZ",
+    "mimetype": "text/html",
+    "length": "63330"
+   },
+   {
+    "timestamp": "20241224191836",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "CNTQPQTDRSG7SHPOEEOD6YGO4E74XFGJ",
+    "mimetype": "text/html",
+    "length": "54530"
+   },
+   {
+    "timestamp": "20241225150706",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "GVJK2NWA3T4S5ZBFYPCU3IG7OCHZKLES",
+    "mimetype": "text/html",
+    "length": "63474"
+   },
+   {
+    "timestamp": "20250106111636",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "HCQA3AMF7V2VDD6HFV75DFNB33OSCDRO",
+    "mimetype": "text/html",
+    "length": "63896"
+   },
+   {
+    "timestamp": "20250107042826",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "TDKXBKCA6CLIOSXBFGPELXZVDZXOKP2K",
+    "mimetype": "text/html",
+    "length": "66373"
+   },
+   {
+    "timestamp": "20250115043619",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "M6CRAN6ZUVVMINADCTSAPQBHNLRV3ZKF",
+    "mimetype": "text/html",
+    "length": "56618"
+   },
+   {
+    "timestamp": "20250116033636",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "L74YG4AVZF4XCVY54UOO73F7QWQM3B5G",
+    "mimetype": "text/html",
+    "length": "65627"
+   },
+   {
+    "timestamp": "20250123103552",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "K4WJVZSMBA7ZKCUDLZMYV5ZYLWRF6E4H",
+    "mimetype": "text/html",
+    "length": "68357"
+   },
+   {
+    "timestamp": "20250209155734",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "DB4VJWDXEK2RUJFLR423LHDCBEWZBALQ",
+    "mimetype": "text/html",
+    "length": "59563"
+   },
+   {
+    "timestamp": "20250212190829",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "AZLLUBDXT22ARGKS472RYS6FRUYNVSHB",
+    "mimetype": "text/html",
+    "length": "59166"
+   },
+   {
+    "timestamp": "20250326145809",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "ZIVJ2EHO66EJ2APXCHKWHHSCYUIFSKQ7",
+    "mimetype": "text/html",
+    "length": "80798"
+   },
+   {
+    "timestamp": "20250405035436",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "M2PI52BPDMTCBX6YPBMEM4OJOTSX7WPC",
+    "mimetype": "text/html",
+    "length": "1794"
+   },
+   {
+    "timestamp": "20250715185111",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "4PZNQDVYPM2V43F36EHDBMAV5SPCE2MS",
+    "mimetype": "text/html",
+    "length": "100542"
+   },
+   {
+    "timestamp": "20250730082431",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "PBZ6LU7RS5JCRDKT3IUYD4AFG2ZHC4QZ",
+    "mimetype": "text/html",
+    "length": "99222"
+   },
+   {
+    "timestamp": "20250930073247",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "54XBSPS34MTBQTV4FPU2C46QOEP67ANM",
+    "mimetype": "text/html",
+    "length": "100492"
+   },
+   {
+    "timestamp": "20251027093203",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "3HTLHTKUB3USKL3TJMDX36W3RPAK6S7Z",
+    "mimetype": "text/html",
+    "length": "102746"
+   },
+   {
+    "timestamp": "20260126182754",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "HTQVPUSCY3BGXK2JQC6NVQ7PQOLBQ42V",
+    "mimetype": "text/html",
+    "length": "1754"
+   },
+   {
+    "timestamp": "20260201170557",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "2ESZHT4BBRM5E4MLPL6HL4QDPKBKYQMU",
+    "mimetype": "text/html",
+    "length": "23706"
+   },
+   {
+    "timestamp": "20260505055025",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "YE5U5A642Y3MELKDYH27MJ4CBPBNRTPR",
+    "mimetype": "text/html",
+    "length": "1800"
+   },
+   {
+    "timestamp": "20260509011947",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "6B65MJADP2B4C2DPG2N5P53ATWMVWSAF",
+    "mimetype": "text/html",
+    "length": "93243"
+   },
+   {
+    "timestamp": "20260531214717",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "2BSOWJXHDNUWSWAAIAECZGDZGTBZ5YMX",
+    "mimetype": "text/html",
+    "length": "15912"
+   },
+   {
+    "timestamp": "20260817234901",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "5NCWUFJMPQMZBQGTEZKSVQYDY632YE7D",
+    "mimetype": "text/html",
+    "length": "92750"
+   },
+   {
+    "timestamp": "20260831044500",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "YFCVD23H7PNILLHXQSOWGEQPLOJ5JUBX",
+    "mimetype": "text/html",
+    "length": "2545"
+   },
+   {
+    "timestamp": "20260915205021",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "JLII5VBOT7GRTUGIOA7ZABR5RN7FQC7X",
+    "mimetype": "text/html",
+    "length": "2013"
+   },
+   {
+    "timestamp": "20260924004342",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "OIDFEH55SCSJND4TPLP2KQ6GQFFC4AQM",
+    "mimetype": "text/html",
+    "length": "97854"
+   },
+   {
+    "timestamp": "20261010075902",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "BFPDGZVXPSQKFZEFVXVTLVIBGH7EU33I",
+    "mimetype": "text/html",
+    "length": "94148"
+   },
+   {
+    "timestamp": "20261026150821",
+    "original": "https://www.facebook.com/legal/music_guidelines",
+    "statuscode": "200",
+    "digest": "NV6SDG5CSQWJ7VDA64TIYLBEIZA7R76J",
+    "mimetype": "text/html",
+    "length": "96304"
+   }
+  ]
+ }
+}

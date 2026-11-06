@@ -1,0 +1,169 @@
+{
+ "slug": "recommendations-guidelines",
+ "url": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+ "redirects": {},
+ "urls": {
+  "https://about.fb.com/news/2020/08/recommendation-guidelines/": [
+   {
+    "timestamp": "20240527120312",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "UNVXGVZHVWZLEVJN5SRH2XIRKZX2F7N5",
+    "mimetype": "text/html",
+    "length": "53627"
+   },
+   {
+    "timestamp": "20240529032756",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "UNVXGVZHVWZLEVJN5SRH2XIRKZX2F7N5",
+    "mimetype": "text/html",
+    "length": "53630"
+   },
+   {
+    "timestamp": "20240605000906",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "E2IJ4ZLUJWLPPRF4U5OZ2ZY6RFBPVHXF",
+    "mimetype": "text/html",
+    "length": "54729"
+   },
+   {
+    "timestamp": "20240912063344",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "7EQ4T6PNEWHUH3PTMG3AXAOUFOF2KZGS",
+    "mimetype": "text/html",
+    "length": "55242"
+   },
+   {
+    "timestamp": "20240915043506",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "IGKDIOKGWBPYK2LFIQLJK264EBUW2AJD",
+    "mimetype": "text/html",
+    "length": "53703"
+   },
+   {
+    "timestamp": "20241211104028",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "D4CRTM3HTGEVUJPOJYLH7WSJHXDN4PDG",
+    "mimetype": "text/html",
+    "length": "54070"
+   },
+   {
+    "timestamp": "20241224151200",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "KT2U5X7EXHQSJ4GXVJQD2NDBUOGXZV6E",
+    "mimetype": "text/html",
+    "length": "55662"
+   },
+   {
+    "timestamp": "20250114212530",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "LIQ64ZKQK6MJNFNLQ5LFSHVH6CXJ3VKH",
+    "mimetype": "text/html",
+    "length": "55632"
+   },
+   {
+    "timestamp": "20250430115430",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "HYFYWV43S27HJO5TMZHQEB36K3UHUO6N",
+    "mimetype": "text/html",
+    "length": "55887"
+   },
+   {
+    "timestamp": "20250517002547",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "56WDJVB3WD5PVMQQGX2KQL4G7AGCBBKL",
+    "mimetype": "text/html",
+    "length": "54530"
+   },
+   {
+    "timestamp": "20250528131100",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "7MSYH6JJTB2ARO4PCDX5TNILBAIF3NEF",
+    "mimetype": "text/html",
+    "length": "56133"
+   },
+   {
+    "timestamp": "20250625072505",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "I5PAGNG4PMGIISK53S5GLZPINDNTTC4L",
+    "mimetype": "text/html",
+    "length": "54525"
+   },
+   {
+    "timestamp": "20250917170116",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "TJET3TYW2YFFZOAUCUN7EH43FTKH27TY",
+    "mimetype": "text/html",
+    "length": "56918"
+   },
+   {
+    "timestamp": "20251116164111",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "XFSUKMNNF52EPAXLJ7ZVN4HVVG64EI6C",
+    "mimetype": "text/html",
+    "length": "72207"
+   },
+   {
+    "timestamp": "20251230223523",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "UTOG26B6URM3UWZEPF4H4EPW3ENJWRBH",
+    "mimetype": "text/html",
+    "length": "76726"
+   },
+   {
+    "timestamp": "20260126175429",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "HXDXI2ZKBYU3XT24S3VVNLRM3C5IHMEZ",
+    "mimetype": "text/html",
+    "length": "74955"
+   },
+   {
+    "timestamp": "20260210035205",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "EMTCBLQ6Z5HE5IUZWZGPAORQHWGAXC5Q",
+    "mimetype": "text/html",
+    "length": "74958"
+   },
+   {
+    "timestamp": "20260319065241",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "CHKSVCBK5HDZVIFDRGXRMEIRXAXNZPER",
+    "mimetype": "text/html",
+    "length": "75398"
+   },
+   {
+    "timestamp": "20260612183200",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "4BRRN5OMKOW2WJAIHBMVQLAYNV64ZMZC",
+    "mimetype": "text/html",
+    "length": "76617"
+   },
+   {
+    "timestamp": "20260815112804",
+    "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+    "statuscode": "200",
+    "digest": "F2HAJYWKW6TOXCHBWKSPRWE7WVFOK4DB",
+    "mimetype": "text/html",
+    "length": "84205"
+   }
+  ]
+ }
+}

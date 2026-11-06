@@ -1,0 +1,686 @@
+{
+ "slug": "facebook-pages-groups-events-policy",
+ "url": "https://www.facebook.com/policies/pages_groups_events/",
+ "redirects": {
+  "https://www.facebook.com/policies/pages_groups_events/": {
+   "timestamp": "20250713001450",
+   "target": "https://www.facebook.com/policies/pages_groups_events"
+  }
+ },
+ "urls": {
+  "https://www.facebook.com/policies/pages_groups_events/": [
+   {
+    "timestamp": "20240514011708",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "827"
+   },
+   {
+    "timestamp": "20240530070734",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "790"
+   },
+   {
+    "timestamp": "20240605114129",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "830"
+   },
+   {
+    "timestamp": "20240622021327",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "826"
+   },
+   {
+    "timestamp": "20240626005741",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "827"
+   },
+   {
+    "timestamp": "20240702193401",
+    "original": "https://facebook.com/policies/pages_groups_events",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "334"
+   },
+   {
+    "timestamp": "20240705070223",
+    "original": "https://facebook.com/policies/pages_groups_events",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "331"
+   },
+   {
+    "timestamp": "20240713134019",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "827"
+   },
+   {
+    "timestamp": "20240717052138",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "1097"
+   },
+   {
+    "timestamp": "20240802042907",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "789"
+   },
+   {
+    "timestamp": "20240810171220",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "793"
+   },
+   {
+    "timestamp": "20240811101028",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "979"
+   },
+   {
+    "timestamp": "20240814043319",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "784"
+   },
+   {
+    "timestamp": "20240815165208",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "786"
+   },
+   {
+    "timestamp": "20240822011133",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "786"
+   },
+   {
+    "timestamp": "20240825205931",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "789"
+   },
+   {
+    "timestamp": "20240827152730",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "786"
+   },
+   {
+    "timestamp": "20240829150113",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "790"
+   },
+   {
+    "timestamp": "20240901090025",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "925"
+   },
+   {
+    "timestamp": "20240905194045",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "787"
+   },
+   {
+    "timestamp": "20240911172250",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "784"
+   },
+   {
+    "timestamp": "20240914134825",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "929"
+   },
+   {
+    "timestamp": "20240915171000",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "920"
+   },
+   {
+    "timestamp": "20240917103630",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "912"
+   },
+   {
+    "timestamp": "20240922101036",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "971"
+   },
+   {
+    "timestamp": "20240924112801",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "858"
+   },
+   {
+    "timestamp": "20240927110250",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "852"
+   },
+   {
+    "timestamp": "20240928215834",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "783"
+   },
+   {
+    "timestamp": "20241002000846",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "787"
+   },
+   {
+    "timestamp": "20241006053925",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "904"
+   },
+   {
+    "timestamp": "20241007182222",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "-",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "warc/revisit",
+    "length": "851"
+   },
+   {
+    "timestamp": "20241008070137",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "932"
+   },
+   {
+    "timestamp": "20241101031308",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "829"
+   },
+   {
+    "timestamp": "20241104093816",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "784"
+   },
+   {
+    "timestamp": "20241108213721",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "768"
+   },
+   {
+    "timestamp": "20241114041829",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "779"
+   },
+   {
+    "timestamp": "20241117195058",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "977"
+   },
+   {
+    "timestamp": "20241125071628",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "919"
+   },
+   {
+    "timestamp": "20241203115801",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "935"
+   },
+   {
+    "timestamp": "20241206050123",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "912"
+   },
+   {
+    "timestamp": "20241218140521",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "953"
+   },
+   {
+    "timestamp": "20241222111551",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1018"
+   },
+   {
+    "timestamp": "20241224191836",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "914"
+   },
+   {
+    "timestamp": "20241225141238",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "801"
+   },
+   {
+    "timestamp": "20241228072459",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "992"
+   },
+   {
+    "timestamp": "20250105230200",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "964"
+   },
+   {
+    "timestamp": "20250106111705",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "782"
+   },
+   {
+    "timestamp": "20250107121208",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "780"
+   },
+   {
+    "timestamp": "20250108234128",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "929"
+   },
+   {
+    "timestamp": "20250115043619",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "924"
+   },
+   {
+    "timestamp": "20250116033707",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "780"
+   },
+   {
+    "timestamp": "20250120210740",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "977"
+   },
+   {
+    "timestamp": "20250121072336",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "967"
+   },
+   {
+    "timestamp": "20250130055827",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "977"
+   },
+   {
+    "timestamp": "20250207104856",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "975"
+   },
+   {
+    "timestamp": "20250209155644",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "972"
+   },
+   {
+    "timestamp": "20250212190829",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "919"
+   },
+   {
+    "timestamp": "20250214120334",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1008"
+   },
+   {
+    "timestamp": "20250301162004",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "977"
+   },
+   {
+    "timestamp": "20250303033843",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "921"
+   },
+   {
+    "timestamp": "20250326145809",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "7727GOWWIQD6XHHAWX6B5Y3QRXKUEORW",
+    "mimetype": "text/html",
+    "length": "35173"
+   },
+   {
+    "timestamp": "20250405035436",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "6CVIFABJARQEYKLYDOJGR7CSYCUTF4G5",
+    "mimetype": "text/html",
+    "length": "32471"
+   },
+   {
+    "timestamp": "20250416214626",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "JJVTVOTUTQUAGRXC5IUE3QN6AFTVGSGY",
+    "mimetype": "text/html",
+    "length": "33713"
+   },
+   {
+    "timestamp": "20250509072738",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "X25BBVD6HEIFHOAAUNMYNZKVUSHQYZBY",
+    "mimetype": "text/html",
+    "length": "47710"
+   },
+   {
+    "timestamp": "20250709065124",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "AYFUYWVPSGLR5ONHE4SVL7OND2SLE3K5",
+    "mimetype": "text/html",
+    "length": "36155"
+   },
+   {
+    "timestamp": "20250713001450",
+    "original": "http://facebook.com/policies/pages_groups_events",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "610"
+   },
+   {
+    "timestamp": "20250715185549",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "ZGVICT4HT2UA5UD3GROK62RZKOKUYX5Z",
+    "mimetype": "text/html",
+    "length": "35954"
+   },
+   {
+    "timestamp": "20251027093223",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "A2JM22J5E6ATKJJ7JU6VSD4FUDE34AK4",
+    "mimetype": "text/html",
+    "length": "35481"
+   },
+   {
+    "timestamp": "20251204155734",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "XCW72O2JALKHVRSM5NQ3OQJFRWVBVHEU",
+    "mimetype": "text/html",
+    "length": "36095"
+   },
+   {
+    "timestamp": "20251223062007",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "KRMYPSC7QUUFVRLXGHBMH4GB2ZPYE6LA",
+    "mimetype": "text/html",
+    "length": "36288"
+   },
+   {
+    "timestamp": "20260130132802",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "J3OPO3CMTCZEDNFHEPV2PA427HNJUACY",
+    "mimetype": "text/html",
+    "length": "33836"
+   },
+   {
+    "timestamp": "20260205042558",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "KOJU35IDDD6SI5K3S433SF7YYTH7FFFJ",
+    "mimetype": "text/html",
+    "length": "28939"
+   },
+   {
+    "timestamp": "20260319030920",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "52KXJVKO6KZTMPU4LRMWWYPFTKBZV2RY",
+    "mimetype": "text/html",
+    "length": "29220"
+   },
+   {
+    "timestamp": "20260412120510",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "T3PFFDF7BYQ4RWD6U6BXKQH3IZ2M3FSA",
+    "mimetype": "text/html",
+    "length": "26993"
+   },
+   {
+    "timestamp": "20260425203426",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "NJ5FTKLSRO5X7F7HGORE766ZWLD62X23",
+    "mimetype": "text/html",
+    "length": "28440"
+   },
+   {
+    "timestamp": "20260505055046",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "UH7QZQBEQLXDPHTJYKEIORBHCZHGT6A6",
+    "mimetype": "text/html",
+    "length": "26544"
+   },
+   {
+    "timestamp": "20260614062405",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "VGJM3HCOXZJX6RXAOAOVBAZLBQNZGIYX",
+    "mimetype": "text/html",
+    "length": "27667"
+   },
+   {
+    "timestamp": "20260709082127",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "SMQEE3I37WIRXNY7NVJBDZGCQNDZ4736",
+    "mimetype": "text/html",
+    "length": "27372"
+   },
+   {
+    "timestamp": "20260808035309",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "4NZXDBPR72RIWZIJNA4FVZGLA7USVXUJ",
+    "mimetype": "text/html",
+    "length": "27773"
+   },
+   {
+    "timestamp": "20260817193631",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "DWIAXESG2VBQI2R4WSS5XQJBPYZZZVVV",
+    "mimetype": "text/html",
+    "length": "30022"
+   },
+   {
+    "timestamp": "20260821224913",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "33PXOOTNINPHVFWRG2PV5TZ7EZXZRSPU",
+    "mimetype": "text/html",
+    "length": "28620"
+   },
+   {
+    "timestamp": "20260915204842",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "5E5SLDFMHEP6MS2QK6NW2U3X5CXNUK25",
+    "mimetype": "text/html",
+    "length": "28716"
+   },
+   {
+    "timestamp": "20260917181443",
+    "original": "https://www.facebook.com/policies/pages_groups_events/",
+    "statuscode": "200",
+    "digest": "ODAX47PSGMTRDYJXBQYEPGBVTASOVFNX",
+    "mimetype": "text/html",
+    "length": "28765"
+   },
+   {
+    "timestamp": "20261010080016",
+    "original": "https://www.facebook.com/policies/pages_groups_events",
+    "statuscode": "200",
+    "digest": "E7OIE3V4642MNXSOPKA5AR3IVK2V7FX4",
+    "mimetype": "text/html",
+    "length": "28125"
+   }
+  ]
+ }
+}

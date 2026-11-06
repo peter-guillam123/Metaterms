@@ -1,0 +1,73 @@
+{
+ "slug": "complaints-handling-process",
+ "url": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process/",
+ "redirects": {},
+ "urls": {
+  "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process/": [
+   {
+    "timestamp": "20250124174151",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "7OQ2V46AIBKNSVFSF6VUVIXFFJIWSZTI",
+    "mimetype": "text/html",
+    "length": "34140"
+   },
+   {
+    "timestamp": "20250209155649",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "I2YX6V6YSGINLBN2IXP6BKXGEJCWR365",
+    "mimetype": "text/html",
+    "length": "43493"
+   },
+   {
+    "timestamp": "20250324234059",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "KOBTRFJS7FHP2KKXDZSYVIU4I2H6BVOC",
+    "mimetype": "text/html",
+    "length": "34432"
+   },
+   {
+    "timestamp": "20250727204112",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "CS6AHZJCZA6AKDTO4Z3VWBNKZTVGQRCU",
+    "mimetype": "text/html",
+    "length": "34244"
+   },
+   {
+    "timestamp": "20250801202718",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "66I63DYPD5Z3QGPX3OP2WTP4BZHYSWYD",
+    "mimetype": "text/html",
+    "length": "32097"
+   },
+   {
+    "timestamp": "20250806012408",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "U2ZQFTABD7XO5VDDJKNV4VP6XUHNJA3B",
+    "mimetype": "text/html",
+    "length": "34374"
+   },
+   {
+    "timestamp": "20260214020015",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "EGBLJZHXVD3BCDX2TEZJCBCQL33MIUG5",
+    "mimetype": "text/html",
+    "length": "105329"
+   },
+   {
+    "timestamp": "20260305145754",
+    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+    "statuscode": "200",
+    "digest": "BGOLXCLVST3YQTGSFE3Z6UUURWMPH4TG",
+    "mimetype": "text/html",
+    "length": "84610"
+   }
+  ]
+ }
+}

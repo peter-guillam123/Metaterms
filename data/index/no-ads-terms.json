@@ -1,0 +1,33 @@
+{
+ "slug": "no-ads-terms",
+ "url": "https://www.facebook.com/legal/no_ads_terms",
+ "redirects": {},
+ "urls": {
+  "https://www.facebook.com/legal/no_ads_terms": [
+   {
+    "timestamp": "20240530070709",
+    "original": "https://www.facebook.com/legal/no_ads_terms",
+    "statuscode": "302",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "778"
+   },
+   {
+    "timestamp": "20240902032350",
+    "original": "https://www.facebook.com/legal/no_ads_terms",
+    "statuscode": "200",
+    "digest": "A7GXZZWQVAOHZTONOTHUBGZV7IZD7J75",
+    "mimetype": "text/html",
+    "length": "28603"
+   },
+   {
+    "timestamp": "20250209155731",
+    "original": "https://www.facebook.com/legal/no_ads_terms",
+    "statuscode": "200",
+    "digest": "MQSOB33ZC7MBDVAWR4WC5J7JTPFCMRFW",
+    "mimetype": "text/html",
+    "length": "63232"
+   }
+  ]
+ }
+}

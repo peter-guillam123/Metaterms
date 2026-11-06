@@ -1,0 +1,334 @@
+{
+ "slug": "recommender-system-cards",
+ "url": "https://ai.meta.com/tools/system-cards/",
+ "redirects": {
+  "https://ai.meta.com/tools/system-cards/": {
+   "timestamp": "20260408173714",
+   "target": "https://ai.meta.com/tools/system-cards/"
+  }
+ },
+ "urls": {
+  "https://ai.meta.com/tools/system-cards/": [
+   {
+    "timestamp": "20240701112622",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "KZRL7U5JNNTNBR5S2G3QATMN4JERDDI2",
+    "mimetype": "text/html",
+    "length": "35718"
+   },
+   {
+    "timestamp": "20240708171453",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "AYD2TU6C5A2M4IABLKSBYAAQBLW62BYG",
+    "mimetype": "text/html",
+    "length": "36887"
+   },
+   {
+    "timestamp": "20240709153444",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "A53SQPN2E2CETC35D5GD5E6HWF6MYPGQ",
+    "mimetype": "text/html",
+    "length": "35906"
+   },
+   {
+    "timestamp": "20240812154530",
+    "original": "http://ai.meta.com/tools/system-cards/",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/plain",
+    "length": "236"
+   },
+   {
+    "timestamp": "20240815222004",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "3NK5YV7IJUF4IOGHN7RDGPDEL3VHWAJA",
+    "mimetype": "text/html",
+    "length": "34784"
+   },
+   {
+    "timestamp": "20240816112931",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "AAOZ62XDKVEWCE5A5SK33LOGMNYQQCW6",
+    "mimetype": "text/html",
+    "length": "43776"
+   },
+   {
+    "timestamp": "20240914014211",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "HCMVHAWBRY2KBMSXEXA257ZKLVE74LRJ",
+    "mimetype": "text/html",
+    "length": "42003"
+   },
+   {
+    "timestamp": "20240927133111",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "UFQGZHUTSN7AAQLVKSEU2T6DYKHQVBV4",
+    "mimetype": "text/html",
+    "length": "43406"
+   },
+   {
+    "timestamp": "20241002213901",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "ZPVXY6CY5DXCPZDL53B6T54HMMXAR2JN",
+    "mimetype": "text/html",
+    "length": "41850"
+   },
+   {
+    "timestamp": "20241214043150",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "AEU5S66UIXZM7QTN6YFIGUYF64RXWUNP",
+    "mimetype": "text/html",
+    "length": "39285"
+   },
+   {
+    "timestamp": "20250215130003",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "7OYLNMWDM3UYMK4WZDSZ2GJCBFPZETIC",
+    "mimetype": "text/html",
+    "length": "44562"
+   },
+   {
+    "timestamp": "20250306210151",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "G7FQT4MZUZROGOGFKXTJUXJGLCVBW5GZ",
+    "mimetype": "text/html",
+    "length": "34724"
+   },
+   {
+    "timestamp": "20250406201758",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "LFDZHJM73ZFGNNCAPV7FJZLZQNAVE6AP",
+    "mimetype": "text/html",
+    "length": "47182"
+   },
+   {
+    "timestamp": "20250423044727",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "F2JBNDLM2ZP4V5MVF226ANG24AD46UEV",
+    "mimetype": "text/html",
+    "length": "42802"
+   },
+   {
+    "timestamp": "20250508085512",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "UVPKKXBRE6MQLTWG2NLOUSGJO7XLIEIK",
+    "mimetype": "text/html",
+    "length": "50328"
+   },
+   {
+    "timestamp": "20250524154941",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "XFL3NWQKHTQ2GR4OXSTIU3EUJO7BRPAH",
+    "mimetype": "text/html",
+    "length": "49558"
+   },
+   {
+    "timestamp": "20250903160957",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "KVQAK6IVNUGHNTR5DMFIQS63CFQVR46W",
+    "mimetype": "text/html",
+    "length": "52322"
+   },
+   {
+    "timestamp": "20251001190841",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "2CX6E2DHCZGO6JE32ZTPFXH5BSZAHUXL",
+    "mimetype": "text/html",
+    "length": "50759"
+   },
+   {
+    "timestamp": "20251005132116",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "ZSQVJAMLDSHJWTUGN7ZBQGFGQMURI27W",
+    "mimetype": "text/html",
+    "length": "47912"
+   },
+   {
+    "timestamp": "20251223050007",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "DNE7YJMZM6TO6GYWEBWMFP555XYSHHWI",
+    "mimetype": "text/html",
+    "length": "50623"
+   },
+   {
+    "timestamp": "20260126173220",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "6IHF3OXIPH43M3ZICPEAOT6IOODOSDGV",
+    "mimetype": "text/html",
+    "length": "45556"
+   },
+   {
+    "timestamp": "20260128111940",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "LJ7BKF4WXTXLKNTQCVSNG7JFH62A3HJZ",
+    "mimetype": "text/html",
+    "length": "45624"
+   },
+   {
+    "timestamp": "20260218124030",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "7TXK6JILW44TWLK3CQKBRJMGE44BCOGV",
+    "mimetype": "text/html",
+    "length": "45471"
+   },
+   {
+    "timestamp": "20260221190436",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "CLIUMBY6725QO5EAH3AUTNTZTNRGDDF5",
+    "mimetype": "text/html",
+    "length": "50557"
+   },
+   {
+    "timestamp": "20260316195144",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "BDXMX6L55ZUZCQ4IYYQ7ZCIICUPTZQ36",
+    "mimetype": "text/html",
+    "length": "45761"
+   },
+   {
+    "timestamp": "20260317131339",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "2CBHTZYR547MLAMAODPRO36ED45TNYIQ",
+    "mimetype": "text/html",
+    "length": "46247"
+   },
+   {
+    "timestamp": "20260322115918",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "2PRZYK2EYF5U4URJH4SIA2VLJXGETGVG",
+    "mimetype": "text/html",
+    "length": "25238"
+   },
+   {
+    "timestamp": "20260408173714",
+    "original": "https://ai.meta.com/tools/system-cards",
+    "statuscode": "301",
+    "digest": "3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ",
+    "mimetype": "text/html",
+    "length": "1052"
+   },
+   {
+    "timestamp": "20260519144557",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "RCAKPEMZTJB6H5U5NJRUER4XSBVMYCQ6",
+    "mimetype": "text/html",
+    "length": "37538"
+   },
+   {
+    "timestamp": "20260605130333",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "K43QDBHH3GWFGZI56MUVEUWLCCTRD44L",
+    "mimetype": "text/html",
+    "length": "38792"
+   },
+   {
+    "timestamp": "20260618052216",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "T53XJWXOYDQKGGTXU3AJQHK5AUDYIMLO",
+    "mimetype": "text/html",
+    "length": "40439"
+   },
+   {
+    "timestamp": "20260707210838",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "IA5FBPJQJVYPBVU5M7AUCKSVAVNSWVHR",
+    "mimetype": "text/html",
+    "length": "37789"
+   },
+   {
+    "timestamp": "20260721191327",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "RYVY26OQIVVBM7XXKQB3MDD3OSYEZBAG",
+    "mimetype": "text/html",
+    "length": "41571"
+   },
+   {
+    "timestamp": "20260726173439",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "GDHGSZI5A32WV2X6U4VV23L245FSDT5E",
+    "mimetype": "text/html",
+    "length": "41622"
+   },
+   {
+    "timestamp": "20260814014155",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "CXP7Q4NTYF6LZLX6WZXMPE5XFADXBOMN",
+    "mimetype": "text/html",
+    "length": "38172"
+   },
+   {
+    "timestamp": "20260817071418",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "UKACGE4CWMC7Y7BJZ4XS56ID222T6KLU",
+    "mimetype": "text/html",
+    "length": "38875"
+   },
+   {
+    "timestamp": "20260918001926",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "CG2AHQPZZDESP55OEWWD3P42VCMQN6A3",
+    "mimetype": "text/html",
+    "length": "38971"
+   },
+   {
+    "timestamp": "20260919145827",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "T62CZVJ76QTB44OIOQJICHXRIINBET5A",
+    "mimetype": "text/html",
+    "length": "39277"
+   },
+   {
+    "timestamp": "20261014143817",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "SQTAD5AFTC5S6OPWJQWDKISA7NOOGSCR",
+    "mimetype": "text/html",
+    "length": "42551"
+   },
+   {
+    "timestamp": "20261018104359",
+    "original": "https://ai.meta.com/tools/system-cards/",
+    "statuscode": "200",
+    "digest": "7FINOMGZLMCDCHD7GKTGT4U3THHKKRRO",
+    "mimetype": "text/html",
+    "length": "38899"
+   }
+  ]
+ }
+}

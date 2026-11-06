@@ -1,0 +1,3169 @@
+{
+ "slug": "platform-policy",
+ "url": "https://developers.facebook.com/terms/dfc_platform_terms/",
+ "redirects": {},
+ "urls": {
+  "https://developers.facebook.com/terms/dfc_platform_terms/": [
+   {
+    "timestamp": "20240501164352",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZKTUX6SCGVGBNKSJ45SIJSEPOV4TOOGC",
+    "mimetype": "text/html",
+    "length": "52743"
+   },
+   {
+    "timestamp": "20240502133739",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6S6COCXNYT64QAEQAZ452STE6JG3DJDA",
+    "mimetype": "text/html",
+    "length": "44739"
+   },
+   {
+    "timestamp": "20240503132433",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DEFMBGHN3JKVKX25JJFL3YZNG3KSWEIP",
+    "mimetype": "text/html",
+    "length": "44740"
+   },
+   {
+    "timestamp": "20240504054414",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YJ3C4SY3RTWLKWW32EIFOHC2GVQYSXIY",
+    "mimetype": "text/html",
+    "length": "44731"
+   },
+   {
+    "timestamp": "20240505124107",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DCXZ7D4UFFNP2EJODKXKQEFKQGAS2WMF",
+    "mimetype": "text/html",
+    "length": "44675"
+   },
+   {
+    "timestamp": "20240506185516",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PJOJEXTASQKEE34IPRPXIHCIUMFPZDKC",
+    "mimetype": "text/html",
+    "length": "44712"
+   },
+   {
+    "timestamp": "20240507173338",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JW7YZF3HM7DGW4O6GQ5HXUOUCXOIMHTF",
+    "mimetype": "text/html",
+    "length": "44699"
+   },
+   {
+    "timestamp": "20240508001421",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "I46A5T4WHXS4FKHEIJNF5MVJFAYS46AP",
+    "mimetype": "text/html",
+    "length": "44768"
+   },
+   {
+    "timestamp": "20240509010846",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DKE3KOC4WVFM3RVFYS6ALIR4ERN3JXCZ",
+    "mimetype": "text/html",
+    "length": "43423"
+   },
+   {
+    "timestamp": "20240510005705",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2H3AFL2FVYTXXNNCMNUYPKTGPZKENAJA",
+    "mimetype": "text/html",
+    "length": "43513"
+   },
+   {
+    "timestamp": "20240511014008",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7EPYZGESYT4EXKMZYM67XXHYRYHORXWN",
+    "mimetype": "text/html",
+    "length": "43520"
+   },
+   {
+    "timestamp": "20240512015312",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KZ376SGOSBQYLBJGXTDJTDAZ7JCTN2CD",
+    "mimetype": "text/html",
+    "length": "43445"
+   },
+   {
+    "timestamp": "20240513032005",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UVVQUGYFT4EDZEX33BMMWQ4UEB7Y6IP4",
+    "mimetype": "text/html",
+    "length": "43464"
+   },
+   {
+    "timestamp": "20240514040731",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WJXY3QU7JNJHUPLRUIJRKDJHJCTVMX4J",
+    "mimetype": "text/html",
+    "length": "43463"
+   },
+   {
+    "timestamp": "20240515021511",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OAMPH7BBWH7XB5SSOI2IDTPYPF2IX5P5",
+    "mimetype": "text/html",
+    "length": "44609"
+   },
+   {
+    "timestamp": "20240516052127",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "36FJKPPY6PTQKYEKVJ2IRHEC6SUWGETI",
+    "mimetype": "text/html",
+    "length": "43387"
+   },
+   {
+    "timestamp": "20240517055715",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YY2HXDIL7746OJJWOECK6UA5GWGWCPPE",
+    "mimetype": "text/html",
+    "length": "43513"
+   },
+   {
+    "timestamp": "20240518064219",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YSIHUULWQAZJUJ6MG4RGI7XAXTTKRIJM",
+    "mimetype": "text/html",
+    "length": "43525"
+   },
+   {
+    "timestamp": "20240519070310",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HMJ7XSM6DPDKGDVIRRSU5NZ6LQNELLSY",
+    "mimetype": "text/html",
+    "length": "43520"
+   },
+   {
+    "timestamp": "20240520072810",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "A5GP5GKAXHGDP767IVVRAAUWOOY7Q52A",
+    "mimetype": "text/html",
+    "length": "43496"
+   },
+   {
+    "timestamp": "20240521011151",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WYS4KD73MTYOVOTNMACDTZCGHOMBCGSD",
+    "mimetype": "text/html",
+    "length": "44653"
+   },
+   {
+    "timestamp": "20240522103725",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UG74OGGR3H5EQPZRFXZNSV6SBHPQ4XEO",
+    "mimetype": "text/html",
+    "length": "43620"
+   },
+   {
+    "timestamp": "20240523105555",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7MD7V5HS5AM2QIJTWXNTPSI5LB4KP64W",
+    "mimetype": "text/html",
+    "length": "43475"
+   },
+   {
+    "timestamp": "20240524074939",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NAXJKUNBKKZ2M6VYDVZIJDBGAYDEZFHE",
+    "mimetype": "text/html",
+    "length": "44787"
+   },
+   {
+    "timestamp": "20240525051206",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "QCEVN34PFP6PHTFWI4V3PN67NUDXQTAK",
+    "mimetype": "text/html",
+    "length": "44775"
+   },
+   {
+    "timestamp": "20240526123249",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SZQB7JYKWJ4Y7VIKKDEF6SCYHILJM7U3",
+    "mimetype": "text/html",
+    "length": "43586"
+   },
+   {
+    "timestamp": "20240527132419",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "B2XMQUSXHS5CH7ATWVOYXMTHBCAYERXC",
+    "mimetype": "text/html",
+    "length": "43691"
+   },
+   {
+    "timestamp": "20240528143220",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AWZE3H3PQFD2TGQEG2NBIIKJS2KXG3XJ",
+    "mimetype": "text/html",
+    "length": "43576"
+   },
+   {
+    "timestamp": "20240529152122",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7HW7PBII6FK6TXHKDK6N22GQWVOTYC5V",
+    "mimetype": "text/html",
+    "length": "43606"
+   },
+   {
+    "timestamp": "20240530085652",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5N7ULI4AMPQXXO6NKBXTRUQ7E5VHJHNW",
+    "mimetype": "text/html",
+    "length": "44994"
+   },
+   {
+    "timestamp": "20240531102213",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "BZ7XJX7E4OVIUD5ZTRDOOFB6A5QPTX54",
+    "mimetype": "text/html",
+    "length": "45194"
+   },
+   {
+    "timestamp": "20240601042626",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "GEUR4PCSKLENDTOKP52E7VWVI7Z3DN2W",
+    "mimetype": "text/html",
+    "length": "45007"
+   },
+   {
+    "timestamp": "20240602192206",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "W5YUPYBXXRVVNKGBZD2AHGJLD2W64W5I",
+    "mimetype": "text/html",
+    "length": "43707"
+   },
+   {
+    "timestamp": "20240603195356",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "A2YHIEIV4LZFEM3ZOW6DCHWFAY3QLPOI",
+    "mimetype": "text/html",
+    "length": "43709"
+   },
+   {
+    "timestamp": "20240604011858",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "N3JGUWJRHKXTJGDM7ELPZICAX3OCQ5IX",
+    "mimetype": "text/html",
+    "length": "45030"
+   },
+   {
+    "timestamp": "20240605032447",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HFUXYNDHLUSXXGZ6C3KJ46LFQXILYYDO",
+    "mimetype": "text/html",
+    "length": "43725"
+   },
+   {
+    "timestamp": "20240606035054",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DCABL6U2C573EGYIBAVXGZU4AOTMZAAO",
+    "mimetype": "text/html",
+    "length": "43764"
+   },
+   {
+    "timestamp": "20240607041303",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6B4QVJ7ZLE42W47LPKD6625GLXJQ4TQR",
+    "mimetype": "text/html",
+    "length": "46993"
+   },
+   {
+    "timestamp": "20240608055612",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VAVKGF4LUX2EXD7DC5CZIUM3HAJLZLMX",
+    "mimetype": "text/html",
+    "length": "43663"
+   },
+   {
+    "timestamp": "20240609065919",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "V6H42UYE5QXN7YXJFESBKPZ5ASE3NT75",
+    "mimetype": "text/html",
+    "length": "43691"
+   },
+   {
+    "timestamp": "20240610072328",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "S3N7VBCRUUK5OP5KNRGA6OSNT6V4KJ4V",
+    "mimetype": "text/html",
+    "length": "43671"
+   },
+   {
+    "timestamp": "20240611075849",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3BVWUNG7AM4GG7HAERJJDLCHBXE7X4UN",
+    "mimetype": "text/html",
+    "length": "47020"
+   },
+   {
+    "timestamp": "20240612084608",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6IDTC6MVZCRVXIDF3BHLE6NRUIP2W6ZH",
+    "mimetype": "text/html",
+    "length": "46919"
+   },
+   {
+    "timestamp": "20240613092224",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4TU3ZQLCVF245VKLXQAJE24J7L7CHC4E",
+    "mimetype": "text/html",
+    "length": "46836"
+   },
+   {
+    "timestamp": "20240614014441",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KH2TA3KUDZDOBZJP3YLIGFWJLD5QYUWS",
+    "mimetype": "text/html",
+    "length": "48176"
+   },
+   {
+    "timestamp": "20240615071851",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SFAQ4MA2GKNFTN56Y5XZOOCNUS3NU5MY",
+    "mimetype": "text/html",
+    "length": "44972"
+   },
+   {
+    "timestamp": "20240616124154",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KMUWUJ2UNBVSF3TWNBRBYUFXOMXIUN3H",
+    "mimetype": "text/html",
+    "length": "43626"
+   },
+   {
+    "timestamp": "20240617130224",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MT5M7GWPGAX5H5GONKHEJUISVSUB6UPJ",
+    "mimetype": "text/html",
+    "length": "43587"
+   },
+   {
+    "timestamp": "20240618141138",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "E6CT3HQNK2BZNAH6KYOOWK5OYNE3BABK",
+    "mimetype": "text/html",
+    "length": "46741"
+   },
+   {
+    "timestamp": "20240619142836",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SSK3YG5XKP7MGDH65RRWEC2UTWW3TWPB",
+    "mimetype": "text/html",
+    "length": "46860"
+   },
+   {
+    "timestamp": "20240620150122",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "QRG7WROXNBFPFVNI6RDXRPC3VSOABVW5",
+    "mimetype": "text/html",
+    "length": "46994"
+   },
+   {
+    "timestamp": "20240621063703",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4B7NDCETFWGSI4W6UPQVZBYXCR7FKZC7",
+    "mimetype": "text/html",
+    "length": "45182"
+   },
+   {
+    "timestamp": "20240622081330",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "O5I2MMFFCNFAXATAAOWOGTVZD73JJ6BV",
+    "mimetype": "text/html",
+    "length": "44857"
+   },
+   {
+    "timestamp": "20240623171217",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SL4UFACV24KLRDND774QVVL2VXK6SMM6",
+    "mimetype": "text/html",
+    "length": "47917"
+   },
+   {
+    "timestamp": "20240624160823",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6LALI3JBYKBRMQSNUGWVYAX6TMPXISPR",
+    "mimetype": "text/html",
+    "length": "47888"
+   },
+   {
+    "timestamp": "20240625074232",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "M7XEYTKIVNN6FGXEE6X2YDOOVINUFCQR",
+    "mimetype": "text/html",
+    "length": "44709"
+   },
+   {
+    "timestamp": "20240626022002",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MXDW4V2FQMIFNQO3IPZ5OSLP4R77SABU",
+    "mimetype": "text/html",
+    "length": "43458"
+   },
+   {
+    "timestamp": "20240627033004",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "N263EZQCKDGHK2A273HT4PFWMMKKTJ24",
+    "mimetype": "text/html",
+    "length": "43478"
+   },
+   {
+    "timestamp": "20240628035107",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4XVSAK73BEXN7WGKLALERSYTYQGWMRBE",
+    "mimetype": "text/html",
+    "length": "46728"
+   },
+   {
+    "timestamp": "20240629044534",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2A2GP2XXMBSO7VAX57GGMC552QYWO2PF",
+    "mimetype": "text/html",
+    "length": "43447"
+   },
+   {
+    "timestamp": "20240630060235",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AWB2MPKIR4YCV5MQJ77HDLPXCE25FY7V",
+    "mimetype": "text/html",
+    "length": "43483"
+   },
+   {
+    "timestamp": "20240701065920",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VOVUH25TTPOW6GGKY3RBRJK2ILBLLJRM",
+    "mimetype": "text/html",
+    "length": "43581"
+   },
+   {
+    "timestamp": "20240702072632",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OWXY5IFWDHI6GQMQ3GCI5WJPZEV7SS2A",
+    "mimetype": "text/html",
+    "length": "46720"
+   },
+   {
+    "timestamp": "20240703075821",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z452ZIENV6EK2RD72X3DF66HGPI3VMH2",
+    "mimetype": "text/html",
+    "length": "46783"
+   },
+   {
+    "timestamp": "20240704085809",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "C3ZTF3IK5XKWX4335YI72ZWZX7PDOO6I",
+    "mimetype": "text/html",
+    "length": "46840"
+   },
+   {
+    "timestamp": "20240705013658",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AH2BEWHZQUDKULIDUFJ66LL5QAMERXIP",
+    "mimetype": "text/html",
+    "length": "44862"
+   },
+   {
+    "timestamp": "20240706094639",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CNVL7Y55WYPIEB6BPM3ZD6HFW4O4NLF5",
+    "mimetype": "text/html",
+    "length": "43478"
+   },
+   {
+    "timestamp": "20240707185738",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "RLPE3PWRTQUSF6OMXL5OB6QHOMJVC5QR",
+    "mimetype": "text/html",
+    "length": "44765"
+   },
+   {
+    "timestamp": "20240708011754",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UZUNFEREVZV3LNXPRI47FL5YNN4UEKVH",
+    "mimetype": "text/html",
+    "length": "46730"
+   },
+   {
+    "timestamp": "20240709021426",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ETASB7TOQCEC2WCTWSZYTGSPW3G7BZD5",
+    "mimetype": "text/html",
+    "length": "46750"
+   },
+   {
+    "timestamp": "20240710025220",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UJTBAIA3KPAMH6JMHCVG76P7MZWX3AWE",
+    "mimetype": "text/html",
+    "length": "43575"
+   },
+   {
+    "timestamp": "20240711031512",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DSAG6Z3CALZ5JEPZOQI3EHQCF267R657",
+    "mimetype": "text/html",
+    "length": "43580"
+   },
+   {
+    "timestamp": "20240712031100",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YNXSDZBQ3LMAOA7Q2JE4T5IYEAI5K3B7",
+    "mimetype": "text/html",
+    "length": "44774"
+   },
+   {
+    "timestamp": "20240713044734",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JPR2KEUBLM3YL3FAVIUHVP3UHDB4BEEK",
+    "mimetype": "text/html",
+    "length": "45255"
+   },
+   {
+    "timestamp": "20240714012615",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "POU3UATDQMHF3GSJXEMHCXKSLSL43MDT",
+    "mimetype": "text/html",
+    "length": "47980"
+   },
+   {
+    "timestamp": "20240715060926",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "B74XAIUH6IEDWS7HKLQDQ7GGATHAIX7G",
+    "mimetype": "text/html",
+    "length": "46762"
+   },
+   {
+    "timestamp": "20240716071230",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "73424H43M4LRCD6WJEA4RWLEBT5OMU5K",
+    "mimetype": "text/html",
+    "length": "47501"
+   },
+   {
+    "timestamp": "20240717081132",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "X7VBZVGBWOFX66FZMXLEEE4KGX57FCE6",
+    "mimetype": "text/html",
+    "length": "44321"
+   },
+   {
+    "timestamp": "20240718091414",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Y6O466C5W347TU3CUWMBFXNYBLGN7H32",
+    "mimetype": "text/html",
+    "length": "44344"
+   },
+   {
+    "timestamp": "20240719020935",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VTJHDVRDJEN56OVB24FINYZLD4DOLTMU",
+    "mimetype": "text/html",
+    "length": "49185"
+   },
+   {
+    "timestamp": "20240720080304",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "TKL3YBPKWTI6YV3526EGVX4VBHYUIUPN",
+    "mimetype": "text/html",
+    "length": "45835"
+   },
+   {
+    "timestamp": "20240721183225",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XMJOE4QFX5WA4NYCW474LZ2TOQAD26VB",
+    "mimetype": "text/html",
+    "length": "44139"
+   },
+   {
+    "timestamp": "20240722193716",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OVDABB4TJDRCPZ3FREHAWMMUUSAGGT3K",
+    "mimetype": "text/html",
+    "length": "47422"
+   },
+   {
+    "timestamp": "20240723145104",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "22IHSTWLCFVXRRBZBYY4M6R445ZDMOFP",
+    "mimetype": "text/html",
+    "length": "45715"
+   },
+   {
+    "timestamp": "20240724203938",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DZL2VD4TQU7CU3TCPZTU5JA4RXBMLYFC",
+    "mimetype": "text/html",
+    "length": "44317"
+   },
+   {
+    "timestamp": "20240725084236",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Q3COD45DCEDKSVU5C546SSQ4TBJEAVSD",
+    "mimetype": "text/html",
+    "length": "45837"
+   },
+   {
+    "timestamp": "20240726213201",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5IUBSZS5BKZ6PNAODWFWTUFMGXLOURNZ",
+    "mimetype": "text/html",
+    "length": "47994"
+   },
+   {
+    "timestamp": "20240727035707",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6N5XVACERBNZJQUAGREIVXDDYP5MUTC6",
+    "mimetype": "text/html",
+    "length": "46349"
+   },
+   {
+    "timestamp": "20240728132250",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "EONVMKFCNHELZOQSTS3FO7DKXXPVPJWE",
+    "mimetype": "text/html",
+    "length": "46398"
+   },
+   {
+    "timestamp": "20240729120021",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XVDLBBAEHR4MWBHLT76HNOJNX6FAXSXP",
+    "mimetype": "text/html",
+    "length": "46322"
+   },
+   {
+    "timestamp": "20240730012637",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "POF2E6ES5Z6P7IPDRNADQCSZHCKHXIGR",
+    "mimetype": "text/html",
+    "length": "46640"
+   },
+   {
+    "timestamp": "20240731021338",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2ZFEMY677V7M66PKM5BYDXOQXYE2Y4CS",
+    "mimetype": "text/html",
+    "length": "48193"
+   },
+   {
+    "timestamp": "20240801031106",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FRUCCUEG6UMUIAJKP5M2MKNFX5WNSAY5",
+    "mimetype": "text/html",
+    "length": "48155"
+   },
+   {
+    "timestamp": "20240802041137",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5FKVWU6TU7BADCYP2RKLW6WVE4IVJN4H",
+    "mimetype": "text/html",
+    "length": "44947"
+   },
+   {
+    "timestamp": "20240803112458",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HXWSTH5KNFN2WKFXJO62TIAIXQOEJCJF",
+    "mimetype": "text/html",
+    "length": "48145"
+   },
+   {
+    "timestamp": "20240804114356",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z5FP7RZ7UPFZUJOBYW6ITMNIV4WDLHAF",
+    "mimetype": "text/html",
+    "length": "44944"
+   },
+   {
+    "timestamp": "20240805120656",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WWNJWYX45RDNIOBNLA566INZVBSMUIBM",
+    "mimetype": "text/html",
+    "length": "49571"
+   },
+   {
+    "timestamp": "20240806100406",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IS7FB4UIZFAJNJU4N24ADJ6LIH5VQLYN",
+    "mimetype": "text/html",
+    "length": "49663"
+   },
+   {
+    "timestamp": "20240807140030",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UZIKWKARMUVKX4BXX5CJGKFZIYT34CLF",
+    "mimetype": "text/html",
+    "length": "48204"
+   },
+   {
+    "timestamp": "20240808083300",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VEL4HY7XQGM3EZ6RSEYBC2NNXBXWK76G",
+    "mimetype": "text/html",
+    "length": "46605"
+   },
+   {
+    "timestamp": "20240809073448",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SC5NQE3JZT2NBUON2FRMFAYAGGPTTWLZ",
+    "mimetype": "text/html",
+    "length": "46574"
+   },
+   {
+    "timestamp": "20240810023836",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "F2MN7AMW5H44QQF62HMA5OZZWOX5BPCS",
+    "mimetype": "text/html",
+    "length": "50396"
+   },
+   {
+    "timestamp": "20240811210613",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZRLVA52HSSE7G66YDVJ6UX5CTRKQFFNX",
+    "mimetype": "text/html",
+    "length": "50418"
+   },
+   {
+    "timestamp": "20240812033745",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "G4BPSSOLO7RXVPUDL4NW6CPDULUGYT6S",
+    "mimetype": "text/html",
+    "length": "48919"
+   },
+   {
+    "timestamp": "20240813052718",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MFLKQDIJ63SS3CFRAMPYZXN7N2DNXQS2",
+    "mimetype": "text/html",
+    "length": "48990"
+   },
+   {
+    "timestamp": "20240814063951",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MKYHPQ3YRT5VOPXGZSKWDUXSYM5EUCR5",
+    "mimetype": "text/html",
+    "length": "48944"
+   },
+   {
+    "timestamp": "20240815050325",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "F2M565EGMVSDS2VZ7OFIT6IA4IW3JAMG",
+    "mimetype": "text/html",
+    "length": "47247"
+   },
+   {
+    "timestamp": "20240816083403",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KBLNYXTVBJQYKWKSFKFIMPYER2AF6XOU",
+    "mimetype": "text/html",
+    "length": "53610"
+   },
+   {
+    "timestamp": "20240817015626",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZU7JVAOMISCOIR3VKMBRMRX3Z4FRSYOH",
+    "mimetype": "text/html",
+    "length": "55393"
+   },
+   {
+    "timestamp": "20240818065546",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JAEMFALAIQUXH72QSZG4XKZNW3PV6BMT",
+    "mimetype": "text/html",
+    "length": "55398"
+   },
+   {
+    "timestamp": "20240819100518",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "EFKB3YRQCJJQGIFVCNX4J3OIPJNYOYGP",
+    "mimetype": "text/html",
+    "length": "57699"
+   },
+   {
+    "timestamp": "20240820061535",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DHY6HIPN63G42E3W442A6NGNWXSXRMOE",
+    "mimetype": "text/html",
+    "length": "57723"
+   },
+   {
+    "timestamp": "20240821115348",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "I355JEWMWYZDN4TOWMTNP7QBVRILFUCZ",
+    "mimetype": "text/html",
+    "length": "57357"
+   },
+   {
+    "timestamp": "20240822130154",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "V2MLXCCH3ZTYLD33MHDWP5TTZCY3JN5X",
+    "mimetype": "text/html",
+    "length": "57351"
+   },
+   {
+    "timestamp": "20240823084802",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZNGIHVPRALUUNDEYB565T4NRM64OKCKV",
+    "mimetype": "text/html",
+    "length": "58071"
+   },
+   {
+    "timestamp": "20240824040221",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AFGSCPSVTJ42QOTQD2G7ATKMQA37PFN4",
+    "mimetype": "text/html",
+    "length": "57447"
+   },
+   {
+    "timestamp": "20240825102748",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "RQUJD72NGON3TOU2CEV5LHJ2THG6A3RN",
+    "mimetype": "text/html",
+    "length": "55092"
+   },
+   {
+    "timestamp": "20240826162315",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OMRSGQXKDLHVDBKYYDMTJLRBZJTAIJWG",
+    "mimetype": "text/html",
+    "length": "55074"
+   },
+   {
+    "timestamp": "20240827080041",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KOG6HMW7IXQUZGEN6WTXMZDQ373PKSGK",
+    "mimetype": "text/html",
+    "length": "55042"
+   },
+   {
+    "timestamp": "20240828142856",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "APTBNGHHD7R2CRMKATD23PPJE6QANPRB",
+    "mimetype": "text/html",
+    "length": "54999"
+   },
+   {
+    "timestamp": "20240829101926",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JK54TFU2E2QHT4RN5DTY6XEJTPKJMWBS",
+    "mimetype": "text/html",
+    "length": "57412"
+   },
+   {
+    "timestamp": "20240830190302",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NWIYRDSEJQCV4GCSOSTIAJDZIBC4PBOE",
+    "mimetype": "text/html",
+    "length": "57482"
+   },
+   {
+    "timestamp": "20240831050922",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5TWCDVHRVZNTUYLTKVJQVEMWP7M4AA2T",
+    "mimetype": "text/html",
+    "length": "55230"
+   },
+   {
+    "timestamp": "20240901052859",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XAN53YLKKAI3X6CTDOZBMOWDJR6JWPCN",
+    "mimetype": "text/html",
+    "length": "57520"
+   },
+   {
+    "timestamp": "20240902144016",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DGIB52H2QQ76G4I4XVCLOMMWC2C45FSC",
+    "mimetype": "text/html",
+    "length": "55089"
+   },
+   {
+    "timestamp": "20240903070606",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VERFA2XNOL6M7BC7N4WNPDMEDC4CCPX4",
+    "mimetype": "text/html",
+    "length": "55210"
+   },
+   {
+    "timestamp": "20240904010821",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4PKV3GBSW6W7MMBDALIS3YC5RRJDKA5C",
+    "mimetype": "text/html",
+    "length": "53550"
+   },
+   {
+    "timestamp": "20240905021559",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LJ4A4GYXBPSQKCGNFGBMJTWC7BFDPW5G",
+    "mimetype": "text/html",
+    "length": "53569"
+   },
+   {
+    "timestamp": "20240906025523",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JKATA2CMWSJ2EKOYJ4NQU2C46RUWAAOS",
+    "mimetype": "text/html",
+    "length": "56087"
+   },
+   {
+    "timestamp": "20240907020321",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "GXFWR5KOA7OMDCXXC2X75BJU4RVKY3EJ",
+    "mimetype": "text/html",
+    "length": "57722"
+   },
+   {
+    "timestamp": "20240908103414",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KTDCB5HNAJLBTNZZRHXYP2YUU6NUHP5Q",
+    "mimetype": "text/html",
+    "length": "56257"
+   },
+   {
+    "timestamp": "20240909005843",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LCDP5UVPVG6UJUKVXD6C4EM3NIWYKANB",
+    "mimetype": "text/html",
+    "length": "55387"
+   },
+   {
+    "timestamp": "20240910004309",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FMR3C5ZP7HJFTBKQKC5EHNQSYELF3BON",
+    "mimetype": "text/html",
+    "length": "62843"
+   },
+   {
+    "timestamp": "20240911103821",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3RAEB5MOGLIWR7IWPZK6AFVYBUEFHY3A",
+    "mimetype": "text/html",
+    "length": "57612"
+   },
+   {
+    "timestamp": "20240912152027",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z7UEAYKBMIJ7PTPC3X2KIXWHW7LRVN3S",
+    "mimetype": "text/html",
+    "length": "55540"
+   },
+   {
+    "timestamp": "20240913000116",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2RB4E3RUPXUSAJNXO3ZBZVWS6R3FJAOK",
+    "mimetype": "text/html",
+    "length": "56107"
+   },
+   {
+    "timestamp": "20240914011328",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NQ2JTIYHSZTMWXRUCTDC5KIBHUS56HVN",
+    "mimetype": "text/html",
+    "length": "53619"
+   },
+   {
+    "timestamp": "20240915013106",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4VMUMYLASSBMZZ6X6JV7OJ3BX5OX7DE4",
+    "mimetype": "text/html",
+    "length": "56031"
+   },
+   {
+    "timestamp": "20240916083005",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "S3WREYTOF6JABM6I32VM7ZHOHQOZSBGF",
+    "mimetype": "text/html",
+    "length": "53678"
+   },
+   {
+    "timestamp": "20240917092638",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "W2DOWDWBEQTJ7VH3SA6HEQ5YY2V4COLC",
+    "mimetype": "text/html",
+    "length": "55996"
+   },
+   {
+    "timestamp": "20240918104215",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DGAYM5RCH7SP2CVVTTZEDYB4FUYLUUUB",
+    "mimetype": "text/html",
+    "length": "53661"
+   },
+   {
+    "timestamp": "20240919051830",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HGFJC4SC3L3T2PY52YYGTTWALQ7YR5KY",
+    "mimetype": "text/html",
+    "length": "55505"
+   },
+   {
+    "timestamp": "20240920103058",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WMOIC2T2547SQPSGE6X2IDA5M7VXL4L4",
+    "mimetype": "text/html",
+    "length": "60720"
+   },
+   {
+    "timestamp": "20240921045439",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DWHUSVLH5KBIGTF2G64R3GG3CX3IPB4D",
+    "mimetype": "text/html",
+    "length": "60516"
+   },
+   {
+    "timestamp": "20240922131549",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CT4435G4W4YR2STCWXB6KVSA2ZG2CYNN",
+    "mimetype": "text/html",
+    "length": "58723"
+   },
+   {
+    "timestamp": "20240923094345",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IIARTDW5VJ4U5XZYD2S7NB3KN5TYX7S3",
+    "mimetype": "text/html",
+    "length": "62829"
+   },
+   {
+    "timestamp": "20240925031427",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "TAM4J4VWTHDEYW7GRRHJV7ATU7MWQAYY",
+    "mimetype": "text/html",
+    "length": "64309"
+   },
+   {
+    "timestamp": "20240928155742",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FXBM4GPYPY4NEOQIZ2RBAZ37AIA6PZAS",
+    "mimetype": "text/html",
+    "length": "62654"
+   },
+   {
+    "timestamp": "20241002093727",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UEDCDILAFLV7I7MPQ2GZOLMKCT4K6SEW",
+    "mimetype": "text/html",
+    "length": "61119"
+   },
+   {
+    "timestamp": "20241003114306",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KYYOQJJQHKUAEYZJYEEKWQ3KM4UFTITD",
+    "mimetype": "text/html",
+    "length": "63386"
+   },
+   {
+    "timestamp": "20241004004800",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LKLIS4X2DPZBRTIEYP656QF6OSWYDSMG",
+    "mimetype": "text/html",
+    "length": "61883"
+   },
+   {
+    "timestamp": "20241005035902",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JGM7UHOUQJCWHY6KQSY74COUXMZOR3H4",
+    "mimetype": "text/html",
+    "length": "61246"
+   },
+   {
+    "timestamp": "20241006033739",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XRYLOS275NJXCZAMEJQEUMY3JDB5OCMG",
+    "mimetype": "text/html",
+    "length": "61905"
+   },
+   {
+    "timestamp": "20241007095135",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "N5V3RNPCF6QCYZM4NGHGY5MMASOVNUNB",
+    "mimetype": "text/html",
+    "length": "63494"
+   },
+   {
+    "timestamp": "20241008003348",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "532MBHUKLDEI7FVE3PS6EJBS6JGOITFF",
+    "mimetype": "text/html",
+    "length": "61219"
+   },
+   {
+    "timestamp": "20241009043400",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "77MCBWQ3TJOMH6Q75FJDZ72V234NPMLL",
+    "mimetype": "text/html",
+    "length": "59576"
+   },
+   {
+    "timestamp": "20241014202456",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OJIOVRBOZIL2RT4ZBJ2HTMORYUUF65P3",
+    "mimetype": "text/html",
+    "length": "63833"
+   },
+   {
+    "timestamp": "20241019072959",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "GJVIGJ3VBONPKI4CCGL7OXPLCRN63P7J",
+    "mimetype": "text/html",
+    "length": "63775"
+   },
+   {
+    "timestamp": "20241026070616",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MSFY3XYRWZISENU4HUFESSHDI6WPLLAJ",
+    "mimetype": "text/html",
+    "length": "61394"
+   },
+   {
+    "timestamp": "20241029230731",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4CLMGGEDF2NQEBMFJINJYHC5VIMNVE7V",
+    "mimetype": "text/html",
+    "length": "61343"
+   },
+   {
+    "timestamp": "20241102053718",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JYQQG2DADMY63WFQLD6JPGYKH37W2T3Y",
+    "mimetype": "text/html",
+    "length": "63776"
+   },
+   {
+    "timestamp": "20241105151623",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NCSG6J2J7IV6VEKGFXRDQMPFM5DPCGAP",
+    "mimetype": "text/html",
+    "length": "55926"
+   },
+   {
+    "timestamp": "20241107103450",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WQ6UVZNODDNS6CFEEWKJ3LQN6ZUQG7X2",
+    "mimetype": "text/html",
+    "length": "56437"
+   },
+   {
+    "timestamp": "20241109045000",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SC7GOFXQHROHIZTWQ2KX6OZ72JS3FMHE",
+    "mimetype": "text/html",
+    "length": "63935"
+   },
+   {
+    "timestamp": "20241113042327",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "52V7ESUMT6X7LANFDGI7CUCMDG7AJYJG",
+    "mimetype": "text/html",
+    "length": "63691"
+   },
+   {
+    "timestamp": "20241114010021",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZUOU4L4ZR5Z67NSPAAPLPCSAW5M7OM7W",
+    "mimetype": "text/html",
+    "length": "63744"
+   },
+   {
+    "timestamp": "20241116202112",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OV456WM4YRH2OOT3AFDRUDEJZSAQGLTI",
+    "mimetype": "text/html",
+    "length": "60819"
+   },
+   {
+    "timestamp": "20241123061827",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HYFGH3UQGQOOLEBWN3BYYW76RUCLEAYN",
+    "mimetype": "text/html",
+    "length": "65337"
+   },
+   {
+    "timestamp": "20241128015049",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FXVV4IJTCFSNR6XEDFUXMBLBKMH3FE2J",
+    "mimetype": "text/html",
+    "length": "60947"
+   },
+   {
+    "timestamp": "20241130033456",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UEBEBW45O423Y3GOUHDEHD3Z7MFCGA6X",
+    "mimetype": "text/html",
+    "length": "60828"
+   },
+   {
+    "timestamp": "20241202231401",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PK7H4ATUAZHFA3HFDJMT2ZIEYJMS755E",
+    "mimetype": "text/html",
+    "length": "63286"
+   },
+   {
+    "timestamp": "20241205051325",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "G5CXR33YR55T6L5F7I5WCI3OAN6PUWEQ",
+    "mimetype": "text/html",
+    "length": "63372"
+   },
+   {
+    "timestamp": "20241207083439",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XKJRIUNTITPFRILXY4LFRCRXCE4LTKIH",
+    "mimetype": "text/html",
+    "length": "61044"
+   },
+   {
+    "timestamp": "20241212033021",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KOMPEKAR2TZWNYRLOPJBZVWBQVV6BWMG",
+    "mimetype": "text/html",
+    "length": "63302"
+   },
+   {
+    "timestamp": "20241213153835",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7P26L7Z5ON4ERXXWKMUZ6F2L24ZLS7D4",
+    "mimetype": "text/html",
+    "length": "63200"
+   },
+   {
+    "timestamp": "20241214041707",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MJ4OVHXNMTDS2W4MSMQYEWMHEG5NRJGO",
+    "mimetype": "text/html",
+    "length": "60987"
+   },
+   {
+    "timestamp": "20241219024131",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ROYIGZI46ZITC327PEB7UZQMPZM47RS4",
+    "mimetype": "text/html",
+    "length": "63107"
+   },
+   {
+    "timestamp": "20241221051511",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DSWOGJANR2X4KFTARQSGNZKZHB35BYYE",
+    "mimetype": "text/html",
+    "length": "63072"
+   },
+   {
+    "timestamp": "20241223232552",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5FJTJ6B6TPWMIOPIHT6LIDSVN5BZVNCR",
+    "mimetype": "text/html",
+    "length": "60606"
+   },
+   {
+    "timestamp": "20241225163937",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UNAHCQOMGJO3WXKJKBTM6B5EWR43Y47H",
+    "mimetype": "text/html",
+    "length": "62895"
+   },
+   {
+    "timestamp": "20241228034258",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KWLT3ORIU33NFAB2WKSIICMH4GFGOFRQ",
+    "mimetype": "text/html",
+    "length": "60548"
+   },
+   {
+    "timestamp": "20250104070357",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UP5UGIVLNDULOAOD62TDAFEDCN6VQXNW",
+    "mimetype": "text/html",
+    "length": "62949"
+   },
+   {
+    "timestamp": "20250105090828",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AFDNLLMADCBKTOSYIARIR5UT5U4QMGXV",
+    "mimetype": "text/html",
+    "length": "62941"
+   },
+   {
+    "timestamp": "20250107102208",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6QRUXTKKFDDKER46IQBIY47CP7FFA55J",
+    "mimetype": "text/html",
+    "length": "62910"
+   },
+   {
+    "timestamp": "20250109103218",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5XO4HDU6ZX3KFRDE5AL4KV2P3SS4D4WS",
+    "mimetype": "text/html",
+    "length": "62880"
+   },
+   {
+    "timestamp": "20250111074558",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DIKVAXDB4UGHP6AAUJ2YUED6UIM6MFFP",
+    "mimetype": "text/html",
+    "length": "62927"
+   },
+   {
+    "timestamp": "20250112133548",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2ZLLZ4ZJKS4EB7N6OSZOYRDSNZXCWAIJ",
+    "mimetype": "text/html",
+    "length": "63934"
+   },
+   {
+    "timestamp": "20250113042612",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HOIONTNSO2S2HADKEFBEQS2ETJEJN7GD",
+    "mimetype": "text/html",
+    "length": "62809"
+   },
+   {
+    "timestamp": "20250114075621",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AXMSAF4TKZEKUKE4VIPICPTMBEIB3JGK",
+    "mimetype": "text/html",
+    "length": "60450"
+   },
+   {
+    "timestamp": "20250118043505",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AAZPUFY7RZBX73YTOX3D6AWPEKNVTV62",
+    "mimetype": "text/html",
+    "length": "61297"
+   },
+   {
+    "timestamp": "20250119080645",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PJMJDCHWCXKTJDYF5YMTSGYWOCFC54MP",
+    "mimetype": "text/html",
+    "length": "61266"
+   },
+   {
+    "timestamp": "20250120104404",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IR3E5ZNQYJRDGUAA4MAHV3GY7VPFFUNA",
+    "mimetype": "text/html",
+    "length": "61254"
+   },
+   {
+    "timestamp": "20250121100535",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VKNUPM6PPIMECX6CJTJC6ZX6VQJDSLLY",
+    "mimetype": "text/html",
+    "length": "61303"
+   },
+   {
+    "timestamp": "20250123052628",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HVFZM2GKTMFUVMEVGLLLTQJ4DB3N3AXC",
+    "mimetype": "text/html",
+    "length": "61220"
+   },
+   {
+    "timestamp": "20250124130838",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "F6N4SRKOFC345SXKAWHQAXUCHYCEXANH",
+    "mimetype": "text/html",
+    "length": "63752"
+   },
+   {
+    "timestamp": "20250125043745",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DXWAEWFPNGSFIDRR2PKP2GBHYVJWBB45",
+    "mimetype": "text/html",
+    "length": "63644"
+   },
+   {
+    "timestamp": "20250127022621",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JO2JRO7EMEVTYITJEAX56ATJ23VIF663",
+    "mimetype": "text/html",
+    "length": "61327"
+   },
+   {
+    "timestamp": "20250129020238",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KVJ4244GQPZ47Y7B4WE5XZ25UTCLJPWE",
+    "mimetype": "text/html",
+    "length": "61045"
+   },
+   {
+    "timestamp": "20250130055833",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SJYX3M5G5UFJ24ZQB4P3SHLGVTE4OLTQ",
+    "mimetype": "text/html",
+    "length": "62346"
+   },
+   {
+    "timestamp": "20250201025946",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "K63DELDE4XMCQXCNNYB5RQ4IYDPOUVW5",
+    "mimetype": "text/html",
+    "length": "63808"
+   },
+   {
+    "timestamp": "20250208051228",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AQ64RXUAUE4FJ4TMPDI2OEFI66GRYZNY",
+    "mimetype": "text/html",
+    "length": "63188"
+   },
+   {
+    "timestamp": "20250211101223",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IJ5QCTXBUDAFXI555P7TUDUDI3OWOOPK",
+    "mimetype": "text/html",
+    "length": "63028"
+   },
+   {
+    "timestamp": "20250215033313",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "QJXZDUHEHX4Q2NKUGAPTS4D7KWW2QF3Q",
+    "mimetype": "text/html",
+    "length": "60756"
+   },
+   {
+    "timestamp": "20250216085324",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PS7E33IKZXC6GLDBLNKMBUUOCS5HHLRI",
+    "mimetype": "text/html",
+    "length": "61488"
+   },
+   {
+    "timestamp": "20250222111452",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZTEAR7VSG6DHYS6JY5IPGQWZ43XTFDXE",
+    "mimetype": "text/html",
+    "length": "61591"
+   },
+   {
+    "timestamp": "20250224080255",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "B7QKDM4FRJXOKMT7OZNQKDXVVDWNIKHW",
+    "mimetype": "text/html",
+    "length": "64841"
+   },
+   {
+    "timestamp": "20250225021033",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "GRMVEK4VVLQQPXDWK62IV6YDHP7VG52S",
+    "mimetype": "text/html",
+    "length": "68888"
+   },
+   {
+    "timestamp": "20250317013330",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PX3BWMQHWI4FWCYDHZMWT3R4FZ2C3BRH",
+    "mimetype": "text/html",
+    "length": "61599"
+   },
+   {
+    "timestamp": "20250405003506",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NT47LOSMFQ7BG3EIOFMAUOXLAHZ4P2TW",
+    "mimetype": "text/html",
+    "length": "67545"
+   },
+   {
+    "timestamp": "20250408212817",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IV2CG22KPQGYLWRMGDR5UKA36J6WIKVW",
+    "mimetype": "text/html",
+    "length": "67357"
+   },
+   {
+    "timestamp": "20250416181824",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "C6FXN437WOL5AZ2MQBWSA2ZQSJCFEK3C",
+    "mimetype": "text/html",
+    "length": "67685"
+   },
+   {
+    "timestamp": "20250418050511",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WHTUGJBRFATYGRC3PDXABGWH7UJT4E7P",
+    "mimetype": "text/html",
+    "length": "67827"
+   },
+   {
+    "timestamp": "20250425121621",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7A3KVRWZX25P7GPABQDRJDKYHQOCUQ3C",
+    "mimetype": "text/html",
+    "length": "64464"
+   },
+   {
+    "timestamp": "20250428040231",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "RWGUJ43Y7MR6KOCN5KYNZ7TRCG4RUXP7",
+    "mimetype": "text/html",
+    "length": "67728"
+   },
+   {
+    "timestamp": "20250501214200",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "EFCPNINCSF472UXJ7OFODPPS6G6SP5KR",
+    "mimetype": "text/html",
+    "length": "65440"
+   },
+   {
+    "timestamp": "20250511130905",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3DYAPR5I5XUSABAAW6VUUUZVKNU53U3R",
+    "mimetype": "text/html",
+    "length": "64061"
+   },
+   {
+    "timestamp": "20250513181848",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "F5CJ2XW7XENPUEEMTAK2PL643D7IH5OC",
+    "mimetype": "text/html",
+    "length": "67501"
+   },
+   {
+    "timestamp": "20250524220624",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3HFKWOOKYLAKE2CFT5IKNC6OGPT2EMWG",
+    "mimetype": "text/html",
+    "length": "64486"
+   },
+   {
+    "timestamp": "20250529055435",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KK4WLOWL5QOW3TYLNTE4JYOYQ2VRRBQT",
+    "mimetype": "text/html",
+    "length": "65381"
+   },
+   {
+    "timestamp": "20250608040958",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "42276I5CKKEN2W4YFFKPBHNA2BAE4CHH",
+    "mimetype": "text/html",
+    "length": "67752"
+   },
+   {
+    "timestamp": "20250613124154",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UAZPMESEWPPDULUVONUKPLSPEA6X5XXX",
+    "mimetype": "text/html",
+    "length": "70507"
+   },
+   {
+    "timestamp": "20250618135250",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SFJL2G5APFHC76BLRBDSVXHUHARHRPMX",
+    "mimetype": "text/html",
+    "length": "67781"
+   },
+   {
+    "timestamp": "20250625042745",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SYZU4GAQB6YQV73CLQZYQ2WVKGRPA3Y3",
+    "mimetype": "text/html",
+    "length": "64309"
+   },
+   {
+    "timestamp": "20250701223027",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7PXXJXHDECASTKJ6U2QSISDN2MKZV33K",
+    "mimetype": "text/html",
+    "length": "70388"
+   },
+   {
+    "timestamp": "20250703080535",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VOXZWX5ENK4IT6SSJZJEBALR2UJ2UH4U",
+    "mimetype": "text/html",
+    "length": "68139"
+   },
+   {
+    "timestamp": "20250710055626",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5Y6A37VS7ONSAX3LUDI7YGFGYYHRYJF2",
+    "mimetype": "text/html",
+    "length": "68229"
+   },
+   {
+    "timestamp": "20250716004225",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "V7OHZ6OH6LEEDV3CLUVDPNUD5QMP4CDS",
+    "mimetype": "text/html",
+    "length": "68043"
+   },
+   {
+    "timestamp": "20250718133121",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "P3AV532VC3JQ7NH72KZTDGGFOOUPKO34",
+    "mimetype": "text/html",
+    "length": "62241"
+   },
+   {
+    "timestamp": "20250725134745",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JXX6QYCMETRDRFCLTXPHV3AUZGCVN26U",
+    "mimetype": "text/html",
+    "length": "65579"
+   },
+   {
+    "timestamp": "20250727225415",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "400",
+    "digest": "IVR5L4XCZU5J2F5BHYZLZJEA4B7ERUCN",
+    "mimetype": "text/html",
+    "length": "3880"
+   },
+   {
+    "timestamp": "20250801181501",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HHCH3265RFHROZBAXMGRESUH65PQPFJS",
+    "mimetype": "text/html",
+    "length": "70157"
+   },
+   {
+    "timestamp": "20250815055829",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JJIJPRPCD5PFVGNCWBQLDPWJZ74M252U",
+    "mimetype": "text/html",
+    "length": "67902"
+   },
+   {
+    "timestamp": "20250818120648",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "400",
+    "digest": "LEGUMXN6LULPTGVUT5L2QIAUKLW4GSUG",
+    "mimetype": "text/html",
+    "length": "3919"
+   },
+   {
+    "timestamp": "20250820071524",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "RZFYSOQAUIEG7DBLFLIS5T2OFKGYIKQR",
+    "mimetype": "text/html",
+    "length": "72178"
+   },
+   {
+    "timestamp": "20250823203825",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2YH44JZ6GLVGUZBD5AB2KSDV3V7U7G3H",
+    "mimetype": "text/html",
+    "length": "72370"
+   },
+   {
+    "timestamp": "20250825082629",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3R46YJRIWZXVS4GJVCMFG5354RJ3XA7M",
+    "mimetype": "text/html",
+    "length": "72251"
+   },
+   {
+    "timestamp": "20250901010548",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7HUKCFO2AOPHDZ46UF4CMT3KXQMRKPSP",
+    "mimetype": "text/html",
+    "length": "71650"
+   },
+   {
+    "timestamp": "20250907032449",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IJ7Y4OUHOWMVYPQHSMPHXCNQBCURWCTP",
+    "mimetype": "text/html",
+    "length": "65955"
+   },
+   {
+    "timestamp": "20250912133233",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4ZBP4ZMFH3E4AIIGI4F7EB2GHJ5FKSDW",
+    "mimetype": "text/html",
+    "length": "71925"
+   },
+   {
+    "timestamp": "20250915053459",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms",
+    "statuscode": "200",
+    "digest": "2ZZEXHFBJGA7X7EW265BLXOF6CC2GISG",
+    "mimetype": "text/html",
+    "length": "69459"
+   },
+   {
+    "timestamp": "20250917185735",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4UKZC7XG6NGNMKWYOVZHMTCG7AY7HWOW",
+    "mimetype": "text/html",
+    "length": "65804"
+   },
+   {
+    "timestamp": "20250920092646",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "42XL7ZBEJGOVZSOES2YVRUPP2TVTZO3S",
+    "mimetype": "text/html",
+    "length": "72193"
+   },
+   {
+    "timestamp": "20250923192619",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "400",
+    "digest": "EWTEJGR4CGB2UFNBPAF2W2VOWS2OKKTT",
+    "mimetype": "text/html",
+    "length": "3869"
+   },
+   {
+    "timestamp": "20250927135657",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KM265TR4EGYFWS2BI2A5EDOX7SCENJGR",
+    "mimetype": "text/html",
+    "length": "69787"
+   },
+   {
+    "timestamp": "20250930163210",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "B7H555FNHJ4YFBZT6NCNNMAM2T4SKGFN",
+    "mimetype": "text/html",
+    "length": "72198"
+   },
+   {
+    "timestamp": "20251001134527",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OSKU2YO4LERB4UUQ2LOL5IAR3O6MG66T",
+    "mimetype": "text/html",
+    "length": "69596"
+   },
+   {
+    "timestamp": "20251006104444",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IDNM4NLSK72RGIFQBME67JVS24UYUKAU",
+    "mimetype": "text/html",
+    "length": "66047"
+   },
+   {
+    "timestamp": "20251022202018",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DBXEURKKCKVIH27A4L4BGJEO6NU4PDWE",
+    "mimetype": "text/html",
+    "length": "72587"
+   },
+   {
+    "timestamp": "20251027020340",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MLROAJJJOEEXM7FOE7HVKLTG6YMPV4TI",
+    "mimetype": "text/html",
+    "length": "64162"
+   },
+   {
+    "timestamp": "20251029035859",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "QIG4O5UQL75CFSHY64D5HYRIJYER655L",
+    "mimetype": "text/html",
+    "length": "64707"
+   },
+   {
+    "timestamp": "20251101122130",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "7IKQE5EXPJJFPVNLQQSENSUY4KTGCNAT",
+    "mimetype": "text/html",
+    "length": "67949"
+   },
+   {
+    "timestamp": "20251112010830",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "WTEZTZ2C4WPUQ76BLXFCJ72LWVWODGMK",
+    "mimetype": "text/html",
+    "length": "72769"
+   },
+   {
+    "timestamp": "20251114011825",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MDECZNYOILIG3AFCMAFA7KRQHKDZ3UEN",
+    "mimetype": "text/html",
+    "length": "64063"
+   },
+   {
+    "timestamp": "20251116121751",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NHTXEOVVHHK4OKQO5EHN7RJGIXER2MSC",
+    "mimetype": "text/html",
+    "length": "64074"
+   },
+   {
+    "timestamp": "20251118000518",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HQ7WKSWR5EQ6VTFDAFEAY7R4CO3LP7D6",
+    "mimetype": "text/html",
+    "length": "68028"
+   },
+   {
+    "timestamp": "20251209214130",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VFCLP2M4QWEEKPZCJ434V25M2JFXZ5DS",
+    "mimetype": "text/html",
+    "length": "55117"
+   },
+   {
+    "timestamp": "20251214011631",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2I2SDZQLJDTT76LLVHYMYQIW4TZ4QIT5",
+    "mimetype": "text/html",
+    "length": "64618"
+   },
+   {
+    "timestamp": "20251215204819",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HBNGKD2U4TGWHQ7SLK3H6H5GE7LJU7QF",
+    "mimetype": "text/html",
+    "length": "64514"
+   },
+   {
+    "timestamp": "20251219040622",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JMHCQ2WZLTVB7TTRTWXSES6WU7ASYSDK",
+    "mimetype": "text/html",
+    "length": "61334"
+   },
+   {
+    "timestamp": "20251221071255",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CW45M64WYVK7TDIAPLJACBMQDKSCMK3L",
+    "mimetype": "text/html",
+    "length": "61726"
+   },
+   {
+    "timestamp": "20251222010341",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6WAQP3SB2M5XVUFKI2O766ILEA2FNAOU",
+    "mimetype": "text/html",
+    "length": "61384"
+   },
+   {
+    "timestamp": "20251225032516",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "QTKUQYBVBFETX7FLL2MD6EZNZ65PXQ7V",
+    "mimetype": "text/html",
+    "length": "64147"
+   },
+   {
+    "timestamp": "20251229213703",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZHQQ7IDMIRDUI5ZWSRTBHULPWHF5WQVS",
+    "mimetype": "text/html",
+    "length": "63897"
+   },
+   {
+    "timestamp": "20260107042651",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4O45YZKOODK7ORRLMR2SBMKLLFURHILJ",
+    "mimetype": "text/html",
+    "length": "56439"
+   },
+   {
+    "timestamp": "20260122101326",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UKTAEJ6PDSM7ZNTM72K2FOWUURNAYWH2",
+    "mimetype": "text/html",
+    "length": "63553"
+   },
+   {
+    "timestamp": "20260124131458",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5TVPDZNBP55QV64ESWPJB22R4PHMBLDA",
+    "mimetype": "text/html",
+    "length": "66755"
+   },
+   {
+    "timestamp": "20260125155512",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "A2VP5OWWAEU7UJVKMHZZ7CVVIBHM6OCW",
+    "mimetype": "text/html",
+    "length": "60875"
+   },
+   {
+    "timestamp": "20260127161832",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "C2HGCKKGKK6BTIKV6N6SIPKJZCR6HJK5",
+    "mimetype": "text/html",
+    "length": "58780"
+   },
+   {
+    "timestamp": "20260128183801",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4UKHQNMJEZJTAT2A2JKYRZRPX6VM74QU",
+    "mimetype": "text/html",
+    "length": "55868"
+   },
+   {
+    "timestamp": "20260129193455",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "6FSLHYCZ4ZIIGXXHK2V5VQH2ZDFOEWOU",
+    "mimetype": "text/html",
+    "length": "63413"
+   },
+   {
+    "timestamp": "20260204030554",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NH5YK5FTOR65YS4RUNLJQECCZXD4WMSL",
+    "mimetype": "text/html",
+    "length": "61819"
+   },
+   {
+    "timestamp": "20260205025526",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FGAIZGROIHOMZ475HU5GV5VBMZMDKJWV",
+    "mimetype": "text/html",
+    "length": "59532"
+   },
+   {
+    "timestamp": "20260206160920",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CGVF3ELWHMFOVLAABRFWAFMP4DXWGXR5",
+    "mimetype": "text/html",
+    "length": "70337"
+   },
+   {
+    "timestamp": "20260207074639",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ELMGEWZ5HCI5QGE6WBVJSS6ZHXZAMJX5",
+    "mimetype": "text/html",
+    "length": "67920"
+   },
+   {
+    "timestamp": "20260208155340",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "I52DHUIA3ECCQFOYISXK63DPQBNESRUB",
+    "mimetype": "text/html",
+    "length": "67898"
+   },
+   {
+    "timestamp": "20260209011418",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "TKAYMYNNAA5H4BNWNPVDPVS7PP5EYMX4",
+    "mimetype": "text/html",
+    "length": "70409"
+   },
+   {
+    "timestamp": "20260211003654",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YLZNJJL4HRFFD2FVIUPKZC5R4XL4DNXP",
+    "mimetype": "text/html",
+    "length": "67917"
+   },
+   {
+    "timestamp": "20260212124039",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "63MX3OZMQUB65AWWYRKHFNG3PKQFXSEQ",
+    "mimetype": "text/html",
+    "length": "70196"
+   },
+   {
+    "timestamp": "20260216100821",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2RKBQY7LS5MKXJIDMCJ4F4CG7I6CQHK2",
+    "mimetype": "text/html",
+    "length": "64184"
+   },
+   {
+    "timestamp": "20260217084444",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SPMNZ7NFCWFVBNMVRPFAKSF47ARHCO5B",
+    "mimetype": "text/html",
+    "length": "61856"
+   },
+   {
+    "timestamp": "20260218103953",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DLYRKCKKSHPKAMGHTXKTPIUFEYUXBZ2E",
+    "mimetype": "text/html",
+    "length": "57586"
+   },
+   {
+    "timestamp": "20260219110521",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z5YDESLIZGDXR4UDDMTUOEJHZV6YAEJU",
+    "mimetype": "text/html",
+    "length": "68212"
+   },
+   {
+    "timestamp": "20260220013225",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IFZS4ZD7P62TLAI32RC6B2MOL6JYA4SS",
+    "mimetype": "text/html",
+    "length": "57473"
+   },
+   {
+    "timestamp": "20260303004213",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "O7WBM6U3TVKDQUFYV64EBTUQDDZFG7GK",
+    "mimetype": "text/html",
+    "length": "54764"
+   },
+   {
+    "timestamp": "20260307042645",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms",
+    "statuscode": "200",
+    "digest": "3E2O2UDTWA3MJKKMZ2ZMA7R3JSKIMYGX",
+    "mimetype": "text/html",
+    "length": "62528"
+   },
+   {
+    "timestamp": "20260309055438",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ECJT5MS4K2FP47CTULSF3P77X23OC2RQ",
+    "mimetype": "text/html",
+    "length": "66554"
+   },
+   {
+    "timestamp": "20260310034319",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "BC2FVCVT3Z4YTT6XQMIBBXY56H7KBROY",
+    "mimetype": "text/html",
+    "length": "60250"
+   },
+   {
+    "timestamp": "20260312012726",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZYNRJLOIUPVVRLK3L42FQSEF3QXY4JOL",
+    "mimetype": "text/html",
+    "length": "69255"
+   },
+   {
+    "timestamp": "20260319223904",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Q4VBP2QY6XYNWJB66LUYX2O3HMX2UE6W",
+    "mimetype": "text/html",
+    "length": "61262"
+   },
+   {
+    "timestamp": "20260327090818",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "RX3CDMQLTAYLS4OQESIDZ53HMOLFBJFO",
+    "mimetype": "text/html",
+    "length": "57652"
+   },
+   {
+    "timestamp": "20260329024946",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "BN25XCHD7AMVIFDSY7XG65VHBTSULMKQ",
+    "mimetype": "text/html",
+    "length": "63490"
+   },
+   {
+    "timestamp": "20260408085501",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CDE6DZVOQEUZGVYEAXUTSLPW6GEANKGZ",
+    "mimetype": "text/html",
+    "length": "64821"
+   },
+   {
+    "timestamp": "20260411024031",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KLLZHYEKDALUFSI2W5LZBEJNQGS42F4E",
+    "mimetype": "text/html",
+    "length": "61392"
+   },
+   {
+    "timestamp": "20260419113813",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "NL2BXPZK7OGWOAA6CFEKPNAJNECY22DW",
+    "mimetype": "text/html",
+    "length": "59443"
+   },
+   {
+    "timestamp": "20260422100815",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IZJYRGQHKABL25GQ2GHBXIVVACJRQH6W",
+    "mimetype": "text/html",
+    "length": "57296"
+   },
+   {
+    "timestamp": "20260423031126",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZRXP6G3X47DINWK7P6AKOJSO32Z3IDAF",
+    "mimetype": "text/html",
+    "length": "53747"
+   },
+   {
+    "timestamp": "20260427110457",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "E5OO3L4QN5XNXAJWKNWTT736DPCCLFPZ",
+    "mimetype": "text/html",
+    "length": "53854"
+   },
+   {
+    "timestamp": "20260428043342",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "THAPKY7G7GJLY4MDICKTJKTRKUADV34B",
+    "mimetype": "text/html",
+    "length": "53890"
+   },
+   {
+    "timestamp": "20260429132641",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "EG5W52DQYZFQTVBCOBZGP4CFFYJKK4NC",
+    "mimetype": "text/html",
+    "length": "54179"
+   },
+   {
+    "timestamp": "20260430054843",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VBY4C54H7TZ26DQBQJAQQ62IUBMQBH5X",
+    "mimetype": "text/html",
+    "length": "53987"
+   },
+   {
+    "timestamp": "20260502113231",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XN4P2JL7ZPMSDITR2MR7BP4KG347Q6AQ",
+    "mimetype": "text/html",
+    "length": "54052"
+   },
+   {
+    "timestamp": "20260503053209",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OAUZGXDKNQFW5ML6YSXBO3GRI3RGWTGT",
+    "mimetype": "text/html",
+    "length": "53550"
+   },
+   {
+    "timestamp": "20260504063306",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LX4KNS76YO4EQIR6UGAIUMF23V563JKL",
+    "mimetype": "text/html",
+    "length": "53575"
+   },
+   {
+    "timestamp": "20260505063259",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IDKAKIHK3LI4NBH6MCNXXSYJHIJNDMBX",
+    "mimetype": "text/html",
+    "length": "47026"
+   },
+   {
+    "timestamp": "20260507164853",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "D6JROYGNLYZ2IIGSUPXTBSIVQUELJNQJ",
+    "mimetype": "text/html",
+    "length": "52649"
+   },
+   {
+    "timestamp": "20260508013606",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UBH5VWMBTMUGLGWKDHP3SWGQ3PFZPL46",
+    "mimetype": "text/html",
+    "length": "53850"
+   },
+   {
+    "timestamp": "20260509041938",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "EFONTCZ4M5JS5THFMMYGH5LHXPHEH6QB",
+    "mimetype": "text/html",
+    "length": "53750"
+   },
+   {
+    "timestamp": "20260510103959",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VJEPR4HCATHQLWVUY2MPEHCEA2HHM4AM",
+    "mimetype": "text/html",
+    "length": "53640"
+   },
+   {
+    "timestamp": "20260511044423",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3PDET6UXLZZ3TXKKC6HPYUF3BBT6QJ6I",
+    "mimetype": "text/html",
+    "length": "53642"
+   },
+   {
+    "timestamp": "20260514100626",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YNRFVLZL5AVQ7636Y5E3FILM3JONS2TB",
+    "mimetype": "text/html",
+    "length": "54068"
+   },
+   {
+    "timestamp": "20260516130039",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UO7WXSWMKBZL7UL7JM2HI5IKZVDOHGZN",
+    "mimetype": "text/html",
+    "length": "55573"
+   },
+   {
+    "timestamp": "20260517163011",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YPWAXQF254DZTG7B5AUWLVHGGL7XSEPF",
+    "mimetype": "text/html",
+    "length": "53857"
+   },
+   {
+    "timestamp": "20260519053708",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "T4O5YI5AR6DU5TCMQ5MY5KHKHJWJIYHM",
+    "mimetype": "text/html",
+    "length": "49419"
+   },
+   {
+    "timestamp": "20260523085612",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3B52N4JHIYVK2ALH7GZAKPHK4XO3BVGL",
+    "mimetype": "text/html",
+    "length": "52345"
+   },
+   {
+    "timestamp": "20260528001236",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5TSNDRDBIYYBWFHT4IMNGHYTHV35P472",
+    "mimetype": "text/html",
+    "length": "52414"
+   },
+   {
+    "timestamp": "20260530054341",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "347HLUAPUL6JGOGVYFQMCDHDFPMSEWMK",
+    "mimetype": "text/html",
+    "length": "48552"
+   },
+   {
+    "timestamp": "20260531034955",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UNO3CFEHUBZWSFHW26RGPXZEBJZ7EFUL",
+    "mimetype": "text/html",
+    "length": "52950"
+   },
+   {
+    "timestamp": "20260601000544",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5N4HLD3GX5JM65AHFUNFOCPKHRNWBRUC",
+    "mimetype": "text/html",
+    "length": "53940"
+   },
+   {
+    "timestamp": "20260602135959",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5R2DFW6RDAJ2ZJG4UXXLJH4IXIWZRKLB",
+    "mimetype": "text/html",
+    "length": "53944"
+   },
+   {
+    "timestamp": "20260603000025",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CR4NAXXRKOSUQ3NKWNK2ELWAJZHG6RF6",
+    "mimetype": "text/html",
+    "length": "52286"
+   },
+   {
+    "timestamp": "20260605103840",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JNU4ANP4XMPB6QYHRV7JRYRQH3QD74EG",
+    "mimetype": "text/html",
+    "length": "53934"
+   },
+   {
+    "timestamp": "20260607055839",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "G3YSX3ZSX2H4ABSFFA7MKZR2UMKAMNWT",
+    "mimetype": "text/html",
+    "length": "49604"
+   },
+   {
+    "timestamp": "20260608001314",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "B5AMRNECFQCAXPGS5JYFKLJYLXPT7326",
+    "mimetype": "text/html",
+    "length": "52283"
+   },
+   {
+    "timestamp": "20260610063749",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2LJ4VVVA5VQSUAAUWORVCTDN7SSAGXWW",
+    "mimetype": "text/html",
+    "length": "54087"
+   },
+   {
+    "timestamp": "20260611115029",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KI2KYBSCC2IKEUT7OLKEBPDKVGCCZ6K7",
+    "mimetype": "text/html",
+    "length": "54169"
+   },
+   {
+    "timestamp": "20260612001349",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "I7MBJO6B6A7VGILGNSQBVVWOY7YP6LJ4",
+    "mimetype": "text/html",
+    "length": "49722"
+   },
+   {
+    "timestamp": "20260616070104",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "H3JB524U2KWWCVJFAH6A4VK4UIHDL6RF",
+    "mimetype": "text/html",
+    "length": "54086"
+   },
+   {
+    "timestamp": "20260617155936",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JNZWTH5WDFKQF26PYNK6GQACUI3M2JNA",
+    "mimetype": "text/html",
+    "length": "49646"
+   },
+   {
+    "timestamp": "20260618041916",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LCD37MR5TG5N3YHZILP53WOFWOIRBHF6",
+    "mimetype": "text/html",
+    "length": "54030"
+   },
+   {
+    "timestamp": "20260620155303",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "3S7SMOKQD2YR57VGGX3DMBOZIEEZNRQV",
+    "mimetype": "text/html",
+    "length": "54031"
+   },
+   {
+    "timestamp": "20260623033331",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UI7WWWXM25QBX2OFDJAIX2D5U3NXJSOH",
+    "mimetype": "text/html",
+    "length": "54363"
+   },
+   {
+    "timestamp": "20260624114914",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "AM4KWBAQMOLYXXHMNWEH64TBME7ENSVY",
+    "mimetype": "text/html",
+    "length": "54245"
+   },
+   {
+    "timestamp": "20260626053941",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ACRQR5NIH5GYXTKZDFDF52OIE5IXFDA7",
+    "mimetype": "text/html",
+    "length": "54328"
+   },
+   {
+    "timestamp": "20260627105117",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5XSEB2DUDOSLGT5LOQ66CM2SD5QD7LNB",
+    "mimetype": "text/html",
+    "length": "54332"
+   },
+   {
+    "timestamp": "20260628015941",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LN5L5YTPBFNOTSNRVCIEQR2747EZZN2U",
+    "mimetype": "text/html",
+    "length": "54216"
+   },
+   {
+    "timestamp": "20260701130443",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UGQWLEHTPDRSE7DWOVQ7SDTBHIRMNLMV",
+    "mimetype": "text/html",
+    "length": "54140"
+   },
+   {
+    "timestamp": "20260702094937",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z3UZXVA2HX263SGIP2IGHJQF5DRCS2WK",
+    "mimetype": "text/html",
+    "length": "54192"
+   },
+   {
+    "timestamp": "20260709012950",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "A77VXGYTHQ5S2U6TMQT4MRDZ2MITI7KW",
+    "mimetype": "text/html",
+    "length": "53988"
+   },
+   {
+    "timestamp": "20260710085134",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "N56NBA23PJIT7D73A5YPJ5XWNEILA2XS",
+    "mimetype": "text/html",
+    "length": "49583"
+   },
+   {
+    "timestamp": "20260711033122",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "PN5JTPCGC3262BO3IZQKFJG3ICQXRTZW",
+    "mimetype": "text/html",
+    "length": "54002"
+   },
+   {
+    "timestamp": "20260712161040",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HAFLLKTTOXXWG3ATQOVMWVWISFTUCCAR",
+    "mimetype": "text/html",
+    "length": "54042"
+   },
+   {
+    "timestamp": "20260716161624",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "A6SOVV47NDUHBUPFR33D4YER2DP4MGPQ",
+    "mimetype": "text/html",
+    "length": "54023"
+   },
+   {
+    "timestamp": "20260718191831",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "J7QVTM2JGQCAB7OIU45H3BSERJ5NB3KN",
+    "mimetype": "text/html",
+    "length": "53927"
+   },
+   {
+    "timestamp": "20260719195955",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "C2TUI7ZZNH6QIAAWAMSV7S2LWK2ZE2KB",
+    "mimetype": "text/html",
+    "length": "53907"
+   },
+   {
+    "timestamp": "20260720035935",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UJLK3OPF3JO6Y26SAN2V64IDVG6OOR4Z",
+    "mimetype": "text/html",
+    "length": "49204"
+   },
+   {
+    "timestamp": "20260721214550",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VGGSR7NX5KIX4PRVCDNY3YR6AXU25LH5",
+    "mimetype": "text/html",
+    "length": "49223"
+   },
+   {
+    "timestamp": "20260723162935",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IFKZBZWWR4JQII37MCZKP2DRE36NEVDD",
+    "mimetype": "text/html",
+    "length": "54052"
+   },
+   {
+    "timestamp": "20260725235250",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UQXPJVOEN5PUXTBC54KTJMOJWCRSFVOX",
+    "mimetype": "text/html",
+    "length": "54153"
+   },
+   {
+    "timestamp": "20260730092940",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DCVW6NELDVLIXUZF4DFHC2IQT5RHIWWT",
+    "mimetype": "text/html",
+    "length": "54041"
+   },
+   {
+    "timestamp": "20260801162041",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "GT4HTTOFVGTNJQCV2OWGSZSQ3X3Q5OOQ",
+    "mimetype": "text/html",
+    "length": "54138"
+   },
+   {
+    "timestamp": "20260803010850",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JTP3K6OC3FVSL5X3TCP3YQE6GXZRKYN3",
+    "mimetype": "text/html",
+    "length": "54291"
+   },
+   {
+    "timestamp": "20260807165113",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "OGBMYEOKW3EM3WIXOGFBVT3DKRZVGBFL",
+    "mimetype": "text/html",
+    "length": "54247"
+   },
+   {
+    "timestamp": "20260809003330",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DN4KHET5XCCQFRH6QO2PG7E74F4HQ3KS",
+    "mimetype": "text/html",
+    "length": "49809"
+   },
+   {
+    "timestamp": "20260810070654",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HNHLGHNLRMARTIZFYNRCJIVRNC3KFSFC",
+    "mimetype": "text/html",
+    "length": "54366"
+   },
+   {
+    "timestamp": "20260811160258",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XXEOPUGWZE26JC5ODSXJY34TITB4G2VD",
+    "mimetype": "text/html",
+    "length": "54470"
+   },
+   {
+    "timestamp": "20260812083454",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "KBLFR5EGMUURALSLNQIZB544MD4TA5VH",
+    "mimetype": "text/html",
+    "length": "54393"
+   },
+   {
+    "timestamp": "20260813154031",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "DGVIWP43KRQHLVW55I5X3HC5FOF5YIFA",
+    "mimetype": "text/html",
+    "length": "52673"
+   },
+   {
+    "timestamp": "20260815160146",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MH6LNJ2UK3YBVPCN7MEBNILNANXA3B2Y",
+    "mimetype": "text/html",
+    "length": "54418"
+   },
+   {
+    "timestamp": "20260818112501",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IKOSODVIV2FURN6NQ5FNFUX334PDYRJU",
+    "mimetype": "text/html",
+    "length": "54525"
+   },
+   {
+    "timestamp": "20260823161548",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "G4AUI7CF43NW6XITOMBNZMQAEZPTCZUC",
+    "mimetype": "text/html",
+    "length": "54419"
+   },
+   {
+    "timestamp": "20260825114652",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XRGU3LZ2KAGP4I2P2CUD5SFFABNQJNSH",
+    "mimetype": "text/html",
+    "length": "54413"
+   },
+   {
+    "timestamp": "20260829201142",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Z2EHNTDXMLV3A3OEPO2CE2JYUYKMUARC",
+    "mimetype": "text/html",
+    "length": "54502"
+   },
+   {
+    "timestamp": "20260909071602",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "G6WJWJNLIZLTFCH7NMXOO2F6RWNBTEI4",
+    "mimetype": "text/html",
+    "length": "54997"
+   },
+   {
+    "timestamp": "20260910092518",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2F3R3YZ3B5RW62MEDS3T4RYUSKY3XNEK",
+    "mimetype": "text/html",
+    "length": "50462"
+   },
+   {
+    "timestamp": "20260911135806",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UXWDZQ4S67VU2KYFQMZRMYGUXK2GYWZS",
+    "mimetype": "text/html",
+    "length": "55066"
+   },
+   {
+    "timestamp": "20260913015810",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VIF6OZXVUM2ZODUXFMOAMDJMNUXT6KQM",
+    "mimetype": "text/html",
+    "length": "55096"
+   },
+   {
+    "timestamp": "20260914080641",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "T6IZZQRNL3ICMJTEL6NFVCMGL2OTI7RN",
+    "mimetype": "text/html",
+    "length": "50379"
+   },
+   {
+    "timestamp": "20260915210822",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JMTQWHL2ESBDLXN4KBRKV4RT2T6EBFHE",
+    "mimetype": "text/html",
+    "length": "55073"
+   },
+   {
+    "timestamp": "20260916071604",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "HIQKB4B5TRMXBRP632JN3NBUMKVYYS3M",
+    "mimetype": "text/html",
+    "length": "48331"
+   },
+   {
+    "timestamp": "20260917123756",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "4V3MMD763B62MKVIHS4FRNCAN3ZBXEWG",
+    "mimetype": "text/html",
+    "length": "55059"
+   },
+   {
+    "timestamp": "20260918062622",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "USW7PO3HMETNJ4WDDXFHAFHVVJNW6E57",
+    "mimetype": "text/html",
+    "length": "53632"
+   },
+   {
+    "timestamp": "20260920191848",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "XYIAQRKPNB3P25O5QPYX27WUKMY52PRP",
+    "mimetype": "text/html",
+    "length": "55115"
+   },
+   {
+    "timestamp": "20260921050954",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2VNBRZ3XJVREJOCTMHPLOU2SR2NKCD6S",
+    "mimetype": "text/html",
+    "length": "55135"
+   },
+   {
+    "timestamp": "20260922194611",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "FSN4YNVHP7IM4BI4HQCOL5Q4F4BSABW4",
+    "mimetype": "text/html",
+    "length": "55178"
+   },
+   {
+    "timestamp": "20260924203219",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "62IBRCGYPJHO525537CJESLZNT4VXNB3",
+    "mimetype": "text/html",
+    "length": "55193"
+   },
+   {
+    "timestamp": "20260925220951",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "YY6CCJ4CJUO22CNCFGJXDT5LS54ABL6X",
+    "mimetype": "text/html",
+    "length": "55172"
+   },
+   {
+    "timestamp": "20260926223959",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "Q43MNMLVQXFOGMBNNAQRNN2LI5IEP5SL",
+    "mimetype": "text/html",
+    "length": "55051"
+   },
+   {
+    "timestamp": "20260927162435",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "5QL4PHFQOJEHUBGCIN63YMJPOS7PHHTX",
+    "mimetype": "text/html",
+    "length": "55027"
+   },
+   {
+    "timestamp": "20260928114158",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UQR6FN6OJ4HZUFHXR55GYYCTGZZP3QBL",
+    "mimetype": "text/html",
+    "length": "55136"
+   },
+   {
+    "timestamp": "20260929010824",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "35URTNDBTR6WRMATG52FZKI6E4S266VP",
+    "mimetype": "text/html",
+    "length": "55098"
+   },
+   {
+    "timestamp": "20260930000555",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "365Q3NKUNNSWYKROJQAMWJCM6H3M4XZI",
+    "mimetype": "text/html",
+    "length": "55213"
+   },
+   {
+    "timestamp": "20261001075251",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "CKPH4GSLSPCHDMI547XEFFNPS7BSOHRA",
+    "mimetype": "text/html",
+    "length": "55284"
+   },
+   {
+    "timestamp": "20261002091535",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "SK3LOCMPEO3VTWH6BQLVNGQ6X5ANCDVF",
+    "mimetype": "text/html",
+    "length": "55327"
+   },
+   {
+    "timestamp": "20261004232524",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "2CEXYUTBIARUAHE4CVY4JCOXXVAZUHJY",
+    "mimetype": "text/html",
+    "length": "55221"
+   },
+   {
+    "timestamp": "20261005110016",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "IVMLINLBESXK3GMF3XGXPGOJZOTP3ENJ",
+    "mimetype": "text/html",
+    "length": "56756"
+   },
+   {
+    "timestamp": "20261006105701",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "26TXUF4QA3RFNHL6EG5MTHSXFABTG7IC",
+    "mimetype": "text/html",
+    "length": "55439"
+   },
+   {
+    "timestamp": "20261009093440",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "VDBCPQ2FPJ34U5KVBGZOHCARK7LHT2ZG",
+    "mimetype": "text/html",
+    "length": "55509"
+   },
+   {
+    "timestamp": "20261010015209",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "ZNXV7XSHZXVWWEXF7Q5LNZV6MTC5YC3X",
+    "mimetype": "text/html",
+    "length": "55447"
+   },
+   {
+    "timestamp": "20261012070210",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "COIRPG7E6D6QWTEBLF4XXNOBPA77W2RJ",
+    "mimetype": "text/html",
+    "length": "55405"
+   },
+   {
+    "timestamp": "20261013021842",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "BEIA6SLJ3HA2ZC7XQK7YS54CJHG5ONCI",
+    "mimetype": "text/html",
+    "length": "55472"
+   },
+   {
+    "timestamp": "20261015000740",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "LB4PXWVKRGTGLARB76USW5U4RXF36NOW",
+    "mimetype": "text/html",
+    "length": "55857"
+   },
+   {
+    "timestamp": "20261018174701",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "UAW3WIBRCI7LGUSXXBGSRXYA2BXEOPMR",
+    "mimetype": "text/html",
+    "length": "55813"
+   },
+   {
+    "timestamp": "20261021062823",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "JBSUMMCCY52WLI23DY7R4NHAJIUOEETB",
+    "mimetype": "text/html",
+    "length": "55919"
+   },
+   {
+    "timestamp": "20261022104327",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "MNNOK76Y465GNRXCP4LR7TFTIKDXC5GU",
+    "mimetype": "text/html",
+    "length": "55897"
+   },
+   {
+    "timestamp": "20261024072233",
+    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+    "statuscode": "200",
+    "digest": "TOD7GZQV2JKUQ33UXGDCETJTU2AIXDJJ",
+    "mimetype": "text/html",
+    "length": "55868"
+   }
+  ]
+ }
+}
