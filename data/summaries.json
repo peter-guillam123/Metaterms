@@ -1,4 +1,33 @@
 {
+ "ai-terms-202412": {
+  "headline": "Adds separate AI terms for the UK, Brazil and the EU",
+  "summary": "The terms now say users in the United Kingdom, Brazil and the \"European Region\" each have their own Meta AIs Terms of Service for Meta's generative AI products and features. This replaces a note that only pointed UK users to separate UK terms."
+ },
+ "ai-terms-202502": {
+  "headline": "Clarifies warning on sharing sensitive information and updates date",
+  "summary": "Meta added \"such as\" to the warning not to share information users don't want the AIs to use and retain, so account identifiers, passwords and financial information now read as examples of sensitive information. The \"Last Updated\" date moves from 8 October 2024 to 17 January 2025."
+ },
+ "ai-terms-202506": {
+  "headline": "Adds Private Processing promise and drops effective and update dates",
+  "summary": "Meta added that when users share private messages with friends and family for AI features that use \"Private Processing technology\", Meta \"cannot read or access\" them, and that it provides Private Processing as a service on users' behalf. The effective date (23 July 2024) and last updated date (17 January 2025) no longer appear at the end of the page."
+ },
+ "ai-terms-202507": {
+  "headline": "Adds psychological advice ban and a professional care disclaimer",
+  "summary": "Meta added \"psychological\" to the medical, financial and legal advice that users may not solicit from its AIs. It also added that nothing the AIs generate \"should be interpreted as an offer or provision of professional care\" or as a substitute for a qualified provider."
+ },
+ "ai-terms-202601": {
+  "headline": "Rewrites AI terms with new banned uses and media consent rules",
+  "summary": "A broad rewrite, effective 18 December 2025. Meta bans more uses, including classifying people by social behaviour, predictive policing, scraping faces for recognition databases and workplace emotion recognition, and says it uses AI interactions to \"personalize your experiences and ads\". A section on analysing faces in images, with its Illinois and Texas rule, becomes \"Media Processing\", where users must confirm they have consent from the people shown."
+ },
+ "ai-terms-202605": {
+  "headline": "Menu or layout change only",
+  "summary": "A second \"Effective\" label appears beside the effective date, which stays at 18 December 2025, and the terms' wording did not change.",
+  "size": "formatting"
+ },
+ "ai-terms-202606": {
+  "headline": "Widens Private Processing wording and adds search partner detail",
+  "summary": "Meta reworded its Private Processing promise: it \"cannot read or access\" messages in any \"AI chats that use Private Processing technology\", not only messages shared with friends and family. It added that search terms based on such chats may go to search partners, but \"These queries are not connected to your account.\" The effective date moves to 13 May 2026."
+ },
  "audience-network-policy-202607": {
   "headline": "Adds an \"Updated\" date of 20 April 2026",
   "summary": "The page now shows \"Updated: Apr 20, 2026\" at the top, and the wording of the policy did not change.",
@@ -152,6 +181,91 @@
   "summary": "The line \"Amended Pages Terms for State and Local Governments in the United States\" is back after being missing from the previous copy. It appears in some archived copies of the page and not others, so this is probably an archiving artefact rather than an edit by Meta.",
   "size": "formatting"
  },
+ "facebook-recommendations-guidelines-202501": {
+  "headline": "Drops clickbait and engagement bait from list of content not recommended",
+  "summary": "Meta removed clickbait and engagement bait from its examples of \"Content that Users Broadly Tell us they Dislike\", one of the categories Facebook may not recommend. Contests and giveaways and links to low-quality landing pages stay on the list."
+ },
+ "facebook-recommendations-guidelines-202502": {
+  "headline": "Menu or layout change only",
+  "summary": "A related help link changed from \"Recommend a business on Facebook\" to \"How Facebook suggests groups to join\", and the guidelines' wording did not change.",
+  "size": "formatting"
+ },
+ "facebook-recommendations-guidelines-202504": {
+  "headline": "Adds unrelated captions and comment networks to low-quality content",
+  "summary": "Meta added \"Long captions unrelated to the underlying content and coordinated comment networks\" meant to drive engagement and distribution artificially to its examples of low-quality publishing. Facebook may not recommend content in this category."
+ },
+ "facebook-recommendations-guidelines-202507": {
+  "headline": "Drops advertising ban as a reason not to recommend accounts",
+  "summary": "Meta removed accounts and entities that \"Have been banned from running ads on our platforms\" from the list Facebook generally does not recommend. It also retitled the page \"About recommendations on Facebook\" and changed the related help links."
+ },
+ "facebook-recommendations-guidelines-202508": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta removed the \"Was this helpful?\" prompt from the page, and the guidelines' wording did not change.",
+  "size": "formatting"
+ },
+ "facebook-recommendations-guidelines-202601": {
+  "headline": "Menu or layout change only",
+  "summary": "The page heading, feedback buttons and related help links drop out of the page until July 2026, but the guidelines' wording did not change.",
+  "size": "formatting"
+ },
+ "facebook-recommendations-guidelines-202607": {
+  "headline": "Adds teen age restrictions and drops health, finance and vaccine examples",
+  "summary": "A broad rewrite with a new focus on teens. Meta adds examples of posts it would \"age restrict\", such as weight loss products and alcohol recipes, and cuts the content it avoids recommending from five categories to three, dropping health and finance claims and contests. Vaccine misinformation is no longer listed, and fact-checking rules now apply only \"In countries where Meta supports third-party fact-checking\"."
+ },
+ "facebook-recommendations-guidelines-202608": {
+  "headline": "Drops ties to violent groups as a bar to recommendation",
+  "summary": "Meta removed accounts and entities that \"Are associated with offline movements or organizations that are tied to violence\" from the list Facebook generally does not recommend. The item is still absent in the September and October 2026 copies."
+ },
+ "facebook-recommendations-guidelines-202609": {
+  "headline": "Menu or layout change only",
+  "summary": "The page heading, feedback buttons and related help links are missing from this copy and return in October 2026, so this looks like a difference between archived versions rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "facebook-recommendations-guidelines-202610": {
+  "headline": "Menu or layout change only",
+  "summary": "The page heading, feedback buttons and related help links missing from the September 2026 copy return, so this looks like a difference between archived versions rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202412": {
+  "headline": "Adds account-support selfies to data list, effective 14 November 2024",
+  "summary": "The policy, now effective 14 November 2024, lists a \"photo or video selfie\" sent for account support among the information Meta uses for purposes such as safety and meeting legal duties. Aggregated analytics reports are now described as helping users as well as businesses, a heading on \"AI integrations\" appears and Novi drops from the examples of Meta Company Products. A banner announces the update."
+ },
+ "instagram-privacy-policy-202502": {
+  "headline": "Removes the banner announcing the November 2024 update",
+  "summary": "Meta took down the notice at the top of the page saying it updated the policy on 14 November 2024, and its link to the previous policy. The policy wording and effective date did not change.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202507": {
+  "headline": "Adds sharing with WhatsApp for linked accounts, effective 16 June 2025",
+  "summary": "The policy, now effective 16 June 2025, says that if users add a WhatsApp account to an \"Accounts Center\" with other Meta accounts, Meta will link them and \"share your information with WhatsApp\". It points to a WhatsApp help article for what WhatsApp shares with Meta. Ads are now personalised across \"Meta Company Products\" rather than \"Meta Products\", a wider group that includes WhatsApp."
+ },
+ "instagram-privacy-policy-202510": {
+  "headline": "Adds a banner announcing AI interactions will personalise ads from December",
+  "summary": "Meta added a banner at the top of the page saying \"We'll start using interactions with AIs to personalize experiences and ads\", with the change taking effect on 16 December 2025 and a link to the new policy. The policy text itself did not change."
+ },
+ "instagram-privacy-policy-202512": {
+  "headline": "Uses AI interactions for ads and to develop AI for third parties",
+  "summary": "In a broad rewrite effective 16 December 2025, Meta lists \"Interactions with AI at Meta and related metadata\", such as messages exchanged with its AI, among the information used for most purposes, including personalising content and ads. A new purpose lets Meta \"Develop and improve AI at Meta for Meta Products and for third parties\" using public content and AI interactions. Meta's address changes to 1 Meta Way."
+ },
+ "instagram-privacy-policy-202601": {
+  "headline": "Removes the banner announcing the December 2025 update",
+  "summary": "Meta took down the notice at the top of the page saying it updated the policy on 16 December 2025, and its link to the previous policy. The policy wording and effective date did not change.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202608": {
+  "headline": "Covers AI features that \"perform actions\", effective 23 July 2026",
+  "summary": "The policy, now effective 23 July 2026, says Meta's AI features \"do things like create and understand content\" and \"perform actions\", and a banner flags new detail on \"agentic AI capabilities\". Message metadata joins the information used for several purposes, including personalisation. The link to the US Regional Privacy Notice disappears but returns the next month, so that part is probably an archiving difference."
+ },
+ "instagram-privacy-policy-202609": {
+  "headline": "Restores the US privacy notice link, probably an archiving quirk",
+  "summary": "The link to the United States Regional Privacy Notice and the short section for US residents are back after being missing from the previous copy, and they are missing again the month after. This is probably an archiving artefact rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "instagram-privacy-policy-202610": {
+  "headline": "Drops the July 2026 update banner and, again, the US privacy notice",
+  "summary": "Meta took down the banner announcing its 23 July 2026 update on \"agentic AI capabilities\". The link to the United States Regional Privacy Notice and the short section for US residents are missing again after returning in the previous copy, so that part is probably an archiving artefact. The policy wording and effective date did not change.",
+  "size": "formatting"
+ },
  "instagram-recommendations-guidelines-202501": {
   "headline": "Refers to Community Standards instead of Community Guidelines",
   "summary": "Two mentions of \"Community Guidelines\" now say \"Community Standards\". The recommendation rules around them did not change."
@@ -196,6 +310,21 @@
  "music-guidelines-202507": {
   "headline": "Menu or layout change only",
   "summary": "The guidance on music density, short clips and visual content runs together on one line again, reversing an earlier layout change, and the wording did not change.",
+  "size": "formatting"
+ },
+ "partner-monetisation-policies-202605": {
+  "headline": "Shows the full policy text, probably an archiving difference",
+  "summary": "The earlier copy held only Meta for Business menus and a login prompt, so the policy text appearing here is probably a capture difference rather than new rules. The page says creators must live in an eligible country, post original content, have authentic engagement and a 30-day presence, and that politicians, parties and government bodies cannot earn money.",
+  "size": "formatting"
+ },
+ "partner-monetisation-policies-202607": {
+  "headline": "Loses the list of monetisation rules, probably an archiving difference",
+  "summary": "The rules on eligible countries, original content, authentic engagement, a 30-day presence and political entities no longer appear, and later copies also lack them. The line \"In order to earn money on Facebook, you must:\" now leads straight to links, which suggests the rules sit in a part of the page the archive did not capture rather than a removal by Meta.",
+  "size": "formatting"
+ },
+ "partner-monetisation-policies-202609": {
+  "headline": "Menu or layout change only",
+  "summary": "A \"Have a moment?\" heading appears on the page, and the policy wording is unchanged.",
   "size": "formatting"
  },
  "partner-monetisation-policies-202610": {
