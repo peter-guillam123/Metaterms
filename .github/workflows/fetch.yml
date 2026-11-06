@@ -30,20 +30,41 @@ jobs:
           python-version: "3.12"
 
       - name: Restore downloaded pages
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: raw
           key: raw-${{ github.run_id }}
           restore-keys: raw-
 
+      - name: Check the Wayback Machine answers
+        run: |
+          curl -sS -o /dev/null -w "cdx: %{http_code} in %{time_total}s\n" --max-time 60 \
+            "https://web.archive.org/cdx/search/cdx?url=facebook.com/legal/commercial_terms&limit=1" || true
+
       - name: Fetch
-        run: python fetch/run.py "$(cat fetch/job.txt)"
+        # Stops starting new work after BUDGET_MINUTES; partial results are
+        # kept and the next run carries on from them.
+        timeout-minutes: 40
+        env:
+          BUDGET_MINUTES: "25"
+        run: |
+          mkdir -p raw
+          pip install -q -r fetch/requirements.txt
+          python fetch/run.py "$(cat fetch/job.txt)"
+
+      - name: Save downloaded pages
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: raw
+          key: raw-${{ github.run_id }}
 
       - name: Commit results
+        if: always()
         run: |
           git config user.name "metaterms-bot"
           git config user.email "metaterms-bot@users.noreply.github.com"
-          git add data samples 2>/dev/null || true
+          for d in data samples; do [ -e "$d" ] && git add "$d"; done
           if git diff --cached --quiet; then
             echo "Nothing new to commit"
           else

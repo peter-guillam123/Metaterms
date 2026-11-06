@@ -1,20 +1,25 @@
 """Fetch archived copies of each page in terms.csv from the Wayback Machine.
 
-Usage: python fetch/run.py probe|full
+Usage: python fetch/run.py probe|full|reextract
 
-probe: list every archived copy of each page (and of any page it redirects
-       to), then download the oldest and newest copy as samples.
-full:  pick one copy per month and download it (see later commits).
+probe:     index each page's archived copies and save the oldest and newest
+           copy as samples, for tuning the text extractor.
+full:      fetch one copy per month and turn each into text. Works in
+           passes: every third month first, then the months between any two
+           that differ (to pin down when a change happened), then the rest.
+           Stops after BUDGET_MINUTES; the next run carries on.
+reextract: rebuild the text from pages already downloaded (no fetching).
+
+Everything is resumable: what's already in data/ is not fetched again.
 """
 
 import csv
 import gzip
+import hashlib
 import json
 import os
 import sys
-import urllib.parse
-from collections import Counter
-from concurrent.futures import ThreadPoolExecutor
+import time
 
 sys.path.insert(0, os.path.dirname(__file__))
 import wayback  # noqa: E402
@@ -22,8 +27,24 @@ import wayback  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 INDEX = os.path.join(DATA, "index")
+CAPS = os.path.join(DATA, "captures")
+TEXT = os.path.join(DATA, "text")
+RAW = os.path.join(ROOT, "raw")
 SAMPLES = os.path.join(ROOT, "samples")
-WINDOW_START = "20241101"
+
+FIRST_MONTH = (2024, 11)
+LAST_MONTH = (2026, 11)
+
+
+def months():
+    y, m = FIRST_MONTH
+    out = []
+    while (y, m) <= LAST_MONTH:
+        out.append(f"{y}{m:02d}")
+        m += 1
+        if m > 12:
+            y, m = y + 1, 1
+    return out
 
 
 def load_terms():
@@ -31,136 +52,261 @@ def load_terms():
         return list(csv.DictReader(f))
 
 
-def norm_path(url):
-    p = urllib.parse.urlsplit(url if "://" in url else "https://" + url)
-    host = p.netloc.lower().removeprefix("www.")
-    return host + p.path.rstrip("/")
+def read_json(path, default=None):
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    return default
 
 
-def discover(url):
-    """Distinct archived URLs with the same host and path, any query string."""
-    p = urllib.parse.urlsplit(url)
-    base = p.netloc + p.path.rstrip("/")
-    q = urllib.parse.urlencode({
-        "url": base,
-        "matchType": "prefix",
-        "from": "20240501",
-        "output": "json",
-        "fl": "original",
-        "collapse": "urlkey",
-        "limit": "500",
-    })
-    status, _, body, _ = wayback.get(f"{wayback.CDX}?{q}")
-    found = {url}
-    if status == 200 and body.strip():
-        rows = json.loads(body)[1:]
-        want = norm_path(url)
-        for (orig,) in rows:
-            if norm_path(orig) == want:
-                found.add(orig)
-    return sorted(found)
+def write_json(path, obj):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(obj, f, indent=1, ensure_ascii=False)
+    os.replace(tmp, path)
 
 
-def summarise(caps):
-    st = Counter(c["statuscode"][:1] + "xx" for c in caps)
-    months = sorted({c["timestamp"][:6] for c in caps
-                     if c["statuscode"] == "200" and c["timestamp"] >= WINDOW_START})
-    return {"total": len(caps), "status": dict(st), "months_200": months}
+def url_key(u):
+    return u.split("://", 1)[-1].lower().removeprefix("www.").rstrip("/")
 
+
+# ---------- index ----------
 
 def index_doc(doc):
+    """One exact-URL index lookup, plus one for a redirect target if the
+    page has moved. Wayback treats a trailing slash as the same URL."""
     slug = doc["slug"]
-    print(f"[{slug}] indexing", flush=True)
-    variants = {}
+    path = os.path.join(INDEX, f"{slug}.json")
+    idx = read_json(path)
+    if idx:
+        return idx
+    if wayback.out_of_time():
+        return None
+    wayback.log(f"[{slug}] indexing {doc['url']}")
+    urls = {}
     redirects = {}
-    queue = [doc["url"]]
-    seen = set()
-    depth = 0
-    while queue and depth < 3:
-        nxt = []
-        for url in queue:
-            for v in discover(url):
-                key = v.split("://", 1)[-1].lower().removeprefix("www.")
-                if key in seen:
-                    continue
-                seen.add(key)
-                caps = wayback.cdx(v)
-                if not caps:
-                    continue
-                variants[v] = caps
-                recent = [c for c in caps if c["timestamp"] >= WINDOW_START]
-                threes = [c for c in recent if c["statuscode"].startswith("3")]
-                if threes:
-                    last = threes[-1]
-                    target = wayback.redirect_target(last["timestamp"], last["original"])
-                    if target:
-                        redirects[v] = {"timestamp": last["timestamp"], "target": target}
-                        if norm_path(target) != norm_path(v):
-                            nxt.append(target)
-        queue = nxt
-        depth += 1
-    out = {
-        "slug": slug,
-        "url": doc["url"],
-        "redirects": redirects,
-        "variants": {v: {"summary": summarise(c), "captures": c} for v, c in variants.items()},
-    }
-    os.makedirs(INDEX, exist_ok=True)
-    with open(os.path.join(INDEX, f"{slug}.json"), "w") as f:
-        json.dump(out, f, indent=1)
-    for v, d in out["variants"].items():
-        s = d["summary"]
-        print(f"[{slug}]   {v}  total={s['total']} {s['status']} months200={len(s['months_200'])}", flush=True)
-    return out
+    todo = [doc["url"]]
+    while todo and len(urls) < 3:
+        url = todo.pop(0)
+        caps = wayback.cdx(url)
+        if caps is None:  # failed, not empty
+            wayback.log(f"[{slug}] index lookup failed; will retry next run")
+            return None
+        urls[url] = caps
+        recent = [c for c in caps if c["timestamp"] >= "20241101"]
+        ok = {c["timestamp"][:6] for c in recent if c["statuscode"] == "200"}
+        threes = [c for c in recent if c["statuscode"].startswith("3")]
+        if threes and len(ok) < 20:
+            last = threes[-1]
+            target = wayback.redirect_target(last["timestamp"], last["original"])
+            if target:
+                redirects[url] = {"timestamp": last["timestamp"], "target": target}
+                if url_key(target) not in {url_key(u) for u in list(urls) + todo}:
+                    todo.append(target)
+    idx = {"slug": slug, "url": doc["url"], "redirects": redirects, "urls": urls}
+    for u, caps in urls.items():
+        ok = {c["timestamp"][:6] for c in caps if c["statuscode"] == "200" and c["timestamp"] >= "20241101"}
+        wayback.log(f"[{slug}]   {u}: {len(caps)} captures, 200s in {len(ok)} months")
+    write_json(path, idx)
+    return idx
 
 
-def best_variant(idx):
-    best = None
-    for v, d in idx["variants"].items():
-        score = len(d["summary"]["months_200"])
-        if best is None or score > best[0]:
-            best = (score, v)
-    return best[1] if best and best[0] > 0 else None
+def pick_month_captures(idx):
+    """For each month, the best HTML capture: from the URL with the most
+    months of coverage where possible, closest to the 15th."""
+    pool = []
+    cover = {}
+    for u, caps in idx["urls"].items():
+        good = [c for c in caps if c["statuscode"] == "200" and "html" in c.get("mimetype", "html")]
+        cover[url_key(u)] = len({c["timestamp"][:6] for c in good})
+        pool.extend(good)
+    rank = {k: i for i, k in enumerate(sorted(cover, key=lambda k: -cover[k]))}
+    picks = {}
+    for mon in months():
+        cands = [c for c in pool if c["timestamp"][:6] == mon]
+        if not cands:
+            continue
+        mid = int(mon + "15120000")
+        cands.sort(key=lambda c: (rank.get(url_key(c["original"]), 9),
+                                  abs(int(c["timestamp"]) - mid)))
+        picks[mon] = cands[0]
+    return picks
 
 
-def sample_doc(idx):
-    slug = idx["slug"]
-    v = best_variant(idx)
-    if not v:
-        print(f"[{slug}] no 200 captures in window", flush=True)
-        return
-    caps = [c for c in idx["variants"][v]["captures"]
-            if c["statuscode"] == "200" and c["timestamp"] >= WINDOW_START]
-    os.makedirs(SAMPLES, exist_ok=True)
-    for label, c in (("early", caps[0]), ("late", caps[-1])):
-        status, headers, body, final = wayback.get(wayback.snapshot_url(c["timestamp"], c["original"]))
-        print(f"[{slug}] sample {label} {c['timestamp']} -> {status} {len(body)} bytes", flush=True)
-        if status == 200 and body:
-            with gzip.open(os.path.join(SAMPLES, f"{slug}.{label}.html.gz"), "wb") as f:
-                f.write(body)
+# ---------- fetch and extract ----------
+
+def raw_path(slug, ts):
+    return os.path.join(RAW, slug, f"{ts}.html.gz")
+
+
+def fetch_raw(slug, cap):
+    p = raw_path(slug, cap["timestamp"])
+    if os.path.exists(p):
+        with gzip.open(p, "rb") as f:
+            return f.read()
+    if wayback.out_of_time():
+        return None
+    status, _, body, final = wayback.get(wayback.snapshot_url(cap["timestamp"], cap["original"]))
+    if status != 200 or not body:
+        return None
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with gzip.open(p, "wb") as f:
+        f.write(body)
+    return body
+
+
+def to_text(slug, body):
+    import extract
+    text = extract.extract(body)
+    h = hashlib.sha1(text.encode("utf-8")).hexdigest()[:12]
+    p = os.path.join(TEXT, slug, f"{h}.txt")
+    if not os.path.exists(p):
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, "w", encoding="utf-8") as f:
+            f.write(text)
+    return h, len(text)
+
+
+def load_caps(doc):
+    return read_json(os.path.join(CAPS, f"{doc['slug']}.json"), {
+        "slug": doc["slug"], "title": doc["title"], "product": doc["product"],
+        "url": doc["url"], "months": {},
+    })
+
+
+def save_caps(caps):
+    caps["months"] = dict(sorted(caps["months"].items()))
+    write_json(os.path.join(CAPS, f"{caps['slug']}.json"), caps)
+
+
+def fetch_month(doc, caps, mon, cap):
+    body = fetch_raw(doc["slug"], cap)
+    entry = {"timestamp": cap["timestamp"], "original": cap["original"], "digest": cap["digest"]}
+    if body is None:
+        if wayback.out_of_time():
+            return False
+        entry["error"] = "fetch failed"
+    else:
+        h, n = to_text(doc["slug"], body)
+        entry["text_hash"] = h
+        entry["chars"] = n
+    caps["months"][mon] = entry
+    save_caps(caps)
+    return True
+
+
+def next_needed(picks, caps):
+    """Which month to fetch next for one page, or None."""
+    avail = [m for m in months() if m in picks]
+    if not avail:
+        return None
+    done = caps["months"]
+
+    def fetched(m):
+        return m in done and done[m].get("timestamp") == picks[m]["timestamp"]
+
+    # Pass 1: first, last, and every third month.
+    coarse = avail[::3] + [avail[-1]]
+    for m in coarse:
+        if not fetched(m):
+            return m
+    # Pass 2: between two fetched months whose text differs, fetch the middle.
+    have = [m for m in avail if fetched(m) and done[m].get("text_hash")]
+    for a, b in zip(have, have[1:]):
+        if done[a]["text_hash"] != done[b]["text_hash"]:
+            between = [m for m in avail if a < m < b and not fetched(m)]
+            if between:
+                return between[len(between) // 2]
+    # Pass 3: everything else, to confirm nothing changed and changed back.
+    for m in avail:
+        if not fetched(m):
+            return m
+    return None
+
+
+def full():
+    docs = load_terms()
+    plan = []
+    for doc in docs:
+        idx = index_doc(doc)
+        if idx:
+            plan.append((doc, pick_month_captures(idx)))
+    # Round-robin across pages so every page gets its coarse pass early.
+    progress = True
+    while progress and not wayback.out_of_time():
+        progress = False
+        for doc, picks in plan:
+            if wayback.out_of_time():
+                break
+            caps = load_caps(doc)
+            m = next_needed(picks, caps)
+            if m is None:
+                continue
+            if fetch_month(doc, caps, m, picks[m]):
+                progress = True
+    summary = {}
+    for doc, picks in plan:
+        caps = load_caps(doc)
+        done = caps["months"]
+        summary[doc["slug"]] = {
+            "months_archived": len(picks),
+            "months_fetched": sum(1 for m in done if done[m].get("text_hash")),
+            "versions": len({d.get("text_hash") for d in done.values() if d.get("text_hash")}),
+            "complete": next_needed(picks, caps) is None,
+        }
+    write_json(os.path.join(DATA, "status.json"), summary)
+    left = [s for s, v in summary.items() if not v["complete"]]
+    wayback.log(f"pages still to finish: {len(left)} {left}")
+
+
+def reextract():
+    for doc in load_terms():
+        caps = load_caps(doc)
+        for mon, entry in caps["months"].items():
+            p = raw_path(doc["slug"], entry["timestamp"])
+            if os.path.exists(p):
+                with gzip.open(p, "rb") as f:
+                    h, n = to_text(doc["slug"], f.read())
+                entry["text_hash"], entry["chars"] = h, n
+        save_caps(caps)
 
 
 def probe():
-    docs = load_terms()
-    with ThreadPoolExecutor(max_workers=3) as ex:
-        indexes = list(ex.map(index_doc, docs))
-    with ThreadPoolExecutor(max_workers=3) as ex:
-        list(ex.map(sample_doc, indexes))
-    coverage = {}
-    for idx in indexes:
-        v = best_variant(idx)
-        coverage[idx["slug"]] = {
-            "best_variant": v,
-            "months_200": idx["variants"][v]["summary"]["months_200"] if v else [],
-            "redirects": idx["redirects"],
-        }
-    with open(os.path.join(DATA, "coverage.json"), "w") as f:
-        json.dump(coverage, f, indent=1)
+    os.makedirs(SAMPLES, exist_ok=True)
+    for doc in load_terms():
+        idx = index_doc(doc)
+        if not idx:
+            continue
+        picks = pick_month_captures(idx)
+        if not picks:
+            wayback.log(f"[{doc['slug']}] no usable captures since Nov 2024")
+            continue
+        ms = sorted(picks)
+        for label, m in (("early", ms[0]), ("late", ms[-1])):
+            out = os.path.join(SAMPLES, f"{doc['slug']}.{label}.html.gz")
+            if os.path.exists(out):
+                continue
+            body = fetch_raw(doc["slug"], picks[m])
+            if body:
+                with gzip.open(out, "wb") as f:
+                    f.write(body)
+
+
+def write_log(mode, started):
+    os.makedirs(DATA, exist_ok=True)
+    with open(os.path.join(DATA, "last-run.log"), "w") as f:
+        f.write(f"mode={mode} requests={len(wayback.LOG)} "
+                f"minutes={(time.monotonic() - started) / 60:.1f}\n")
+        f.write("\n".join(wayback.LOG) + "\n")
 
 
 if __name__ == "__main__":
     mode = sys.argv[1] if len(sys.argv) > 1 else "probe"
-    if mode == "probe":
-        probe()
-    else:
-        sys.exit(f"unknown mode {mode}")
+    budget = float(os.environ.get("BUDGET_MINUTES", "20"))
+    started = time.monotonic()
+    wayback.DEADLINE[0] = started + budget * 60
+    try:
+        {"probe": probe, "full": full, "reextract": reextract}[mode]()
+    finally:
+        write_log(mode, started)

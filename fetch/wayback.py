@@ -17,13 +17,17 @@ CDX = "https://web.archive.org/cdx/search/cdx"
 
 _lock = threading.Lock()
 _last = [0.0]
-MIN_GAP = 1.2  # seconds between any two requests, across threads
+# Seconds between requests. The index (CDX) server refuses connections if
+# pushed, so it gets a wider gap than ordinary page fetches.
+GAP_CDX = 5.0
+GAP_PAGE = 2.0
 
 
-def _wait_turn():
+def _wait_turn(url):
+    gap_wanted = GAP_CDX if "/cdx/" in url else GAP_PAGE
     with _lock:
         now = time.monotonic()
-        gap = _last[0] + MIN_GAP - now
+        gap = _last[0] + gap_wanted - now
         if gap > 0:
             time.sleep(gap)
         _last[0] = time.monotonic()
@@ -38,36 +42,55 @@ _follow = urllib.request.build_opener()
 _nofollow = urllib.request.build_opener(NoRedirect)
 
 
-def get(url, follow=True, tries=6, timeout=60):
+LOG = []  # (seconds, status, url) for every request, written out by run.py
+DEADLINE = [None]  # monotonic time after which we stop retrying
+
+
+def log(msg):
+    print(msg, flush=True)
+    LOG.append(msg)
+
+
+def out_of_time():
+    return DEADLINE[0] is not None and time.monotonic() > DEADLINE[0]
+
+
+def get(url, follow=True, tries=4, timeout=45):
     """Return (status, headers, body bytes, final url)."""
     opener = _follow if follow else _nofollow
-    delay = 10
+    delay = 15
     for attempt in range(tries):
-        _wait_turn()
+        if out_of_time():
+            break
+        _wait_turn(url)
+        t0 = time.monotonic()
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         try:
             with opener.open(req, timeout=timeout) as r:
-                return r.status, dict(r.headers), r.read(), r.geturl()
+                body = r.read()
+                log(f"{time.monotonic() - t0:5.1f}s {r.status} {url}")
+                return r.status, dict(r.headers), body, r.geturl()
         except urllib.error.HTTPError as e:
+            log(f"{time.monotonic() - t0:5.1f}s {e.code} {url}")
             if e.code in (301, 302, 303, 307, 308) and not follow:
                 return e.code, dict(e.headers), b"", url
             if e.code == 404:
                 return 404, dict(e.headers), b"", url
             if e.code in (429, 500, 502, 503, 504, 520, 522, 524):
-                print(f"  {e.code} on {url}; waiting {delay}s", flush=True)
                 time.sleep(delay)
-                delay = min(delay * 2, 300)
+                delay = min(delay * 2, 120)
                 continue
             return e.code, dict(e.headers), b"", url
         except Exception as e:  # timeouts, resets
-            print(f"  {type(e).__name__} on {url}; waiting {delay}s", flush=True)
+            log(f"{time.monotonic() - t0:5.1f}s {type(e).__name__} ({str(e)[:80]}) {url}")
             time.sleep(delay)
-            delay = min(delay * 2, 300)
+            delay = min(delay * 2, 120)
     return None, {}, b"", url
 
 
 def cdx(url, start="20240501", end="20261231"):
-    """All captures of one exact URL, one per day at most."""
+    """All captures of one exact URL, one per day at most.
+    Returns [] if there are none, None if the lookup failed."""
     q = urllib.parse.urlencode({
         "url": url,
         "from": start,
@@ -76,7 +99,9 @@ def cdx(url, start="20240501", end="20261231"):
         "fl": "timestamp,original,statuscode,digest,mimetype,length",
         "collapse": "timestamp:8",
     })
-    status, _, body, _ = get(f"{CDX}?{q}")
+    status, _, body, _ = get(f"{CDX}?{q}", tries=5, timeout=90)
+    if status is None:
+        return None
     if status != 200 or not body.strip():
         return []
     rows = json.loads(body)
