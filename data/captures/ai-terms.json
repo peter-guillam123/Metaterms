@@ -85,6 +85,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202512": {
+   "timestamp": "20251212065021",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "VVXRASGFTA7YXD457EGXJORIEME6LHNI",
+   "text_hash": "4975983aad0b",
+   "chars": 13940,
+   "usable": true,
+   "extractor": 3
+  },
   "202601": {
    "timestamp": "20260112004240",
    "original": "https://www.facebook.com/legal/ai-terms",
@@ -100,6 +109,15 @@
    "digest": "WMUOXUXX66CZ4L72XD4LJPWNYGMGTQX6",
    "text_hash": "f0c4eb97ea35",
    "chars": 14035,
+   "usable": true,
+   "extractor": 3
+  },
+  "202606": {
+   "timestamp": "20260613113436",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "2LBVCEZNQTARV4TWDP6BKTMGYG22KAXI",
+   "text_hash": "4c11a71ade6f",
+   "chars": 14275,
    "usable": true,
    "extractor": 3
   },

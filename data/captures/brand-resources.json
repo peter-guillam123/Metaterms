@@ -67,6 +67,24 @@
    "usable": false,
    "extractor": 3
   },
+  "202506": {
+   "timestamp": "20250623222730",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "CA6WHVIWCWVLCEG6KO23ADX4IUUVM6RQ",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
+  "202507": {
+   "timestamp": "20250713133215",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "KBXKSJYSYHOTKCFFGHK2H7A3C5HL6QMK",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
   "202508": {
    "timestamp": "20250806012509",
    "original": "https://about.meta.com/brand/resources/",

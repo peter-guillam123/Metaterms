@@ -121,6 +121,24 @@
    "usable": false,
    "extractor": 3
   },
+  "202603": {
+   "timestamp": "20260319150956",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "5TLXK3SUC3UQYEBYMAZROGYPXBKQBM6E",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
+  "202604": {
+   "timestamp": "20260427052008",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "GT4E3X2CD4UZTNXMGSRJNDONPRLGFPSF",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
   "202605": {
    "timestamp": "20260509011933",
    "original": "https://www.facebook.com/policies_center/commerce/",

@@ -121,6 +121,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202601": {
+   "timestamp": "20260128190537",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "2JXBWD6PMN7B5DZE54VP4TPR5CYMIBID",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260306062549",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "OKTRRNV7CWIVMRQJ4DE7WXFPOCU5ZKYJ",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
   "202604": {
    "timestamp": "20260405103108",
    "original": "https://developers.facebook.com/policy/credits",

@@ -94,6 +94,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202509": {
+   "timestamp": "20250901051214",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "QGAQUTIQGASSKV2T4BFDAZREKNSZIVXE",
+   "text_hash": "f397aacfff39",
+   "chars": 8674,
+   "usable": true,
+   "extractor": 3
+  },
   "202510": {
    "timestamp": "20251029080112",
    "original": "https://transparency.meta.com/policies/community-standards/",
@@ -134,6 +143,15 @@
    "timestamp": "20260819164059",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "XG6A3CZI2A2JVKVIEYONGM7GAIT7322O",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260907074421",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "QYSLD5XYASXDRFAPN6BQAI3AM2CUICFU",
    "text_hash": "88f222016e3a",
    "chars": 4507,
    "usable": true,

@@ -22,6 +22,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202505": {
+   "timestamp": "20250509072738",
+   "original": "https://www.facebook.com/policies/pages_groups_events/",
+   "digest": "X25BBVD6HEIFHOAAUNMYNZKVUSHQYZBY",
+   "text_hash": "a3beefa84875",
+   "chars": 12264,
+   "usable": false,
+   "extractor": 3
+  },
   "202507": {
    "timestamp": "20250709065124",
    "original": "https://www.facebook.com/policies/pages_groups_events",
@@ -109,6 +118,24 @@
    "digest": "SMQEE3I37WIRXNY7NVJBDZGCQNDZ4736",
    "text_hash": "dfd48ecaa498",
    "chars": 13801,
+   "usable": false,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260808035309",
+   "original": "https://www.facebook.com/policies/pages_groups_events/",
+   "digest": "4NZXDBPR72RIWZIJNA4FVZGLA7USVXUJ",
+   "text_hash": "0d56a987394e",
+   "chars": 10817,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260915204842",
+   "original": "https://www.facebook.com/policies/pages_groups_events",
+   "digest": "5E5SLDFMHEP6MS2QK6NW2U3X5CXNUK25",
+   "text_hash": "4d1ad037df47",
+   "chars": 12787,
    "usable": false,
    "extractor": 3
   },
