@@ -21,7 +21,7 @@
   --m-minor: #a8bcf3;
   --m-moderate: #4a72e6;
   --m-major: #15318f;
-  --m-bad: #e9c9c4;
+  --m-bad: #d39a92;
   --focus: #1d4ed8;
   --f-ui: "Public Sans", "Helvetica Neue", Arial, system-ui, sans-serif;
   --f-doc: "Source Serif 4", Georgia, "Times New Roman", serif;
@@ -36,14 +36,14 @@
   :root:not([data-theme="light"]) {
     --paper: #0d1118; --sheet: #151b26; --ink: #e5e9f1; --ink-2: #9ba5b9; --rule: #2a3243;
     --del: #ff8f80; --del-bg: #3b1915; --ins: #93b3ff; --ins-bg: #142650;
-    --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #5a2d29;
+    --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #8a4b44;
     --focus: #93b3ff; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --paper: #0d1118; --sheet: #151b26; --ink: #e5e9f1; --ink-2: #9ba5b9; --rule: #2a3243;
   --del: #ff8f80; --del-bg: #3b1915; --ins: #93b3ff; --ins-bg: #142650;
-  --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #5a2d29;
+  --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #8a4b44;
   --focus: #93b3ff; color-scheme: dark;
 }
 
@@ -111,7 +111,7 @@ table.map { border-collapse: separate; border-spacing: 0; width: 100%; min-width
 .m-first { width: 6px; height: 6px; border-radius: 50%; background: var(--ink-2); }
 .m-none { width: 14px; height: 2px; background: var(--rule); border-radius: 1px; }
 .m-pending { width: 8px; height: 8px; border: 1px dashed var(--ink-2); border-radius: 50%; }
-.m-bad { width: 10px; height: 10px; background: var(--m-bad); border-radius: 2px; }
+.m-bad { width: 8px; height: 8px; border: 1.5px solid var(--m-bad); border-radius: 1px; }
 a.m { width: 18px; height: 18px; }
 .m-minor { background: var(--m-minor); }
 .m-moderate { background: var(--m-moderate); }
@@ -467,6 +467,7 @@ function viewDoc(slug) {
     <dl>
       <dt>Product</dt><dd>${esc(d.product)}</dd>
       <dt>Address</dt><dd><a href="${esc(d.url)}">${esc(d.url)}</a></dd>
+      ${d.also && d.also.length ? `<dt>Also checked</dt><dd>${d.also.map(u => `<a href="${esc(u)}">${esc(u)}</a>`).join("<br>")}</dd>` : ""}
       ${moved.length ? `<dt>Now redirects to</dt><dd>${moved.map(u => `<a href="${esc(u)}">${esc(u)}</a>`).join("<br>")}</dd>` : ""}
       <dt>Months checked</dt><dd><span class="data">${d.checked_months} of ${months.length}</span>${d.unusable_months ? ` · ${d.unusable_months} more had only unusable copies (a login page, a "browser not supported" page or another language)` : ""}</dd>
       <dt>Versions found</dt><dd class="data">${d.versions}</dd>

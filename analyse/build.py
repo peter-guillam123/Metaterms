@@ -140,6 +140,7 @@ def main():
             "title": doc["title"],
             "product": doc["product"],
             "url": doc["url"],
+            "also": [u for u in doc.get("also", "").split(";") if u],
             "archived_months": len(picks),
             "checked_months": len(good),
             "unusable_months": len(bad),
@@ -148,7 +149,12 @@ def main():
                        "original": good[latest]["original"],
                        "page_dates": compare.page_dates(texts[good[latest]["text_hash"]])}
             if latest else None,
-            "redirects": (idx or {}).get("redirects", {}),
+            # Only real moves: not a dropped slash, a login page or a
+            # page that redirects to an address we already check.
+            "redirects": {k: v for k, v in (idx or {}).get("redirects", {}).items()
+                          if "/login" not in v["target"]
+                          and run.url_key(v["target"]) != run.url_key(k)
+                          and run.url_key(v["target"]) not in {run.url_key(u) for u in [doc["url"]] + doc.get("also", "").split(";") if u}},
             "cells": cells,
             "changes": [c["id"] for c in changes],
         })
