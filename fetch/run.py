@@ -280,8 +280,9 @@ def full():
             if fetch_month(doc, caps, m, picks[m]):
                 progress = True
                 save_sample(doc["slug"], picks, m)
-            if maybe_checkpoint("fetching"):
+            if time.monotonic() - LAST_PUSH[0] >= 600:
                 write_status(plan)
+                maybe_checkpoint("fetching")
     write_status(plan)
 
 
