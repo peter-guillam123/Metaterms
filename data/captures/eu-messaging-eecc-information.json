@@ -1,0 +1,26 @@
+{
+ "slug": "eu-messaging-eecc-information",
+ "title": "EU messaging services: other information",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/legal/terms/eecc/flyout",
+ "months": {
+  "202502": {
+   "timestamp": "20250209155625",
+   "original": "https://www.facebook.com/legal/terms/eecc/flyout",
+   "digest": "4GLFD2QQGGZAO45O3BTE5JGHNBCFM7E4",
+   "text_hash": "ff5ff0214a28",
+   "chars": 7425,
+   "usable": true,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251101122521",
+   "original": "https://www.facebook.com/legal/terms/eecc/flyout",
+   "digest": "FPEPYCGNMQEEWUYRPBWTJ5Z5CZAWE4TE",
+   "text_hash": "5acd0c156966",
+   "chars": 7387,
+   "usable": true,
+   "extractor": 3
+  }
+ }
+}

@@ -1,0 +1,69 @@
+To download or print a copy of this document click here
+
+European Electronic Communications Code
+
+Date of last revision: November 11, 2024
+
+In accordance with the European Electronic Communications Code (Directive (EU) 2018/1972) (the "ECEC"), we are required to provide relevant users with the following information about the electronic communications service we provide as part of Facebook's messaging services: including all communication via text, voice and video. This information supplements the terms of use of these services. The affected users also include micro-enterprises, small businesses or non-profit organizations, unless they have expressly agreed to waive the provisions of Article 102 Paragraphs 1, 3 and 5 EEKK in whole or in part.
+
+You may download or print a copy of this document for your record keeping, future reference and reproduction purposes.
+
+Our quality of service
+
+We do everything we can to offer you the best possible service. Nevertheless, we cannot guarantee a minimum level of quality of service and do not guarantee that our messaging services will always function without disruptions, delays or errors. A number of factors beyond our control may also affect your experience using our messaging services and may disrupt your communications with other users, including but not limited to: your local network, firewall, your internet service provider, public internet and power supply.
+
+Price
+
+We do not charge you for using our messaging services unless we agree otherwise with you. All users of our messaging services are responsible for the costs of mobile data plans and Internet access fees associated with the use of our services.
+
+Duration
+
+Our users may terminate their relationship with our Services at any time for any reason by deleting their account. We may modify, suspend, or terminate your access to or use of our messaging services for the reasons described in the Meta Terms of Service.
+
+We offer this security in our messaging services
+
+We work continuously and intensively to ensure the security (including authenticity, integrity and confidentiality) of our messaging services by taking appropriate action against people who misuse our services and activities that violate our Terms of Use. We work with third-party service providers, partners and other relevant companies to prevent potential misuse of our services, including harmful behavior towards others. We maintain systems to detect incidents, threats or vulnerabilities that may affect the security of our Services. If we become aware of such activity, we will take appropriate action, such as removing the activity or contacting law enforcement.
+
+Data you provide
+
+When you register for our messaging services, we ask you to provide your name, date of birth (so we can provide you with the most appropriate Facebook experience for your age), gender (optional), email address or mobile number to specify.
+
+The Meta Privacy Policy . contains information about the personal data collected in the course of providing the Facebook messaging services.
+
+Features for end users with disabilities
+
+Our messaging services are compatible with accessibility features on mobile and desktop devices, such as the ability to set various options for contrast, colors and text size on the screen. For more information about the features and technologies that can help you, and updates to our features, visit the Accessibility page in the Help section .
+
+Information on how to handle disputes
+
+If you are dissatisfied with our messaging services, you can file a complaint by writing to us:
+
+Meta Platforms Ireland Limited Merrion Road Dublin 4 D04 X2K5 Ireland
+
+You may also report problems using Messenger as described in this Help Center article: How do I report a problem with the Messenger app? | Help section for the messenger
+
+You may take legal action against us for any claim arising out of or related to our messaging services. For information about which laws and jurisdiction govern your claim, please see the Disputes section of the Meta Terms of Service .
+
+Finally, you may have the right to refer disputes relating to matters covered by the EEKK to an independent arbitration body in your country for dispute resolution. A list of the relevant arbitration bodies in EU countries and links to their websites is available on the European Union's online dispute resolution platform: Online Dispute Resolution | European Commission . For users based in Austria, this dispute resolution body is Rundfunk & Telekom Regels-GmbH.
+
+You cannot access emergency services through our messaging services
+
+There are important differences between our Services and your mobile phone and a landline phone and SMS services. Our Services do not provide access to emergency services or emergency providers, including police, fire departments, or hospitals, or otherwise connect to public emergency dispatch centers. You should ensure that you can reach your respective emergency providers via a cell phone, landline phone or other service.
+
+Special terms of use for users in Austria
+
+If you are a consumer and have your permanent residence in Austria, the following provisions replace those in the Terms of Use and take precedence over them:
+
+2. Absatz 2 Satz 1: "Protecting people's privacy and data is a central component in the design of our advertising system."
+
+3.1. Satz 1: Who can use Facebook: "When people stand behind their opinions and actions, our community is safer and more responsible."
+
+3.4.1. 4. Unterpunkt: You may not use our Products to do or share anything that... "Violates or violates the rights of another person, including their intellectual property rights (for example, by infringing another person's copyright or trademark or by Distribution or sale of counterfeit or pirated goods)."
+
+3.6.8. Satz 3: "...You must obtain our written consent (or permission under an open source license) to modify, translate, create derivative works from, decompile or reverse engineer, or otherwise use our products or any components thereof attempt to extract source code from us, unless your behavior is related to the Meta Bug Bounty Program.
+
+4.3. Limitations of liability: "Meta is only liable as follows: Meta is liable without limitation in accordance with the statutory provisions for damages due to death, bodily injury or health; in the case of intent; in the case of gross negligence; as well as in accordance with the provisions of the Product Liability Act. Meta will be liable when providing the service provide you with professional care, provided that we have acted with professional care, Meta accepts no liability for damages that do not arise as a result of a breach by us of these terms and conditions or otherwise as a result of any of our actions; were not reasonably foreseeable at the time of agreeing to these Terms and for events beyond our reasonable control."
+
+4.5.3. "If any provision of these Terms of Use is deemed unenforceable, the remaining provisions shall remain in full force and effect. However, if the contract cannot be enforced without the invalid provision, the invalid provision shall be replaced by the appropriate statutory rule (if the legal rule favors the consumer)."
+
+4.5.6. "All rights and obligations we have under these Terms of Use are freely assignable by us as part of a merger, acquisition, sale of assets, or operation of law."

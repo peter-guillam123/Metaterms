@@ -1,0 +1,17 @@
+{
+ "slug": "eu-messaging-contract-summary",
+ "title": "EU messaging services: contract summary",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/legal/terms/eecc/contract_summary",
+ "months": {
+  "202502": {
+   "timestamp": "20250209155711",
+   "original": "https://www.facebook.com/legal/terms/eecc/contract_summary",
+   "digest": "MGVIVSGR2HI2QGRZKSAZDVD2VBOI3HGN",
+   "text_hash": "b979e37dcfa0",
+   "chars": 2167,
+   "usable": true,
+   "extractor": 3
+  }
+ }
+}

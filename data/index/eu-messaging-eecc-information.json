@@ -1,0 +1,33 @@
+{
+ "slug": "eu-messaging-eecc-information",
+ "url": "https://www.facebook.com/legal/terms/eecc/flyout",
+ "redirects": {},
+ "urls": {
+  "https://www.facebook.com/legal/terms/eecc/flyout": [
+   {
+    "timestamp": "20240526153129",
+    "original": "https://www.facebook.com/legal/terms/eecc/flyout",
+    "statuscode": "200",
+    "digest": "R4L7BYAUX2U3RRQ44E4OQULISUXBSWGJ",
+    "mimetype": "text/html",
+    "length": "27278"
+   },
+   {
+    "timestamp": "20250209155625",
+    "original": "https://www.facebook.com/legal/terms/eecc/flyout",
+    "statuscode": "200",
+    "digest": "4GLFD2QQGGZAO45O3BTE5JGHNBCFM7E4",
+    "mimetype": "text/html",
+    "length": "67712"
+   },
+   {
+    "timestamp": "20251101122521",
+    "original": "https://www.facebook.com/legal/terms/eecc/flyout",
+    "statuscode": "200",
+    "digest": "FPEPYCGNMQEEWUYRPBWTJ5Z5CZAWE4TE",
+    "mimetype": "text/html",
+    "length": "113736"
+   }
+  ]
+ }
+}

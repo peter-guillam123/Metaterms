@@ -190,5 +190,17 @@
   "months_fetched": 17,
   "versions": 11,
   "complete": true
+ },
+ "eu-messaging-contract-summary": {
+  "months_archived": 1,
+  "months_fetched": 1,
+  "versions": 1,
+  "complete": true
+ },
+ "eu-messaging-eecc-information": {
+  "months_archived": 2,
+  "months_fetched": 2,
+  "versions": 2,
+  "complete": true
  }
 }

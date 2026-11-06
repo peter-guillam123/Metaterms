@@ -1,0 +1,25 @@
+{
+ "slug": "eu-messaging-contract-summary",
+ "url": "https://www.facebook.com/legal/terms/eecc/contract_summary",
+ "redirects": {},
+ "urls": {
+  "https://www.facebook.com/legal/terms/eecc/contract_summary": [
+   {
+    "timestamp": "20240526153132",
+    "original": "https://www.facebook.com/legal/terms/eecc/contract_summary",
+    "statuscode": "200",
+    "digest": "CQFMK46OY2YVF7PNAYZNVHLWJCTBAYYT",
+    "mimetype": "text/html",
+    "length": "27266"
+   },
+   {
+    "timestamp": "20250209155711",
+    "original": "https://www.facebook.com/legal/terms/eecc/contract_summary",
+    "statuscode": "200",
+    "digest": "MGVIVSGR2HI2QGRZKSAZDVD2VBOI3HGN",
+    "mimetype": "text/html",
+    "length": "68201"
+   }
+  ]
+ }
+}
