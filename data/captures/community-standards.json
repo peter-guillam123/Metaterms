@@ -121,10 +121,46 @@
    "usable": true,
    "extractor": 3
   },
+  "202512": {
+   "timestamp": "20251205032904",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "5LP77T6V3DNC625KZABMJBU2KQBXLUIJ",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260102000004",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "ZSLEQC2RQSJ6YZL7I7KQZFRXXS6WTYO2",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
   "202602": {
    "timestamp": "20260224011026",
    "original": "https://transparency.meta.com/policies/community-standards/",
    "digest": "WFZVLFAWCLYUI6KEHE4VCJQ2H2WS2XUB",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260325102513",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "ZDEFBNINRAVFKCG4CVQLYGIREHXATAYO",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
+  "202604": {
+   "timestamp": "20260417214126",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "F6CIMUKYJOWVG37JKJTWCGYE6RRCLWBG",
    "text_hash": "88f222016e3a",
    "chars": 4507,
    "usable": true,

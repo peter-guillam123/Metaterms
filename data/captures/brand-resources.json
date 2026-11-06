@@ -94,12 +94,48 @@
    "usable": false,
    "extractor": 3
   },
+  "202509": {
+   "timestamp": "20250928025929",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "ATNMZRAXWVXPGGH5EJTFKHHLD57WNPJT",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
+  "202510": {
+   "timestamp": "20251028180928",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "VLHASBI4WOV5BI7ENVIK4MEPUCA7SN6K",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
   "202511": {
    "timestamp": "20251103114136",
    "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
    "digest": "HHRG5QJPRI3IUMUSHZEV6DFVITVD3G3C",
    "text_hash": "e618b1ecfd8f",
    "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
+  "202512": {
+   "timestamp": "20251204012808",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "FNWE6BVKMFVAVMFXYSGKJGEVFRU2MHD2",
+   "text_hash": "3d725a8c765f",
+   "chars": 629,
+   "usable": false,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260111211938",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "R4NRFNB3HPAWAZDAPYDIFB63XNSWGY36",
+   "text_hash": "3d725a8c765f",
+   "chars": 629,
    "usable": false,
    "extractor": 3
   },

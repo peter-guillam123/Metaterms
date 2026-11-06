@@ -103,6 +103,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202603": {
+   "timestamp": "20260322133223",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "PESKFQMCFK4OPCQRRPG4RKYQ2CZV5Y3F",
+   "text_hash": "efb5981dc603",
+   "chars": 35205,
+   "usable": true,
+   "extractor": 3
+  },
   "202604": {
    "timestamp": "20260417051207",
    "original": "https://transparency.meta.com/policies/ad-standards/",
@@ -118,6 +127,24 @@
    "digest": "PYXWWHALHLZQVGGWACX7YTSTQZN5X7KB",
    "text_hash": "9017216b4266",
    "chars": 35811,
+   "usable": true,
+   "extractor": 3
+  },
+  "202606": {
+   "timestamp": "20260611180127",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "Q4SFYMCNSBP7GAHNELKCAWDAQATUJ7Z4",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
+  "202607": {
+   "timestamp": "20260724133222",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "57PMGWF5QOV7LF3CBC2FTTCTO2ALQM34",
+   "text_hash": "b065af5c5942",
+   "chars": 35586,
    "usable": true,
    "extractor": 3
   },

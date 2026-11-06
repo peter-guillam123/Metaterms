@@ -112,6 +112,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202512": {
+   "timestamp": "20251216131533",
+   "original": "https://privacycenter.instagram.com/policy",
+   "digest": "2Q5TCWRHV4T7CK26YUBEEELW5B2QI3OV",
+   "text_hash": "3624126c7404",
+   "chars": 48301,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260131205457",
+   "original": "https://privacycenter.instagram.com/policy",
+   "digest": "7ETGZCELONVOCV7CKRUITFA32UABW4IR",
+   "text_hash": "becc55f440e6",
+   "chars": 48222,
+   "usable": true,
+   "extractor": 3
+  },
   "202602": {
    "timestamp": "20260201012251",
    "original": "https://privacycenter.instagram.com/policy",
@@ -130,12 +148,30 @@
    "usable": true,
    "extractor": 3
   },
+  "202607": {
+   "timestamp": "20260707060048",
+   "original": "https://privacycenter.instagram.com/policy",
+   "digest": "X7E3OULAFOPYZE6R5NVO2UTPDJGJNO72",
+   "text_hash": "becc55f440e6",
+   "chars": 48222,
+   "usable": true,
+   "extractor": 3
+  },
   "202608": {
    "timestamp": "20260825155233",
    "original": "https://privacycenter.instagram.com/policy/",
    "digest": "RPXTVEDWUHBZ3TOZ4PZR5HO3K7TVGFET",
    "text_hash": "c0a29dcf76eb",
    "chars": 48207,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260924231802",
+   "original": "https://privacycenter.instagram.com/policy/",
+   "digest": "I6MYRCIIA642HV6RPLGKICFS2N3TNFFY",
+   "text_hash": "50bda4084618",
+   "chars": 48530,
    "usable": true,
    "extractor": 3
   },

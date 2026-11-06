@@ -103,6 +103,15 @@
    "usable": false,
    "extractor": 3
   },
+  "202601": {
+   "timestamp": "20260126182753",
+   "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+   "digest": "LSCWDBIE43K2F7QX6MOGGCVLP2VDVE35",
+   "text_hash": "1f162bf6b001",
+   "chars": 1171,
+   "usable": true,
+   "extractor": 3
+  },
   "202603": {
    "timestamp": "20260322072057",
    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
@@ -110,6 +119,24 @@
    "text_hash": "5410b915f7da",
    "chars": 476,
    "usable": false,
+   "extractor": 3
+  },
+  "202605": {
+   "timestamp": "20260505055454",
+   "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+   "digest": "EDH35DGIEWAEF6IBZJ4E57NTXONWXZZE",
+   "text_hash": "bc897ee69b76",
+   "chars": 7430,
+   "usable": true,
+   "extractor": 3
+  },
+  "202607": {
+   "timestamp": "20260701112727",
+   "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+   "digest": "2JOS5BIVDQ44RNWQ4ASAZYUC5N226JRM",
+   "text_hash": "9c072f3e05f2",
+   "chars": 1329,
+   "usable": true,
    "extractor": 3
   },
   "202609": {

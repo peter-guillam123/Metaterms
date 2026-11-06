@@ -1,0 +1,99 @@
+# Partner Monetization Policies
+
+Facebook's Monetization Eligibility Standards (MES) are now called Partner Monetization Policies (PMP). This is still the best place to learn about the rules for earning money with your content.
+
+In order for publishers, creators and third-party providers to utilize monetization tools on Facebook, they must pass and remain compliant with a set of rules called Partner Monetization Policies and Content Monetization Policies.
+
+These rules apply to all Pages, profiles in professional mode, events and groups on Facebook.
+
+## Partner policies
+
+In order to earn money on Facebook, you must:
+
+### Create content on an eligible surface
+
+At this time, monetization features are available for public content on Facebook Pages, profiles in professional mode, Events and Groups. Content paid for on Facebook, but consumed on a third-party site, may be eligible for monetization. Facebook profiles outside of professional mode are ineligible for monetization products and features.
+
+### Reside in an eligible country
+
+To monetize, you must reside in an eligible country where the product or feature is available. Financial entities connected to your account must also be located in an eligible country. You may lose your ability to monetize if your location or the location of your connected financial entity changes to one that is ineligible, or if Facebook updates its product eligibility requirements.
+
+### Follow our Community Standards
+
+These rules apply to all posts and interactions on Facebook, including rules against hate speech, calls for violence, sexualized content, and inauthentic behavior. Any content posted by publishers, creators or third-party providers that violates our Community Standards, including our policies regarding intellectual property, authenticity, and user safety, may cause creators, publishers or third-party providers to become ineligible or lose their eligibility to monetize.
+
+If you believe your content may have violated our Community Standards, check for a notification. If you believe you may have violated our policies regarding intellectual property, learn more about copyright or trademark infringement.
+
+### Follow our Content Monetization Policies
+
+Monetized content must pass an additional level of standards above and beyond our Community Standards. These additional rules are called Content Monetization Policies. These include deeper restrictions on the content itself and the formats in which it is presented. Creators and publishers must ensure that their profiles, including their profile pictures and profile descriptions as well as their content, follow our Content Monetization Policies.
+
+### Share authentic content
+
+Creators, publishers and third-party providers posting content flagged as misinformation and false news may be ineligible or may lose their eligibility to monetize. Creators, publishers and third-party providers sharing clickbait or sensationalism may be ineligible or lose their eligibility to monetize. Creators and publishers posting content reported to Facebook as unlawful by an authorized entity may be ineligible or lose their eligibility to monetize.
+
+### Share original content
+
+Content creators, publishers and third-party providers can only monetize content that they created or were involved in the creation of, or that directly features the creator, publisher or third-party provider. Content that is unoriginal or reproduced without making meaningful enhancements (commentary, parody, creative editing, etc.) cannot be monetized. Affiliate entity content distributed by third-party providers, such as multi-channel networks or social media agencies, may be considered original content.
+
+### Monetize authentic engagement
+
+Creators, publishers and third-party providers can only monetize content consumed by their natural, authentic audience. This means creators, publishers and third-party providers may not engage in any behavior that boosts or amplifies followers, views or engagement for the purpose of generating more revenue. This includes manufactured sharing, which is coordinated distribution of content, often for compensation, and high volume crossposting. Pages managed by a third-party provider, such as a multi-channel network, are able to share content from affiliate entities, so long as the multi-channel network and affiliate talent, creators, and content providers are not monetizing the same piece of content.
+
+Creators, publishers and third-party providers may lose the ability to monetize if their audience significantly consists of fake engagement, including, but not limited to, likes, follows, and views.
+
+### Follow our Payment Terms
+
+Monetizing creators, publishers and third-party providers must comply with Facebook's rules for making and receiving payments.
+
+### Follow our Pages, Groups and Events Terms
+
+Content published on a Page must follow our Page-specific Terms, including restrictions on manufactured sharing. Content published in a Group must follow our Groups-specific Terms. Content published in an event must follow our Events-specific Terms.
+
+### Develop an established presence
+
+Creators, publishers and third-party providers must have an authentic, established presence on Facebook. To be eligible for all monetization features, this means having an established presence for at least 30 days. To gain access to in-stream ads, this also includes maintaining a sufficient follower base, indicated by your Facebook followers, and a minimum number of videos.
+
+### Follow our rules for politicians and governments
+
+The following political and government entities are ineligible for monetization:
+
+- Current elected and appointed government officials
+
+- Current political candidates
+
+- Political parties
+
+- Registered political committees
+
+- Government agencies and departments
+
+Communications that are regulated as political advertising under applicable law are also ineligible for monetization features. However, in the United States, the branded content tool may be used in branded content posts if the paying partner has been authorized to run ads about social issues, elections or politics.
+
+### Only connect to entities that follow our policies
+
+Monetized creators, publishers and third-party providers and those that have not been onboarded to a monetization product, may lose the ability to monetize if any entity (including financial accounts) connected to it has violated our policies.
+
+Facebook reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time. If you've lost access to our monetization features, but you believe you should be eligible, you can submit an appeal.
+
+## Learn more
+
+- About Community Standards
+
+- About Content Monetization Policies
+
+- Check monetization eligibility
+
+- About video demonetization
+
+- Limited originality of content guidelines
+
+More in this section: Rules
+
+Basics
+
+About rules for monetizationPartner Monetization PoliciesContent Monetization PoliciesAbout Page, profile and video demonetizationAbout Page and professional mode demonetizationHow Meta's Content Monetization Policies align with industry standards
+
+Manage
+
+How to submit an appeal if your creator content, Page, or Profile is demonetizedHow to check your monetization eligibility on a Facebook Page or profileAbout advertiser-friendly contentMonetization promotion guidelines
