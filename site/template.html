@@ -1,0 +1,518 @@
+<title>Metaterms</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="How Meta's terms and policies changed, checked against monthly copies in the Wayback Machine.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;0,800;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+/* Layout: a register. One column at 1180px max: title, the month-by-month
+   map (documents down, months across), then the redline feed. */
+:root {
+  --paper: #f4f6f9;
+  --sheet: #ffffff;
+  --ink: #141a26;
+  --ink-2: #4d576b;
+  --rule: #d8dde6;
+  --del: #b42318;
+  --del-bg: #fdeceb;
+  --ins: #1d4ed8;
+  --ins-bg: #e7eefe;
+  --m-same: #dfe4ec;
+  --m-minor: #a8bcf3;
+  --m-moderate: #4a72e6;
+  --m-major: #15318f;
+  --m-bad: #e9c9c4;
+  --focus: #1d4ed8;
+  --f-ui: "Public Sans", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --f-doc: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --s-1: 0.8125rem;
+  --s0: 1rem;
+  --s1: 1.1875rem;
+  --s2: 1.5rem;
+  --s3: 2.5rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0d1118; --sheet: #151b26; --ink: #e5e9f1; --ink-2: #9ba5b9; --rule: #2a3243;
+    --del: #ff8f80; --del-bg: #3b1915; --ins: #93b3ff; --ins-bg: #142650;
+    --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #5a2d29;
+    --focus: #93b3ff; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0d1118; --sheet: #151b26; --ink: #e5e9f1; --ink-2: #9ba5b9; --rule: #2a3243;
+  --del: #ff8f80; --del-bg: #3b1915; --ins: #93b3ff; --ins-bg: #142650;
+  --m-same: #273043; --m-minor: #34508f; --m-moderate: #5f88f2; --m-major: #b4c9ff; --m-bad: #5a2d29;
+  --focus: #93b3ff; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink);
+  font: 400 var(--s0)/1.55 var(--f-ui);
+  -webkit-text-size-adjust: 100%;
+}
+.wrap {
+  max-width: 1180px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: var(--ins); text-underline-offset: 0.18em; }
+a:focus-visible, button:focus-visible, summary:focus-visible, select:focus-visible, input:focus-visible {
+  outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px;
+}
+h1, h2, h3 { text-wrap: balance; line-height: 1.2; margin: 0; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.data { font-family: var(--f-data); font-variant-numeric: tabular-nums; }
+
+/* masthead */
+.top { border-bottom: 1px solid var(--rule); background: var(--sheet); }
+.top .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 24px; padding-block: 12px; }
+.brand { font-weight: 800; font-size: var(--s1); letter-spacing: -0.01em; color: var(--ink); text-decoration: none; display: inline-flex; align-items: baseline; gap: 2px; min-height: 40px; align-items: center; }
+.brand .i { color: var(--ins); text-decoration: underline double; text-underline-offset: 0.2em; }
+.tabs { display: flex; gap: 4px; }
+.tabs a { display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 6px; color: var(--ink-2); text-decoration: none; font-weight: 600; font-size: var(--s-1); letter-spacing: 0.02em; }
+.tabs a[aria-current="page"] { color: var(--ink); background: var(--paper); }
+
+/* intro */
+.intro { padding-block: 40px 24px; display: grid; gap: 16px; }
+.intro h1 { font-size: clamp(1.75rem, 1.2rem + 2.4vw, var(--s3)); font-weight: 800; letter-spacing: -0.02em; max-width: 22ch; }
+.intro p { margin: 0; max-width: 64ch; color: var(--ink-2); font-size: var(--s1); }
+.facts { display: flex; flex-wrap: wrap; gap: 8px 28px; margin: 8px 0 0; padding: 0; list-style: none; }
+.facts li { display: grid; }
+.facts b { font: 500 var(--s2)/1.1 var(--f-data); font-variant-numeric: tabular-nums; color: var(--ink); }
+.facts span { font-size: var(--s-1); color: var(--ink-2); }
+
+section { padding-block: 20px; }
+.sec-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; margin-bottom: 12px; }
+.sec-head h2 { font-size: var(--s1); font-weight: 800; }
+.sec-head p { margin: 0; color: var(--ink-2); font-size: var(--s-1); max-width: 70ch; }
+
+/* map */
+.map-box { background: var(--sheet); border: 1px solid var(--rule); border-radius: 8px; overflow-x: auto; }
+table.map { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 760px; font-size: var(--s-1); }
+.map th, .map td { padding: 0; }
+.map abbr { text-decoration: none; }
+.map thead th { font: 500 0.75rem/1 var(--f-data); color: var(--ink-2); text-align: center; padding-block: 8px 4px; }
+.map thead tr.years th { text-align: left; padding-left: 4px; border-left: 1px solid var(--rule); }
+.map thead tr.years th:first-child { border-left: 0; }
+.map .doc { position: sticky; left: 0; z-index: 1; background: var(--sheet); text-align: left; font-weight: 400; min-width: 210px; max-width: 280px; border-right: 1px solid var(--rule); }
+.map .doc a { display: flex; align-items: center; min-height: 40px; padding: 4px 12px; color: var(--ink); text-decoration: none; line-height: 1.25; }
+.map .doc a:hover { text-decoration: underline; }
+.map tbody tr.group th { position: sticky; left: 0; background: var(--sheet); text-align: left; font: 600 0.75rem/1 var(--f-ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); padding: 18px 12px 6px; }
+.map tbody tr:not(.group) > * { border-top: 1px solid var(--rule); }
+.map tbody tr:not(.group):hover .doc { background: var(--paper); }
+.map td.c { text-align: center; vertical-align: middle; width: 28px; }
+.map td.c.y0 { border-left: 1px solid var(--rule); }
+.map td.n { text-align: right; padding: 0 12px 0 8px; font-family: var(--f-data); color: var(--ink-2); }
+.m { display: inline-block; width: 14px; height: 14px; border-radius: 3px; vertical-align: middle; }
+.m-same { width: 6px; height: 6px; border-radius: 50%; background: var(--m-same); }
+.m-first { width: 6px; height: 6px; border-radius: 50%; background: var(--ink-2); }
+.m-none { width: 14px; height: 2px; background: var(--rule); border-radius: 1px; }
+.m-pending { width: 8px; height: 8px; border: 1px dashed var(--ink-2); border-radius: 50%; }
+.m-bad { width: 10px; height: 10px; background: var(--m-bad); border-radius: 2px; }
+a.m { width: 18px; height: 18px; }
+.m-minor { background: var(--m-minor); }
+.m-moderate { background: var(--m-moderate); }
+.m-major { background: var(--m-major); }
+.m-date { background: transparent; box-shadow: inset 0 0 0 2px var(--m-moderate); }
+.m-formatting { background: transparent; box-shadow: inset 0 0 0 2px var(--m-minor); }
+a.m:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 12px 0 0; padding: 0; list-style: none; font-size: var(--s-1); color: var(--ink-2); }
+.legend li { display: inline-flex; align-items: center; gap: 8px; }
+.legend .slot { width: 18px; display: inline-flex; justify-content: center; }
+
+/* filters */
+.filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-bottom: 16px; }
+.filters label { font-size: var(--s-1); color: var(--ink-2); display: inline-flex; align-items: center; gap: 8px; min-height: 40px; }
+.filters select, .filters input[type="search"] {
+  font: inherit; font-size: var(--s0); color: var(--ink); background: var(--sheet);
+  border: 1px solid var(--rule); border-radius: 6px; min-height: 40px; padding: 0 10px;
+}
+.filters input[type="search"] { width: min(260px, 100%); }
+.filters input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--ins); }
+.count { font-size: var(--s-1); color: var(--ink-2); margin: 0 0 12px; }
+
+/* change cards */
+.feed { display: grid; gap: 14px; }
+.change { background: var(--sheet); border: 1px solid var(--rule); border-radius: 8px; padding: 18px 20px; display: grid; gap: 10px; min-width: 0; scroll-margin-top: 16px; }
+.change:target { box-shadow: 0 0 0 2px var(--ins); }
+.when { margin: 0; font: 500 var(--s-1)/1.4 var(--f-data); color: var(--ink-2); }
+.change h3 { font-size: var(--s1); font-weight: 800; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.change h3 a { color: var(--ink); text-decoration: none; }
+.change h3 a:hover { text-decoration: underline; }
+.chip { font: 600 0.75rem/1 var(--f-ui); letter-spacing: 0.06em; text-transform: uppercase; padding: 5px 7px; border-radius: 4px; white-space: nowrap; }
+.chip.major { background: var(--m-major); color: var(--sheet); }
+.chip.moderate { background: var(--m-moderate); color: #fff; }
+.chip.minor, .chip.date, .chip.formatting { background: var(--ins-bg); color: var(--ins); }
+.prod { font: 400 var(--s-1)/1 var(--f-ui); color: var(--ink-2); }
+.headline { margin: 0; font-weight: 600; max-width: 70ch; }
+.summary { margin: 0; max-width: 70ch; }
+.summary.missing { color: var(--ink-2); font-style: italic; }
+.meta { margin: 0; font-size: var(--s-1); color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.meta .plus { color: var(--ins); }
+.meta .minus { color: var(--del); }
+details.words > summary { cursor: pointer; display: inline-flex; align-items: center; min-height: 40px; font-weight: 600; font-size: var(--s-1); color: var(--ins); list-style: none; gap: 6px; }
+details.words > summary::-webkit-details-marker { display: none; }
+details.words > summary::before { content: ""; width: 0; height: 0; border-left: 5px solid currentColor; border-top: 4px solid transparent; border-bottom: 4px solid transparent; transition: transform 0.15s; }
+details.words[open] > summary::before { transform: rotate(90deg); }
+.sources { margin: 0; font-size: var(--s-1); color: var(--ink-2); }
+.sources a { display: inline-block; padding-block: 8px; }
+
+/* redline */
+.redline { display: grid; gap: 14px; margin-top: 4px; }
+.hunk { border-left: 3px solid var(--rule); padding-left: 14px; display: grid; gap: 8px; min-width: 0; }
+.hunk .sec { font: 600 0.75rem/1.3 var(--f-ui); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-2); }
+.blk { font: 400 1.0625rem/1.6 var(--f-doc); margin: 0; overflow-wrap: anywhere; max-width: 72ch; }
+.blk.ctx { color: var(--ink-2); font-size: 0.9375rem; }
+.blk.h { font-weight: 600; }
+.blk.li { padding-left: 1.1em; text-indent: -1.1em; }
+.blk.li::before { content: "•\00a0\00a0"; }
+del { color: var(--del); background: var(--del-bg); text-decoration: line-through; text-decoration-thickness: 1.5px; }
+ins { color: var(--ins); background: var(--ins-bg); text-decoration: underline double; text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+del + ins { margin-left: 0.3em; }
+.more { font: inherit; font-size: var(--s-1); font-weight: 600; color: var(--ins); background: none; border: 1px solid var(--rule); border-radius: 6px; min-height: 40px; padding: 0 14px; cursor: pointer; justify-self: start; }
+
+/* document view */
+.back { display: inline-flex; align-items: center; min-height: 40px; font-size: var(--s-1); font-weight: 600; }
+.doc-head { display: grid; gap: 10px; padding-block: 24px 8px; }
+.doc-head h1 { font-size: clamp(1.5rem, 1.2rem + 1.6vw, 2.125rem); font-weight: 800; letter-spacing: -0.015em; }
+.doc-head dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 6px 0 0; font-size: var(--s-1); }
+.doc-head dt { color: var(--ink-2); }
+.doc-head dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.strip { display: grid; grid-template-columns: repeat(25, minmax(0, 1fr)); gap: 2px; margin-top: 12px; max-width: 760px; }
+.strip span { height: 28px; border-radius: 2px; background: var(--paper); border: 1px solid var(--rule); display: block; }
+.strip .s-same, .strip .s-first { background: var(--m-same); border-color: var(--m-same); }
+.strip .s-changed { background: var(--m-moderate); border-color: var(--m-moderate); }
+.strip .s-bad { background: var(--m-bad); border-color: var(--m-bad); }
+.strip-axis { display: flex; justify-content: space-between; max-width: 760px; font: 400 0.75rem/1.6 var(--f-data); color: var(--ink-2); }
+.empty { background: var(--sheet); border: 1px dashed var(--rule); border-radius: 8px; padding: 20px; color: var(--ink-2); margin: 0; }
+
+/* about */
+.prose { max-width: 68ch; padding-block: 32px 48px; display: grid; gap: 14px; }
+.prose h1 { font-size: clamp(1.75rem, 1.3rem + 1.8vw, 2.25rem); font-weight: 800; letter-spacing: -0.02em; }
+.prose h2 { font-size: var(--s1); font-weight: 800; margin-top: 18px; }
+.prose p, .prose li { margin: 0; }
+.prose ul { margin: 0; padding-left: 1.2em; display: grid; gap: 8px; }
+.diary { list-style: none; padding: 0; margin: 0; display: grid; gap: 18px; }
+.diary li { display: grid; gap: 4px; border-left: 3px solid var(--rule); padding-left: 14px; }
+.diary li.milestone { border-left-color: var(--ins); }
+.diary .d { font: 500 var(--s-1)/1.4 var(--f-data); color: var(--ink-2); }
+.diary .ms { font: 600 0.75rem/1 var(--f-ui); letter-spacing: 0.06em; text-transform: uppercase; color: var(--ins); margin-left: 8px; }
+
+footer { border-top: 1px solid var(--rule); margin-top: 32px; }
+footer .wrap { padding-block: 20px 32px; font-size: var(--s-1); color: var(--ink-2); }
+
+@media (max-width: 560px) {
+  .change { padding: 16px; }
+  .intro { padding-block: 28px 16px; }
+  .map .doc { min-width: 150px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#changes">Meta<span class="i">terms</span></a>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#changes" data-tab="changes">Changes</a>
+      <a href="#about" data-tab="about">About</a>
+    </nav>
+  </div>
+</header>
+
+<main id="view" class="wrap" tabindex="-1"></main>
+
+<template id="about-tpl">
+  <article class="prose">
+    <h1>About Metaterms</h1>
+    <p>Metaterms tracks changes to 32 of Meta's terms, policies and guidelines. For each page it takes one copy a month from the Internet Archive's Wayback Machine, from November 2024 to November 2026, turns each copy into plain text and compares it with the month before. Every difference in the wording is listed on the Changes page, with the old and new text side by side and links to the archived copies.</p>
+    <p>It is a test. The question was whether this can be done well enough to be worth building a tool that checks the pages every month and flags anything new.</p>
+
+    <h2>How it works</h2>
+    <ul>
+      <li>A script asks the Wayback Machine which copies of each page it holds, and picks the one nearest the middle of each month.</li>
+      <li>It checks every third month first. Where two checks differ, it fetches the months between to find when the change happened, then fills in the rest.</li>
+      <li>It strips out menus, footers and code, and tidies quote marks, dashes and spacing so they don't count as changes.</li>
+      <li>A comparison finds the paragraphs that were added, removed or reworded, and the words that changed inside them.</li>
+      <li>Claude, an AI model, read each set of changes and wrote the short summary at the top of each card. The redline below each summary is the source; the summary is a guide to it.</li>
+      <li>The fetching runs on GitHub Actions, and the code and data are in the <a href="https://github.com/peter-guillam123/Metaterms">Metaterms repository</a>.</li>
+    </ul>
+
+    <h2>What it can't tell you</h2>
+    <ul>
+      <li>The Wayback Machine doesn't copy every page every month. A grey dash on the map means there was no copy that month. A change found after a gap could have happened at any point in the gap.</li>
+      <li>A change made and reversed between two copies won't show up.</li>
+      <li>The archive's crawlers mostly run from the US, so the copies show what Meta serves there. On some pages, people in the UK and EU see different terms.</li>
+      <li>Some copies turned out not to be the document at all, such as a login page or an error. These are marked on the map and left out of the comparison.</li>
+      <li>Big rewrites and pages that were reorganised can show as long runs of removed and added text, even where much of the meaning stayed the same.</li>
+      <li>The size labels count changed words: minor is under 25, moderate under 250, major 250 or more. A one-word change can matter more than a major one.</li>
+    </ul>
+
+    <h2>Diary</h2>
+    <ol class="diary" id="diary"></ol>
+  </article>
+</template>
+
+<footer>
+  <div class="wrap" id="foot"></div>
+</footer>
+
+<script>
+const DATA = /*DATA*/null;
+
+const DIARY = [
+  {
+    date: "6 November 2026",
+    milestone: true,
+    title: "First look",
+    text: "A colleague in public policy keeps a spreadsheet of Meta's terms and policies, and we wanted to know how often they really change. I asked Claude to pull two years of monthly copies from the Wayback Machine and compare them. The cloud sandbox it works in couldn't reach the archive, so the fetching runs as a GitHub Action instead, which is roughly how a monthly checker would work anyway. The archive's index server is slow and turns you away if you push it, which cost us the first hour and taught us to ask it fewer, politer questions."
+  }
+];
+
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+const MONTH_LONG = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const day = ts => `${+ts.slice(6, 8)} ${MON[+ts.slice(4, 6) - 1]} ${ts.slice(0, 4)}`;
+const monthName = m => `${MONTH_LONG[+m.slice(4, 6) - 1]} ${m.slice(0, 4)}`;
+const wb = (ts, url) => `https://web.archive.org/web/${ts}/${url}`;
+const SIZE_LABEL = { major: "Major", moderate: "Moderate", minor: "Minor", "date only": "Date only", formatting: "Formatting" };
+const sizeClass = s => s === "date only" ? "date" : s;
+
+const docs = DATA.docs;
+const docBy = Object.fromEntries(docs.map(d => [d.slug, d]));
+const changes = DATA.changes;
+const changeBy = Object.fromEntries(changes.map(c => [c.id, c]));
+const PRODUCTS = ["All Meta", "Facebook", "Instagram"];
+
+function store(k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { return null; } }
+
+/* ---------- map ---------- */
+function mapTable(rows) {
+  const months = DATA.months;
+  let years = [], last = null;
+  months.forEach((m, i) => {
+    const y = m.slice(0, 4);
+    if (y !== last) { years.push({ y, n: 1, i }); last = y; } else years[years.length - 1].n++;
+  });
+  let h = `<table class="map"><caption class="sr">Changes found each month, by document. Each coloured square links to the change.</caption><thead><tr class="years"><th class="doc" scope="col"><span class="sr">Document</span></th>`;
+  h += years.map(y => `<th colspan="${y.n}" scope="colgroup">${y.y}</th>`).join("") + `<th></th></tr><tr><th class="doc"></th>`;
+  h += months.map(m => `<th scope="col"><abbr title="${monthName(m)}">${MON[+m.slice(4, 6) - 1][0]}</abbr></th>`).join("");
+  h += `<th scope="col" class="n"><abbr title="Number of changes">No.</abbr></th></tr></thead>`;
+  const yStart = new Set(years.map(y => y.i));
+  for (const p of PRODUCTS) {
+    const group = rows.filter(d => d.product === p);
+    if (!group.length) continue;
+    h += `<tbody><tr class="group"><th colspan="${months.length + 2}" scope="rowgroup">${esc(p)}</th></tr>`;
+    for (const d of group) {
+      h += `<tr><th class="doc" scope="row"><a href="#doc-${d.slug}">${esc(d.title)}</a></th>`;
+      months.forEach((m, i) => {
+        const c = d.cells[m] || { s: "none" };
+        const cls = `c${yStart.has(i) ? " y0" : ""}`;
+        if (c.s === "changed") {
+          const ch = changeBy[c.id];
+          h += `<td class="${cls}"><a class="m m-${sizeClass(ch.size)}" href="#${c.id}" aria-label="${esc(d.title)}: ${SIZE_LABEL[ch.size].toLowerCase()} change, ${monthName(m)}" title="${monthName(m)}: ${SIZE_LABEL[ch.size].toLowerCase()} change"></a></td>`;
+        } else {
+          const t = { same: "checked, no change", first: "first copy checked", none: "no archived copy", pending: "not checked yet", bad: c.why || "copy unusable" }[c.s];
+          h += `<td class="${cls}"><span class="m m-${c.s}" title="${monthName(m)}: ${t}"></span></td>`;
+        }
+      });
+      h += `<td class="n">${d.changes.length || ""}</td></tr>`;
+    }
+    h += `</tbody>`;
+  }
+  return h + `</table>`;
+}
+
+const LEGEND = `<ul class="legend" aria-label="Key">
+  <li><span class="slot"><span class="m m-major"></span></span>Major change</li>
+  <li><span class="slot"><span class="m m-moderate"></span></span>Moderate</li>
+  <li><span class="slot"><span class="m m-minor"></span></span>Minor</li>
+  <li><span class="slot"><span class="m m-date"></span></span>Only a date changed</li>
+  <li><span class="slot"><span class="m m-same"></span></span>Checked, no change</li>
+  <li><span class="slot"><span class="m m-none"></span></span>No archived copy</li>
+  <li><span class="slot"><span class="m m-bad"></span></span>Copy unusable</li>
+</ul>`;
+
+/* ---------- redline ---------- */
+function blockHTML(text, segs, cls) {
+  let kind = "", t = text;
+  if (/^#+ /.test(t)) kind = " h";
+  else if (/^- /.test(t)) kind = " li";
+  const strip = s => s.replace(/^#+ /, "").replace(/^- /, "");
+  let inner;
+  if (segs) {
+    inner = segs.map(([op, s], i) => {
+      const v = esc(i === 0 ? strip(s) : s);
+      return op === "+" ? `<ins>${v}</ins>` : op === "-" ? `<del>${v}</del>` : v;
+    }).join("");
+    if (!kind) { const first = segs[0] && segs[0][1]; if (/^#+ /.test(first)) kind = " h"; else if (/^- /.test(first)) kind = " li"; }
+  } else inner = esc(strip(t));
+  return `<p class="blk${kind}${cls ? " " + cls : ""}">${inner}</p>`;
+}
+const clip = (s, n = 260) => s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + " …" : s;
+
+function hunkHTML(hk) {
+  let h = `<div class="hunk">`;
+  const headFirst = hk.before[0] && /^#+ /.test(hk.before[0]) && hk.before[0].replace(/^#+ /, "") === hk.section;
+  if (hk.section && !headFirst) h += `<div class="sec">${esc(hk.section)}</div>`;
+  for (const b of hk.before) h += blockHTML(clip(b), null, "ctx");
+  for (const it of hk.items) {
+    if (it.kind === "changed") h += blockHTML("", it.segs);
+    else if (it.kind === "added") h += blockHTML("", [["+", it.segs[0][1]]], "added");
+    else h += blockHTML("", [["-", it.segs[0][1]]], "removed");
+  }
+  for (const b of hk.after) h += blockHTML(clip(b), null, "ctx");
+  return h + `</div>`;
+}
+
+function redline(c, limit = 8) {
+  const shown = c.hunks.slice(0, limit).map(hunkHTML).join("");
+  const rest = c.hunks.length - limit;
+  return `<div class="redline">${shown}${rest > 0 ? `<button class="more" type="button" data-more="${c.id}">Show ${rest} more edit${rest > 1 ? "s" : ""}</button>` : ""}</div>`;
+}
+
+function changeCard(c, { open = false, showDoc = true } = {}) {
+  const d = docBy[c.slug];
+  const span = c.from.month === c.to.month ? day(c.to.timestamp)
+    : `between ${day(c.from.timestamp)} and ${day(c.to.timestamp)}`;
+  const n = c.hunks.length;
+  const pd = (c.page_dates_after || []).filter(x => !(c.page_dates_before || []).includes(x));
+  return `<article class="change" id="${c.id}">
+    <p class="when"><span class="sr">Changed </span>${esc(span)}</p>
+    <h3>${showDoc ? `<a href="#doc-${c.slug}">${esc(d.title)}</a>` : `<span>${monthName(c.to.month)}</span>`}
+      <span class="chip ${sizeClass(c.size)}">${SIZE_LABEL[c.size]}</span>${showDoc ? `<span class="prod">${esc(d.product)}</span>` : ""}</h3>
+    ${c.headline ? `<p class="headline">${esc(c.headline)}</p>` : ""}
+    ${c.summary ? `<p class="summary">${esc(c.summary)}</p>` : `<p class="summary missing">No summary yet. The wording below shows exactly what changed.</p>`}
+    <p class="meta"><span><span class="plus">+${c.added_words}</span> / <span class="minus">−${c.removed_words}</span> words</span>${pd.length ? `<span>Page now says it was updated ${esc(pd[0])}</span>` : ""}${c.url_changed ? `<span>Page moved to a new address</span>` : ""}</p>
+    <details class="words"${open ? " open" : ""}><summary>${open ? "Wording" : "Show the wording"} (${n} edit${n > 1 ? "s" : ""})</summary>${redline(c)}</details>
+    <p class="sources">Archived copies: <a href="${esc(wb(c.from.timestamp, c.from.original))}">before, ${day(c.from.timestamp)}</a> · <a href="${esc(wb(c.to.timestamp, c.to.original))}">after, ${day(c.to.timestamp)}</a></p>
+  </article>`;
+}
+
+/* ---------- views ---------- */
+function haystack(c) {
+  const d = docBy[c.slug];
+  let s = `${d.title} ${c.summary || ""} ${c.headline || ""} `;
+  for (const hk of c.hunks) for (const it of hk.items) for (const [op, t] of it.segs) if (op !== "=") s += t + " ";
+  return s.toLowerCase();
+}
+const HAY = Object.fromEntries(changes.map(c => [c.id, haystack(c)]));
+
+function viewChanges() {
+  const changed = docs.filter(d => d.changes.length).length;
+  const real = changes.filter(c => !["date only", "formatting"].includes(c.size));
+  const newest = changes[0];
+  const first = DATA.months[0], lastM = DATA.months[DATA.months.length - 1];
+  const prodSaved = store("mt-prod") || "";
+  const minorSaved = store("mt-minor") !== "0";
+  document.title = "Metaterms";
+  $("#view").innerHTML = `
+  <div class="intro">
+    <h1>How Meta's terms and policies changed, ${monthName(first)} to ${monthName(lastM)}</h1>
+    <p>Monthly copies of ${docs.length} Meta terms and policy pages from the Wayback Machine, compared word by word. Each coloured square is a month when the wording changed.</p>
+    <ul class="facts">
+      <li><b>${docs.length}</b><span>pages tracked</span></li>
+      <li><b>${changed}</b><span>changed at least once</span></li>
+      <li><b>${real.length}</b><span>changes to the wording</span></li>
+      <li><b>${newest ? day(newest.to.timestamp) : "–"}</b><span>latest change found</span></li>
+    </ul>
+  </div>
+  <section aria-labelledby="map-h">
+    <div class="sec-head"><h2 id="map-h">Month by month</h2><p>Select a document to see its history, or a square to jump to that change.</p></div>
+    <div class="map-box">${mapTable(docs)}</div>
+    ${LEGEND}
+  </section>
+  <section aria-labelledby="feed-h">
+    <div class="sec-head"><h2 id="feed-h">All changes, newest first</h2></div>
+    <form class="filters" role="search" onsubmit="return false">
+      <label for="f-prod">Product
+        <select id="f-prod"><option value="">All products</option>${PRODUCTS.map(p => `<option${p === prodSaved ? " selected" : ""}>${p}</option>`).join("")}</select></label>
+      <label for="f-q">Find words <input id="f-q" type="search" placeholder="e.g. artificial intelligence" autocomplete="off"></label>
+      <label for="f-minor"><input id="f-minor" type="checkbox"${minorSaved ? " checked" : ""}> Include minor and date-only edits</label>
+    </form>
+    <p class="count" id="count" aria-live="polite"></p>
+    <div class="feed" id="feed"></div>
+  </section>`;
+  const run = () => {
+    const p = $("#f-prod").value, q = $("#f-q").value.trim().toLowerCase(), minor = $("#f-minor").checked;
+    store("mt-prod", p); store("mt-minor", minor ? "1" : "0");
+    const list = changes.filter(c => (!p || docBy[c.slug].product === p)
+      && (minor || !["minor", "date only", "formatting"].includes(c.size))
+      && (!q || HAY[c.id].includes(q)));
+    $("#count").textContent = `Showing ${list.length} of ${changes.length} changes`;
+    $("#feed").innerHTML = list.length ? list.map(c => changeCard(c)).join("")
+      : `<p class="empty">No changes match. Try another product or fewer words, or tick "Include minor and date-only edits".</p>`;
+  };
+  ["f-prod", "f-q", "f-minor"].forEach(id => $("#" + id).addEventListener("input", run));
+  run();
+}
+
+function viewDoc(slug) {
+  const d = docBy[slug];
+  if (!d) return viewChanges();
+  document.title = `${d.title} · Metaterms`;
+  const list = d.changes.map(id => changeBy[id]).sort((a, b) => b.to.timestamp.localeCompare(a.to.timestamp));
+  const months = DATA.months;
+  const strip = months.map(m => { const c = d.cells[m] || { s: "none" }; return `<span class="s-${c.s}" title="${monthName(m)}"></span>`; }).join("");
+  const latest = d.latest;
+  const moved = Object.values(d.redirects || {}).map(r => r.target);
+  $("#view").innerHTML = `
+  <div class="doc-head">
+    <a class="back" href="#changes">← All changes</a>
+    <h1>${esc(d.title)}</h1>
+    <dl>
+      <dt>Product</dt><dd>${esc(d.product)}</dd>
+      <dt>Address</dt><dd><a href="${esc(d.url)}">${esc(d.url)}</a></dd>
+      ${moved.length ? `<dt>Now redirects to</dt><dd>${moved.map(u => `<a href="${esc(u)}">${esc(u)}</a>`).join("<br>")}</dd>` : ""}
+      <dt>Months checked</dt><dd class="data">${d.checked_months} of ${months.length}</dd>
+      <dt>Versions found</dt><dd class="data">${d.versions}</dd>
+      ${latest && latest.page_dates.length ? `<dt>Page says</dt><dd>Last updated ${esc(latest.page_dates[0])}</dd>` : ""}
+      ${latest ? `<dt>Latest copy</dt><dd><a href="${esc(wb(latest.timestamp, latest.original))}">${day(latest.timestamp)}</a></dd>` : ""}
+    </dl>
+    <div class="strip" aria-hidden="true">${strip}</div>
+    <div class="strip-axis" aria-hidden="true"><span>${monthName(months[0])}</span><span>${monthName(months[months.length - 1])}</span></div>
+  </div>
+  <section aria-labelledby="dh">
+    <div class="sec-head"><h2 id="dh">${list.length ? `${list.length} change${list.length > 1 ? "s" : ""}, newest first` : "No changes found"}</h2></div>
+    <div class="feed">${list.length ? list.map(c => changeCard(c, { open: true, showDoc: false })).join("")
+      : `<p class="empty">${d.checked_months ? `The wording was the same in every copy we checked.` : `The Wayback Machine had no usable copies of this page in the period.`}</p>`}</div>
+  </section>`;
+}
+
+function viewAbout() {
+  document.title = "About · Metaterms";
+  $("#view").innerHTML = "";
+  $("#view").append($("#about-tpl").content.cloneNode(true));
+  $("#diary").innerHTML = DIARY.map(e => `<li${e.milestone ? ` class="milestone"` : ""}><span class="d">${esc(e.date)}${e.milestone ? `<span class="ms">Milestone</span>` : ""}</span><strong>${esc(e.title)}</strong><p>${esc(e.text)}</p></li>`).join("");
+}
+
+function route() {
+  const h = decodeURIComponent(location.hash.slice(1));
+  let tab = "changes";
+  if (h === "about") { tab = "about"; viewAbout(); window.scrollTo(0, 0); }
+  else if (h.startsWith("doc-")) { viewDoc(h.slice(4)); window.scrollTo(0, 0); }
+  else if (changeBy[h]) {
+    if (!$("#feed")) viewChanges();
+    let el = document.getElementById(h);
+    if (!el) { $("#f-minor").checked = true; $("#f-prod").value = ""; $("#f-q").value = ""; $("#f-prod").dispatchEvent(new Event("input")); el = document.getElementById(h); }
+    if (el) { el.querySelector("details").open = true; el.scrollIntoView({ block: "start" }); }
+  } else { viewChanges(); if (h !== "changes") window.scrollTo(0, 0); }
+  document.querySelectorAll(".tabs a").forEach(a => { if (a.dataset.tab === tab) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); });
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-more]");
+  if (!b) return;
+  const c = changeBy[b.dataset.more];
+  b.parentElement.outerHTML = redline(c, Infinity);
+});
+
+$("#foot").innerHTML = `Built ${esc(DATA.generated)} from Wayback Machine copies. Not affiliated with Meta. <a href="#about">How this works and what it can't tell you</a>.`;
+window.addEventListener("hashchange", route);
+route();
+</script>
