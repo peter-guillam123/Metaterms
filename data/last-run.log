@@ -1,14 +1,5 @@
-17:11:17 start: mode=full budget=170.0 minutes
-17:11:17 re-extracted 0 downloaded pages
-17:11:17 found 49 links
-17:11:17 [eu-messaging-contract-summary] indexing https://www.facebook.com/legal/terms/eecc/contract_summary
-17:11:18   0.4s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Feecc%2Fcontract_summary&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-17:11:18 [eu-messaging-contract-summary]   https://www.facebook.com/legal/terms/eecc/contract_summary: 2 captures, 200s in 1 months
-17:11:18 [eu-messaging-eecc-information] indexing https://www.facebook.com/legal/terms/eecc/flyout
-17:11:26   0.3s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Feecc%2Fflyout&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-17:11:26 [eu-messaging-eecc-information]   https://www.facebook.com/legal/terms/eecc/flyout: 3 captures, 200s in 2 months
-17:11:34   0.9s 200 https://web.archive.org/web/20250209155711id_/https://www.facebook.com/legal/terms/eecc/contract_summary
-17:11:42   0.5s 200 https://web.archive.org/web/20251101122521id_/https://www.facebook.com/legal/terms/eecc/flyout
-17:11:51   1.6s 200 https://web.archive.org/web/20250209155625id_/https://www.facebook.com/legal/terms/eecc/flyout
-17:11:51 pages still to finish: 0
-17:11:51 done: mode=full lines=13 minutes=0.6
+17:14:03 start: mode=full budget=170.0 minutes
+17:14:03 re-extracted 0 downloaded pages
+17:14:04 found 49 links
+17:14:04 pages still to finish: 0
+17:14:04 done: mode=full lines=4 minutes=0.0
