@@ -96,6 +96,34 @@
   "headline": "Rewrites payment terms, with creator payout caps and expiring ad credits",
   "summary": "A broad rewrite of the terms. Meta may now charge other saved payment instruments when one fails, offset chargebacks, fees and fines against amounts owed to users, and \"impose or adjust caps on payouts of creators' earnings\". Ad credits can expire after three years, or longer if the law requires, currency exchange now covers cryptocurrency, and Meta says it is not liable for third parties' acts, including payment providers."
  },
+ "community-standards-202412": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta added a menu link to a new \"Age-Appropriate Content\" page about teens on Facebook and Instagram; the Community Standards wording did not change.",
+  "size": "formatting"
+ },
+ "community-standards-202502": {
+  "headline": "Lists Hate Speech policy as Hateful Conduct and drops category headings",
+  "summary": "In the list of policies, \"Hate Speech\" now appears as \"Hateful Conduct\". The group headings, such as the one for violence and criminal behaviour, are gone, leaving a single list. This page shows only the new name, not any change to the policy's own wording."
+ },
+ "community-standards-202503": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta added a menu link to a page called \"Tracking the Oversight Board's Impact\"; the Community Standards wording did not change.",
+  "size": "formatting"
+ },
+ "community-standards-202507": {
+  "headline": "Menu or layout change only",
+  "summary": "Meta added an \"Accessibility at Meta\" menu link and removed a menu entry on its approach to Facebook Feed ranking; the Community Standards wording did not change.",
+  "size": "formatting"
+ },
+ "community-standards-202511": {
+  "headline": "Menu or layout change only",
+  "summary": "The Transparency Center menus are gone from the page and the list of policies is now set out one per line; the Community Standards wording did not change.",
+  "size": "formatting"
+ },
+ "community-standards-202610": {
+  "headline": "Lists Prohibited Commercial Practices in place of Fraud, Scams, and Deceptive Practices",
+  "summary": "In the list of policies, \"Fraud, Scams, and Deceptive Practices\" now appears as \"Prohibited Commercial Practices\". This page shows only the new name, not any change to the policy's own wording."
+ },
  "complaints-handling-process-202602": {
   "headline": "Replaces separate Facebook and Instagram rule names with Community Standards",
   "summary": "The page now says Meta removes content that breaks its terms or policies \"including the Community Standards\", no longer naming the Facebook Community Standards and Instagram Community Guidelines separately. The updated date moves from 3 September 2024 to 21 March 2025, and a \"Transparency Center\" menu no longer appears."
@@ -103,6 +131,62 @@
  "developer-payment-terms-202501": {
   "headline": "Rewords the description of what Facebook Payments does for developers",
   "summary": "The opening line now says Facebook Payments lets developers focus on creating apps rather than \"content delivery and managing payments\", where it used to say \"on building payment systems\". This is a descriptive edit and no obligations changed."
+ },
+ "facebook-pages-groups-events-policy-202504": {
+  "headline": "Loses the reference to US government Pages terms, probably an archiving quirk",
+  "summary": "The line \"Amended Pages Terms for State and Local Governments in the United States\" is missing from this copy. It appears in some archived copies of the page and not others, so this is probably an archiving artefact rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "facebook-pages-groups-events-policy-202507": {
+  "headline": "Restores the reference to US government Pages terms, probably an archiving quirk",
+  "summary": "The line \"Amended Pages Terms for State and Local Governments in the United States\" is back after being missing from the previous copy. It appears in some archived copies of the page and not others, so this is probably an archiving artefact rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "facebook-pages-groups-events-policy-202512": {
+  "headline": "Loses the reference to US government Pages terms, probably an archiving quirk",
+  "summary": "The line \"Amended Pages Terms for State and Local Governments in the United States\" is missing from this copy. It appears in some archived copies of the page and not others, so this is probably an archiving artefact rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "facebook-pages-groups-events-policy-202605": {
+  "headline": "Restores the reference to US government Pages terms, probably an archiving quirk",
+  "summary": "The line \"Amended Pages Terms for State and Local Governments in the United States\" is back after being missing from the previous copy. It appears in some archived copies of the page and not others, so this is probably an archiving artefact rather than an edit by Meta.",
+  "size": "formatting"
+ },
+ "instagram-recommendations-guidelines-202501": {
+  "headline": "Refers to Community Standards instead of Community Guidelines",
+  "summary": "Two mentions of \"Community Guidelines\" now say \"Community Standards\". The recommendation rules around them did not change."
+ },
+ "instagram-recommendations-guidelines-202504": {
+  "headline": "Removes clickbait and engagement bait from content Meta may not recommend",
+  "summary": "Meta removed one of the five categories of content that is allowed but may not be recommended: content \"users broadly tell us they dislike\", which listed clickbait, engagement bait and posts promoting a contest or giveaway. Four categories remain, so these kinds of content are no longer named as possibly ineligible for recommendation."
+ },
+ "instagram-recommendations-guidelines-202511": {
+  "headline": "Names Teen Accounts content setting alongside Sensitive Content Control",
+  "summary": "The note on controlling how much sensitive content people see now also points to \"Instagram's Content setting for Teen Accounts\", not only the Sensitive Content Control. The rules on what may be recommended did not change."
+ },
+ "instagram-recommendations-guidelines-202608": {
+  "headline": "Rewrites teen rules and drops health and finance category from guidelines",
+  "summary": "In a broad rewrite, Meta dropped the health and finance category, so cosmetic procedures, \"miracle cures\", payday loans and vaccine misinformation are no longer listed, though content promoting weight loss products and cosmetic surgery is now hidden from teens. The teen rules now give examples of what Meta would \"age restrict\". Fact-checked content is held back only \"In countries where Meta supports third-party fact-checking\"."
+ },
+ "instagram-terms-of-use-202412": {
+  "headline": "Drops the promise of at least 30 days' notice before changes",
+  "summary": "The section on updating the terms had two near-identical paragraphs, and Meta removed the one promising notice \"at least 30 days before we make changes\". The remaining paragraph still says Meta will notify users before making changes, but sets no minimum period."
+ },
+ "instagram-terms-of-use-202501": {
+  "headline": "Brings in updated terms on scraping, Meta AI and fact-checking",
+  "summary": "Meta's updated terms, announced for 1 January 2025, replace the old text. The ban on automated access and data collection without permission now applies \"regardless of whether\" the user is logged in, and a new rule bans getting around technical limits on access. The Meta AI Terms and Avatar Terms now also apply, and Meta says it may add a notice to content rated by fact-checkers."
+ },
+ "instagram-terms-of-use-202608": {
+  "headline": "Adds Automated Data Collection Terms to the rules on scraping",
+  "summary": "The ban on collecting data in an automated way without permission now covers \"Automated Data Collection\" as defined in separate Automated Data Collection Terms. Anyone who collects data this way must also follow those terms, and Meta adds that it \"may restrict or revoke our permission at any time\"."
+ },
+ "instagram-terms-of-use-202609": {
+  "headline": "Removes the Automated Data Collection Terms references added a month earlier",
+  "summary": "The references to the Automated Data Collection Terms, and the line saying Meta \"may restrict or revoke our permission at any time\", are gone. The page now matches the July 2026 copy word for word. It is not clear whether Meta withdrew the change or the August copy was a different version of the page."
+ },
+ "instagram-terms-of-use-202611": {
+  "headline": "Announces new terms from 20 January 2027; copy may be another region's",
+  "summary": "The November 2026 copy opens with a notice that updated Terms of Use take effect on 20 January 2027. The same copy has no arbitration clause, class action waiver, $100 liability cap or user indemnity, and lets consumers bring claims in their own country's courts. Those are features of the terms Meta shows outside the US, so this copy is probably a different regional version, not a change to the US terms."
  },
  "music-guidelines-202502": {
   "headline": "Menu or layout change only",
