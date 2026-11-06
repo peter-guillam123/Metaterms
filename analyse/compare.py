@@ -71,8 +71,9 @@ def words(s):
 
 
 def flat(s):
-    """Words only, lower case, for spotting text that moved."""
-    return " ".join(WORD.findall(re.sub(r"^(#+ |- )", "", s, flags=re.M).lower()))
+    """Words only, lower case, for spotting text that moved. List and
+    heading marks are not words."""
+    return " ".join(w for w in WORD.findall(s.lower()) if w.strip("-'’"))
 
 
 def moved(item, a_flat, b_flat):
@@ -176,8 +177,8 @@ def heading_before(blks, idx):
 
 def diff_versions(a_text, b_text, context=1):
     a, b = blocks(a_text), blocks(b_text)
-    a_flat = flat(" ".join(a))
-    b_flat = flat(" ".join(b))
+    a_flat = " ".join(flat(x) for x in a)
+    b_flat = " ".join(flat(x) for x in b)
     sm = difflib.SequenceMatcher(None, [key(x) for x in a], [key(x) for x in b], autojunk=False)
     hunks = []
     added = removed = 0
@@ -232,8 +233,8 @@ def diff_versions(a_text, b_text, context=1):
 def word_change(a_text, b_text):
     """Words added and removed, comparing the running text only, so that
     headings, lists and paragraph breaks don't count."""
-    wa = WORD.findall(tidy(a_text).lower())
-    wb = WORD.findall(tidy(b_text).lower())
+    wa = flat(tidy(a_text)).split()
+    wb = flat(tidy(b_text)).split()
     sm = difflib.SequenceMatcher(None, wa, wb, autojunk=False)
     added = removed = 0
     for op, i1, i2, j1, j2 in sm.get_opcodes():

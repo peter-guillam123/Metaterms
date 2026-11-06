@@ -12,7 +12,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def render(c, limit=6000):
+def render(c, limit=40000):
     out = [f"=== {c['id']}  {c['size']}  +{c['added_words']}/-{c['removed_words']} words  "
            f"{c['from']['timestamp'][:8]} -> {c['to']['timestamp'][:8]}  dates: {c['page_dates_before']} -> {c['page_dates_after']}"]
     for h in c["hunks"]:
