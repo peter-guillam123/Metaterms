@@ -4,6 +4,20 @@
  "product": "All Meta",
  "url": "https://transparency.meta.com/policies/community-standards/",
  "months": {
+  "202411": {
+   "timestamp": "20241115015549",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "GDFCZ5QAV6I54HRHJIQSY4RETRBYWZZS",
+   "text_hash": "0ae524a319d6",
+   "chars": 8687
+  },
+  "202502": {
+   "timestamp": "20250215035517",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "YSEWAWUDDLLWJ24NL5LIRVDIJN7EJ77X",
+   "text_hash": "6c7fd34e72a7",
+   "chars": 8643
+  },
   "202610": {
    "timestamp": "20261015062137",
    "original": "https://transparency.meta.com/policies/community-standards/",

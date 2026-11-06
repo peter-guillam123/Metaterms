@@ -1,0 +1,22 @@
+{
+ "slug": "facebook-pages-groups-events-policy",
+ "title": "Facebook Pages, Groups and Events Policy",
+ "product": "Facebook",
+ "url": "https://www.facebook.com/policies/pages_groups_events/",
+ "months": {
+  "202503": {
+   "timestamp": "20250326145809",
+   "original": "https://www.facebook.com/policies/pages_groups_events",
+   "digest": "7727GOWWIQD6XHHAWX6B5Y3QRXKUEORW",
+   "text_hash": "0d56a987394e",
+   "chars": 10817
+  },
+  "202610": {
+   "timestamp": "20261010080016",
+   "original": "https://www.facebook.com/policies/pages_groups_events",
+   "digest": "E7OIE3V4642MNXSOPKA5AR3IVK2V7FX4",
+   "text_hash": "0d56a987394e",
+   "chars": 10817
+  }
+ }
+}

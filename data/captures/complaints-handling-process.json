@@ -4,6 +4,20 @@
  "product": "All Meta",
  "url": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process/",
  "months": {
+  "202501": {
+   "timestamp": "20250124174151",
+   "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+   "digest": "7OQ2V46AIBKNSVFSF6VUVIXFFJIWSZTI",
+   "text_hash": "840145e5a760",
+   "chars": 4111
+  },
+  "202507": {
+   "timestamp": "20250727204112",
+   "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+   "digest": "CS6AHZJCZA6AKDTO4Z3VWBNKZTVGQRCU",
+   "text_hash": "f2595df648f9",
+   "chars": 4142
+  },
   "202603": {
    "timestamp": "20260305145754",
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",

@@ -1,0 +1,22 @@
+{
+ "slug": "platform-policy",
+ "title": "Platform Policy",
+ "product": "All Meta",
+ "url": "https://developers.facebook.com/terms/dfc_platform_terms/",
+ "months": {
+  "202411": {
+   "timestamp": "20241116202112",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "OV456WM4YRH2OOT3AFDRUDEJZSAQGLTI",
+   "text_hash": "c04e3f658f41",
+   "chars": 42070
+  },
+  "202610": {
+   "timestamp": "20261015000740",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "LB4PXWVKRGTGLARB76USW5U4RXF36NOW",
+   "text_hash": "b4439423d9f9",
+   "chars": 44543
+  }
+ }
+}

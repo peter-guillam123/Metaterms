@@ -1,0 +1,22 @@
+{
+ "slug": "live-policies",
+ "title": "Live Policies",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/policies/live",
+ "months": {
+  "202411": {
+   "timestamp": "20241114213455",
+   "original": "https://www.facebook.com/policies/live",
+   "digest": "USFWB5Q7VT26OGJXOPTEAF6FC7LZNBUD",
+   "text_hash": "52555fd9ebfc",
+   "chars": 1574
+  },
+  "202610": {
+   "timestamp": "20261008023919",
+   "original": "https://www.facebook.com/policies/live",
+   "digest": "E5PT67OVLTQ6ZVHS5SUIWWO6YMQLZ3UW",
+   "text_hash": "52555fd9ebfc",
+   "chars": 1574
+  }
+ }
+}

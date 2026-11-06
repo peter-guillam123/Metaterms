@@ -4,6 +4,20 @@
  "product": "All Meta",
  "url": "https://www.facebook.com/policies_center/community_feedback/",
  "months": {
+  "202411": {
+   "timestamp": "20241118080321",
+   "original": "https://www.facebook.com/policies_center/community_feedback/",
+   "digest": "2EFHEP2QVQ6RYWWSKBNEYTLN7AJ2YGSI",
+   "text_hash": "71a9c1d37abf",
+   "chars": 2306
+  },
+  "202502": {
+   "timestamp": "20250212231852",
+   "original": "https://www.facebook.com/policies_center/community_feedback",
+   "digest": "SYH247EPXS3JLO4XUNUASHHWCMF3GZIY",
+   "text_hash": "71a9c1d37abf",
+   "chars": 2306
+  },
   "202610": {
    "timestamp": "20261008023711",
    "original": "https://www.facebook.com/policies_center/community_feedback/",

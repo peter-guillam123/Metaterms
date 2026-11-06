@@ -1,0 +1,485 @@
+# Meta Political Engagement
+
+Meta's mission is to give people the power to build community and bring the world closer together. As we work to achieve this goal, we expect all Meta Personnel (as defined in the Meta Code of Conduct), to follow our Code of Conduct and Political Activities and Lobbying Policy and to always act lawfully, honestly, and ethically.
+
+## Compliance and Reporting
+
+Public policy decisions can have significant implications for the people that use our services and the future direction of our company. Meta regularly engages with government officials to discuss policy issues important to the company as well as share information about our products and services. In doing so, we expect all of our personnel to follow our policies, including our Code of Conduct and Political Activities and Lobbying Policy. We also provide training to our personnel and external consultants engaging with government officials to discuss policy issues on the ethical standards required in all such interactions, and expect them to always act lawfully, honestly and ethically, and abide by all lobbying registration and reporting laws in countries in which we operate.
+
+Meta's Vice President of Public Policy oversees all corporate political activity (including lobbying activities and political contributions) and is aided, in some instances, by a cross-functional team that includes representatives from Meta's Public Policy, Communications, and Legal departments.
+
+Meta's Compensation, Nominating & Governance Committee, which is comprised entirely of independent members of our Board of Directors, maintains oversight of the company's policy relating to political contributions, including Meta's PAC contributions and direct corporate contributions to state and local political campaigns.
+
+Pursuant to Meta's Political Activities and Lobbying Policy, Meta tracks and reports on its lobbying activities in all jurisdictions where such disclosures are required, and complies with the applicable codes of ethics pertinent to registered lobbying entities. Meta also respects all guidelines and requirements regarding the hiring of former government officials, including limits on their ability to conduct certain activities during required cooling-off periods. Expenditures made for political activities are subject to the same expenditure approval matrix applicable to all Meta expenditures.
+
+## Purpose
+
+The activities described below are intended to ensure Meta maintains a voice in public policy discussions that impact our business, our employees and the people that use our products and services.
+
+## Meta's Policies For Assessing Candidates and Making Political Contributions
+
+Where legally permitted to do so, either by administering Meta's federally-registered PAC or through direct corporate contributions, we support the campaigns of candidates for public office in the United States who have certain policy stances that are consistent with Meta's public policy views and business interests.
+
+Under US campaign finance law, Meta (like all corporations) is prohibited from donating to federal political candidates. Since many Meta employees wish to support federal candidates who share their goal of building community and bringing the world closer together, we formed Meta Platforms, Inc. PAC (Meta PAC), originally called Facebook, Inc. PAC, in 2011. Meta PAC is regulated under the Federal Election Commission and its activity, which is reported monthly, may be found here.
+
+In deciding which federal candidates to support, MetaPAC considers factors such as:
+
+- A candidate's general alignment with Meta's public policy views and business interests;
+
+- The extent of Meta's presence in a given state or Congressional district;
+
+- Whether a candidate could work on policy issues relevant to Meta;
+
+- Political balance; and
+
+- The interests of our employees, shareholders and other stakeholders.
+
+Where permitted by law, Meta may contribute to candidates for state office, with the goal of supporting public policies that give people the power to build community and bring the world closer together. Our Vice President of US Public Policy oversees these contributions with the assistance of a cross-functional team that includes representatives from Meta's Public Policy, Communications, and Legal departments. State political activity is conducted in compliance with applicable disclosure laws, including the timely filing of required reports.
+
+Apart from these political contributions, Meta does not make any independent expenditures in support of or opposition to any candidate for office.
+
+The personal political preferences of Meta executives, directors, and employees do not influence either Meta PAC's or the Company's political contributions. Additionally, a contribution to a candidate for office does not mean that we agree with every policy or position that candidate may espouse.
+
+No campaign contribution will be made with the expectation that Meta will receive something in return.
+
+## Meta PAC Contributions (Federal)
+
+You can view a detailed report of Meta's PAC contributions to federal candidates by clicking the link below. This report, which will be updated semi-annually, includes contributions since 2013.
+
+Federal PAC Contributions (2013-2024)
+
+## Contributions - States (Nonfederal)
+
+You may view a detailed report of Meta's corporate political contributions to 527 organizations and candidates in states that permit them, by clicking the link below. This report, which will be updated semi-annually, includes contributions made since 2013.
+
+State Contributions (2013-2024)
+
+## Lobbying Disclosure Filings
+
+Meta regularly discloses information about our federal and state lobbying activities. These disclosures provide details on the policy and regulatory issues important to Meta, including data privacy, content issues related to Section 230, competition, platform integrity including youth safety, Artificial Intelligence, economic growth, sustainability and other areas. We believe these issues are integral to the execution of our mission and provide a framework through which our external stakeholders can evaluate and understand our approach to political engagement.
+
+You may view our quarterly federal lobbying disclosures for the past several years, by clicking the links below. In 2024, our policy priorities covered a range of issues, including but not limited to:
+
+- Data and Privacy: Meta is committed to giving people control over their privacy and protecting their information. We want individuals to understand what data we collect, how we are using it, and give individuals the tools to have greater control and make informed decisions. We've also built safety and privacy directly into teen experiences, and have developed more than 30 tools to support teens and families online, including parental supervision tools and age-appropriate protections across our technologies. We worked with policymakers to share our work and advocated for privacy regulations that protect consumers, align with their expectations, and allow for them to continue to enjoy our products and services in a consistent manner.
+
+- Section 230: Meta strongly believes in a free and open internet, one which allows users to post and share content in a responsible manner but also respects the ability of platforms to create their own content rules. Section 230 of the Communications Decency Act has allowed the internet to flourish by creating a necessary balance between user generated content and the rights of platforms to display and disseminate that content, addressing potential harms that may come from user generated content. Meta advocated for the preservation of Section 230 and the rights of both free expression and content moderation.
+
+- Competition: Meta's family of apps compete against a broad set of firms for people's and advertisers' time and attention. Facebook, Instagram, WhatsApp, MetaQuest, and Messenger all face fierce competition and continue to provide valuable and sought after services and products to consumers who value the choice provided by Meta in crowded markets. The integration of our products empowers our users, helps small businesses reach new customers and grow, and benefits consumers by offering free, popular services. We advocated for policies that ensure consumers have choice and access to our high quality products and services.
+
+- Platform Integrity: Meta works diligently to safeguard its platforms from harmful content, adversarial behavior, and malicious actors who seek to manipulate or exploit the family of apps and services. We work with policymakers and other government partners to help ensure our platforms remain safe for users to share and engage. We have built safety into our products and ensure teens and adults are able to safely find information and engagement with content. Balancing free expression, safety, and security can be challenging. We aim to strike the proper equilibrium between fostering open communication and protecting users. Meta defends user rights to free expression on our platforms while working to prevent exploitation by malevolent parties and we remain committed to transparency around our actions to protect our users.
+
+- Artificial Intelligence: Meta is committed to open source for our AI models in order to drive competition, innovation, and give creators the tools to build. We strive to play a leading role in responsible use and deployment of LLMs and work with policymakers on balancing the need for safe guardrails and protections with innovation and harnessing the power and possibility Llama provides. We are committed to responsible AI driven by a belief everyone should have equitable access to information, services, and opportunities and are working with policymakers to educate them on new emerging applications and the benefits AI has for society.
+
+- Economic Growth: Meta has been an engine for economic growth since its earliest days building community, helping businesses grow and reach new customers, and empowering millions to turn their passion and creativity into thriving businesses. We advocated for policies that put this economic growth front and center. We worked with policymakers every day to protect our content creators and small business partners, and allowed for people to continue to find new audiences.
+
+## Federal Lobbying Disclosures
+
+2024: Q1, Q2, Q3
+
+2023: Q1, Q2, Q3, Q4
+
+2022: Q1, Q2, Q3, Q4
+
+2021: Q1, Q2, Q3, Q4
+
+2020: Q1, Q2, Q3, Q4
+
+2009 - 2019 Filings: Full Quarterly List
+
+## Memberships and Independent Organizations
+
+Meta belongs to various trade groups and organizations representing a spectrum of views and communities. Our team also works with independent third-party organizations on issues relating to technology and internet policy and we sometimes support their events that highlight internet and social media issues. We seek to participate in conversations about the issues that directly affect our company and the experience of the people who use our service. We chose these organizations because they are engaged in meaningful dialogue about either the internet or the local communities in which we operate. While we actively participate in these discussions and believe collaborative problem solving is the best way to address a problem and have the greatest impact, we do not always agree with every policy or position that individual organizations or their leadership take. Therefore, our membership, work with organizations, or event support should not be viewed as an endorsement of any particular organization or policy. Meta also prohibits these organizations to use any payment or fee made by Meta to make any political contribution or expenditure in support of or against political candidates and parties.
+
+While the groups we work with will continue to evolve, below please find a representative list of the ones we have worked with in 2024. When possible, we link to the organization's website, so that you may find out more about them.
+
+### Associations, Coalitions, and Membership Organizations:
+
+Albuquerque Hispano Chamber of Commerce
+
+Allegheny Conference on Community Development
+
+Altoona Chamber of Commerce
+
+Association of Washington Business
+
+Attorney General Alliance
+
+Austin LGBT Chamber of Commerce
+
+Bay Area Council
+
+Bellevue Chamber of Commerce
+
+Boise Metro Chamber of Commerce
+
+Bronx Chamber of Commerce
+
+Burlingame / SFO Chamber of Commerce
+
+Business Council of Alabama
+
+California Asian Pacific Chamber of Commerce
+
+California Chamber of Commerce
+
+California State Society
+
+Chamber of Commerce for Greater Philadelphia
+
+Chamber San Mateo County
+
+Chicagoland Chamber of Commerce
+
+Colorado Chamber of Commerce
+
+Columbus Chamber of Commerce
+
+Council of State Governments
+
+Covington-Newton County Chamber
+
+Detroit Regional Chamber
+
+Downtown Bellevue Association
+
+Eagle Mountain Chamber
+
+Fort Worth Black Chamber of Commerce
+
+Fort Worth Chamber of Commerce
+
+Fort Worth Hispanic Chamber of Commerce
+
+Fremont Chamber of Commerce
+
+Georgia Chamber of Commerce
+
+Greater Austin Black Chamber
+
+Greater Austin Hispanic Chamber of Commerce
+
+Greater Belen Chamber of Commerce
+
+Greater Durham Chamber of Commerce
+
+Greater Omaha Chamber
+
+Greater Richmond Chamber of Commerce
+
+Hawaii Chamber of Commerce
+
+Huntsville Madison County Chamber
+
+Illinois Chamber of Commerce
+
+Illinois Hispanic Chamber
+
+Indiana Chamber
+
+Interactive Advertising Bureau
+
+Internet Coalition
+
+Iowa Association of Business and Industry
+
+Kansas Chamber
+
+Kendall Square Association
+
+Kentucky Chamber of Commerce
+
+Kirkland Chamber of Commerce
+
+LA Business Federation
+
+Las Vegas Chamber of Commerce
+
+LAX Chamber of Commerce
+
+Licking County Chamber of Commerce
+
+Long Island Association
+
+Los Angeles Chamber
+
+Madison Chamber of Commerce
+
+Madison Morgan County Chamber of Commerce
+
+Manhattan Chamber of Commerce
+
+Maryland Chamber of Commerce
+
+Mesa Chamber of Commerce
+
+Metro Atlanta Chamber
+
+Mississippi Economic Council
+
+Moffett Park Business Group
+
+National Black Caucus of State Legislators
+
+National Hispanic Caucus of State Legislators
+
+NetChoice
+
+New Albany Chamber of Commerce
+
+New Mexico State Chamber
+
+North Carolina Chamber
+
+Ohio Chamber of Commerce
+
+Oklahoma Chamber
+
+One Redmond
+
+Prineville Crook County Chamber of Commerce
+
+Queens Chamber of Commerce
+
+Rutherford County Chamber of Commerce
+
+Salt Lake City Chamber of Commerce
+
+San Diego Regional Chamber of Commerce
+
+San Francisco Council of District Merchants Associations
+
+San Francisco Chamber of Commerce
+
+San Mateo Economic Development Association
+
+Sarpy County Chamber Of Commerce
+
+Seattle Chamber of Commerce
+
+Silicon Valley Leadership Group
+
+South Carolina Chamber of Commerce
+
+South Dakota Chamber of Commerce
+
+State Legislative Leaders Foundation
+
+State Privacy and Security Coalition
+
+Sunnyvale Chamber of Commerce
+
+TechNet
+
+TechNYC
+
+Texas Association of Business
+
+The Business Council of New York State Inc
+
+US Black Chamber
+
+US Chamber of Commerce
+
+US Conference of Mayors
+
+US Hispanic Chamber
+
+US Pan Asian Chamber of Commerce
+
+Virginia Chamber of Commerce
+
+West Virginia Chamber
+
+Wyoming Business Alliance
+
+### Third-Party Groups
+
+Abundance Institute
+
+Access Now
+
+All In Together
+
+American Action Forum
+
+American Constitution Society
+
+American Consumer Institute
+
+American Edge Project
+
+American Enterprise Institute for Public Policy Research
+
+Americans for Tax Reform
+
+Application Developers Alliance
+
+Asian Americans Advancing Justice (AAJC)
+
+Asian Pacific American Institute for Congressional Studies
+
+Aspen Institution
+
+Association of Chamber of Commerce Executives
+
+Atlantic Council
+
+Bipartisan Policy Center
+
+Brookings Institution
+
+Business Forward
+
+Cato Institute
+
+Center for a New American Security
+
+Center for Democracy & Technology
+
+Center for Growth and Opportunity
+
+Center for Safe Internet Pharmacies
+
+Center for Strategic and International Studies
+
+Center Forward
+
+Citizens Awareness Project
+
+Clean Energy Buyers Association
+
+Competitive Enterprise Institute
+
+Congressional Black Caucus Foundation
+
+Congressional Hispanic Caucus Institute
+
+Consumer Choice Center
+
+Consumer Technology Association
+
+Council of the Americas
+
+Council on Foreign Relations
+
+Disability In
+
+Engine Advocacy
+
+Federalist Society
+
+Foundation for American Innovation
+
+Foundation for Individual Rights in Education (FIRE)
+
+Global Network Initiative
+
+Global Women's Innovation Network
+
+GLSEN
+
+Hispanic Federation
+
+Hudson Institute
+
+Incompas
+
+Information Technology & Innovation Foundation
+
+Information Technology Industry Council
+
+Innovation Economy Institute
+
+Institute for Policy Innovation
+
+International Center for Law and Economics
+
+International Republican Institute
+
+Internet Advertising Bureau
+
+Internet Education Foundation
+
+Jobs for the Future
+
+Joint Center for Political and Economic Studies
+
+Leading Women Defined Foundation
+
+Libertas Institute
+
+March of Dimes
+
+Mavericks
+
+Mercatus Center at George Mason University
+
+Muslim Public Affairs Council
+
+NAMI
+
+National ACE
+
+National Action Network
+
+National Association of Latino and Elected Officials (NALEO)
+
+National Association of State Chambers (Council of State Chambers of Commerce)
+
+National Association of Women Business Owners (NAWBO)
+
+National Conference of State Legislatures
+
+National Consumers League
+
+National Foreign Trade Council
+
+National Network to End Domestic Violence
+
+National Science and Technology Medals Foundation
+
+National Small Business Association
+
+National Taxpayers Union
+
+National Urban League
+
+Parents, Families, & Friends of Lesbians and Gays (PFLAG)
+
+Progressive Policy Institute
+
+Rainbow PUSH Coalition (Citizenship Education Fund)
+
+SBDA
+
+Score Foundation
+
+Software and Information Industry Association
+
+Taxpayers Protection Alliance
+
+Technology Policy Institute
+
+The National Center for Missing and Exploited Children
+
+The Ripon Society
+
+The Tax Council
+
+The Trevor Project
+
+The University of Florida Public Utility Research Center
+
+The Voices Project
+
+Third Way
+
+Washington Legal Foundation
+
+Women's Congressional Policy Institute
+
+World Economic Forum
+
+## Political Activity by Meta Employees
+
+Meta encourages informed participation in the political process. Meta employees may participate in personal political activities, on their own time, with their own funds and in accordance with their own political preferences and desires. Employees must keep such activity separate from work and never represent that such activities are being conducted on behalf of Meta. Pursuant to Meta's Political Activities & Lobbying Policy, no personal political contribution or expenditure may be, or will be, coerced by Meta or its executives.

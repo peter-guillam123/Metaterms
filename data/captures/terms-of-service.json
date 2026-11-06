@@ -1,0 +1,22 @@
+{
+ "slug": "terms-of-service",
+ "title": "Terms of Service",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/terms/?locale=en_GB",
+ "months": {
+  "202411": {
+   "timestamp": "20241115035645",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "A5ZRPBCQQ643XTI2P6MFUTW7LSP2NTAF",
+   "text_hash": "35089f3ba01a",
+   "chars": 30936
+  },
+  "202611": {
+   "timestamp": "20261106140438",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "6YWPUP3EKX3U6MKTQMJCPXDPQFAZ4F4B",
+   "text_hash": "40aec537ab5d",
+   "chars": 32246
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "slug": "music-guidelines",
+ "title": "Music Guidelines",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/legal/music_guidelines",
+ "months": {
+  "202411": {
+   "timestamp": "20241114041502",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "GNOUMOZRMJLN756A4JALYFQFF4MZBERF",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762
+  },
+  "202610": {
+   "timestamp": "20261010075902",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "BFPDGZVXPSQKFZEFVXVTLVIBGH7EU33I",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762
+  }
+ }
+}

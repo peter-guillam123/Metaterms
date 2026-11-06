@@ -1,0 +1,22 @@
+{
+ "slug": "facebook-recommendations-guidelines",
+ "title": "Facebook Recommendations Guidelines",
+ "product": "Facebook",
+ "url": "https://www.facebook.com/help/1257205004624246/",
+ "months": {
+  "202411": {
+   "timestamp": "20241115002615",
+   "original": "https://www.facebook.com/help/1257205004624246",
+   "digest": "RS7GS5ENUN747B2VHT6YA65WVPGB53NI",
+   "text_hash": "001a661c8df8",
+   "chars": 7849
+  },
+  "202610": {
+   "timestamp": "20261015074259",
+   "original": "https://www.facebook.com/help/1257205004624246",
+   "digest": "7U4O3ESCM3UBG3OLLRLUWLGAZFI7RJPT",
+   "text_hash": "9f3db5cc0f04",
+   "chars": 2508
+  }
+ }
+}

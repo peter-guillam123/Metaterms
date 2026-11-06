@@ -1,32 +1,78 @@
-15:22:57 start: mode=full budget=170.0 minutes
-15:22:57 [political-engagement-policies] indexing https://www.meta.com/en-gb/people-practices/meta-political-engagement/
-15:23:01   3.3s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Fen-gb%2Fpeople-practices%2Fmeta-political-engagement%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:23:14   8.8s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.meta.com%2Fpeople-practices%2Fmeta-political-engagement%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:23:14 [political-engagement-policies]   https://www.meta.com/en-gb/people-practices/meta-political-engagement/: 0 captures, 200s in 0 months
-15:23:14 [political-engagement-policies]   https://www.meta.com/people-practices/meta-political-engagement/: 11 captures, 200s in 7 months
-15:23:14 [terms-of-service] indexing https://www.facebook.com/terms/?locale=en_GB
-15:23:15   1.0s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fterms%2F%3Flocale%3Den_GB&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:24:02  40.2s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fterms%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:25:23   5.2s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fterms%2F&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:25:38  12.8s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fterms.php&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:25:38 [terms-of-service]   https://www.facebook.com/terms/?locale=en_GB: 3 captures, 200s in 3 months
-15:25:38 [terms-of-service]   https://www.facebook.com/terms/: 835 captures, 200s in 25 months
-15:25:38 [terms-of-service]   https://www.facebook.com/terms.php: 860 captures, 200s in 25 months
-15:25:38 [partner-monetisation-policies] indexing https://www.facebook.com/business/help/169845596919485?id=2520940424820218
-15:25:45   7.0s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:26:10  23.9s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/web/20251121122820id_/https://www.facebook.com/business/help/169845596919485?id=2520940424820218
-15:27:32   7.0s 302 https://web.archive.org/web/20251121122820id_/https://www.facebook.com/business/help/169845596919485?id=2520940424820218
-15:27:57  23.8s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fbusiness%252Fhelp%252F169845596919485%253Fid%253D2520940424820218&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:29:22  10.0s 200 https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3Dhttps%253A%252F%252Fwww.facebook.com%252Fbusiness%252Fhelp%252F169845596919485%253Fid%253D2520940424820218&from=20240501&to=20261231&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cdigest%2Cmimetype%2Clength&collapse=timestamp%3A8
-15:29:22 [partner-monetisation-policies]   https://www.facebook.com/business/help/169845596919485?id=2520940424820218: 84 captures, 200s in 10 months
-15:29:22 [partner-monetisation-policies]   https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218: 35 captures, 200s in 8 months
-15:29:45  23.5s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/web/20260511055332id_/https://www.facebook.com/policies/ads
-15:31:05   4.8s 200 https://web.archive.org/web/20260511055332id_/https://www.facebook.com/policies/ads
-15:31:39  30.1s URLError (<urlopen error _ssl.c:994: The handshake operation timed out>) https://web.archive.org/web/20261014124551id_/https://www.facebook.com/payments_terms
-15:32:58   4.8s 200 https://web.archive.org/web/20261014124551id_/https://www.facebook.com/payments_terms
-15:33:01 checkpoint pushed
-15:33:01 pages still to finish: 32
-15:33:12  10.2s 200 https://web.archive.org/web/20261015062137id_/https://transparency.meta.com/policies/community-standards/
-15:33:35  23.5s URLError (<urlopen error [Errno 111] Connection refused>) https://web.archive.org/web/20260305145754id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
-15:34:52   1.6s 200 https://web.archive.org/web/20260305145754id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
-15:35:13  15.0s 200 https://web.archive.org/web/20261010074346id_/https://developers.facebook.com/policy/credits
+15:35:55 start: mode=full budget=170.0 minutes
+15:35:57   2.4s 200 https://web.archive.org/web/20250813192819id_/https://www.facebook.com/policies/ads
+15:36:04   0.6s 200 https://web.archive.org/web/20250817065511id_/https://www.facebook.com/policies/ads/
+15:36:13   2.3s 200 https://web.archive.org/web/20241114013219id_/https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy
+15:36:21   2.2s 200 https://web.archive.org/web/20241115015549id_/https://transparency.meta.com/policies/community-standards/
+15:36:28   0.9s 200 https://web.archive.org/web/20250124174151id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
+15:36:36   1.4s 200 https://web.archive.org/web/20241115015644id_/https://developers.facebook.com/policy/credits
+15:36:46   2.8s 200 https://web.archive.org/web/20261008023919id_/https://www.facebook.com/policies/live
+15:36:52   1.0s 200 https://web.archive.org/web/20261102000410id_/https://www.facebook.com/legal/ai-terms
+15:37:00   1.4s 200 https://web.archive.org/web/20261013021241id_/https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect
+15:37:07   0.4s 200 https://web.archive.org/web/20261010083959id_/https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect
+15:37:19   3.7s 200 https://web.archive.org/web/20261008023824id_/https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect
+15:37:25   1.9s 200 https://web.archive.org/web/20261015000740id_/https://developers.facebook.com/terms/dfc_platform_terms/
+15:37:32   0.7s 200 https://web.archive.org/web/20261010075902id_/https://www.facebook.com/legal/music_guidelines
+15:37:42   3.0s 200 https://web.archive.org/web/20250209155731id_/https://www.facebook.com/legal/no_ads_terms
+15:37:48   0.5s 200 https://web.archive.org/web/20261008023509id_/https://www.facebook.com/policies_center/payment_protection
+15:38:01   5.6s 200 https://web.archive.org/web/20261021135636id_/https://www.meta.com/people-practices/meta-political-engagement/
+15:38:04   1.0s 200 https://web.archive.org/web/20260815112804id_/https://about.fb.com/news/2020/08/recommendation-guidelines/
+15:38:12   0.5s 200 https://web.archive.org/web/20261014143817id_/https://ai.meta.com/tools/system-cards/
+15:38:20   0.6s 200 https://web.archive.org/web/20261106032514id_/https://www.facebook.com/legal/self_service_ads_terms
+15:38:28   1.2s 200 https://web.archive.org/web/20261106140438id_/https://www.facebook.com/terms/
+15:38:43   7.6s 302 https://web.archive.org/web/20261013100938id_/https://privacycenter.instagram.com/policies/cookies/
+15:38:45   2.1s 200 https://web.archive.org/web/20261012220640id_/https://privacycenter.instagram.com/policies/cookies/
+15:38:53   2.2s 200 https://web.archive.org/web/20261012220640id_/https://privacycenter.instagram.com/policies/cookies/
+15:39:00   1.4s 200 https://web.archive.org/web/20261009102207id_/https://privacycenter.instagram.com/policies/cookies/
+15:39:09   1.7s 200 https://web.archive.org/web/20260914154740id_/https://help.instagram.com/313829416281232/
+15:39:17   1.6s 200 https://web.archive.org/web/20260904200109id_/https://help.instagram.com/313829416281232
+15:39:26   3.3s 200 https://web.archive.org/web/20261015000319id_/https://privacycenter.instagram.com/policy/
+15:39:35   3.5s 200 https://web.archive.org/web/20261106140736id_/https://help.instagram.com/581066165581870
+15:39:41   2.4s 200 https://web.archive.org/web/20261103035128id_/https://help.instagram.com/581066165581870/
+15:39:52   4.8s 200 https://web.archive.org/web/20261102000259id_/https://help.instagram.com/581066165581870/
+15:39:58   3.4s 200 https://web.archive.org/web/20260314100938id_/https://help.instagram.com/300557977301126
+15:40:04   1.0s 200 https://web.archive.org/web/20261015062124id_/https://www.facebook.com/legal/creator_content_monetization_terms/
+15:40:20   8.7s 200 https://web.archive.org/web/20261010080016id_/https://www.facebook.com/policies/pages_groups_events
+15:40:22   1.7s 200 https://web.archive.org/web/20261015074259id_/https://www.facebook.com/help/1257205004624246
+15:40:30   1.9s 200 https://web.archive.org/web/20261015062053id_/https://www.facebook.com/business/help/169845596919485?id=2520940424820218
+15:40:36   0.5s 200 https://web.archive.org/web/20251220151331id_/https://www.facebook.com/policies/ads/
+15:40:45   1.4s 200 https://web.archive.org/web/20250212051805id_/https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy
+15:40:52   0.5s 200 https://web.archive.org/web/20250513015444id_/https://www.meta.com/legal/avatars/terms-of-service/
+15:41:01   0.8s 200 https://web.archive.org/web/20250220135047id_/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254
+15:41:10   1.8s 200 https://web.archive.org/web/20250221155812id_/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254
+15:41:17   0.8s 200 https://web.archive.org/web/20250203122404id_/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F221149188908254
+15:41:25   0.7s 200 https://web.archive.org/web/20250212190829id_/https://www.facebook.com/policies_center/commerce
+15:41:34   2.5s 200 https://web.archive.org/web/20250212190829id_/https://www.facebook.com/legal/commercial_terms
+15:41:41   1.6s 200 https://web.archive.org/web/20250209155651id_/https://www.facebook.com/legal/commercial_terms
+15:41:52   4.4s 200 https://web.archive.org/web/20250212190829id_/https://www.facebook.com/payments_terms
+15:41:56   0.6s 200 https://web.archive.org/web/20250212231852id_/https://www.facebook.com/policies_center/community_feedback
+15:42:04   0.7s 200 https://web.archive.org/web/20250215035517id_/https://transparency.meta.com/policies/community-standards/
+15:42:13   0.9s 200 https://web.archive.org/web/20250727204112id_/https://transparency.meta.com/enforcement/taking-action/complaints-handling-process
+15:42:22   2.5s 200 https://web.archive.org/web/20250216100731id_/https://developers.facebook.com/policy/credits
+15:42:29   1.6s 200 https://web.archive.org/web/20241114213455id_/https://www.facebook.com/policies/live
+15:42:38   1.9s 200 https://web.archive.org/web/20241114024338id_/https://www.facebook.com/legal/ai-terms
+15:42:46   2.1s 200 https://web.archive.org/web/20241115015657id_/https://about.meta.com/brand/resources/
+15:42:54   2.4s 200 https://web.archive.org/web/20241116202112id_/https://developers.facebook.com/terms/dfc_platform_terms/
+15:43:02   2.5s 200 https://web.archive.org/web/20241114041502id_/https://www.facebook.com/legal/music_guidelines
+15:43:12   4.6s 200 https://web.archive.org/web/20241125110038id_/https://www.facebook.com/policies_center/payment_protection
+15:43:17   1.0s 200 https://web.archive.org/web/20250422145432id_/https://www.meta.com/people-practices/meta-political-engagement/
+15:43:46  21.9s 302 https://web.archive.org/web/20241211104028id_/https://about.fb.com/news/2020/08/recommendation-guidelines/
+15:43:46   0.7s 200 https://web.archive.org/web/20240915043506id_/https://about.fb.com/news/2020/08/recommendation-guidelines/
+15:43:54   0.8s 200 https://web.archive.org/web/20241214043150id_/https://ai.meta.com/tools/system-cards/
+15:44:09   7.3s 302 https://web.archive.org/web/20241116153417id_/https://www.facebook.com/legal/self_service_ads_terms
+15:44:11   0.9s 200 https://web.archive.org/web/20241114041804id_/https://www.facebook.com/legal/self_service_ads_terms
+15:44:32  13.9s 200 https://web.archive.org/web/20241115035645id_/https://www.facebook.com/terms/
+15:44:33   1.9s 200 https://web.archive.org/web/20241116125128id_/https://privacycenter.instagram.com/policies/cookies/
+15:44:42   2.0s 200 https://web.archive.org/web/20241101193723id_/https://help.instagram.com/313829416281232
+15:44:51   3.7s 200 https://web.archive.org/web/20241115052456id_/https://privacycenter.instagram.com/policy
+15:44:59   3.3s 200 https://web.archive.org/web/20241114131431id_/https://privacycenter.instagram.com/policy
+15:45:07   3.1s 200 https://web.archive.org/web/20241115020052id_/https://help.instagram.com/581066165581870/
+15:45:21   9.0s 200 https://web.archive.org/web/20241116000124id_/https://help.instagram.com/581066165581870/
+15:45:24   3.4s 200 https://web.archive.org/web/20241114000057id_/https://help.instagram.com/581066165581870/
+15:45:30   1.9s 200 https://web.archive.org/web/20241109232842id_/https://help.instagram.com/300557977301126
+15:45:38   1.0s 200 https://web.archive.org/web/20260624144852id_/https://www.facebook.com/legal/creator_content_monetization_terms/
+15:45:46   1.9s 200 https://web.archive.org/web/20250326145809id_/https://www.facebook.com/policies/pages_groups_events
+15:45:55   2.1s 200 https://web.archive.org/web/20241115002615id_/https://www.facebook.com/help/1257205004624246
+15:46:16  15.8s 302 https://web.archive.org/web/20241122223734id_/https://www.facebook.com/business/help/169845596919485?id=2520940424820218
+15:46:17   0.5s 302 https://web.archive.org/web/20241217020825id_/https://www.facebook.com/business/help/169845596919485?id=2520940424820218
+15:46:25   0.4s 302 https://web.archive.org/web/20241217020825id_/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218
+15:46:33   0.8s 200 https://web.archive.org/web/20241217020826id_/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218

@@ -1,0 +1,22 @@
+{
+ "slug": "political-engagement-policies",
+ "title": "Political Engagement Policies",
+ "product": "All Meta",
+ "url": "https://www.meta.com/en-gb/people-practices/meta-political-engagement/",
+ "months": {
+  "202504": {
+   "timestamp": "20250422145432",
+   "original": "https://www.meta.com/people-practices/meta-political-engagement/",
+   "digest": "3PFQIAT2XRNLSTTLNIUESEZPDXZVR4UM",
+   "text_hash": "70690fb20c5f",
+   "chars": 18646
+  },
+  "202610": {
+   "timestamp": "20261021135636",
+   "original": "https://www.meta.com/people-practices/meta-political-engagement/",
+   "digest": "RCCHT7OOROYURCBLGF3NLVA3CSPYMZIZ",
+   "text_hash": "a1a06ea84fc2",
+   "chars": 21351
+  }
+ }
+}

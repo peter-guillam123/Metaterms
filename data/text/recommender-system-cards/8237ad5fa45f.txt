@@ -1,0 +1,109 @@
+# System cards
+
+System cards are designed to help people better understand how our artificial intelligence (AI) systems work.
+
+System cards
+
+Multimodal generative AI systems
+
+Multimodal generative AI systems can accept multiple types of inputs, such as text and images, and produce various forms of output.
+
+Learn more
+
+AI systems that generate text
+
+Meta's text-generating AI systems can answer questions and have conversations based on text entered as prompts.
+
+Learn more
+
+AI systems that generate images
+
+Meta's image-generating AI systems can create images based on descriptive text entered as prompts.
+
+Learn more
+
+Instagram feed ranking
+
+Feed ranking for Instagram prioritizes content to help people see the posts they're most likely to find interesting, or want to engage with.
+
+Learn more
+
+Social commerce
+
+Social commerce model is an AI system that helps connect people to products from businesses and creators that are interesting to them.
+
+Learn more
+
+Our approach to explaining ranking
+
+AI systems inform the ranking of content for many experiences on Meta's products, such as viewing Facebook Feed, watching reels on Instagram or browsing Facebook Marketplace.
+
+Learn more
+
+Responsible AI The role of system cards in creating transparency Our mission is to ensure that AI at Meta benefits people and society. System cards are one of the ways we deliver on this intention through their role in creating more transparency and control around how a person's data is collected and used. Learn more about how we're designing AI responsibly
+
+Meta AI
+
+Assistant
+
+Media Generation
+
+Vibes
+
+Muse
+
+Agent
+
+AI agents explained
+
+What is agentic AI
+
+Agentic AI examples
+
+AI Research
+
+Overview
+
+Projects
+
+Resources & tools
+
+Publications
+
+GitHub
+
+Resources
+
+Blog
+
+Learning Hub
+
+Demos
+
+About
+
+Overview
+
+Open Source
+
+Careers
+
+Meta AI
+
+Meta AIAssistantMedia GenerationVibes
+
+Muse
+
+MuseAgentAI agents explainedWhat is agentic AIAgentic AI examples
+
+AI Research
+
+AI ResearchOverviewProjectsResources & toolsPublicationsGitHub
+
+Resources
+
+BlogLearning HubDemos
+
+About
+
+AboutOverviewOpen SourceCareers

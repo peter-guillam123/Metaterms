@@ -1,0 +1,22 @@
+{
+ "slug": "instagram-privacy-policy",
+ "title": "Instagram Privacy Policy",
+ "product": "Instagram",
+ "url": "https://privacycenter.instagram.com/policy",
+ "months": {
+  "202411": {
+   "timestamp": "20241114131431",
+   "original": "https://privacycenter.instagram.com/policy",
+   "digest": "TZ4LCIPKJOIZLPZYO5CUTMNSBAAPKTLZ",
+   "text_hash": "87880cf15447",
+   "chars": 39539
+  },
+  "202610": {
+   "timestamp": "20261015000319",
+   "original": "https://privacycenter.instagram.com/policy/",
+   "digest": "UTTZ2O3UFMF7DKDDQNCVO2I7W6QAVSM7",
+   "text_hash": "6be82da01b0d",
+   "chars": 48109
+  }
+ }
+}

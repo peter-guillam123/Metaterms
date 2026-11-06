@@ -1,0 +1,22 @@
+{
+ "slug": "self-serve-ad-terms",
+ "title": "Self-Serve Ad Terms",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/legal/self_service_ads_terms",
+ "months": {
+  "202411": {
+   "timestamp": "20241116153417",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "LCSRXHORSTBZDS6BAFZVB5W6TMH7OEWQ",
+   "text_hash": "542e5125d426",
+   "chars": 9657
+  },
+  "202611": {
+   "timestamp": "20261106032514",
+   "original": "https://www.facebook.com/legal/self_service_ads_terms",
+   "digest": "UW666IZUODUVAHQPMYAKHSCQYOAAKG5O",
+   "text_hash": "ab2d4a2760b2",
+   "chars": 12551
+  }
+ }
+}

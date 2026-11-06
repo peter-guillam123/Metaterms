@@ -1,0 +1,22 @@
+{
+ "slug": "brand-resources",
+ "title": "Brand Resources",
+ "product": "All Meta",
+ "url": "https://about.meta.com/brand/resources/",
+ "months": {
+  "202411": {
+   "timestamp": "20241115015657",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "DIQVI247HYN4IHFASGN323M7GONM6ML7",
+   "text_hash": "0d52bfd6f16d",
+   "chars": 924
+  },
+  "202610": {
+   "timestamp": "20261008023824",
+   "original": "https://www.meta.com/brand/resources/?utm_source=about.meta.com&utm_medium=redirect",
+   "digest": "HCTNHMHRPRZHPALBDVT3JHCNBV4C35PR",
+   "text_hash": "1a4e44455554",
+   "chars": 628
+  }
+ }
+}

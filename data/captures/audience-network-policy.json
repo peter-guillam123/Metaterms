@@ -4,6 +4,20 @@
  "product": "All Meta",
  "url": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",
  "months": {
+  "202411": {
+   "timestamp": "20241114013219",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "3EZU22PFOXVIBDXIYVBK3FDMY44TTC76",
+   "text_hash": "03391647159d",
+   "chars": 14874
+  },
+  "202502": {
+   "timestamp": "20250212051805",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "73YFNT7XVSJPJVKVGM5HJ6BO2LYQBXYO",
+   "text_hash": "03391647159d",
+   "chars": 14874
+  },
   "202610": {
    "timestamp": "20261010074347",
    "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",

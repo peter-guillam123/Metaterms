@@ -1,0 +1,22 @@
+{
+ "slug": "instagram-terms-of-use",
+ "title": "Instagram Terms of Use",
+ "product": "Instagram",
+ "url": "https://help.instagram.com/581066165581870/",
+ "months": {
+  "202411": {
+   "timestamp": "20241114000057",
+   "original": "https://help.instagram.com/581066165581870/",
+   "digest": "SE6CMPIJXNMARGDPZBGCJ3LER33Y2FY6",
+   "text_hash": "adc83b19e793",
+   "chars": 1
+  },
+  "202611": {
+   "timestamp": "20261102000259",
+   "original": "https://help.instagram.com/581066165581870/",
+   "digest": "UQOPD7FUYFEQICBLPTF6CLVB2ZKWVPCT",
+   "text_hash": "adc83b19e793",
+   "chars": 1
+  }
+ }
+}

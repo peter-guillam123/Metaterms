@@ -4,6 +4,20 @@
  "product": "All Meta",
  "url": "https://www.facebook.com/payments_terms",
  "months": {
+  "202411": {
+   "timestamp": "20241114041645",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "VK43CDPNFXTFL4OE3OFUYQGUDFOH6FNW",
+   "text_hash": "65fb2973a396",
+   "chars": 39873
+  },
+  "202502": {
+   "timestamp": "20250212190829",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "EUL4646Q3VVMXFOINZ4N3VSOOSKHWR4R",
+   "text_hash": "2462e3e19790",
+   "chars": 43776
+  },
   "202610": {
    "timestamp": "20261014124551",
    "original": "https://www.facebook.com/payments_terms",

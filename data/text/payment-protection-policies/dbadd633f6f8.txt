@@ -1,0 +1,67 @@
+# Payment Protection
+
+- Overview
+
+- Coverage Details
+
+- Claims
+
+- Disputes
+
+- Limitations
+
+- Support
+
+### Overview
+
+#### Understanding Our Policies
+
+Meta's Payment Protection Policy governs how Meta protects transactions made through its payment products and outlines how customers may seek support for transactions made through Meta's payment products.
+
+Currently, this policy applies only to transactions made through the following Meta payment products:
+
+- Onsite Checkout (United States, United Kingdom)
+
+- WhatsApp Payments to Merchants (Brazil)
+
+- Instagram Payments to Merchants (United States)
+
+### Coverage Details
+
+The following situations are covered by our Payment Protection Policy:
+
+- Unauthorized Activity: We use technology to monitor our payment systems and detect unauthorized activity. We may proactively alert you or disable your account if we suspect such activity is taking place. You should review your account activity regularly to protect yourself from unauthorized activity. If you believe your account has been used in an unauthorized manner, you can let us know and we'll investigate as appropriate.
+
+- Technical Errors: Occasionally, a technical error may delay, duplicate, reject, or freeze a transaction. If such an issue is the fault of Meta's systems, we will proactively cancel any impacted transactions. If you believe a transaction was impacted by a technical error, you can let us know and we'll investigate as appropriate.
+
+- Purchased Products: Our Purchase Protection Policy provides payment protection for purchases made through Onsite Checkout. Look for a shield emblem and "Covered by Purchase Protection" to determine if a listing is eligible for purchase protection.
+
+### Claims
+
+To file a Payment Protection claim, report unauthorized activity directly from the payment receipt or contact support for help with technical errors. We'll review your claim, including any messages you sent other participants, as well as any supporting documentation you provide. We'll respond as quickly as possible and may request further documentation to assist with the claim. In some instances we may refer you to one of the companies we work with to provide payment services.
+
+For unauthorized activity, you should notify us immediately so that we can try to protect you from financial loss. If you're unable to contact us immediately, you must submit a claim within 120 calendar days after the unauthorized activity.
+
+For technical errors, you must file a claim within 120 calendar days from the date of the transaction.
+
+Payment Protection Policy decisions are made at Meta's sole discretion. Transactions that meet the criteria of these Payment Protection Policies will be refunded or canceled.
+
+### Disputes
+
+Payment Protection Policy disputes are handled on a case by case basis.
+
+### Limitations
+
+You must be in compliance with our terms and policies, including the Community Payment Terms, to be eligible for Payment Protection. Payment Protection is not available for activity that violates our Community Standards, Community Guidelines, or Commerce Policies.
+
+Claims not raised within the claims time-frames listed above will be permanently waived.
+
+Claims resolved by one of the companies we work with to provide payment services are ineligible for Payment Protection coverage.
+
+Customer remorse, mistakes, and negligence are ineligible for Payment Protection coverage.
+
+Abuse of our Payment Protection Policy may result in a variety of consequences, including, but not limited to, suspension, termination, or disablement of access to Meta payment products or other Meta products or features. If you repeatedly violate our policies, we may take additional action. Meta reserves the right to reject, approve, or dispute any transaction for any reason at any time, in our sole discretion.
+
+### Support
+
+We hope to provide people peace of mind when using our payment products. If you are having trouble completing a transaction, you can contact us and we'll investigate as appropriate.

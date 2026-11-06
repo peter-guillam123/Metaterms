@@ -1,0 +1,22 @@
+{
+ "slug": "cookies-policy",
+ "title": "Cookies Policy",
+ "product": "All Meta",
+ "url": "https://privacycenter.instagram.com/policies/cookies/",
+ "months": {
+  "202411": {
+   "timestamp": "20241116125128",
+   "original": "https://privacycenter.instagram.com/policies/cookies/",
+   "digest": "6S4EXCO53Y375MTP46RVDRFUQZ67V5RB",
+   "text_hash": "36732dbcf7b2",
+   "chars": 3823
+  },
+  "202610": {
+   "timestamp": "20261009102207",
+   "original": "https://privacycenter.instagram.com/policies/cookies/",
+   "digest": "W2K6ZCHCNV2OGTBCWMJE45PM7L6VYC6G",
+   "text_hash": "adc83b19e793",
+   "chars": 1
+  }
+ }
+}

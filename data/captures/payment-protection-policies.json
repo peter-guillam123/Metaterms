@@ -1,0 +1,22 @@
+{
+ "slug": "payment-protection-policies",
+ "title": "Payment Protection Policies",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/policies_center/payment_protection",
+ "months": {
+  "202411": {
+   "timestamp": "20241125110038",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "U634JGJ6HOKOGVG47STPZ34UIVQJ2AGG",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024
+  },
+  "202610": {
+   "timestamp": "20261008023509",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "BMXGPYVQ2EWZNWOZ7UUHBWVQ77DDEFT5",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024
+  }
+ }
+}

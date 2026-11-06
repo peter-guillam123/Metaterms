@@ -1,0 +1,22 @@
+{
+ "slug": "ai-terms",
+ "title": "AI Terms",
+ "product": "All Meta",
+ "url": "https://www.facebook.com/policies/other-policies/ais-terms",
+ "months": {
+  "202411": {
+   "timestamp": "20241114024338",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "YJ3ED3Y7OXSZBAXT4OXBAET6K7KXUV4N",
+   "text_hash": "93cd261fb30f",
+   "chars": 13274
+  },
+  "202611": {
+   "timestamp": "20261102000410",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "6ERSVYYUPK6YC4JDOKCNMYWW2OVM53MF",
+   "text_hash": "814382e0c206",
+   "chars": 67
+  }
+ }
+}

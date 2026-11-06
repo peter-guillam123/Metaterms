@@ -1,0 +1,22 @@
+{
+ "slug": "recommendations-guidelines",
+ "title": "Recommendations Guidelines",
+ "product": "All Meta",
+ "url": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+ "months": {
+  "202412": {
+   "timestamp": "20241211104028",
+   "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+   "digest": "D4CRTM3HTGEVUJPOJYLH7WSJHXDN4PDG",
+   "text_hash": "a56c7aaedcc5",
+   "chars": 2101
+  },
+  "202608": {
+   "timestamp": "20260815112804",
+   "original": "https://about.fb.com/news/2020/08/recommendation-guidelines/",
+   "digest": "F2HAJYWKW6TOXCHBWKSPRWE7WVFOK4DB",
+   "text_hash": "5c8360b15fe6",
+   "chars": 2007
+  }
+ }
+}
