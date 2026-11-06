@@ -1,194 +1,194 @@
 {
  "advertising-policies": {
   "months_archived": 8,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "audience-network-policy": {
   "months_archived": 22,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 2,
   "complete": false
  },
  "avatar-terms": {
   "months_archived": 13,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 2,
   "complete": false
  },
  "branded-content-policies": {
   "months_archived": 14,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "commerce-policies": {
   "months_archived": 21,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "commercial-terms": {
   "months_archived": 15,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "community-payment-terms": {
   "months_archived": 15,
-  "months_fetched": 1,
-  "versions": 1,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "community-feedback-policies": {
   "months_archived": 10,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 3,
+  "versions": 1,
   "complete": false
  },
  "community-standards": {
   "months_archived": 24,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "complaints-handling-process": {
   "months_archived": 7,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 3,
+  "versions": 3,
   "complete": false
  },
  "developer-payment-terms": {
   "months_archived": 22,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 3,
+  "versions": 2,
   "complete": false
  },
  "live-policies": {
   "months_archived": 11,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "ai-terms": {
   "months_archived": 23,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "brand-resources": {
   "months_archived": 24,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "platform-policy": {
   "months_archived": 24,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "music-guidelines": {
   "months_archived": 13,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "no-ads-terms": {
   "months_archived": 1,
-  "months_fetched": 0,
-  "versions": 0,
-  "complete": false
+  "months_fetched": 1,
+  "versions": 1,
+  "complete": true
  },
  "payment-protection-policies": {
   "months_archived": 7,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "political-engagement-policies": {
   "months_archived": 7,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "recommendations-guidelines": {
   "months_archived": 13,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "recommender-system-cards": {
   "months_archived": 17,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "self-serve-ad-terms": {
   "months_archived": 14,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "terms-of-service": {
   "months_archived": 25,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "cookies-policy": {
   "months_archived": 24,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "instagram-recommendations-guidelines": {
   "months_archived": 20,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "instagram-privacy-policy": {
   "months_archived": 24,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "instagram-terms-of-use": {
   "months_archived": 25,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "instagram-purchase-protection-policy": {
   "months_archived": 8,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "facebook-creator-content-monetisation-terms": {
   "months_archived": 2,
-  "months_fetched": 0,
-  "versions": 0,
-  "complete": false
+  "months_fetched": 2,
+  "versions": 2,
+  "complete": true
  },
  "facebook-pages-groups-events-policy": {
   "months_archived": 16,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 1,
   "complete": false
  },
  "facebook-recommendations-guidelines": {
   "months_archived": 18,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  },
  "partner-monetisation-policies": {
   "months_archived": 17,
-  "months_fetched": 0,
-  "versions": 0,
+  "months_fetched": 2,
+  "versions": 2,
   "complete": false
  }
 }
