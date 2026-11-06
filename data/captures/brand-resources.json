@@ -22,12 +22,39 @@
    "usable": true,
    "extractor": 3
   },
+  "202501": {
+   "timestamp": "20250105104633",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "YUQHXRSFXTKK2KFMCYCSHCN7FLWMSQUI",
+   "text_hash": "0d52bfd6f16d",
+   "chars": 924,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250217042348",
    "original": "https://about.meta.com/brand/resources/",
    "digest": "2X6O2PFQL4FJX4HVD3L63AJ575XYIKAG",
    "text_hash": "f45460d937f8",
    "chars": 620,
+   "usable": false,
+   "extractor": 3
+  },
+  "202503": {
+   "timestamp": "20250311090209",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "BDJVAACVU5IEWQBMSOQYL64NJY3EEXWQ",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
+   "usable": false,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250410221145",
+   "original": "https://about.meta.com/brand/resources/",
+   "digest": "LBEBXAZU74FSDQPCG6OZQ5II6GNQNJV7",
+   "text_hash": "e618b1ecfd8f",
+   "chars": 616,
    "usable": false,
    "extractor": 3
   },

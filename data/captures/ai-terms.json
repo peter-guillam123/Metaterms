@@ -40,12 +40,39 @@
    "usable": true,
    "extractor": 3
   },
+  "202504": {
+   "timestamp": "20250403201419",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "Z6DPHAE7TIVPSNUQHSWIREAHB7WCVTKP",
+   "text_hash": "92e4d4281faf",
+   "chars": 13572,
+   "usable": true,
+   "extractor": 3
+  },
   "202506": {
    "timestamp": "20250621120411",
    "original": "https://www.facebook.com/legal/ai-terms",
    "digest": "76ZE2EUBLIXJ2ANTDEGEW3DR3GYSMPRA",
    "text_hash": "fee739282ae3",
    "chars": 13739,
+   "usable": true,
+   "extractor": 3
+  },
+  "202507": {
+   "timestamp": "20250715185612",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "EEUXPDI5U5F2LLFIEWFX7ICNCUGOUXWX",
+   "text_hash": "4975983aad0b",
+   "chars": 13940,
+   "usable": true,
+   "extractor": 3
+  },
+  "202508": {
+   "timestamp": "20250830132123",
+   "original": "https://www.facebook.com/legal/ai-terms",
+   "digest": "O72FFH4I5OGTQWXF7GFY3JNJRBACW4PY",
+   "text_hash": "4975983aad0b",
+   "chars": 13940,
    "usable": true,
    "extractor": 3
   },

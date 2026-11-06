@@ -67,6 +67,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202512": {
+   "timestamp": "20251223050007",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "DNE7YJMZM6TO6GYWEBWMFP555XYSHHWI",
+   "text_hash": "eb4863e258d3",
+   "chars": 1908,
+   "usable": true,
+   "extractor": 3
+  },
   "202602": {
    "timestamp": "20260221190436",
    "original": "https://ai.meta.com/tools/system-cards/",
@@ -82,6 +91,15 @@
    "digest": "T53XJWXOYDQKGGTXU3AJQHK5AUDYIMLO",
    "text_hash": "eb4863e258d3",
    "chars": 1908,
+   "usable": true,
+   "extractor": 3
+  },
+  "202607": {
+   "timestamp": "20260726173439",
+   "original": "https://ai.meta.com/tools/system-cards/",
+   "digest": "GDHGSZI5A32WV2X6U4VV23L245FSDT5E",
+   "text_hash": "ec1886260886",
+   "chars": 1918,
    "usable": true,
    "extractor": 3
   },

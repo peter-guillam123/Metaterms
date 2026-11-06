@@ -22,12 +22,39 @@
    "usable": true,
    "extractor": 3
   },
+  "202503": {
+   "timestamp": "20250305005109",
+   "original": "https://transparency.meta.com/policies/ad-standards",
+   "digest": "JDB5HN2I5AZLUYJKHDFBAY56ZY5Q6B5W",
+   "text_hash": "66d4ef962b8f",
+   "chars": 4234,
+   "usable": true,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250425143245",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "PZTFU5RWGWI3XV6S7BIADFLRHO4NJIGR",
+   "text_hash": "66d4ef962b8f",
+   "chars": 4234,
+   "usable": true,
+   "extractor": 3
+  },
   "202505": {
    "timestamp": "20250505062156",
    "original": "https://transparency.meta.com/policies/ad-standards/",
    "digest": "XSXR5ENDZCLJNBD26SEL6SX4SXS5AOV3",
    "text_hash": "66d4ef962b8f",
    "chars": 4234,
+   "usable": true,
+   "extractor": 3
+  },
+  "202507": {
+   "timestamp": "20250705185356",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "3OLRUC27WVMSRGPH5BKWS5DXNMYQ4SKJ",
+   "text_hash": "e9b701f954ed",
+   "chars": 4191,
    "usable": true,
    "extractor": 3
   },

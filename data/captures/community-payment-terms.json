@@ -40,6 +40,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202503": {
+   "timestamp": "20250326145809",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "YWU4DHYEX7DDQ742XNVT4TOH3W2KDHJH",
+   "text_hash": "2462e3e19790",
+   "chars": 43776,
+   "usable": true,
+   "extractor": 3
+  },
   "202504": {
    "timestamp": "20250405035016",
    "original": "https://www.facebook.com/payments_terms",
@@ -109,6 +118,15 @@
    "digest": "G5VUMDNYZ4OPOL4PXXLPLKD7D3P25X3N",
    "text_hash": "fb003d61ba65",
    "chars": 48977,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260924004348",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "O4JRZ3PBPTYC7IA47EFP6RTDMHBZXEVY",
+   "text_hash": "6962dfe3bfca",
+   "chars": 53644,
    "usable": true,
    "extractor": 3
   },

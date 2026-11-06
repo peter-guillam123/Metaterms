@@ -94,6 +94,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202605": {
+   "timestamp": "20260505055500",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "QFVCQTFX4QKIEF5I5XSZYXFK27SHMMIK",
+   "text_hash": "8b2089fb88f3",
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
+  },
+  "202608": {
+   "timestamp": "20260808035651",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "U2EO7Y6G36EJKMKEYGW6LWEOV74VGCUG",
+   "text_hash": "8b2089fb88f3",
+   "chars": 8223,
+   "usable": true,
+   "extractor": 3
+  },
   "202609": {
    "timestamp": "20260902223657",
    "original": "https://www.facebook.com/business/help/221149188908254",

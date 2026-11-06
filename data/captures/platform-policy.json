@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241205051325",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "G5CXR33YR55T6L5F7I5WCI3OAN6PUWEQ",
+   "text_hash": "c04e3f658f41",
+   "chars": 42070,
+   "usable": true,
+   "extractor": 3
+  },
   "202501": {
    "timestamp": "20250112133548",
    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
@@ -26,6 +35,15 @@
    "timestamp": "20250215033313",
    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
    "digest": "QJXZDUHEHX4Q2NKUGAPTS4D7KWW2QF3Q",
+   "text_hash": "adf27c0c90c5",
+   "chars": 41406,
+   "usable": true,
+   "extractor": 3
+  },
+  "202503": {
+   "timestamp": "20250317013330",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "PX3BWMQHWI4FWCYDHZMWT3R4FZ2C3BRH",
    "text_hash": "adf27c0c90c5",
    "chars": 41406,
    "usable": true,
@@ -71,6 +89,15 @@
    "timestamp": "20251112010830",
    "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
    "digest": "WTEZTZ2C4WPUQ76BLXFCJ72LWVWODGMK",
+   "text_hash": "dab487c1bb67",
+   "chars": 41992,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260124131458",
+   "original": "https://developers.facebook.com/terms/dfc_platform_terms/",
+   "digest": "5TVPDZNBP55QV64ESWPJB22R4PHMBLDA",
    "text_hash": "dab487c1bb67",
    "chars": 41992,
    "usable": true,

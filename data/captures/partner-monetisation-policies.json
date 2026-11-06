@@ -22,12 +22,39 @@
    "usable": false,
    "extractor": 3
   },
+  "202501": {
+   "timestamp": "20250127055624",
+   "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+   "digest": "FZTXV57I33M4J7ASHTOO2EHTLNDAXYMT",
+   "text_hash": "5ed387d42fbc",
+   "chars": 37,
+   "usable": false,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250203023905",
    "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
    "digest": "W7JZYHY3DJPUDIGGVD7XRW5MPUPJZYFN",
    "text_hash": "4529365622f6",
    "chars": 154,
+   "usable": false,
+   "extractor": 3
+  },
+  "202504": {
+   "timestamp": "20250405035010",
+   "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+   "digest": "LR5LXH6WYM5VY2XYOBGPGPRKBNLIGJPK",
+   "text_hash": "1c65c307c6de",
+   "chars": 112,
+   "usable": false,
+   "extractor": 3
+  },
+  "202506": {
+   "timestamp": "20250622113631",
+   "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",
+   "digest": "L7CDRYFKJZTL56OB3476HSDIYTD4DI4F",
+   "text_hash": "e3d5267fe550",
+   "chars": 1185,
    "usable": false,
    "extractor": 3
   },

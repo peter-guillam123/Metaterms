@@ -76,10 +76,37 @@
    "usable": true,
    "extractor": 3
   },
+  "202509": {
+   "timestamp": "20250909040143",
+   "original": "https://www.facebook.com/policies_center/commerce/",
+   "digest": "LHK6WCE2N6AYL5QXIZG2WT6NWJWGS3A5",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
   "202510": {
    "timestamp": "20251027093212",
    "original": "https://www.facebook.com/policies_center/commerce/",
    "digest": "WUCY2VQZ7CMDQWZFG2LNIKAQ6SN6GPNT",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251112020756",
+   "original": "https://www.facebook.com/policies_center/commerce/",
+   "digest": "4AY4R6C4JBZOAZKZFTXTYFDJY3UY3AK6",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
+  "202601": {
+   "timestamp": "20260118003006",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "HTIVIL2AZ6JNGZL3ZMWBSBPOQ6CD36MD",
    "text_hash": "384c509303dd",
    "chars": 7459,
    "usable": true,

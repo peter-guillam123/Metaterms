@@ -67,6 +67,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202507": {
+   "timestamp": "20250715185705",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "72CCSEHKHY6PE5T2UODIPBBIAWHWXXCT",
+   "text_hash": "7c1086fa7599",
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
+  },
+  "202508": {
+   "timestamp": "20250825053749",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "QHZW7EJXSWRE4WU5DHHM6BCK32IH5KIK",
+   "text_hash": "7c1086fa7599",
+   "chars": 16658,
+   "usable": true,
+   "extractor": 3
+  },
   "202510": {
    "timestamp": "20251027093151",
    "original": "https://www.facebook.com/legal/commercial_terms",
