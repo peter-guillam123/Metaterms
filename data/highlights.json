@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Instagram stopped promising 30 days' notice of changes",
+    "text": "Since December 2024 the Instagram Terms of Use say Meta will tell users before it changes the terms, but no longer promise to do so \"at least 30 days\" ahead. The November 2024 copy carried both versions of the paragraph; every copy since has only the one without a minimum period.",
+    "ids": [
+      "instagram-terms-of-use-202412"
+    ]
+  },
+  {
+    "title": "Two planned updates to Meta's business terms put on hold",
+    "text": "By 6 November 2026 Meta had paused updates to its Self-Serve Ad Terms, due on 30 October, and its Commercial Terms, due on 20 November. Both pages now say the existing terms \"remain in effect until further notice\".",
+    "ids": [
+      "self-serve-ad-terms-202611",
+      "commercial-terms-202611"
+    ]
+  },
+  {
+    "title": "Advertisers' websites can be crawled for training",
+    "text": "The Self-Serve Ad Terms rewritten in August 2025 say that placing an ad lets Meta \"access, index, cache, analyze or crawl\" the advertiser's websites, including for \"research and training\".",
+    "ids": [
+      "self-serve-ad-terms-202509"
+    ]
+  },
+  {
+    "title": "Conversations with Meta's AI now shape ads",
+    "text": "From 16 December 2025 the Instagram Privacy Policy lists interactions with Meta's AI among the information used to personalise content and ads, and adds developing AI \"for third parties\" as a purpose. A banner announced the change in October.",
+    "ids": [
+      "instagram-privacy-policy-202510",
+      "instagram-privacy-policy-202512"
+    ]
+  },
+  {
+    "title": "Caps on creators' payouts and expiring ad credits",
+    "text": "A 2026 rewrite of the Community Payment Terms lets Meta \"impose or adjust caps on payouts of creators' earnings\", charge another saved card when a payment fails and expire ad credits after three years.",
+    "ids": [
+      "community-payment-terms-202609"
+    ]
+  },
+  {
+    "title": "Political spending pledges removed",
+    "text": "Meta's political engagement page no longer says it makes no independent expenditures for or against candidates, or that the groups it funds may not use its money for political contributions.",
+    "ids": [
+      "political-engagement-policies-202602"
+    ]
+  }
+]

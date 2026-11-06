@@ -123,6 +123,15 @@ a.m:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
 .legend li { display: inline-flex; align-items: center; gap: 8px; }
 .legend .slot { width: 18px; display: inline-flex; justify-content: center; }
 
+/* highlights */
+.highlights { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+.highlights li { background: var(--sheet); border: 1px solid var(--rule); border-top: 3px solid var(--ins); border-radius: 8px; padding: 16px 18px; display: grid; gap: 8px; align-content: start; min-width: 0; }
+.highlights h3 { font-size: var(--s0); font-weight: 800; }
+.highlights p { margin: 0; font-size: 0.9375rem; }
+.hl-links { font-size: var(--s-1) !important; }
+.hl-links a { display: inline-block; padding-block: 6px; }
+@media (max-width: 400px) { .highlights { grid-template-columns: 1fr; } }
+
 /* filters */
 .filters { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-bottom: 16px; }
 .filters label { font-size: var(--s-1); color: var(--ink-2); display: inline-flex; align-items: center; gap: 8px; min-height: 40px; }
@@ -229,7 +238,7 @@ footer .wrap { padding-block: 20px 32px; font-size: var(--s-1); color: var(--ink
 <template id="about-tpl">
   <article class="prose">
     <h1>About Metaterms</h1>
-    <p>Metaterms tracks changes to 32 of Meta's terms, policies and guidelines. For each page it takes one copy a month from the Internet Archive's Wayback Machine, from November 2024 to November 2026, turns each copy into plain text and compares it with the copy before. Every difference in the wording is listed on the Changes page, with the old and new text marked up and links to the archived copies, so you can check any of it yourself.</p>
+    <p>Metaterms tracks changes to 34 of Meta's terms, policies and guidelines. For each page it takes one copy a month from the Internet Archive's Wayback Machine, from November 2024 to November 2026, turns each copy into plain text and compares it with the copy before. Every difference in the wording is listed on the Changes page, with the old and new text marked up and links to the archived copies, so you can check any of it yourself.</p>
     <p>It is a test. The question is whether this works well enough to be worth building a tool that checks the pages every month and flags anything new.</p>
 
     <h2>How it works</h2>
@@ -247,7 +256,8 @@ footer .wrap { padding-block: 20px 32px; font-size: var(--s-1); color: var(--ink
       <li>The Wayback Machine doesn't copy every page every month. A grey dash on the map means there was no copy that month. A change found after a gap could have happened at any point in the gap.</li>
       <li>Facebook often shows the archive's crawler a login page, a "browser not supported" page or a page in another language instead of the document. These copies are left out and marked as unusable on the map. For some Facebook pages that leaves only one or two usable copies in two years.</li>
       <li>The archive's crawlers mostly run from the US, so most copies show what Meta serves there. People in the UK and EU see different versions of some pages, the main Terms of Service among them. Copies in other languages are left out, so European versions only appear when the crawler happened to get one in English.</li>
-      <li>A change made and reversed between two copies won't show up.</li>
+      <li>Pages Meta shows only to UK and EU visitors, such as the two EU messaging pages, are barely archived: one or two copies each in two years.</li>
+      <li>A change made and reversed between two copies won't show up. The reverse also happens: some edits appear for a month and vanish the next, which is usually the archive catching a different version of the page. The summaries say so where it looks that way.</li>
       <li>The size labels count changed words: minor is under 25, moderate under 250, major 250 or more. A one-word change can matter more than a major one.</li>
     </ul>
 
@@ -421,6 +431,14 @@ function viewChanges() {
       <li><b>${newest ? day(newest.to.timestamp) : "–"}</b><span>latest change found</span></li>
     </ul>
   </div>
+  ${DATA.highlights && DATA.highlights.length ? `<section aria-labelledby="hl-h">
+    <div class="sec-head"><h2 id="hl-h">What stands out</h2><p>A short selection for a first read. Every change is listed below.</p></div>
+    <ol class="highlights">${DATA.highlights.map(h => `<li>
+      <h3>${esc(h.title)}</h3>
+      <p>${esc(h.text)}</p>
+      <p class="hl-links">${h.ids.map(id => { const c = changeBy[id]; return `<a href="#${id}">${esc(docBy[c.slug].title)}, ${monthName(c.to.month)}</a>`; }).join(" · ")}</p>
+    </li>`).join("")}</ol>
+  </section>` : ""}
   <section aria-labelledby="map-h">
     <div class="sec-head"><h2 id="map-h">Month by month</h2><p>Select a document to see its history, or a square to jump to that change.</p></div>
     <div class="map-box">${mapTable(docs)}</div>

@@ -160,7 +160,11 @@ def main():
         })
         changes_out.extend(changes)
     changes_out.sort(key=lambda c: c["to"]["timestamp"], reverse=True)
+    ids = {c["id"] for c in changes_out}
+    highlights = [h for h in run.read_json(os.path.join(DATA, "highlights.json"), [])
+                  if all(i in ids for i in h["ids"])]
     out = {
+        "highlights": highlights,
         "generated": datetime.date.today().isoformat(),
         "months": run.months(),
         "docs": docs_out,
