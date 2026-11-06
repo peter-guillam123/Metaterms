@@ -1,0 +1,53 @@
+name: Fetch archived terms
+
+# Runs when the fetch code, the page list or the job file changes on a
+# working branch, or by hand. Commits what it finds back to the branch.
+on:
+  push:
+    branches-ignore: [main]
+    paths:
+      - "fetch/**"
+      - "terms.csv"
+      - ".github/workflows/fetch.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore downloaded pages
+        uses: actions/cache@v4
+        with:
+          path: raw
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+
+      - name: Fetch
+        run: python fetch/run.py "$(cat fetch/job.txt)"
+
+      - name: Commit results
+        run: |
+          git config user.name "metaterms-bot"
+          git config user.email "metaterms-bot@users.noreply.github.com"
+          git add data samples 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "Fetch results: $(cat fetch/job.txt)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
