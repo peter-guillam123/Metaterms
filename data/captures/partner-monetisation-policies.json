@@ -13,6 +13,15 @@
    "usable": false,
    "extractor": 3
   },
+  "202502": {
+   "timestamp": "20250203023905",
+   "original": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F169845596919485%3Fid%3D2520940424820218",
+   "digest": "W7JZYHY3DJPUDIGGVD7XRW5MPUPJZYFN",
+   "text_hash": "4529365622f6",
+   "chars": 154,
+   "usable": false,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261014124420",
    "original": "https://www.facebook.com/business/help/169845596919485?id=2520940424820218",

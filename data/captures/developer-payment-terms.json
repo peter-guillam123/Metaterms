@@ -58,6 +58,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202607": {
+   "timestamp": "20260705013710",
+   "original": "https://developers.facebook.com/policy/credits",
+   "digest": "CSRZZ67QZJIKBJNAZIKAUWLB7F7TDBMJ",
+   "text_hash": "2ddc04313505",
+   "chars": 17577,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261010074346",
    "original": "https://developers.facebook.com/policy/credits",

@@ -58,6 +58,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202606": {
+   "timestamp": "20260611042521",
+   "original": "https://developers.facebook.com/docs/audience-network/optimization/best-practices/an-policy",
+   "digest": "THWHGIRTWDJMY6QWRLH3ALNH7IPYML5E",
+   "text_hash": "1883a05fb150",
+   "chars": 14900,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261010074347",
    "original": "https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy",

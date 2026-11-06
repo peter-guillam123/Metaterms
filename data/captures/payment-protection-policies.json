@@ -40,6 +40,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202605": {
+   "timestamp": "20260505055455",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "7AW7E5NJSLUMBXTCHN5GFUNLQDJDGLKG",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
+  },
+  "202609": {
+   "timestamp": "20260902223709",
+   "original": "https://www.facebook.com/policies_center/payment_protection",
+   "digest": "XXOM7LXADUWOOMF5EESVA7DDKO3HPLDZ",
+   "text_hash": "dbadd633f6f8",
+   "chars": 4024,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261008023509",
    "original": "https://www.facebook.com/policies_center/payment_protection",

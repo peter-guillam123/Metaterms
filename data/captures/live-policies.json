@@ -13,6 +13,24 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241225150537",
+   "original": "https://www.facebook.com/policies/live",
+   "digest": "QREIOVBV7YEZ63ICDHLHDILBABCGRTYJ",
+   "text_hash": "52555fd9ebfc",
+   "chars": 1574,
+   "usable": true,
+   "extractor": 3
+  },
+  "202501": {
+   "timestamp": "20250116033720",
+   "original": "https://www.facebook.com/policies/live",
+   "digest": "QWFHY2IXVMQKVHFCJBRVZEUU4LKBR62Q",
+   "text_hash": "52555fd9ebfc",
+   "chars": 1574,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250208071942",
    "original": "https://www.facebook.com/policies/live",

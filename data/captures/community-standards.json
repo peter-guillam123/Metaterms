@@ -58,6 +58,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202605": {
+   "timestamp": "20260515104911",
+   "original": "https://transparency.meta.com/policies/community-standards/",
+   "digest": "CZQFGHMGJUVH6LQUGK7M2X7J5Y5HBR2O",
+   "text_hash": "88f222016e3a",
+   "chars": 4507,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261015062137",
    "original": "https://transparency.meta.com/policies/community-standards/",

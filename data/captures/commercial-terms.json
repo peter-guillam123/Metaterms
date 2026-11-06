@@ -31,6 +31,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202504": {
+   "timestamp": "20250413042917",
+   "original": "https://www.facebook.com/legal/commercial_terms",
+   "digest": "K63AHN3E3CZBRJPBQ2D5KZKDX5SKCQL3",
+   "text_hash": "adc83b19e793",
+   "chars": 1,
+   "usable": false,
+   "extractor": 3
+  },
   "202505": {
    "timestamp": "20250522073617",
    "original": "https://www.facebook.com/legal/commercial_terms",

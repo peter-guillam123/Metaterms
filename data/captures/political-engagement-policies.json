@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202505": {
+   "timestamp": "20250522121916",
+   "original": "https://www.meta.com/people-practices/meta-political-engagement/",
+   "digest": "BVAK4OLY3IDGBJKUAS6FRWILBBPOLH3O",
+   "text_hash": "70690fb20c5f",
+   "chars": 18646,
+   "usable": true,
+   "extractor": 3
+  },
   "202508": {
    "timestamp": "20250805070141",
    "original": "https://www.meta.com/people-practices/meta-political-engagement/",
@@ -26,6 +35,15 @@
    "timestamp": "20260210222932",
    "original": "https://www.meta.com/people-practices/meta-political-engagement/",
    "digest": "THUH2B3OAGPGJYZ2FKFJEPGEXFMINRBR",
+   "text_hash": "8659fd6366ba",
+   "chars": 19204,
+   "usable": true,
+   "extractor": 3
+  },
+  "202603": {
+   "timestamp": "20260314095047",
+   "original": "https://www.meta.com/people-practices/meta-political-engagement/",
+   "digest": "C45G3PRZJFM7TZB3Y7ZM2YNIS3TPL6RG",
    "text_hash": "8659fd6366ba",
    "chars": 19204,
    "usable": true,

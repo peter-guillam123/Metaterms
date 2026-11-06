@@ -31,6 +31,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202604": {
+   "timestamp": "20260412120510",
+   "original": "https://www.facebook.com/policies/pages_groups_events/",
+   "digest": "T3PFFDF7BYQ4RWD6U6BXKQH3IZ2M3FSA",
+   "text_hash": "dfd48ecaa498",
+   "chars": 13801,
+   "usable": false,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261010080016",
    "original": "https://www.facebook.com/policies/pages_groups_events",

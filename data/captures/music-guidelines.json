@@ -13,12 +13,30 @@
    "usable": true,
    "extractor": 3
   },
+  "202501": {
+   "timestamp": "20250123103552",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "K4WJVZSMBA7ZKCUDLZMYV5ZYLWRF6E4H",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
+   "usable": true,
+   "extractor": 3
+  },
   "202502": {
    "timestamp": "20250209155734",
    "original": "https://www.facebook.com/legal/music_guidelines",
    "digest": "DB4VJWDXEK2RUJFLR423LHDCBEWZBALQ",
    "text_hash": "a76619eec56b",
    "chars": 2777,
+   "usable": true,
+   "extractor": 3
+  },
+  "202507": {
+   "timestamp": "20250715185111",
+   "original": "https://www.facebook.com/legal/music_guidelines",
+   "digest": "4PZNQDVYPM2V43F36EHDBMAV5SPCE2MS",
+   "text_hash": "31bb8cea6015",
+   "chars": 2762,
    "usable": true,
    "extractor": 3
   },

@@ -13,6 +13,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202412": {
+   "timestamp": "20241206050123",
+   "original": "https://www.facebook.com/payments_terms",
+   "digest": "WRQYE277IS53KZSMNQG3PPPUXPFO36KW",
+   "text_hash": "94837a97d2b2",
+   "chars": 42578,
+   "usable": true,
+   "extractor": 3
+  },
   "202501": {
    "timestamp": "20250114224409",
    "original": "https://www.facebook.com/payments_terms",

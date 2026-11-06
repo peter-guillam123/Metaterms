@@ -58,6 +58,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202608": {
+   "timestamp": "20260830202433",
+   "original": "https://www.facebook.com/policies_center/commerce",
+   "digest": "3PSARE2J62ZSBRGDXAGMIWIIYZI2RX6H",
+   "text_hash": "384c509303dd",
+   "chars": 7459,
+   "usable": true,
+   "extractor": 3
+  },
   "202610": {
    "timestamp": "20261011031741",
    "original": "https://www.facebook.com/policies_center/commerce/",

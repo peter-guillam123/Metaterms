@@ -49,6 +49,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202602": {
+   "timestamp": "20260214020015",
+   "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",
+   "digest": "EGBLJZHXVD3BCDX2TEZJCBCQL33MIUG5",
+   "text_hash": "545f6b950376",
+   "chars": 6606,
+   "usable": true,
+   "extractor": 3
+  },
   "202603": {
    "timestamp": "20260305145754",
    "original": "https://transparency.meta.com/enforcement/taking-action/complaints-handling-process",

@@ -22,6 +22,15 @@
    "usable": false,
    "extractor": 3
   },
+  "202504": {
+   "timestamp": "20250406213527",
+   "original": "https://www.facebook.com/business/help/221149188908254",
+   "digest": "X7U5HSZ36KV7C3QS2CDXRCGI4HQ7OIE4",
+   "text_hash": "4930ae615453",
+   "chars": 8320,
+   "usable": true,
+   "extractor": 3
+  },
   "202509": {
    "timestamp": "20250930073238",
    "original": "https://www.facebook.com/business/help/221149188908254",

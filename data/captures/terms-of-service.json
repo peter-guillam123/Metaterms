@@ -31,6 +31,24 @@
    "usable": false,
    "extractor": 3
   },
+  "202508": {
+   "timestamp": "20250802064227",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "Q5OFGY6PK6NJ3UVCBKRLFFXJLLMTJOJC",
+   "text_hash": "646fe27dc1b0",
+   "chars": 39245,
+   "usable": false,
+   "extractor": 3
+  },
+  "202511": {
+   "timestamp": "20251116052706",
+   "original": "https://www.facebook.com/terms/",
+   "digest": "34Q6KM2467NWRK35IYUMSY62TQ5NXFTO",
+   "text_hash": "4337f27f58ef",
+   "chars": 32843,
+   "usable": true,
+   "extractor": 3
+  },
   "202611": {
    "timestamp": "20261106140438",
    "original": "https://www.facebook.com/terms/",

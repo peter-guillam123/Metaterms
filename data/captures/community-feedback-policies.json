@@ -49,6 +49,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202510": {
+   "timestamp": "20251002031455",
+   "original": "https://www.facebook.com/policies_center/community_feedback/",
+   "digest": "J6LELQWJUSU5CRZNNZGCBVA7LHUS5UQJ",
+   "text_hash": "71a9c1d37abf",
+   "chars": 2306,
+   "usable": true,
+   "extractor": 3
+  },
   "202605": {
    "timestamp": "20260505055456",
    "original": "https://www.facebook.com/policies_center/community_feedback/",

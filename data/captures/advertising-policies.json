@@ -22,6 +22,15 @@
    "usable": true,
    "extractor": 3
   },
+  "202505": {
+   "timestamp": "20250505062156",
+   "original": "https://transparency.meta.com/policies/ad-standards/",
+   "digest": "XSXR5ENDZCLJNBD26SEL6SX4SXS5AOV3",
+   "text_hash": "66d4ef962b8f",
+   "chars": 4234,
+   "usable": true,
+   "extractor": 3
+  },
   "202611": {
    "timestamp": "20261101045258",
    "original": "https://transparency.meta.com/policies/ad-standards/",
