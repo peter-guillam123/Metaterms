@@ -46,9 +46,15 @@ LOG = []  # (seconds, status, url) for every request, written out by run.py
 DEADLINE = [None]  # monotonic time after which we stop retrying
 
 
+LOGFILE = [None]  # run.py opens data/last-run.log here; lines go in as they happen
+
+
 def log(msg):
-    print(msg, flush=True)
-    LOG.append(msg)
+    line = f"{time.strftime('%H:%M:%S')} {msg}"
+    print(line, flush=True)
+    LOG.append(line)
+    if LOGFILE[0]:
+        LOGFILE[0].write(line + "\n")
 
 
 def out_of_time():

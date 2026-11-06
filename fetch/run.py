@@ -87,8 +87,8 @@ def index_doc(doc):
     wayback.log(f"[{slug}] indexing {doc['url']}")
     urls = {}
     redirects = {}
-    todo = [doc["url"]]
-    while todo and len(urls) < 3:
+    todo = [doc["url"]] + [u for u in doc.get("also", "").split(";") if u]
+    while todo and len(urls) < 5:
         url = todo.pop(0)
         caps = wayback.cdx(url)
         if caps is None:  # failed, not empty
@@ -110,6 +110,7 @@ def index_doc(doc):
         ok = {c["timestamp"][:6] for c in caps if c["statuscode"] == "200" and c["timestamp"] >= "20241101"}
         wayback.log(f"[{slug}]   {u}: {len(caps)} captures, 200s in {len(ok)} months")
     write_json(path, idx)
+    maybe_checkpoint("indexing")
     return idx
 
 
@@ -268,11 +269,21 @@ def full():
             if fetch_month(doc, caps, m, picks[m]):
                 progress = True
                 save_sample(doc["slug"], picks, m)
-            if time.monotonic() - last_push > 600:
+            if maybe_checkpoint("fetching"):
                 write_status(plan)
-                checkpoint("full (in progress)")
-                last_push = time.monotonic()
     write_status(plan)
+
+
+LAST_PUSH = [time.monotonic()]
+
+
+def maybe_checkpoint(stage):
+    """Push progress at most every ten minutes."""
+    if time.monotonic() - LAST_PUSH[0] < 600:
+        return False
+    LAST_PUSH[0] = time.monotonic()
+    checkpoint(f"{stage}, {(time.monotonic() - STARTED[0]) / 60:.0f} minutes in")
+    return True
 
 
 def save_sample(slug, picks, mon):
@@ -293,7 +304,6 @@ def checkpoint(msg):
     if os.environ.get("CHECKPOINT") != "1":
         return
     import subprocess
-    write_log("full", STARTED[0])
     cmds = [
         ["git", "add", "data", "samples"],
         ["git", "commit", "-q", "-m", f"Fetch results: {msg}"],
@@ -358,11 +368,8 @@ def probe():
 
 
 def write_log(mode, started):
-    os.makedirs(DATA, exist_ok=True)
-    with open(os.path.join(DATA, "last-run.log"), "w") as f:
-        f.write(f"mode={mode} requests={len(wayback.LOG)} "
-                f"minutes={(time.monotonic() - started) / 60:.1f}\n")
-        f.write("\n".join(wayback.LOG) + "\n")
+    wayback.log(f"done: mode={mode} lines={len(wayback.LOG)} "
+                f"minutes={(time.monotonic() - started) / 60:.1f}")
 
 
 if __name__ == "__main__":
@@ -370,6 +377,10 @@ if __name__ == "__main__":
     budget = float(os.environ.get("BUDGET_MINUTES", "20"))
     started = time.monotonic()
     STARTED[0] = started
+    LAST_PUSH[0] = started
+    os.makedirs(DATA, exist_ok=True)
+    wayback.LOGFILE[0] = open(os.path.join(DATA, "last-run.log"), "w", buffering=1)
+    wayback.log(f"start: mode={mode} budget={budget} minutes")
     wayback.DEADLINE[0] = started + budget * 60
     try:
         {"probe": probe, "full": full, "reextract": reextract}[mode]()

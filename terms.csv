@@ -1,33 +1,33 @@
-slug,product,title,url
-advertising-policies,All Meta,Advertising Policies,https://www.facebook.com/policies/ads/
-audience-network-policy,All Meta,Audience Network Policy,https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy
-avatar-terms,All Meta,Avatar Terms,https://www.meta.com/legal/avatars/terms-of-service/
-branded-content-policies,All Meta,Branded Content Policies,https://www.facebook.com/business/help/221149188908254
-commerce-policies,All Meta,Commerce Policies,https://www.facebook.com/policies_center/commerce/
-commercial-terms,All Meta,Commercial Terms,https://www.facebook.com/legal/commercial_terms
-community-payment-terms,All Meta,Community Payment Terms,https://www.facebook.com/payments_terms
-community-feedback-policies,All Meta,Community Feedback Policies,https://www.facebook.com/policies_center/community_feedback/
-community-standards,All Meta,Community Standards,https://transparency.meta.com/policies/community-standards/
-complaints-handling-process,All Meta,Complaints Handling Process,https://transparency.meta.com/enforcement/taking-action/complaints-handling-process/
-developer-payment-terms,All Meta,Developer Payment Terms,https://developers.facebook.com/policy/credits
-live-policies,All Meta,Live Policies,https://www.facebook.com/policies/live
-ai-terms,All Meta,AI Terms,https://www.facebook.com/policies/other-policies/ais-terms
-brand-resources,All Meta,Brand Resources,https://about.meta.com/brand/resources/
-platform-policy,All Meta,Platform Policy,https://developers.facebook.com/terms/dfc_platform_terms/
-music-guidelines,All Meta,Music Guidelines,https://www.facebook.com/legal/music_guidelines
-no-ads-terms,All Meta,No Ads Terms,https://www.facebook.com/legal/no_ads_terms
-payment-protection-policies,All Meta,Payment Protection Policies,https://www.facebook.com/policies_center/payment_protection
-political-engagement-policies,All Meta,Political Engagement Policies,https://www.meta.com/en-gb/people-practices/meta-political-engagement/
-recommendations-guidelines,All Meta,Recommendations Guidelines,https://about.fb.com/news/2020/08/recommendation-guidelines/
-recommender-system-cards,All Meta,Recommender Systems’ System Cards,https://ai.meta.com/tools/system-cards/
-self-serve-ad-terms,All Meta,Self-Serve Ad Terms,https://www.facebook.com/legal/self_service_ads_terms
-terms-of-service,All Meta,Terms of Service,https://www.facebook.com/terms/?locale=en_GB
-cookies-policy,All Meta,Cookies Policy,https://privacycenter.instagram.com/policies/cookies/
-instagram-recommendations-guidelines,Instagram,Instagram Recommendations Guidelines,https://help.instagram.com/313829416281232/
-instagram-privacy-policy,Instagram,Instagram Privacy Policy,https://privacycenter.instagram.com/policy
-instagram-terms-of-use,Instagram,Instagram Terms of Use,https://help.instagram.com/581066165581870/
-instagram-purchase-protection-policy,Instagram,Instagram Purchase Protection Policy,https://help.instagram.com/300557977301126/
-facebook-creator-content-monetisation-terms,Facebook,Facebook Creator Content Monetisation Terms,https://www.facebook.com/legal/creator_content_monetization_terms
-facebook-pages-groups-events-policy,Facebook,"Facebook Pages, Groups and Events Policy",https://www.facebook.com/policies/pages_groups_events/
-facebook-recommendations-guidelines,Facebook,Facebook Recommendations Guidelines,https://www.facebook.com/help/1257205004624246/
-partner-monetisation-policies,Facebook,Partner Monetisation Policies,https://www.facebook.com/business/help/169845596919485?id=2520940424820218
+slug,product,title,url,also
+advertising-policies,All Meta,Advertising Policies,https://www.facebook.com/policies/ads/,
+audience-network-policy,All Meta,Audience Network Policy,https://developers.facebook.com/documentation/audience-network/optimization/best-practices/an-policy,https://developers.facebook.com/docs/audience-network/policy/
+avatar-terms,All Meta,Avatar Terms,https://www.meta.com/legal/avatars/terms-of-service/,
+branded-content-policies,All Meta,Branded Content Policies,https://www.facebook.com/business/help/221149188908254,
+commerce-policies,All Meta,Commerce Policies,https://www.facebook.com/policies_center/commerce/,
+commercial-terms,All Meta,Commercial Terms,https://www.facebook.com/legal/commercial_terms,
+community-payment-terms,All Meta,Community Payment Terms,https://www.facebook.com/payments_terms,
+community-feedback-policies,All Meta,Community Feedback Policies,https://www.facebook.com/policies_center/community_feedback/,
+community-standards,All Meta,Community Standards,https://transparency.meta.com/policies/community-standards/,
+complaints-handling-process,All Meta,Complaints Handling Process,https://transparency.meta.com/enforcement/taking-action/complaints-handling-process/,
+developer-payment-terms,All Meta,Developer Payment Terms,https://developers.facebook.com/policy/credits,
+live-policies,All Meta,Live Policies,https://www.facebook.com/policies/live,
+ai-terms,All Meta,AI Terms,https://www.facebook.com/policies/other-policies/ais-terms,
+brand-resources,All Meta,Brand Resources,https://about.meta.com/brand/resources/,
+platform-policy,All Meta,Platform Policy,https://developers.facebook.com/terms/dfc_platform_terms/,
+music-guidelines,All Meta,Music Guidelines,https://www.facebook.com/legal/music_guidelines,
+no-ads-terms,All Meta,No Ads Terms,https://www.facebook.com/legal/no_ads_terms,
+payment-protection-policies,All Meta,Payment Protection Policies,https://www.facebook.com/policies_center/payment_protection,
+political-engagement-policies,All Meta,Political Engagement Policies,https://www.meta.com/en-gb/people-practices/meta-political-engagement/,https://www.meta.com/people-practices/meta-political-engagement/
+recommendations-guidelines,All Meta,Recommendations Guidelines,https://about.fb.com/news/2020/08/recommendation-guidelines/,
+recommender-system-cards,All Meta,Recommender Systems’ System Cards,https://ai.meta.com/tools/system-cards/,
+self-serve-ad-terms,All Meta,Self-Serve Ad Terms,https://www.facebook.com/legal/self_service_ads_terms,
+terms-of-service,All Meta,Terms of Service,https://www.facebook.com/terms/?locale=en_GB,https://www.facebook.com/terms/;https://www.facebook.com/terms.php
+cookies-policy,All Meta,Cookies Policy,https://privacycenter.instagram.com/policies/cookies/,
+instagram-recommendations-guidelines,Instagram,Instagram Recommendations Guidelines,https://help.instagram.com/313829416281232/,
+instagram-privacy-policy,Instagram,Instagram Privacy Policy,https://privacycenter.instagram.com/policy,
+instagram-terms-of-use,Instagram,Instagram Terms of Use,https://help.instagram.com/581066165581870/,
+instagram-purchase-protection-policy,Instagram,Instagram Purchase Protection Policy,https://help.instagram.com/300557977301126/,
+facebook-creator-content-monetisation-terms,Facebook,Facebook Creator Content Monetisation Terms,https://www.facebook.com/legal/creator_content_monetization_terms,
+facebook-pages-groups-events-policy,Facebook,"Facebook Pages, Groups and Events Policy",https://www.facebook.com/policies/pages_groups_events/,
+facebook-recommendations-guidelines,Facebook,Facebook Recommendations Guidelines,https://www.facebook.com/help/1257205004624246/,
+partner-monetisation-policies,Facebook,Partner Monetisation Policies,https://www.facebook.com/business/help/169845596919485?id=2520940424820218,
